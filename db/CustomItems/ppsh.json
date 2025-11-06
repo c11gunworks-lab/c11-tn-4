@@ -1,0 +1,1051 @@
+{
+  "690a1f37bb772fac86a41ca9": {
+    "itemTplToClone": "5ea03e5009aa976f2e7a514b",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Accuracy": 0,
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "blue",
+      "BlocksCollapsible": false,
+      "BlocksFolding": false,
+      "CanPutIntoDuringTheRaid": true,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ConflictingItems": [],
+      "CoolFactor": 1.1,
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "DropSoundType": "None",
+      "Durability": 100,
+      "DurabilityBurnModificator": 1,
+      "EffectiveDistance": 0,
+      "Ergonomics": 8,
+      "ExamineExperience": 5,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 2,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Grids": [],
+      "HasShoulderContact": false,
+      "HeatFactor": 1.05,
+      "Height": 1,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsAnimated": false,
+      "IsLockedafterEquip": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "mod",
+      "LootExperience": 5,
+      "Loudness": 0,
+      "MergesWithChildren": true,
+      "Prefab": {
+        "path": "ppshchop.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RaidModdable": true,
+      "Recoil": -1,
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "PPSh rec.",
+      "Slots": [
+        {
+          "_id": "690a1f995a4cb7bcbae3f7f0",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_handguard",
+          "_parent": "690a1f37bb772fac86a41ca9",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "690a205f953b984ffa348661"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "690a1fae18f6a454cf4157b8",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope_mount",
+          "_parent": "690a1f37bb772fac86a41ca9",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "690a2214b583a83165ecac90"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "ToolModdable": true,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Velocity": 0,
+      "Weight": 0.45,
+      "Width": 2
+    },
+    "locales": {
+      "en": {
+        "Name": "PPSh modern receiver",
+        "ShortName": "PPSh rec.",
+        "Description": "Replacement receiver for the PPSh with handguard and optics mount interfaces."
+      }
+    },
+    "fleaPriceRoubles": 42000,
+    "handbookPriceRoubles": 42000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "690d058254b5d28fe31f9742": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 51500,
+              "_tpl": "MONEY_ROUBLES" 
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "690a205f953b984ffa348661": {
+    "itemTplToClone": "5bb20df1d4351e00347787d5",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Accuracy": 0,
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "blue",
+      "BlocksCollapsible": false,
+      "BlocksFolding": false,
+      "CanPutIntoDuringTheRaid": true,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ConflictingItems": [],
+      "CoolFactor": 1.05,
+      "Description": "Picatinny handguard adapted for the PPSh.",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "DropSoundType": "None",
+      "Durability": 100,
+      "EffectiveDistance": 0,
+      "Ergonomics": 6,
+      "ExamineExperience": 5,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Grids": [],
+      "HasShoulderContact": false,
+      "HeatFactor": 1.04,
+      "Height": 1,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsAnimated": false,
+      "IsLockedafterEquip": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "mod",
+      "LootExperience": 5,
+      "Loudness": 0,
+      "MergesWithChildren": true,
+      "Prefab": {
+        "path": "ppshhandguard.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RaidModdable": false,
+      "Recoil": -2,
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "PPSh HG",
+      "Slots": [
+        {
+          "_id": "690a20ac3debe7a0b246c38c",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "690a205f953b984ffa348661",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c7fc87d2e221644f31c0298",
+                  "5cda9bcfd7f00c0c0b53e900",
+                  "59f8a37386f7747af3328f06",
+                  "619386379fb0c665d5490dbe",
+                  "5c87ca002e221600114cb150",
+                  "588226d124597767ad33f787",
+                  "588226dd24597767ad33f789",
+                  "588226e62459776e3e094af7",
+                  "588226ef24597767af46e39c",
+                  "59fc48e086f77463b1118392",
+                  "5fce0cf655375d18a253eff0",
+                  "5cf4fb76d7f00c065703d3ac",
+                  "5b057b4f5acfc4771e1bd3e9",
+                  "5c791e872e2216001219c40a",
+                  "558032614bdc2de7118b4585",
+                  "58c157be86f77403c74b2bb6",
+                  "58c157c886f774032749fb06",
+                  "5f6340d3ca442212f4047eb2",
+                  "591af28e86f77414a27a9e1d",
+                  "5c1cd46f2e22164bef5cfedb",
+                  "5c1bc4812e22164bef5cfde7",
+                  "5c1bc5612e221602b5429350",
+                  "5c1bc5af2e221602b412949b",
+                  "5c1bc5fb2e221602b1779b32",
+                  "5c1bc7432e221602b412949d",
+                  "5c1bc7752e221602b1779b34",
+                  "64806bdd26c80811d408d37a",
+                  "64807a29e5ffe165600abc97",
+                  "648067db042be0705c0b3009",
+                  "65169d5b30425317755f8e25",
+                  "655df24fdf80b12750626d0a",
+                  "655dccfdbdcc6b5df71382b6",
+                  "661e53149c8b4dadef008579",
+                  "661e52e29c8b4dadef008577",
+                  "661e52415be02310ed07a07a",
+                  "661e52b5b099f32c28003586"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "690a20ae76f61f6c38ab716d",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical_001",
+          "_parent": "690a205f953b984ffa348661",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a800961159bd4315e3a1657",
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "5cc9c20cd7f00c001336c65d",
+                  "5d2369418abbc306c62e0c80",
+                  "5b07dd285acfc4001754240d",
+                  "56def37dd2720bec348b456a",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5a5f1ce64f39f90b401987bc",
+                  "560d657b4bdc2da74d8b4572",
+                  "5b3a337e5acfc4704b4a19a0",
+                  "5c5952732e2216398b5abda2",
+                  "57d17e212459775a1179a0f5",
+                  "6267c6396b642f77f56f5c1c",
+                  "6272370ee4013c5d7e31f418",
+                  "6272379924e29f06af4d5ecb",
+                  "626becf9582c3e319310b837",
+                  "644a3df63b0b6f03e101e065",
+                  "646f6322f43d0c5d62063715"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "690a21911d4fcaedd9e5d768",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical_002",
+          "_parent": "690a205f953b984ffa348661",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a800961159bd4315e3a1657",
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "5cc9c20cd7f00c001336c65d",
+                  "5d2369418abbc306c62e0c80",
+                  "5b07dd285acfc4001754240d",
+                  "56def37dd2720bec348b456a",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5a5f1ce64f39f90b401987bc",
+                  "560d657b4bdc2da74d8b4572",
+                  "5b3a337e5acfc4704b4a19a0",
+                  "5c5952732e2216398b5abda2",
+                  "57d17e212459775a1179a0f5",
+                  "6267c6396b642f77f56f5c1c",
+                  "6272370ee4013c5d7e31f418",
+                  "6272379924e29f06af4d5ecb",
+                  "626becf9582c3e319310b837",
+                  "644a3df63b0b6f03e101e065",
+                  "646f6322f43d0c5d62063715"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "ToolModdable": true,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Velocity": 0,
+      "Weight": 0.32,
+      "Width": 1
+    },
+    "locales": {
+      "en": {
+        "Name": "PPSh handguard (Pic)",
+        "ShortName": "PPSh HG",
+        "Description": "Picatinny handguard adapted for the PPSh."
+      }
+    },
+    "fleaPriceRoubles": 28000,
+    "handbookPriceRoubles": 28000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "690d0569f297976999ff74b7": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 32500,
+              "_tpl": "MONEY_ROUBLES" 
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "690a2214b583a83165ecac90": {
+    "itemTplToClone": "62ebba1fb658e07ef9082b5a",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Accuracy": 0,
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "blue",
+      "BlocksCollapsible": false,
+      "BlocksFolding": false,
+      "CanPutIntoDuringTheRaid": true,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ConflictingItems": [],
+      "CoolFactor": 1.0,
+      "Description": "PPSh top sight rail; Picatinny optics base.",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "DropSoundType": "None",
+      "Durability": 100,
+      "EffectiveDistance": 0,
+      "Ergonomics": 0,
+      "ExamineExperience": 5,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Grids": [],
+      "HasShoulderContact": false,
+      "HeatFactor": 1.0,
+      "Height": 1,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsAnimated": false,
+      "IsLockedafterEquip": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "mod",
+      "LootExperience": 5,
+      "Loudness": 0,
+      "MergesWithChildren": true,
+      "Prefab": {
+        "path": "ppshscope.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RaidModdable": false,
+      "Recoil": 0,
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "PPSh rail",
+      "Slots": [
+        {
+          "_id": "690a224835eb61dd162517f8",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "690a2214b583a83165ecac90",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a32aa8bc4a2826c6e06d737",
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "626bb8532c923541184624b4",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5dfe6104585a0c3e995c7b82",
+                  "544a3d0a4bdc2d1b388b4567",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "615d8d878004cc50514c3233",
+                  "5b2389515acfc4771e1be0c0",
+                  "577d128124597739d65d0e56",
+                  "618b9643526131765025ab35",
+                  "618bab21526131765025ab3f",
+                  "5a37ca54c4a282000d72296a",
+                  "58d2664f86f7747fec5834f6",
+                  "57c69dd424597774c03b7bbc",
+                  "61714b2467085e45ef140b2c",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "5dff77c759400025ea5150cf",
+                  "6477772ea8a38bb2050ed4db",
+                  "6478641c19d732620e045e17",
+                  "64785e7c19d732620e045e15",
+                  "65392f611406374f82152ba5",
+                  "653931da5db71d30ab1d6296",
+                  "655f13e0a246670fb0373245",
+                  "67641a851b2899700609901a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "ToolModdable": true,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Velocity": 0,
+      "Weight": 0.12,
+      "Width": 1
+    },
+    "locales": {
+      "en": {
+        "Name": "PPSh top sight rail",
+        "ShortName": "PPSh rail",
+        "Description": "Low-profile Picatinny optics base for the PPSh modern reciever."
+      }
+    },
+    "fleaPriceRoubles": 16000,
+    "handbookPriceRoubles": 16000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "690d055a744ad59f8ded01be": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 17500,
+              "_tpl": "MONEY_ROUBLES" 
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "690a228693b29bcfa1c3b919": {
+    "itemTplToClone": "5ea02bb600685063ec28bfa1",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Accuracy": 0,
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "blue",
+      "BlocksCollapsible": false,
+      "BlocksFolding": false,
+      "CanPutIntoDuringTheRaid": true,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ConflictingItems": [],
+      "CoolFactor": 1.08,
+      "Description": "PPSh threaded barrel; enables modern muzzle devices.",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "DropSoundType": "None",
+      "Durability": 100,
+      "DurabilityBurnModificator": 1,
+      "EffectiveDistance": 0,
+      "Ergonomics": 4,
+      "ExamineExperience": 5,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Grids": [],
+      "HasShoulderContact": false,
+      "HeatFactor": 1.05,
+      "Height": 1,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsAnimated": false,
+      "IsLockedafterEquip": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "mod",
+      "LootExperience": 5,
+      "Loudness": -5,
+      "MergesWithChildren": true,
+      "Prefab": {
+        "path": "ppshthread.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RaidModdable": false,
+      "Recoil": -2,
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "PPSh thr.",
+      "Slots": [
+        {
+          "_id": "690a22a835f60510027e71fa",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "690a228693b29bcfa1c3b919",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "571a28e524597720b4066567"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "ToolModdable": true,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Velocity": 30,
+      "Weight": 0.38,
+      "Width": 2
+    },
+    "locales": {
+      "en": {
+        "Name": "PPSh threaded barrel",
+        "ShortName": "PPSh thr.",
+        "Description": "Threaded barrel for PPSh; compatible with basegame barrel slot."
+      }
+    },
+    "fleaPriceRoubles": 35000,
+    "handbookPriceRoubles": 35000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot":  ["5ea03f7400685063ec28bfa8"],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "690d054d1c9f120ac404106d": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 45000,
+              "_tpl": "MONEY_ROUBLES" 
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "690a22f8b12972947a6a4723": {
+    "itemTplToClone": "5afd7e095acfc40017541f61",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "Accuracy": 0,
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "blue",
+      "BlocksCollapsible": false,
+      "BlocksFolding": false,
+      "CanPutIntoDuringTheRaid": true,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ConflictingItems": [],
+      "CoolFactor": 1.0,
+      "Description": "PPSh buffer-tube adapter (AR-15 pattern).",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "DropSoundType": "None",
+      "Durability": 100,
+      "EffectiveDistance": 0,
+      "Ergonomics": 3,
+      "ExamineExperience": 5,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 1,
+      "ExtraSizeUp": 0,
+      "Grids": [],
+      "HasShoulderContact": false,
+      "HeatFactor": 1.0,
+      "Height": 1,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsAnimated": false,
+      "IsLockedafterEquip": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "mod",
+      "LootExperience": 5,
+      "Loudness": 0,
+      "MergesWithChildren": true,
+      "Prefab": {
+        "path": "ppshbuffer.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RaidModdable": false,
+      "Recoil": 0,
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "PPSh BTA",
+      "Slots": [
+        {
+          "_id": "690a23304ea32513b17df28d",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_stock_000",
+          "_parent": "690a22f8b12972947a6a4723",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5fc2369685fd526b824a5713",
+                  "606587d11246154cad35d635",
+                  "5a9eb32da2750c00171b3f9c",
+                  "5bfe86df0db834001b734685",
+                  "55d4ae6c4bdc2d8b2f8b456e",
+                  "5c87a07c2e2216001219d4a2",
+                  "5bb20e70d4351e0035629f8f",
+                  "5beec8c20db834001d2c465c",
+                  "5fbbaa86f9986c4cff3fe5f6",
+                  "5fce16961f152d4312622bc9",
+                  "5ae30c9a5acfc408fb139a03",
+                  "5d135e83d7ad1a21b83f42d8",
+                  "5d135ecbd7ad1a21c176542e",
+                  "56eabf3bd2720b75698b4569",
+                  "58d2946386f774496974c37e",
+                  "58d2946c86f7744e271174b5",
+                  "58d2947686f774485c6a1ee5",
+                  "58d2947e86f77447aa070d53",
+                  "5d44069ca4b9361ebd26fc37",
+                  "5d4406a8a4b9361e4f6eb8b7",
+                  "5947c73886f7747701588af5",
+                  "5c793fde2e221601da358614",
+                  "5b39f8db5acfc40016387a1b",
+                  "628a85ee6b1d481ff772e9d5",
+                  "602e620f9b513876d4338d9a",
+                  "6516e91f609aaf354b34b3e2",
+                  "6516e971a3d4c6497930b450",
+                  "6529370c405a5f51dd023db8"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "ToolModdable": true,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Velocity": 0,
+      "Weight": 0.18,
+      "Width": 2
+    },
+    "locales": {
+      "en": {
+        "Name": "PPSh buffer-tube adapter",
+        "ShortName": "PPSh BTA",
+        "Description": "Adapter that allows AR buffer-tube stocks on a PPSh build."
+      }
+    },
+    "fleaPriceRoubles": 19000,
+    "handbookPriceRoubles": 19000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "690d052ef0ca915b17e01fa7": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 18700,
+              "_tpl": "MONEY_ROUBLES" 
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "690a23ad14158912787e4659": {
+    "itemTplToClone": "5d0236dad7ad1a0940739d29",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "Accuracy": 0,
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "blue",
+      "BlocksCollapsible": false,
+      "BlocksFolding": false,
+      "CanPutIntoDuringTheRaid": true,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ConflictingItems": [],
+      "CoolFactor": 1.0,
+      "Description": "FAB Defense stock re-machined for PPSh via adapter; adds pistol-grip interface.",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "DropSoundType": "None",
+      "Durability": 100,
+      "EffectiveDistance": 0,
+      "Ergonomics": 10,
+      "ExamineExperience": 5,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Grids": [],
+      "HasShoulderContact": true,
+      "HeatFactor": 1.0,
+      "Height": 1,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsAnimated": false,
+      "IsLockedafterEquip": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "mod",
+      "LootExperience": 5,
+      "Loudness": 0,
+      "MergesWithChildren": true,
+      "Prefab": {
+        "path": "ppshtacstock.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RaidModdable": false,
+      "Recoil": -4,
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "FAB PPSh",
+      "Slots": [
+        {
+          "_id": "690a23e69006edac800c7810",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_stock",
+          "_parent": "690a23ad14158912787e4659",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "690a22f8b12972947a6a4723"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "690a23fe34a221c1aabbf83d",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_pistol_grip",
+          "_parent": "690a23ad14158912787e4659",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "619b69037b9de8162902673e",
+                  "5f6341043ada5942720e2dc5",
+                  "6087e663132d4d12c81fd96b",
+                  "5beec8ea0db834001a6f9dbf",
+                  "5649ad3f4bdc2df8348b4585",
+                  "5649ade84bdc2d1b2b8b4587",
+                  "59e62cc886f77440d40b52a1",
+                  "5a0071d486f77404e23a12b2",
+                  "57e3dba62459770f0c32322b",
+                  "5cf54404d7f00c108840b2ef",
+                  "5e2192a498a36665e8337386",
+                  "5b30ac585acfc433000eb79c",
+                  "59e6318286f77444dd62c4cc",
+                  "5cf50850d7f00c056e24104c",
+                  "5cf508bfd7f00c056e24104e",
+                  "5947f92f86f77427344a76b1",
+                  "5947fa2486f77425b47c1a9b",
+                  "5c6bf4aa2e2216001219b0ae",
+                  "5649ae4a4bdc2d1b2b8b4588",
+                  "5998517986f7746017232f7e",
+                  "623c3be0484b5003161840dc",
+                  "628a664bccaab13006640e47",
+                  "628c9ab845c59e5b80768a81",
+                  "63f4da90f31d4a33b87bd054",
+                  "648ae3e356c6310a830fc291",
+                  "651580dc71a4f10aec4b6056"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        }
+      ],
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "ToolModdable": true,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Velocity": 0,
+      "Weight": 0.52,
+      "Width": 2
+    },
+    "locales": {
+      "en": {
+        "Name": "FAB Defense stock (PPSh)",
+        "ShortName": "FAB PPSh",
+        "Description": "FAB Defense SKS-pattern stock adapted for PPSh with a buffer-tube adapter."
+      }
+    },
+    "fleaPriceRoubles": 36000,
+    "handbookPriceRoubles": 36000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": ["5ea03f7400685063ec28bfa8"],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "690d0522b488c6379a47e96f": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 25000,
+              "_tpl": "MONEY_ROUBLES" 
+            }
+          ]
+        }
+      }
+    }
+  }
+  }
+

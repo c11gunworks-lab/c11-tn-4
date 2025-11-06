@@ -1,0 +1,26 @@
+﻿<!-- c11-tn-4.csproj -->
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <GenerateDocumentationFile>false</GenerateDocumentationFile>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+<PropertyGroup>
+  <SptModsDir>C:\SPT4\SPT\user\mods\c11-tn-4</SptModsDir>
+</PropertyGroup>
+
+<ItemGroup>
+  <ItemToCopy Include="..\db\CustomItems\**\*.json" />
+  <ItemToCopy Include="..\db\CustomLocales\**\*.json" />
+</ItemGroup>
+
+	<Target Name="CopyDbJson" AfterTargets="Build">
+		<MakeDir Directories="$(SptModsDir)\db\CustomItems" />
+		<MakeDir Directories="$(SptModsDir)\db\CustomLocales" />
+		<Copy SourceFiles="@(ItemToCopy)" DestinationFolder="$(SptModsDir)\db\%(RecursiveDir)" SkipUnchangedFiles="true" />
+	</Target>
+
+  <ItemGroup>
+    <PackageReference Include="WTT-ServerCommonLib" Version="2.0.0" />
+  </ItemGroup>
+</Project>

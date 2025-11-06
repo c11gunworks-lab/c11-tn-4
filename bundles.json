@@ -1,0 +1,265 @@
+{
+    "manifest": [
+        {
+            "key": "119tropic.bundle",
+            "dependencyKeys": [       
+
+            ]
+        },
+        {
+            "key": "ar18.bundle",
+            "dependencyKeys": [       
+            
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+            			"shaders",
+			"assets/content/prefabs/muzzleflash_base.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle"
+		
+
+            ]
+        },
+		 
+		 {
+            "key": "ar18frontsight.bundle",
+            "dependencyKeys": [       
+ "shaders"
+            ]
+        },
+		 {
+            "key": "ar18handgrip.bundle",
+            "dependencyKeys": [       
+       "shaders"
+            ]
+        },
+		 {
+            "key": "ar18handguard.bundle",
+            "dependencyKeys": [       
+ "shaders"
+            ]
+        },
+		 {
+            "key": "ar18mag.bundle",
+            "dependencyKeys": [       
+      "shaders"
+            ]
+        },
+		 {
+            "key": "ar18muzzle.bundle",
+            "dependencyKeys": [       
+                 "shaders",
+                 "assets/systems/effects/smoke.bundle"
+
+            ]
+        },
+		 {
+            "key": "ar18rearsight.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+		 {
+            "key": "ar18receiver.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+		 {
+            "key": "ar18stock.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+
+        {
+            "key": "ar18barrel.bundle",
+            "dependencyKeys": [       
+                 "shaders",
+                "assets/systems/effects/smoke.bundle"
+            ]
+        },
+		 {
+            "key": "ar18stockconnect.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+        		 {
+            "key": "ar18hgm.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+		 {
+            "key": "ar18aimp.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+		 {
+            "key": "ar18pic.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+
+        {
+            "key": "ar18chop.bundle",
+            "dependencyKeys": [       
+                 "shaders",
+                "assets/systems/effects/smoke.bundle"
+            ]
+        },
+		 {
+            "key": "ar18buff.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+        		 {
+            "key": "ar18smount.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+         {
+            "key": "p30barrel.bundle",
+            "dependencyKeys": [       
+ "shaders",
+ "assets/systems/effects/smoke.bundle"
+            ]
+        },
+        
+                 {
+            "key": "p30barrelthr.bundle",
+            "dependencyKeys": [       
+ "shaders",
+ "assets/systems/effects/smoke.bundle"
+            ]
+        },
+                        {
+            "key": "p30comp.bundle",
+            "dependencyKeys": [       
+ "shaders",
+ "assets/systems/effects/smoke.bundle"
+            ]
+        },
+        
+		 {
+            "key": "p30fs.bundle",
+            "dependencyKeys": [       
+       "shaders"
+            ]
+        },
+		 {
+            "key": "p30hammer.bundle",
+            "dependencyKeys": [       
+ "shaders"
+            ]
+        },
+		 {
+            "key": "p30mag.bundle",
+            "dependencyKeys": [       
+      "shaders"
+            ]
+        },
+		 {
+            "key": "p30regslide.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+         {
+            "key": "p30rmr.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+		 {
+            "key": "p30rs.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+		 {
+            "key": "p30srel.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+		 {
+            "key": "p30trigger.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+        {
+            "key": "p30stendo.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+
+        {
+            "key": "hkp30.bundle",
+            "dependencyKeys": [       
+
+"assets/content/audio/blendoptions/assets.bundle",
+"assets/content/weapons/additional_hands/client_assets.bundle",
+"shaders",
+"assets/systems/effects/heathaze/defaultheathaze.bundle",
+"assets/systems/effects/smoke.bundle",
+"assets/content/weapons/weapon_root_anim_fix.bundle",
+"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle"
+
+            ]
+        },
+        
+        {
+            "key": "bcmsliced.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+                        {
+            "key": "ppshbuffer.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+                        {
+            "key": "ppshchop.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+                        {
+            "key": "ppshscope.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+                        {
+            "key": "ppshtacstock.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+        {
+            "key": "ppshhandguard.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+                        {
+            "key": "ppshthread.bundle",
+            "dependencyKeys": [       
+"shaders",
+"assets/systems/effects/smoke.bundle"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+  "68b4b52f1a1ff2a6c49ac5be Name": "Armalite AR-18",
+  "68b4b52f1a1ff2a6c49ac5be ShortName": "AR18",
+  "68b4b52f1a1ff2a6c49ac5be Description": "A gas piston driven Assault Rifle designed by Armalite. Come Out Ye Blacks and Tans",
+
+  "68b4d384b4414cdc4eae1d5d Name": "AR-18 16 Barrel",
+  "68b4d384b4414cdc4eae1d5d ShortName": "ar18barrel",
+  "68b4d384b4414cdc4eae1d5d Description": "16 inches is good enough. manufactured by Armalite.",
+
+  "68b4d8a1262dcfd5ed45d249 Name": "AR-18 Stock Connector",
+  "68b4d8a1262dcfd5ed45d249 ShortName": "ar18stockconnect",
+  "68b4d8a1262dcfd5ed45d249 Description": "Make sure you keep this stocked",
+
+  "68b59ce933a1b9190eaa952c Name": "AR-18 Stock",
+  "68b59ce933a1b9190eaa952c ShortName": "ar18stock",
+  "68b59ce933a1b9190eaa952c Description": "Good for recoil managment or smacking down the British Occupiers",
+
+  "68b59df2df773e94eca1167d Name": "AR-18 Flash Hider",
+  "68b59df2df773e94eca1167d ShortName": "ar18flash",
+  "68b59df2df773e94eca1167d Description": "4 Prong Flash Hider",
+
+  "68b4d62b7d3e0a9eb3240d1f Name": "AR-18 ar18rearsight",
+  "68b4d62b7d3e0a9eb3240d1f ShortName": "ar18rearsight",
+  "68b4d62b7d3e0a9eb3240d1f Description": "Peep this",
+
+  "68b4b8dbaf267fb9019665ca Name": "AR-18 Receiver",
+  "68b4b8dbaf267fb9019665ca ShortName": "ar18receiver",
+  "68b4b8dbaf267fb9019665ca Description": "The standard-issue upper receiver for AR18 assault rifles, manufactured by Armalite.",
+
+  "68b59fbc0594a5911fe3d6f7 Name": "AR-18 20rd Mag",
+  "68b59fbc0594a5911fe3d6f7 ShortName": "ar18mag",
+  "68b59fbc0594a5911fe3d6f7 Description": "Its not a STANAG. Don't ask why. Has been customized by someone",
+
+  "68b4d54e551238d1960bc818 Name": "AR-18 Handguard",
+  "68b4d54e551238d1960bc818 ShortName": "ar18handguard",
+  "68b4d54e551238d1960bc818 Description": "Keeps your hands from burning too much. Can it C-Clamp?",
+
+  "68b4cbb4f1e086bd79756bd0 Name": "AR-18 Gas Block with Front Sight",
+  "68b4cbb4f1e086bd79756bd0 ShortName": "ar18gassight",
+  "68b4cbb4f1e086bd79756bd0 Description": "A standard-issue front sight with gas block for AR18 assault rifles, manufactured by Armalite.",
+
+  "68b4d2e5b309cf9e8d6bfb58 Name": "AR-18 pistol grip",
+  "68b4d2e5b309cf9e8d6bfb58 ShortName": "ar18handgrip",
+  "68b4d2e5b309cf9e8d6bfb58 Description": "you hold it.",
+
+  "69028afae182927a311c6f0b Name": "StormWerkz AR-180b Type 04 Adapter",
+  "69028afae182927a311c6f0b ShortName": "Ar-18 Buff",
+  "69028afae182927a311c6f0b Description": "Buffer Tube Adapter from StormWerkz",
+
+  "69028d3c8196cec2a486af65 Name": "StormWerkz AR-180b Type 05 Adapter",
+  "69028d3c8196cec2a486af65 ShortName": "Ar-18 Pic",
+  "69028d3c8196cec2a486af65 Description": "Picatinny Mount Adapter from StormWerkz",
+
+  "69028e2a07965ae4edb5bfe2 Name": "AR-18 Short Barrel",
+  "69028e2a07965ae4edb5bfe2 ShortName": "AR18 Chopped",
+  "69028e2a07965ae4edb5bfe2 Description": "Someone, in a bushwar somewhere, took a hacksaw to this one",
+
+  "690290035bcd69fa40d29bb8 Name": "StormWerkz AR-180b Scope Mount Extended",
+  "690290035bcd69fa40d29bb8 ShortName": "AR18 SMount",
+  "690290035bcd69fa40d29bb8 Description": "StormWerkz Sight Attachment",
+
+  "69029160491eb3160262eed7 Name": "StormWerkz AR-180b Aimpoint Mount",
+  "69029160491eb3160262eed7 ShortName": "AR18 AIMP",
+  "69029160491eb3160262eed7 Description": "StormWerkz Sight Attachment with Co-Witnessed Aimpoint Mount",
+
+  "6902925044465578d994ab13 Name": "StormWerkz AR-180b Handguard Picatinny Mount",
+  "6902925044465578d994ab13 ShortName": "AR18 Pic",
+  "6902925044465578d994ab13 Description": "StormWerkz Picatinny Attachment for Armalite Handguards",
+  
+  "68ded60bbd53f44248ea324f Name": "HK P30 Pistol",
+  "68ded60bbd53f44248ea324f ShortName": "HKP30",
+  "68ded60bbd53f44248ea324f Description": "A compact 9mm pistol from Germany. Are you back working Mr. Wick?",
+
+  "68dedf5072c1a7878545c9d4 Name": "HK P30 Standard Barrel",
+  "68dedf5072c1a7878545c9d4 ShortName": "hkp30barrel",
+  "68dedf5072c1a7878545c9d4 Description": "Fine (ish) German Engineering. It holds bullet",
+
+  "68deea38e2111fb84c156ff2 Name": "HK P30 Rear Sight",
+  "68deea38e2111fb84c156ff2 ShortName": "hkp30rs",
+  "68deea38e2111fb84c156ff2 Description": "Perfect for looking at members of the High Table",
+
+  "68deec5afbef6b45bea1f051 Name": "HK P30 Slide",
+  "68deec5afbef6b45bea1f051 ShortName": "hkp30slide",
+  "68deec5afbef6b45bea1f051 Description": "Sliiiiiide your way into excommunication",
+
+  "68deeeb97cbd04a1abd7a74b Name": "HK P30 15 Round Magazine",
+  "68deeeb97cbd04a1abd7a74b ShortName": "hkp30mag",
+  "68deeeb97cbd04a1abd7a74b Description": "15 rounds on tap. You're gonna need more than that.",
+
+  "68def18791f0b463b5c29f0c Name": "HK P30 Front Sight",
+  "68def18791f0b463b5c29f0c ShortName": "hkp30fs",
+  "68def18791f0b463b5c29f0c Description": "The only thing more straight than this sight is the creases in your suit.",
+
+  "68def250e985661ccf8b1c79 Name": "HK P30 Hammer",
+  "68def250e985661ccf8b1c79 ShortName": "hkp30hammer",
+  "68def250e985661ccf8b1c79 Description": "Everything Looks Like a Nail, When You're a Hammer",
+
+  "68def372f78f26bc8054cab3 Name": "HK P30 Slide Catch",
+  "68def372f78f26bc8054cab3 ShortName": "hkp30catch",
+  "68def372f78f26bc8054cab3 Description": "Catch Me If You Can",
+
+  "68def4fe6e38d59a384f0ae1 Name": "HK P30 Trigger",
+  "68def4fe6e38d59a384f0ae1 ShortName": "hkp30trigger",
+  "68def4fe6e38d59a384f0ae1 Description": "Are you triggered yet?",
+
+  "68e025fd8d83867f8fe9bc5f Name": "HK P30 RMR Slide",
+  "68e025fd8d83867f8fe9bc5f ShortName": "hkp3rmr",
+  "68e025fd8d83867f8fe9bc5f Description": "Just puttin' dots on targets with the boys",
+
+  "68e028ee33872c8c0b4e5e81 Name": "HK P30 Threaded Barrel",
+  "68e028ee33872c8c0b4e5e81 ShortName": "hkp30threaded",
+  "68e028ee33872c8c0b4e5e81 Description": "Get Screwed",
+
+  "68e029fe3948c17cabf65482 Name": "HK P30 6 Port Compensator",
+  "68e029fe3948c17cabf65482 ShortName": "6portcomp",
+  "68e029fe3948c17cabf65482 Description": "This only exists because of John Wick. It did not exist prior to.",
+
+  "68fbd1861ec54c3c42ce0ff5 Name": "HK P30 20 Round Extended Magazine",
+  "68fbd1861ec54c3c42ce0ff5 ShortName": "hkp30stendomag",
+  "68fbd1861ec54c3c42ce0ff5 Description": "20 Rounds will get you somewhere, that's for sure.",
+  
+  "690a1f37bb772fac86a41ca9 Name": "PPSh modern receiver",
+  "690a1f37bb772fac86a41ca9 ShortName": "PPSh rec.",
+  "690a1f37bb772fac86a41ca9 Description": "Replacement receiver for the PPSh with handguard and optics mount interfaces.",
+
+  "690a205f953b984ffa348661 Name": "PPSh handguard (Pic)",
+  "690a205f953b984ffa348661 ShortName": "PPSh HG",
+  "690a205f953b984ffa348661 Description": "Picatinny handguard adapted for the PPSh.",
+
+  "690a2214b583a83165ecac90 Name": "PPSh top sight rail",
+  "690a2214b583a83165ecac90 ShortName": "PPSh rail",
+  "690a2214b583a83165ecac90 Description": "Low-profile Picatinny optics base for the PPSh modern reciever.",
+
+  "690a228693b29bcfa1c3b919 Name": "PPSh threaded barrel",
+  "690a228693b29bcfa1c3b919 ShortName": "PPSh thr.",
+  "690a228693b29bcfa1c3b919 Description": "Threaded barrel for PPSh; compatible with basegame barrel slot.",
+
+  "690a22f8b12972947a6a4723 Name": "PPSh buffer-tube adapter",
+  "690a22f8b12972947a6a4723 ShortName": "PPSh BTA",
+  "690a22f8b12972947a6a4723 Description": "Adapter that allows AR buffer-tube stocks on a PPSh build.",
+
+  "690a23ad14158912787e4659 Name": "FAB Defense stock (PPSh)",
+  "690a23ad14158912787e4659 ShortName": "FAB PPSh",
+  "690a23ad14158912787e4659 Description": "FAB Defense SKS-pattern stock adapted for PPSh with a buffer-tube adapter.",
+
+  "686830a0f33be9471feb69da Name": "LV119 Covert Multicam Tropic",
+  "686830a0f33be9471feb69da ShortName": "LV119 MCT",
+  "686830a0f33be9471feb69da Description": "The Spiritus Systems LV119 Covert is perfect for operators looking for a high speed, low vis and scalable plate carrier. Comes with a Spiritus Systems MK V Placard.",
+
+  "690289f47f98dc39096902fd Name": "BCM GUNFIGHTER MOD 3 Chopped",
+  "690289f47f98dc39096902fd ShortName": "BCM Chopped",
+  "690289f47f98dc39096902fd Description": "Take your favorite grip and give it da chop"
+}
+
+
