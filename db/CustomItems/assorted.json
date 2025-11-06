@@ -406,7 +406,7 @@
     "addtoBots": false,
     "addtoSpecialSlots": false,
     "addtoModSlots": true,
-    "modSlots":["mod_foregrip"]
+    "modSlots":["mod_foregrip"],
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [],
     "addtoSecureFilters": true,
