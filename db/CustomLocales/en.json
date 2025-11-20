@@ -149,7 +149,52 @@
 
   "690289f47f98dc39096902fd Name": "BCM GUNFIGHTER MOD 3 Chopped",
   "690289f47f98dc39096902fd ShortName": "BCM Chopped",
-  "690289f47f98dc39096902fd Description": "Take your favorite grip and give it da chop"
+  "690289f47f98dc39096902fd Description": "Take your favorite grip and give it da chop",
+
+  "6917bd1327906df8ce6fcfff Name": "Ops-Core FAST SF Next Generation Helmet (GB)",
+"6917bd1327906df8ce6fcfff ShortName": "Ops-Core GB",
+"6917bd1327906df8ce6fcfff Description": "A Ground Branch issued Ops-Core FAST SF helmet, modified for use with night vision goggles and communication headsets. Provides level 3 ballistic protection for the top and back of the head.",
+
+"6917bfb870f5e5d6aea8165d Name": "Ops-Core Amp Arms",
+"6917bfb870f5e5d6aea8165d ShortName": "Amp Arms",
+"6917bfb870f5e5d6aea8165d Description": "ARC Rail mounted arms for holding hearing protection and communication headsets.",
+
+"6917c1976cf46fb7b4ffd866 Name": "AXL Advanced RAC Link Gen 1",
+"6917c1976cf46fb7b4ffd866 ShortName": "RAC Link",
+"6917c1976cf46fb7b4ffd866 Description": "RAC Link Gen 1 adapter for mounting communication headsets to Ops-Core Amp Arms, made out of Tegris.",
+
+"6917c23f71eb4b42ea95584b Name": "Peltor ComTac V headset (Coyote Mount)",
+"6917c23f71eb4b42ea95584b ShortName": "Comtac Mount",
+"6917c23f71eb4b42ea95584b Description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Has had its headband removed. Manufactured by 3M Peltor. Coyote color version.",
+
+"6917c4906c6dac68cc13588a Name": "Ops-Core helmet cover (AOR2)",
+"6917c4906c6dac68cc13588a ShortName": "AOR2 Cover",
+"6917c4906c6dac68cc13588a Description": "A tactical helmet cover designed for Ops-Core high-cut ballistic helmets. Made from durable nylon with reinforced stitching and attachment points for cables, counterweights, and accessories. Features the AOR2 digital camouflage pattern optimized for temperate and coastal environments.",
+
+"6917c54d98d815c7861d1c59 Name": "Ops-Core helmet cover (Desert Tiger Stripe)",
+"6917c54d98d815c7861d1c59 ShortName": "DTS Cover",
+"6917c54d98d815c7861d1c59 Description": "A helmet cover made for Ops-Core high-cut ballistic helmets, constructed from rugged, abrasion-resistant fabric. Finished in the Desert Tiger Stripe pattern, providing effective concealment in arid, sandy terrain and broken scrub environments.",
+
+"6917c5f64ae12687885bf18d Name": "Ops-Core helmet cover (Multicam Black)",
+"6917c5f64ae12687885bf18d ShortName": "MCB Cover",
+"6917c5f64ae12687885bf18d Description": "A high-durability helmet cover built for Ops-Core high-cut ballistic helmets. Produced from tear-resistant nylon with integrated cable management and hook-and-loop panels. Coated in the Multicam Black pattern, intended for law-enforcement and urban low-visibility operations.",
+
+"6917c61265268ecbc220f1f2 Name": "Ops-Core helmet cover (Multicam Tropic)",
+"6917c61265268ecbc220f1f2 ShortName": "MCT Cover",
+"6917c61265268ecbc220f1f2 Description": "A rugged nylon helmet cover designed for Ops-Core high-cut ballistic helmets. Includes reinforced seams, accessory mounting points, and Velcro paneling. Uses the Multicam Tropic camouflage pattern for improved concealment in lush, dense jungle and green woodland environments.",
+
+"6917c633200042156b8bdb52 Name": "C11 Blackbeard Patch",
+"6917c633200042156b8bdb52 ShortName": "C11 BB",
+"6917c633200042156b8bdb52 Description": "A version of Blackbeard’s patch made by yours truly.",
+
+"6917c69f14af1f6aff139dbd Name": "C11 No Kings (Miami)",
+"6917c69f14af1f6aff139dbd ShortName": "C11 NK",
+"6917c69f14af1f6aff139dbd Description": "We bow to no king.",
+
+"6917c6de1d18ca02f4868839 Name": "C11 Vegvisvir Patch (AOR2)",
+"6917c6de1d18ca02f4868839 ShortName": "C11 AOR2",
+"6917c6de1d18ca02f4868839 Description": "A version of the Vegvisvir, a rune of protection."
+
 }
 
 
