@@ -326,6 +326,69 @@
             "dependencyKeys": [       
 "shaders"
             ]
+        },
+		
+		
+		 {
+            "key": "galilace.bundle",
+            "dependencyKeys": [       
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+            			"shaders",
+			"assets/content/prefabs/muzzleflash_base.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle"
+		
+
+            ]
+        },
+		 
+		 {
+            "key": "acepic.bundle",
+            "dependencyKeys": [       
+ "shaders"
+            ]
+        },
+		 {
+            "key": "acers.bundle",
+            "dependencyKeys": [       
+       "shaders"
+            ]
+        },
+		 {
+            "key": "acestock.bundle",
+            "dependencyKeys": [       
+ "shaders"
+            ]
+        },
+		 {
+            "key": "acedust.bundle",
+            "dependencyKeys": [       
+      "shaders"
+            ]
+        },
+		{
+            "key": "ar18mag30.bundle",
+            "dependencyKeys": [       
+ "shaders"
+            ]
+        },
+		{
+            "key": "ar18mag40.bundle",
+            "dependencyKeys": [       
+ "shaders"
+            ]
+        },
+		{
+            "key": "acegas.bundle",
+            "dependencyKeys": [       
+ "shaders"
+            ]
+        },
+		 {
+            "key": "acehg.bundle",
+            "dependencyKeys": [       
+      "shaders"
+            ]
         }
     ]
 }
