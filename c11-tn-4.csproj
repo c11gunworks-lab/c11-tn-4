@@ -1,26 +1,96 @@
-﻿<!-- c11-tn-4.csproj -->
+﻿
+<!-- c11-tn-4.csproj (HYBRID) -->
 <Project Sdk="Microsoft.NET.Sdk">
+
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
-    <GenerateDocumentationFile>false</GenerateDocumentationFile>
     <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+
+    <Version>4.0.0</Version>
+    <AssemblyName>c11-tn-4</AssemblyName>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <OutputType>Library</OutputType>
+    <OutputPath>bin\$(Configuration)\$(ProjectName)\$(AssemblyName)-$(Version)\</OutputPath>
   </PropertyGroup>
-<PropertyGroup>
-  <SptModsDir>C:\SPT4\SPT\user\mods\c11-tn-4</SptModsDir>
-</PropertyGroup>
 
-<ItemGroup>
-  <ItemToCopy Include="..\db\CustomItems\**\*.json" />
-  <ItemToCopy Include="..\db\CustomLocales\**\*.json" />
-</ItemGroup>
+  <PropertyGroup>
+    <SptModsDir>C:\SPT4\SPT\user\mods\c11-tn-4</SptModsDir>
+    <ResourcesDir>$(ProjectDir)Resources</ResourcesDir>
+  </PropertyGroup>
 
-	<Target Name="CopyDbJson" AfterTargets="Build">
-		<MakeDir Directories="$(SptModsDir)\db\CustomItems" />
-		<MakeDir Directories="$(SptModsDir)\db\CustomLocales" />
-		<Copy SourceFiles="@(ItemToCopy)" DestinationFolder="$(SptModsDir)\db\%(RecursiveDir)" SkipUnchangedFiles="true" />
-	</Target>
+
+
+  <!-- Copies JSON db into the mod folder (your original target, retained) -->
+  <Target Name="CopyDbJson" AfterTargets="Build">
+    <Message Importance="high" Text="[CopyDbJson] Copying db JSON to $(SptModsDir)\db" />
+    <MakeDir Directories="$(SptModsDir)\db\CustomItems" />
+    <MakeDir Directories="$(SptModsDir)\db\CustomLocales" />
+    <Copy SourceFiles="@(ItemToCopy)"
+          DestinationFolder="$(SptModsDir)\db\%(RecursiveDir)"
+          SkipUnchangedFiles="true" />
+  </Target>
 
   <ItemGroup>
     <PackageReference Include="WTT-ServerCommonLib" Version="2.0.4" />
+
+    <PackageReference Include="SPTarkov.Common" Version="4.0.3" />
+    <PackageReference Include="SPTarkov.DI" Version="4.0.3" />
+    <PackageReference Include="SPTarkov.Server.Core" Version="4.0.3" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Resources\bundles\" />
+    <Folder Include="Resources\db\" />
+  </ItemGroup>
+
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Message Importance="high" Text="[PostBuild] Preparing to deploy mod to $(SptModsDir)" />
+
+    <PropertyGroup>
+      <_ModName>$(AssemblyName)</_ModName>
+      <_DllPath>$(TargetDir)$(TargetName).dll</_DllPath>
+      <_OutDir>$(SptModsDir)</_OutDir>
+      <_ResourcesDir>$(ResourcesDir)</_ResourcesDir>
+    </PropertyGroup>
+
+    <MakeDir Directories="$(_OutDir)" />
+
+
+    <Exec Command="
+      @echo off
+      setlocal enabledelayedexpansion
+
+      echo [PostBuild] OUT: $(_OutDir)
+      echo [PostBuild] DLL: $(_DllPath)
+      echo [PostBuild] RES: $(_ResourcesDir)
+
+      if not exist &quot;$(_OutDir)&quot; mkdir &quot;$(_OutDir)&quot;
+
+      REM Clear the output directory (except the DLL we're about to place)
+      if exist &quot;$(_OutDir)&quot; (
+        for /d %%D in (&quot;$(_OutDir)\*&quot;) do rmdir /s /q &quot;%%D&quot;
+        for %%F in (&quot;$(_OutDir)\*&quot;) do (
+          if /i not &quot;%%~nxF&quot;==&quot;$(TargetName).dll&quot; del /q &quot;%%F&quot;
+        )
+      )
+
+      REM Copy DLL
+      copy /Y &quot;$(_DllPath)&quot; &quot;$(_OutDir)\&quot; &gt;nul 2&gt;&amp;1
+      if errorlevel 1 ( echo [PostBuild] ERROR copying DLL &amp; exit /b 1 ) else ( echo [PostBuild] Copied $(TargetName).dll )
+
+      REM Copy Resources (bundles, db, res)
+      if exist &quot;$(_ResourcesDir)&quot; (
+        xcopy &quot;$(_ResourcesDir)&quot; &quot;$(_OutDir)&quot; /E /I /Y &gt;nul 2&gt;&amp;1
+        echo [PostBuild] Copied Resources to mod output
+      ) else (
+        echo [PostBuild] WARNING: Resources folder not found at $(_ResourcesDir)
+      )
+
+      echo [PostBuild] Build output: $(_OutDir)
+    " />
+  </Target>
+
 </Project>
