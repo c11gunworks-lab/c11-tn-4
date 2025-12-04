@@ -369,7 +369,7 @@
         "rcid": ""
       },
       "BackgroundColor": "default",
-      "Width": 2,
+      "Width": 1,
       "Height": 1,
       "Weight": 0.28,
       "Ergonomics": 4,
@@ -444,7 +444,7 @@
         "rcid": ""
       },
       "BackgroundColor": "default",
-      "Width": 2,
+      "Width": 1,
       "Height": 1,
       "Weight": 0.15,
       "Ergonomics": 1,

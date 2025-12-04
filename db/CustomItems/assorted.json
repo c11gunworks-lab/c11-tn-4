@@ -440,5 +440,89 @@
         }
       }
     }
+  },
+  "69319dbec4c13fc4823f299e": {
+    "itemTplToClone": "5926dad986f7741f82604363",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "sasmount.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.65,
+      "ExtraSizeUp": 1,
+      "Ergonomics": -11,
+      "Accuracy":-3,
+      "Recoil": -5,
+      "SightingRange":0,
+
+      "MergesWithChildren":true,
+
+      "Slots": [
+        {
+          "_id": "69319f61006cd4f26b3f29a0",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_flashlight",
+          "_parent": "69319dbec4c13fc4823f299e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+"maglite"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "LASER PRODUCTS Flashlight Mount",
+        "ShortName": "SAS Mount",
+        "Description": "Made famous by the SAS during the Iranian Embassy Siege. "
+      }
+    },
+    "fleaPriceRoubles": 25000,
+    "handbookPriceRoubles": 25500,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": ["mod_mount"],
+
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "69319f2d1aeb7dcdaa3f299f": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 27500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
   }
 }

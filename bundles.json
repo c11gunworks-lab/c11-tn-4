@@ -454,6 +454,64 @@
         "dependencyKeys": [
           "shaders"
         ]
+      },
+      {
+        "key": "bt300.bundle",
+        "dependencyKeys": [
+
+          "assets/content/weapons/additional_hands/client_assets.bundle",
+          "assets/content/audio/blendoptions/assets.bundle",
+          "shaders",
+          "assets/content/prefabs/muzzleflash_base.bundle",
+          "assets/systems/effects/heathaze/defaultheathaze.bundle",
+          "assets/systems/effects/smoke.bundle",
+          "assets/content/weapons/weapon_root_anim_fix.bundle",
+
+
+        ]
+      },
+      {
+        "key": "sprcheek.bundle",
+        "dependencyKeys": [
+          "shaders"
+        ]
+      },
+      {
+        "key": "sprgrip.bundle",
+        "dependencyKeys": [
+          "shaders"
+        ]
+      },
+      {
+        "key": "sprmag.bundle",
+        "dependencyKeys": [
+          "shaders"
+        ]
+      },
+      {
+        "key": "sprrails.bundle",
+        "dependencyKeys": [
+          "shaders"
+        ]
+      },
+      {
+        "key": "sprstock.bundle",
+        "dependencyKeys": [
+          "shaders"
+        ]
+      },
+      {
+        "key": "sprsup.bundle",
+        "dependencyKeys": [
+          "shaders"
+        ]
+      },
+      {
+        "key": "sprbarrel.bundle",
+        "dependencyKeys": [
+          "shaders",
+          "assets/systems/effects/smoke.bundle"
+        ]
       }
     ]
 }
