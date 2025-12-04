@@ -262,7 +262,7 @@
             ]
         },
 		{
-            "key": "opscoregb.bundle",
+            "key": "helmetmaster/opscoregb.bundle",
             "dependencyKeys": [       
 "shaders"
             ]
@@ -391,7 +391,7 @@
             ]
         },
       {
-        "key": "t81_master/t81.bundle",
+        "key": "t81master/t81.bundle",
         "dependencyKeys": [
 
           "assets/content/weapons/additional_hands/client_assets.bundle",
@@ -408,49 +408,49 @@
       },
 
       {
-        "key": "t81_master/t81dust.bundle",
+        "key": "t81master/t81dust.bundle",
         "dependencyKeys": [
           "shaders"
         ]
       },
       {
-        "key": "t81_master/t81fhg.bundle",
+        "key": "t81master/t81fhg.bundle",
         "dependencyKeys": [
           "shaders"
         ]
       },
       {
-        "key": "t81_master/t81gas.bundle",
+        "key": "t81master/t81gas.bundle",
         "dependencyKeys": [
           "shaders"
         ]
       },
       {
-        "key": "t81_master/t81gl.bundle",
+        "key": "t81master/t81gl.bundle",
         "dependencyKeys": [
           "shaders"
         ]
       },
       {
-        "key": "t81_master/t81mag.bundle",
+        "key": "t81master/t81mag.bundle",
         "dependencyKeys": [
           "shaders"
         ]
       },
       {
-        "key": "t81_master/t81pg.bundle",
+        "key": "t81master/t81pg.bundle",
         "dependencyKeys": [
           "shaders"
         ]
       },
       {
-        "key": "t81_master/t81stock.bundle",
+        "key": "t81master/t81stock.bundle",
         "dependencyKeys": [
           "shaders"
         ]
       },
       {
-        "key": "t81_master/t81thg.bundle",
+        "key": "t81master/t81thg.bundle",
         "dependencyKeys": [
           "shaders"
         ]
