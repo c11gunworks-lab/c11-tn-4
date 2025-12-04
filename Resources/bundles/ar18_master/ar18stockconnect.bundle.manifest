@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 2232230007
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9fcb01cbd2cfc9f10da96d8d86a93cd1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 09f399ad27c1a4366050863edf898da0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9fcb01cbd2cfc9f10da96d8d86a93cd1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd57a3a9f3e1086449f2218f0006794a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0e88583c408674d4bad1d52c226ee09a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: EFT.Visual.FoldableStockView/BonePosition
+- AssemblyName: Assembly-CSharp
+  ClassName: PreviewPivot/IconSettings
+Assets:
+- Assets/AR18/AR18/ExportedProject/Assets/Content/Weapons/hk416/Attatchments/Stock
+  Connector.prefab
+Dependencies:
+- C:/Users/ngerwing/Documents/EscapeFromTarkov-SDK/AssetBundles/StandaloneWindows/shaders

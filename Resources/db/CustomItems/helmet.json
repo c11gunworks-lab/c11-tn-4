@@ -1,0 +1,880 @@
+{
+  "6917bd1327906df8ce6fcfff": {
+    "itemTplToClone": "5a154d5cfcdbcb001a3b00da",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "helmetmaster/opscoregb.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 2,
+      "BackgroundColor": "blue",
+      "Weight": 0.56,
+      "Grids": [],
+      "Slots": [
+        {
+          "_id": "6917be0a3204e9140397072d",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_000",
+          "_parent": "6917bd1327906df8ce6fcfff",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16badafcdbcb001865f72d",
+                  "5a16b672fcdbcb001912fa83",
+                  "5a16b7e1fcdbcb00165aa6c9"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6917be35fb970822481c3fd3",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "6917bd1327906df8ce6fcfff",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ea058e01dbce517f324b3e2",
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6917be377932f483aea39cd5",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "6917bd1327906df8ce6fcfff",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6917be3aac606d3f9abe36b0",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_001",
+          "_parent": "6917bd1327906df8ce6fcfff",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16b9fffcdbcb0176308b34",
+                  "6917bfb870f5e5d6aea8165d"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6917be3c1e3abca94f026d6a",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_002",
+          "_parent": "6917bd1327906df8ce6fcfff",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0e66e2d174af02a96252f4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+          {
+          "_id": "6917be6eb4fc4f64f967722e",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_cover",
+          "_parent": "6917bd1327906df8ce6fcfff",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                    "6917c61265268ecbc220f1f2",
+                    "6917c5f64ae12687885bf18d",
+                    "6917c54d98d815c7861d1c59",
+                    "6917c4906c6dac68cc13588a"
+
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+         {
+          "_id": "6917be93d6e71bd35b045caa",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_patch_001",
+          "_parent": "6917bd1327906df8ce6fcfff",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c69f14af1f6aff139dbd"
+
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+         {
+          "_id": "6917be963570a643fdd43113",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_patch_002",
+          "_parent": "6917bd1327906df8ce6fcfff",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [ "6917c6de1d18ca02f4868839"
+                  
+
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+         {
+          "_id": "6917be9b47ee66bc5873caf9",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_patch_003",
+          "_parent": "6917bd1327906df8ce6fcfff",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+"6917c633200042156b8bdb52"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6917be3eac94d5ba0f51907e",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "6917bd1327906df8ce6fcfff",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8ec5f4c82973640b234c"
+                ],
+                "Plate": "657f8ec5f4c82973640b234c",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "6917be418af21f88c96da767",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "6917bd1327906df8ce6fcfff",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8f10f4c82973640b2350"
+                ],
+                "Plate": "657f8f10f4c82973640b2350",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
+    },
+
+    "locales": {
+      "en": {
+        "name": "Ops-Core FAST SF Next Generation Helmet (GB)",
+        "shortName": "Ops-Core GB",
+        "description": "A Ground Branch issued Ops-Core FAST SF helmet, modified for use with night vision goggles and communication headsets. Provides level 3 ballistic protection for the top and back of the head."
+      }
+    },
+
+    "fleaPriceRoubles": 150900,
+
+    "handbookPriceRoubles": 250000,
+
+
+    "addtoBots": false,
+
+    "addtoStaticLootContainers": false,
+    "StaticLootContainers": [
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": false
+
+  },
+
+   "6917bfb870f5e5d6aea8165d": {
+    "itemTplToClone": "5a16b9fffcdbcb0176308b34",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "helmetmaster/amparms.bundle", "rcid": "" },
+      "BackgroundColor": "blue",
+      "Width": 2, "Height": 1, "Weight": 0.15,
+      
+      "Grids": [],
+       "Slots": [{
+          "_id": "6917c04854d8d66133809c05",
+          "_mergeSlotWithChildren": true,
+          "_name": "mod_arms",
+          "_parent": "6917bfb870f5e5d6aea8165d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                    "6917c1976cf46fb7b4ffd866"
+                 
+                ]
+                
+              }
+            ]
+          },
+          "_required": true
+        }
+    ]
+    },
+    "locales": {
+      "en": {
+        "Name": "Ops-Core Amp Arms",
+        "ShortName": "Amp Arms",
+        "Description": "ARC Rail mounted arms for holding hearing protection and communication headsets."
+      }
+    },
+    "fleaPriceRoubles": 55000,
+    "handbookPriceRoubles": 65000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": true,
+    "modSlot": ["mod_equipment_001"],
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV", 
+        "Probability": 2 
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6917c15e481d9ff7ca561360": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 75000,
+              "_tpl": "MONEY_ROUBLES" 
+            }
+          ]
+        }
+      }
+    }
+  },
+  
+   "6917c1976cf46fb7b4ffd866": {
+    "itemTplToClone": "5a16b9fffcdbcb0176308b34",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "helmetmaster/raclink.bundle", "rcid": "" },
+      "BackgroundColor": "blue",
+      "Width": 2, "Height": 1, "Weight": 0.05,
+      
+      "Grids": [],
+       "Slots": [{
+          "_id": "6917c1c304970d2ef15cd15d",
+          "_mergeSlotWithChildren": true,
+          "_name": "mod_headset",
+          "_parent": "6917c1976cf46fb7b4ffd866",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                    "6917c23f71eb4b42ea95584b"
+                 
+                ]
+                
+              }
+            ]
+          },
+          "_required": true
+        }
+    ]
+    },
+    "locales": {
+      "en": {
+        "Name": "AXL Advanced RAC Link Gen 1",
+        "ShortName": "RAC Link",
+        "Description": "RAC Link Gen 1 adapter for mounting communication headsets to Ops-Core Amp Arms, made out of Tegris."
+      }
+    },
+    "fleaPriceRoubles": 25000,
+    "handbookPriceRoubles": 35000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV", 
+        "Probability": 2 
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6917c21c2414844d3314648d": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 45000,
+              "_tpl": "MONEY_ROUBLES" 
+            }
+          ]
+        }
+      }
+    }
+  },
+     "6917c23f71eb4b42ea95584b": {
+    "itemTplToClone": "66b5f693acff495a294927e3",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "helmetmaster/comtac5mounted.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 2, "Height": 1, "Weight": 0.35,
+      
+      "Grids": [],
+       "Slots": []
+    },
+    "locales": {
+      "en": {
+        "Name": "Peltor ComTac V headset (Coyote Mount)",
+        "ShortName": "Comtac Mount",
+        "Description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Has had it's headband removed. Manufactured by 3M Peltor. Coyote color version."
+      }
+    },
+    "fleaPriceRoubles": 65500,
+    "handbookPriceRoubles": 75500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV", 
+        "Probability": 2 
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6917c2d2a25a44797f895f75": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 69690,
+              "_tpl": "MONEY_ROUBLES" 
+            }
+          ]
+        }
+      }
+    }
+  },
+      "6917c4906c6dac68cc13588a": {
+    "itemTplToClone": "5a398ab9c4a282000c5a9842",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b47574386f77428ca22b32f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "helmetmaster/coveraor2.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 2, "Height": 1, "Weight": 0.15,
+      
+      "Grids": [],
+       "Slots": []
+    },
+    "locales": {
+     "en": {
+       
+  "Name": "Ops-Core helmet cover (AOR2)",
+  "ShortName": "AOR2 Cover",
+  "Description": "A tactical helmet cover designed for Ops-Core high-cut ballistic helmets. Made from durable nylon with reinforced stitching and attachment points for cables, counterweights, and accessories. Features the AOR2 digital camouflage pattern optimized for temperate and coastal environments."
+    }
+    },
+    "fleaPriceRoubles": 9500,
+    "handbookPriceRoubles": 11500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV", 
+        "Probability": 2 
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6917c5389f28860a6d972ec8": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12500,
+              "_tpl": "MONEY_ROUBLES" 
+            }
+          ]
+        }
+      }
+    }
+  }, 
+  "6917c54d98d815c7861d1c59": {
+    "itemTplToClone": "5a398ab9c4a282000c5a9842",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b47574386f77428ca22b32f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "helmetmaster/coverdts.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 2, "Height": 1, "Weight": 0.15,
+      
+      "Grids": [],
+       "Slots": []
+    },
+    "locales": {
+      "en": {
+  "Name": "Ops-Core helmet cover (Desert Tiger Stripe)",
+  "ShortName": "DTS Cover",
+  "Description": "A helmet cover made for Ops-Core high-cut ballistic helmets, constructed from rugged, abrasion-resistant fabric. Finished in the Desert Tiger Stripe pattern, providing effective concealment in arid, sandy terrain and broken scrub environments."
+}
+    },
+
+    "fleaPriceRoubles": 9500,
+    "handbookPriceRoubles": 11500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV", 
+        "Probability": 2 
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6917c5e8583302698b943ad1": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12500,
+              "_tpl": "MONEY_ROUBLES" 
+            }
+          ]
+        }
+      }
+    }
+  },
+   "6917c5f64ae12687885bf18d": {
+    "itemTplToClone": "5a398ab9c4a282000c5a9842",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b47574386f77428ca22b32f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "helmetmaster/covermcb.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 2, "Height": 1, "Weight": 0.15,
+      
+      "Grids": [],
+       "Slots": []
+    },
+    "locales": {
+      "en": {
+  "Name": "Ops-Core helmet cover (Multicam Black)",
+  "ShortName": "MCB Cover",
+  "Description": "A high-durability helmet cover built for Ops-Core high-cut ballistic helmets. Produced from tear-resistant nylon with integrated cable management and hook-and-loop panels. Coated in the Multicam Black pattern, intended for law-enforcement and urban low-visibility operations."
+}
+
+    },
+
+    "fleaPriceRoubles": 9500,
+    "handbookPriceRoubles": 11500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV", 
+        "Probability": 2 
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6917c609316f0a61ce2078a0": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12500,
+              "_tpl": "MONEY_ROUBLES" 
+            }
+          ]
+        }
+      }
+    }
+  },
+     "6917c61265268ecbc220f1f2": {
+    "itemTplToClone": "5a398ab9c4a282000c5a9842",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b47574386f77428ca22b32f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "helmetmaster/covermct.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 2, "Height": 1, "Weight": 0.15,
+      
+      "Grids": [],
+       "Slots": []
+    },
+    "locales": {
+      "en": {
+  "Name": "Ops-Core helmet cover (Multicam Tropic)",
+  "ShortName": "MCT Cover",
+  "Description": "A rugged nylon helmet cover designed for Ops-Core high-cut ballistic helmets. Includes reinforced seams, accessory mounting points, and Velcro paneling. Uses the Multicam Tropic camouflage pattern for improved concealment in lush, dense jungle and green woodland environments."
+}
+
+
+    },
+
+    "fleaPriceRoubles": 9500,
+    "handbookPriceRoubles": 11500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV", 
+        "Probability": 2 
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6917c621189545d7c328fe7b": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12500,
+              "_tpl": "MONEY_ROUBLES" 
+            }
+          ]
+        }
+      }
+    }
+  },
+       "6917c633200042156b8bdb52": {
+    "itemTplToClone": "5a398ab9c4a282000c5a9842",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b47574386f77428ca22b32f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "helmetmaster/c11bb.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 1, "Height": 1, "Weight": 0.05,
+      
+      "Grids": [],
+       "Slots": []
+    },
+    "locales": {
+      "en": {
+  "Name": "C11 Blackbeard Patch",
+  "ShortName": "C11 BB",
+  "Description": "A version of blackbeards patch made by yours truly."
+}
+
+
+    },
+
+    "fleaPriceRoubles": 750,
+    "handbookPriceRoubles": 850,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV", 
+        "Probability": 2 
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6917c68fb7a6e15cc336e431": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1200,
+              "_tpl": "MONEY_ROUBLES" 
+            }
+          ]
+        }
+      }
+    }
+  },
+         "6917c69f14af1f6aff139dbd": {
+    "itemTplToClone": "5a398ab9c4a282000c5a9842",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b47574386f77428ca22b32f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "helmetmaster/skullmiami.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 1, "Height": 1, "Weight": 0.05,
+      
+      "Grids": [],
+       "Slots": []
+    },
+    "locales": {
+      "en": {
+  "Name": "C11 No Kings (Miami)",
+  "ShortName": "C11 NK",
+  "Description": "We bow to no king."
+}
+
+
+    },
+
+    "fleaPriceRoubles": 750,
+    "handbookPriceRoubles": 850,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV", 
+        "Probability": 2 
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6917c6db98163a490b0c6056": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1200,
+              "_tpl": "MONEY_ROUBLES" 
+            }
+          ]
+        }
+      }
+    }
+  },
+         "6917c6de1d18ca02f4868839": {
+    "itemTplToClone": "5a398ab9c4a282000c5a9842",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b47574386f77428ca22b32f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "helmetmaster/vegaor2.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 1, "Height": 1, "Weight": 0.05,
+      
+      "Grids": [],
+       "Slots": []
+    },
+    "locales": {
+      "en": {
+  "Name": "C11 Vegvisvir Patch (AOR2)",
+  "ShortName": "C11 AOR2",
+  "Description": "A version of the Vegvisvir, a rune of protection."
+}
+
+
+    },
+
+    "fleaPriceRoubles": 750,
+    "handbookPriceRoubles": 850,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV", 
+        "Probability": 2 
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6917c71bc4496cbf2668585a": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1200,
+              "_tpl": "MONEY_ROUBLES" 
+            }
+          ]
+        }
+      }
+    }
+  }
+}
