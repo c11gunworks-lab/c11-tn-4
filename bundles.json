@@ -389,6 +389,71 @@
             "dependencyKeys": [       
       "shaders"
             ]
-        }
+        },
+      {
+        "key": "t81.bundle",
+        "dependencyKeys": [
+
+          "assets/content/weapons/additional_hands/client_assets.bundle",
+          "assets/content/audio/blendoptions/assets.bundle",
+          "shaders",
+          "assets/content/prefabs/muzzleflash_base.bundle",
+          "assets/systems/effects/heathaze/defaultheathaze.bundle",
+          "assets/systems/effects/smoke.bundle",
+          "assets/content/weapons/weapon_root_anim_fix.bundle",
+          "assets/systems/effects/muzzleflash/muzzleflash.bundle"
+
+
+        ]
+      },
+
+      {
+        "key": "t81dust.bundle",
+        "dependencyKeys": [
+          "shaders"
+        ]
+      },
+      {
+        "key": "t81fhg.bundle",
+        "dependencyKeys": [
+          "shaders"
+        ]
+      },
+      {
+        "key": "t81gas.bundle",
+        "dependencyKeys": [
+          "shaders"
+        ]
+      },
+      {
+        "key": "t81gl.bundle",
+        "dependencyKeys": [
+          "shaders"
+        ]
+      },
+      {
+        "key": "t81mag.bundle",
+        "dependencyKeys": [
+          "shaders"
+        ]
+      },
+      {
+        "key": "t81pg.bundle",
+        "dependencyKeys": [
+          "shaders"
+        ]
+      },
+      {
+        "key": "t81stock.bundle",
+        "dependencyKeys": [
+          "shaders"
+        ]
+      },
+      {
+        "key": "t81thg.bundle",
+        "dependencyKeys": [
+          "shaders"
+        ]
+      }
     ]
 }

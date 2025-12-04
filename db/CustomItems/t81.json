@@ -697,11 +697,11 @@ newstock                ]
       "Slots": []
     },
     "locales": { "en":
-    { "Name":    "",
-      "ShortName": "SPR300 Suppressor",
-      "Description": "Long and quiet, just like a hotdog." } },
-    "fleaPriceRoubles": 85000,
-    "handbookPriceRoubles": 75000,
+    { "Name":    "Poly Technologies Type 81 Grenade Launcher Sleeve",
+      "ShortName": "T81 GL Sleeve",
+      "Description": "No, I'm not adding in any rifle grenades. " } },
+    "fleaPriceRoubles": 8000,
+    "handbookPriceRoubles": 7000,
     "addtoBots": false,
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
@@ -716,16 +716,16 @@ newstock                ]
     "addtoTraders": true,
 
     "traders": {
-      "jaeger": {
-        "6928cddc4e1b739c30ed2cff": {
+      "PRAPOR": {
+        "6930ed35c46fe1f8e3c33497": {
           "barterSettings": {
-            "loyalLevel": 4,
+            "loyalLevel": 1,
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },
           "barters": [
             {
-              "count": 95000,
+              "count": 6000,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
