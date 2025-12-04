@@ -6,7 +6,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "ar18.bundle",
+        "path": "ar18_master/ar18.bundle",
         "rcid": ""
       },
       "BackgroundColor": "default",
@@ -198,7 +198,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "ar18barrel.bundle",
+        "path": "ar18_master/ar18barrel.bundle",
         "rcid": ""
       },
       "BackgroundColor": "default",
@@ -329,7 +329,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "ar18stockconnect.bundle",
+        "path": "ar18_master/ar18stockconnect.bundle",
         "rcid": ""
       },
       "BackgroundColor": "blue",
@@ -406,7 +406,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "ar18stock.bundle",
+        "path": "ar18_master/ar18stock.bundle",
         "rcid": ""
       },
       "BackgroundColor": "blue",
@@ -464,7 +464,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "ar18muzzle.bundle",
+        "path": "ar18_master/ar18muzzle.bundle",
         "rcid": ""
       },
       "BackgroundColor": "blue",
@@ -525,7 +525,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "ar18rearsight.bundle",
+        "path": "ar18_master/ar18rearsight.bundle",
         "rcid": ""
       },
       "BackgroundColor": "blue",
@@ -584,7 +584,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "ar18receiver.bundle",
+        "path": "ar18_master/ar18receiver.bundle",
         "rcid": ""
       },
       "BackgroundColor": "blue",
@@ -717,7 +717,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "ar18mag.bundle",
+        "path": "ar18_master/ar18mag.bundle",
         "rcid": ""
       },
       "BackgroundColor": "violet",
@@ -812,7 +812,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "ar18mag30.bundle",
+        "path": "ar18_master/ar18mag30.bundle",
         "rcid": ""
       },
       "BackgroundColor": "violet",
@@ -908,7 +908,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "ar18mag40.bundle",
+        "path": "ar18_master/ar18mag40.bundle",
         "rcid": ""
       },
       "BackgroundColor": "violet",
@@ -1004,7 +1004,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "ar18handguard.bundle",
+        "path": "ar18_master/ar18handguard.bundle",
         "rcid": ""
       },
       "BackgroundColor": "blue",
@@ -1082,7 +1082,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "ar18frontsight.bundle",
+        "path": "ar18_master/ar18frontsight.bundle",
         "rcid": ""
       },
       "BackgroundColor": "blue",
@@ -1141,7 +1141,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "ar18handgrip.bundle",
+        "path": "ar18_master/ar18handgrip.bundle",
         "rcid": ""
       },
       "BackgroundColor": "blue",
@@ -1199,7 +1199,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "ar18buff.bundle",
+        "path": "ar18_master/ar18buff.bundle",
         "rcid": ""
       },
       "BackgroundColor": "default",
@@ -1292,7 +1292,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "ar18pic.bundle",
+        "path": "ar18_master/ar18pic.bundle",
         "rcid": ""
       },
       "BackgroundColor": "default",
@@ -1374,7 +1374,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "ar18chop.bundle",
+        "path": "ar18_master/ar18chop.bundle",
         "rcid": ""
       },
       "BackgroundColor": "default",
@@ -1503,7 +1503,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "ar18smount.bundle",
+        "path": "ar18_master/ar18smount.bundle",
         "rcid": ""
       },
       "BackgroundColor": "default",
@@ -1633,7 +1633,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "ar18aimp.bundle",
+        "path": "ar18_master/ar18aimp.bundle",
         "rcid": ""
       },
       "BackgroundColor": "default",
@@ -1785,7 +1785,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "ar18hgm.bundle",
+        "path": "ar18_master/ar18hgm.bundle",
         "rcid": ""
       },
       "BackgroundColor": "default",

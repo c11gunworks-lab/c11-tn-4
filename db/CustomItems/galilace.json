@@ -6,7 +6,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "galilace.bundle",
+        "path": "galil_master/galilace.bundle",
         "rcid": ""
       },
       "BackgroundColor": "default",
@@ -234,7 +234,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "acedust.bundle",
+        "path": "galil_master/acedust.bundle",
         "rcid": ""
       },
       "BackgroundColor": "default",
@@ -312,7 +312,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "acegas.bundle",
+        "path": "galil_master/acegas.bundle",
         "rcid": ""
       },
       "BackgroundColor": "blue",
@@ -435,7 +435,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "acehg.bundle",
+        "path": "galil_master/acehg.bundle",
         "rcid": ""
       },
       "BackgroundColor": "default",
@@ -493,7 +493,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "acepic.bundle",
+        "path": "galil_master/acepic.bundle",
         "rcid": ""
       },
       "BackgroundColor": "default",
@@ -654,7 +654,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "acers.bundle",
+        "path": "galil_master/acers.bundle",
         "rcid": ""
       },
       "Width": 1,
@@ -712,7 +712,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "acestock.bundle",
+        "path": "galil_master/acestock.bundle",
         "rcid": ""
       },
       "Width": 2,

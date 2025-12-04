@@ -6,7 +6,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "bt300.bundle",
+        "path": "sprmaster/bt300.bundle",
         "rcid": ""
       },
       "BackgroundColor": "default",
@@ -336,7 +336,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "sprbarrel.bundle",
+        "path": "sprmaster/sprbarrel.bundle",
         "rcid": ""
       },
       "BackgroundColor":"blue",
@@ -427,7 +427,7 @@
     "handbookParentId": "5b5f75b986f77447ec5d7710",
     "overrideProperties": {
       "ExaminedByDefault": true,
-      "Prefab": { "path": "sprstock.bundle", "rcid": "" },
+      "Prefab": { "path": "sprmaster/sprstock.bundle", "rcid": "" },
       "BackgroundColor": "blue",
       "Width": 2,
       "Height": 1,
@@ -498,7 +498,7 @@
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
       "ExaminedByDefault": true,
-      "Prefab": { "path": "sprcheek.bundle", "rcid": "" },
+      "Prefab": { "path": "sprmaster/sprcheek.bundle", "rcid": "" },
       "BackgroundColor": "blue",
       "Width": 2, "Height": 1, "Weight": 0.15,
       "Ergonomics": 9, "Recoil": -10,
@@ -552,7 +552,7 @@
     "handbookParentId": "5b5f731a86f774093e6cb4f9",
     "overrideProperties": {
       "ExaminedByDefault": true,
-      "Prefab": { "path": "sprsup.bundle", "rcid": "" },
+      "Prefab": { "path": "sprmaster/sprsup.bundle", "rcid": "" },
       "BackgroundColor": "blue",
       "Width": 2,
       "Height": 1,
@@ -612,7 +612,7 @@
     "handbookParentId": "5b5f754a86f774094242f19b",
     "overrideProperties": {
       "ExaminedByDefault": true,
-      "Prefab": { "path": "sprmag.bundle", "rcid": "" },
+      "Prefab": { "path": "sprmaster/sprmag.bundle", "rcid": "" },
       "BackgroundColor": "blue",
       "Width": 1,
       "Height": 1,
@@ -711,7 +711,7 @@
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
       "ExaminedByDefault": true,
-      "Prefab": { "path": "sprrails.bundle", "rcid": "" },
+      "Prefab": { "path": "sprmaster/sprrails.bundle", "rcid": "" },
       "BackgroundColor": "blue",
       "Width": 2,
       "Height": 1,
@@ -924,7 +924,7 @@
     "handbookParentId": "5b5f761f86f774094242f1a1",
     "overrideProperties": {
       "ExaminedByDefault": true,
-      "Prefab": { "path": "sprgrip.bundle", "rcid": "" },
+      "Prefab": { "path": "sprmaster/sprgrip.bundle", "rcid": "" },
       "BackgroundColor": "blue",
       "Width": 1,
       "Height": 2,
