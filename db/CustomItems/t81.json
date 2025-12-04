@@ -29,7 +29,7 @@
       "isChamberLoad": true,
       "chamberAmmoCount": 1,
       "isBoltCatch": false,
-      "defMagType": "newmag",
+      "defMagType": "6930d355328696040a6d3d16",
       "ammoCaliber": "Caliber762x39",
       "isFastReload": true,
       "weapFireType": [
@@ -77,7 +77,7 @@
               {
                 "Shift": 0,
                 "Filter": [
-                  newgas
+                  "6930d0095c6559e2816d3d0a"
                 ]
               }
             ]
@@ -96,7 +96,7 @@
                 "AnimationIndex":-1,
                 "Shift": 0,
                 "Filter": [
-                  newmag
+                  "6930d355328696040a6d3d16"
                 ]
               }
             ]
@@ -114,7 +114,7 @@
             "filters": [
               {
                 "Filter": [
-newgl
+"6930d46773f977e1746d3d19"
                 ],
                 "Shift": 0
               }
@@ -132,12 +132,12 @@ newgl
               {
                 "Shift": 0,
                 "Filter": [
-newdust
+"6930cfb2b708723c496d3d09"
                 ]
               }
             ]
           },
-          "_required": true,
+          "_required": false,
           "_mergeSlotWithChildren": false,
           "_proto": "55d30c4c4bdc2db4468b457e"
         },
@@ -150,11 +150,11 @@ newdust
               {
                 "shift": 0,
                 "Filter": [
-newstock                ]
+"6930d291dbd8befb636d3d12"                ]
               }
             ]
           },
-          "_required": true,
+          "_required": false,
           "_mergeSlotWithChildren": false,
           "_proto": "55d30c4c4bdc2db4468b457e"
         }
@@ -286,7 +286,7 @@ newstock                ]
               {
                 "Shift": 0,
                 "Filter": [
-                  newhandguard
+                  "6930d0ab3adc98bda56d3d0c"
                 ]
               }
             ]
@@ -367,7 +367,7 @@ newstock                ]
             {
               "Shift": 0,
               "Filter": [
-                newlowhandguard
+                "6930d1c9eb251e06e06d3d10"
               ]
             }
           ]
