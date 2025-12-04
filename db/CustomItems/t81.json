@@ -157,6 +157,23 @@
           "_required": false,
           "_mergeSlotWithChildren": false,
           "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_pistol_grip",
+          "_id": "6930f0d8dd0ea2c392c33498",
+          "_parent": "6930cde327aa0ba2c16d3d01",
+          "_props": {
+            "filters": [
+              {
+                "shift": 0,
+                "Filter": [
+                  "6930d2efff08b89be96d3d14"                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
         }
       ],
       "Grids": []
@@ -359,7 +376,7 @@
       "Recoil": -2,
       "Grids": [],
       "Slots": [{
-        "_name": "mod_handguard",
+        "_name": "mod_handguard_000",
         "_id": "6930d104ab67d28f106d3d0d",
         "_parent": "6930d0ab3adc98bda56d3d0c",
         "_props": {
@@ -608,7 +625,7 @@
       "Weight": 1.0,
       "CanFast":true,
       "CanHit":true,
-      "VisibleAmmoRangesString":"1-3",
+      "VisibleAmmoRangesString":"1-5",
       "CanPutIntoDuringTheRaid":true,
 
       "Cartridges": 
