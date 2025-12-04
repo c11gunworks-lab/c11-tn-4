@@ -6,7 +6,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "helmetmaster/opscoregb.bundle",
+        "path": "opscoregb.bundle",
         "rcid": ""
       },
       "Width": 2,
@@ -269,7 +269,7 @@
     "handbookParentId": "5b5f6f3c86f774094242ef87",
     "overrideProperties": {
       "ExaminedByDefault": true,
-      "Prefab": { "path": "helmetmaster/amparms.bundle", "rcid": "" },
+      "Prefab": { "path": "amparms.bundle", "rcid": "" },
       "BackgroundColor": "blue",
       "Width": 2, "Height": 1, "Weight": 0.15,
       
@@ -345,7 +345,7 @@
     "handbookParentId": "5b5f6f3c86f774094242ef87",
     "overrideProperties": {
       "ExaminedByDefault": true,
-      "Prefab": { "path": "helmetmaster/raclink.bundle", "rcid": "" },
+      "Prefab": { "path": "raclink.bundle", "rcid": "" },
       "BackgroundColor": "blue",
       "Width": 2, "Height": 1, "Weight": 0.05,
       
@@ -419,7 +419,7 @@
     "handbookParentId": "5b5f6f3c86f774094242ef87",
     "overrideProperties": {
       "ExaminedByDefault": true,
-      "Prefab": { "path": "helmetmaster/comtac5mounted.bundle", "rcid": "" },
+      "Prefab": { "path": "comtac5mounted.bundle", "rcid": "" },
       "BackgroundColor": "default",
       "Width": 2, "Height": 1, "Weight": 0.35,
       
@@ -475,7 +475,7 @@
     "handbookParentId": "5b47574386f77428ca22b32f",
     "overrideProperties": {
       "ExaminedByDefault": true,
-      "Prefab": { "path": "helmetmaster/coveraor2.bundle", "rcid": "" },
+      "Prefab": { "path": "coveraor2.bundle", "rcid": "" },
       "BackgroundColor": "default",
       "Width": 2, "Height": 1, "Weight": 0.15,
       
@@ -532,7 +532,7 @@
     "handbookParentId": "5b47574386f77428ca22b32f",
     "overrideProperties": {
       "ExaminedByDefault": true,
-      "Prefab": { "path": "helmetmaster/coverdts.bundle", "rcid": "" },
+      "Prefab": { "path": "coverdts.bundle", "rcid": "" },
       "BackgroundColor": "default",
       "Width": 2, "Height": 1, "Weight": 0.15,
       
@@ -589,7 +589,7 @@
     "handbookParentId": "5b47574386f77428ca22b32f",
     "overrideProperties": {
       "ExaminedByDefault": true,
-      "Prefab": { "path": "helmetmaster/covermcb.bundle", "rcid": "" },
+      "Prefab": { "path": "covermcb.bundle", "rcid": "" },
       "BackgroundColor": "default",
       "Width": 2, "Height": 1, "Weight": 0.15,
       
@@ -647,7 +647,7 @@
     "handbookParentId": "5b47574386f77428ca22b32f",
     "overrideProperties": {
       "ExaminedByDefault": true,
-      "Prefab": { "path": "helmetmaster/covermct.bundle", "rcid": "" },
+      "Prefab": { "path": "covermct.bundle", "rcid": "" },
       "BackgroundColor": "default",
       "Width": 2, "Height": 1, "Weight": 0.15,
       
@@ -706,7 +706,7 @@
     "handbookParentId": "5b47574386f77428ca22b32f",
     "overrideProperties": {
       "ExaminedByDefault": true,
-      "Prefab": { "path": "helmetmaster/c11bb.bundle", "rcid": "" },
+      "Prefab": { "path": "c11bb.bundle", "rcid": "" },
       "BackgroundColor": "default",
       "Width": 1, "Height": 1, "Weight": 0.05,
       
@@ -765,7 +765,7 @@
     "handbookParentId": "5b47574386f77428ca22b32f",
     "overrideProperties": {
       "ExaminedByDefault": true,
-      "Prefab": { "path": "helmetmaster/skullmiami.bundle", "rcid": "" },
+      "Prefab": { "path": "skullmiami.bundle", "rcid": "" },
       "BackgroundColor": "default",
       "Width": 1, "Height": 1, "Weight": 0.05,
       
@@ -824,7 +824,7 @@
     "handbookParentId": "5b47574386f77428ca22b32f",
     "overrideProperties": {
       "ExaminedByDefault": true,
-      "Prefab": { "path": "helmetmaster/vegaor2.bundle", "rcid": "" },
+      "Prefab": { "path": "vegaor2.bundle", "rcid": "" },
       "BackgroundColor": "default",
       "Width": 1, "Height": 1, "Weight": 0.05,
       

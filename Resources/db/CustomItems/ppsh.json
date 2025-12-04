@@ -52,7 +52,7 @@
       "Loudness": 0,
       "MergesWithChildren": true,
       "Prefab": {
-        "path": "ppshmaster/ppshchop.bundle",
+        "path": "ppshchop.bundle",
         "rcid": ""
       },
       "QuestItem": false,
@@ -203,7 +203,7 @@
       "Loudness": 0,
       "MergesWithChildren": true,
       "Prefab": {
-        "path": "ppshmaster/ppshhandguard.bundle",
+        "path": "ppshhandguard.bundle",
         "rcid": ""
       },
       "QuestItem": false,
@@ -447,7 +447,7 @@
       "Loudness": 0,
       "MergesWithChildren": true,
       "Prefab": {
-        "path": "ppshmaster/ppshscope.bundle",
+        "path": "ppshscope.bundle",
         "rcid": ""
       },
       "QuestItem": false,
@@ -633,7 +633,7 @@
       "Loudness": -5,
       "MergesWithChildren": true,
       "Prefab": {
-        "path": "ppshmaster/ppshthread.bundle",
+        "path": "ppshthread.bundle",
         "rcid": ""
       },
       "QuestItem": false,
@@ -767,7 +767,7 @@
       "Loudness": 0,
       "MergesWithChildren": true,
       "Prefab": {
-        "path": "ppshmaster/ppshbuffer.bundle",
+        "path": "ppshbuffer.bundle",
         "rcid": ""
       },
       "QuestItem": false,
@@ -925,7 +925,7 @@
       "Loudness": 0,
       "MergesWithChildren": true,
       "Prefab": {
-        "path": "ppshmaster/ppshtacstock.bundle",
+        "path": "ppshtacstock.bundle",
         "rcid": ""
       },
       "QuestItem": false,

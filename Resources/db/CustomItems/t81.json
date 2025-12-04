@@ -6,7 +6,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "t81master/t81.bundle",
+        "path": "t81.bundle",
         "rcid": ""
       },
       "BackgroundColor": "default",
@@ -226,7 +226,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "t81master/t81dust.bundle",
+        "path": "t81dust.bundle",
         "rcid": ""
       },
       "BackgroundColor": "default",
@@ -285,7 +285,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "t81master/t81gas.bundle",
+        "path": "t81gas.bundle",
         "rcid": ""
       },
       "BackgroundColor": "blue",
@@ -365,7 +365,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "t81master/t81thg.bundle",
+        "path": "t81thg.bundle",
         "rcid": ""
       },
       "BackgroundColor": "default",
@@ -440,7 +440,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "t81master/t81fhg.bundle",
+        "path": "t81fhg.bundle",
         "rcid": ""
       },
       "BackgroundColor": "default",
@@ -500,7 +500,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "t81master/t81stock.bundle",
+        "path": "t81stock.bundle",
         "rcid": ""
       },
       "Width": 2,
@@ -559,7 +559,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "t81master/t81pg.bundle",
+        "path": "t81pg.bundle",
         "rcid": ""
       },
       "Width": 1,
@@ -617,7 +617,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "t81master/t81mag.bundle",
+        "path": "t81mag.bundle",
         "rcid": ""
       },
       "Width": 1,
@@ -703,7 +703,7 @@
     "handbookParentId": "5b5f724c86f774093f2ecf15",
     "overrideProperties": {
       "ExaminedByDefault": true,
-      "Prefab": { "path": "t81master/t81gl.bundle", "rcid": "" },
+      "Prefab": { "path": "t81gl.bundle", "rcid": "" },
       "Width": 2,
       "Height": 1,
       "Weight": 0.3,

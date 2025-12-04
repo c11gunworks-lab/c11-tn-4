@@ -21,7 +21,7 @@
       "ArmorZone": [],
       "Indestructibility": 0.9,
       "Prefab": {
-        "path": "assorted_master/119tropic.bundle",
+        "path": "119tropic.bundle",
         "rcid": ""
       },
       "Slots": [
@@ -376,7 +376,7 @@
       "Name": "foregrip_all_vtac_chop",
       "NotShownInSlot": false,
       "Prefab": {
-        "path": "assorted_master/bcmsliced.bundle",
+        "path": "bcmsliced.bundle",
         "rcid": ""
       },
       "QuestItem": false,
