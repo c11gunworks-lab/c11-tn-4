@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2660662652
+CRC: 2164175079
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 585c34ba069251c2bf22c49b41cdce5f
+    Hash: eaa7904fd9a925ac39664bdf28e433a7
   TypeTreeHash:
     serializedVersion: 2
-    Hash: caae600c4aa7c48a3503ffee23c47f4c
+    Hash: 7e9a4fbb330efcd20c113bc417f48ccd
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 585c34ba069251c2bf22c49b41cdce5f
+    Hash: eaa7904fd9a925ac39664bdf28e433a7
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -27,6 +27,8 @@ ClassTypes:
 - Class: 43
   Script: {instanceID: 0}
 - Class: 48
+  Script: {instanceID: 0}
+- Class: 65
   Script: {instanceID: 0}
 - Class: 74
   Script: {instanceID: 0}
@@ -96,7 +98,6 @@ Assets:
 Dependencies:
 - C:/Users/ngerwing/Documents/EscapeFromTarkov-SDK/AssetBundles/StandaloneWindows/assets/content/audio/blendoptions/assets.bundle
 - C:/Users/ngerwing/Documents/EscapeFromTarkov-SDK/AssetBundles/StandaloneWindows/assets/content/weapons/additional_hands/client_assets.bundle
-- C:/Users/ngerwing/Documents/EscapeFromTarkov-SDK/AssetBundles/StandaloneWindows/assets/content/weapons/weapon_root_anim_fix.bundle
 - C:/Users/ngerwing/Documents/EscapeFromTarkov-SDK/AssetBundles/StandaloneWindows/assets/systems/effects/heathaze/defaultheathaze.bundle
 - C:/Users/ngerwing/Documents/EscapeFromTarkov-SDK/AssetBundles/StandaloneWindows/assets/systems/effects/muzzleflash/muzzleflash.bundle
 - C:/Users/ngerwing/Documents/EscapeFromTarkov-SDK/AssetBundles/StandaloneWindows/assets/systems/effects/smoke.bundle
