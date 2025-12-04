@@ -49,7 +49,10 @@ public class TrueNorth(
         // WTT ingestion
         await wttCommon.CustomItemServiceExtended.CreateCustomItems(assembly);
         await wttCommon.CustomLocaleService.CreateCustomLocales(assembly);
+        await wttCommon.CustomAssortSchemeService.CreateCustomAssortSchemes(assembly);
 
-        log.LogInformation("[TrueNorth] WTT data loaded.");
+
+        log.LogInformation("Welcome to the True North");
+        await Task.CompletedTask;
     }
 }

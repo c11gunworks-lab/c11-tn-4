@@ -1,0 +1,982 @@
+﻿{
+  "6928b6bf523e7af9a6ed2cec": {
+    "itemTplToClone": "588892092459774ac91d4b11",
+    "parentId": "5447b6254bdc2dc3278b4568",
+    "handbookParentId": "5b5f798886f77447ed5636b5",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "bt300.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "default",
+      "MergesWithChildren": true,
+      "Width": 3,
+      "Height": 1,
+      "Weight": 1.7,
+      "CenterOfImpact":0.005,
+      "Ergonomics":50,
+      "RecoilForceBack":185,
+      "RecoilForceUp":95,
+      "bEffDist": 300,
+      "bFirerate":30,
+      "CanPutIntoDuringTheRaid":true,
+      "BoltAction": true,
+      "bHearDist": 270,
+      "defAmmo":"5fbe3ffdf8b6a877a729ea82",
+      "defMagType":"55d4887d4bdc2d962f8b4570",
+      "chamberAmmoCount": 1,
+      "isBoltCatch": true,
+      "isChamberLoad":true,
+      "isFastReload":false,
+      "ReloadMode": "ExternalMagazine",
+      "Foldable": true,
+      "Retractable": false,
+      "SizeReduceRight": 1,
+      "FoldedSlot": "mod_stock",
+      "CompactHandling": true,
+      "SingleFireRate": 450,
+      "CanQueueSecondShot": true,
+      "ammoCaliber": "Caliber556x45NATO",
+      "weapFireType": [
+        "single"
+      ],
+
+      "Chambers": [
+        {
+          "_name": "patron_in_weapon",
+          "_id": "6928c660f04c013281ed2cee",
+          "_parent": "6928b6bf523e7af9a6ed2cec",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5fbe3ffdf8b6a877a729ea82",
+                  "5fd20ff893a8961fc660a954",
+                  "619636be6db0f2477964e710",
+                  "6196364158ef8c428c287d9f",
+                  "6196365d58ef8c428c287da1",
+                  "64b8725c4b75259c590fa899"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d4af244bdc2d962f8b4571"
+        }
+      ],
+      "Slots": [
+        {
+          "_name": "mod_pistol_grip",
+          "_id": "6928c6ec286b751534ed2cef",
+          "_parent": "6928b6bf523e7af9a6ed2cec",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "55d4b9964bdc2d1d4e8b456e",
+                  "571659bb2459771fb2755a12",
+                  "6113c3586c780c1e710c90bc",
+                  "6113cc78d3a39d50044c065a",
+                  "6113cce3d92c473c770200c7",
+                  "57c55efc2459772d2c6271e7",
+                  "57af48872459771f0b2ebf11",
+                  "57c55f092459772d291a8463",
+                  "57c55f112459772d28133310",
+                  "57c55f172459772d27602381",
+                  "5a339805c4a2826c6e06d73d",
+                  "615d8faecabb9b7ad90f4d5d",
+                  "5b07db875acfc40dc528a5f6",
+                  "63f5feead259b42f0b4d6d0f",
+                  "6928d412401cd7f6a6ed2d0c"
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_magazine",
+          "_id": "6928c6fdd7de19f4dfed2cf0",
+          "_parent": "6928b6bf523e7af9a6ed2cec",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex":-1,
+                "Shift": 1,
+                "Filter": [
+                  "55d4887d4bdc2d962f8b4570",
+                  "61840bedd92c473c77021635",
+                  "61840d85568c120fdd2962a5",
+                  "5c05413a0db834001c390617",
+                  "5c6d450c2e221600114c997d",
+                  "5c6d42cb2e2216000e69d7d1",
+                  "59c1383d86f774290a37e0ca",
+                  "5aaa5e60e5b5b000140293d6",
+                  "5448c1d04bdc2dff2f8b4569",
+                  "5aaa5dfee5b5b000140293d3",
+                  "5d1340b3d7ad1a0b52682ed7",
+                  "544a378f4bdc2d30388b4567",
+                  "5d1340bdd7ad1a0e8d245aab",
+                  "55802d5f4bdc2dac148b458e",
+                  "5d1340cad7ad1a0b0b249869",
+                  "6241c2c2117ad530666a5108",
+                  "5c6592372e221600133e47d7",
+                  "544a37c44bdc2d25388b4567",
+                  "5c6d46132e221601da357d56",
+                  "6761765f1f08ed5e8800b7a6",
+                  "6928cdf53823872ef9ed2d00"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_scope",
+          "_id": "6928c77fa778a7204eed2cf2",
+          "_parent": "6928b6bf523e7af9a6ed2cec",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5dfe6104585a0c3e995c7b82",
+                  "544a3d0a4bdc2d1b388b4567",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e",
+                  "615d8d878004cc50514c3233",
+                  "5b2389515acfc4771e1be0c0",
+                  "577d128124597739d65d0e56",
+                  "618b9643526131765025ab35",
+                  "618bab21526131765025ab3f",
+                  "5c86592b2e2216000e69e77c",
+                  "5a37ca54c4a282000d72296a",
+                  "5d0a29fed7ad1a002769ad08",
+                  "58d2664f86f7747fec5834f6",
+                  "57c69dd424597774c03b7bbc",
+                  "5b3b99265acfc4704b4a1afb",
+                  "5aa66a9be5b5b0214e506e89",
+                  "5aa66c72e5b5b00016327c93",
+                  "61714b2467085e45ef140b2c",
+                  "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "59db7eed86f77461f8380365",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "5dff77c759400025ea5150cf",
+                  "626bb8532c923541184624b4",
+                  "62811f461d5df4475f46a332",
+                  "63fc449f5bd61c6cf3784a88",
+                  "6477772ea8a38bb2050ed4db",
+                  "6478641c19d732620e045e17",
+                  "64785e7c19d732620e045e15",
+                  "65392f611406374f82152ba5",
+                  "653931da5db71d30ab1d6296",
+                  "655f13e0a246670fb0373245",
+                  "6567e751a715f85433025998",
+                  "5c1cdd302e221602b3137250",
+                  "5c064c400db834001d23f468",
+                  "67641a851b2899700609901a",
+                  "6761759e7ee06333f108bf86"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_stock",
+          "_id": "6928c77c3c1800a0a1ed2cf1",
+          "_parent": "6928b6bf523e7af9a6ed2cec",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+"6928cb010ae5910a0fed2cf9"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_barrel",
+          "_id": "6928c7afd757e6d23fed2cf3",
+          "_parent": "6928b6bf523e7af9a6ed2cec",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "6928c96c09ac8dd00eed2cf6"
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical",
+          "_id": "6928c7c3b54f1bb76eed2cf4",
+          "_parent": "6928b6bf523e7af9a6ed2cec",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "6928d0d51fddbf01dbed2d05"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Grids": []
+
+
+
+
+    },
+
+    "locales": {
+      "en": {
+        "Name": "B&T SPR300",
+        "ShortName": "SPR300",
+        "Description": "The SPR300 is a 300 BLK bolt action rifle with a 9.8-inch barrel, designed for accuracy, with a folding stock, adjustable trigger, and a sound suppressor "
+      }
+    },
+    "fleaPriceRoubles": 175000,
+    "handbookPriceRoubles": 165000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 1
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "jaeger": {
+        "6928c81aae6ed6b222ed2cf5": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 185000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6928c96c09ac8dd00eed2cf6": {
+    "itemTplToClone": "5fbbfacda56d053a3543f799",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "sprbarrel.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor":"blue",
+      "MergesWithChildren": true,
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.65,
+      "Loudness": 10,
+      "Recoil": -4,
+      "ShotgunDispersion":1,
+      "DeviationMax":3,
+"Ergonomics": -1,
+      "ExtraSizeLeft":0,
+
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "6928ca26cf818724f4ed2cf7",
+          "_parent": "6928c96c09ac8dd00eed2cf6",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "6928ccf3e483449082ed2cfe"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+       
+      ],
+      "Grids": []
+
+    },
+
+    "locales": {
+      "en": {
+        "Name": "B&T SPR300 9.8\" Barrel",
+        "ShortName": "SPR300 9.8",
+        "Description": "The naked barrel for the SPR300. Did you lose your suppressor?"
+      }
+    },
+    "fleaPriceRoubles": 55000,
+    "handbookPriceRoubles": 45000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 1
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "jaeger": {
+        "6928caf34511d75ac6ed2cf8": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 60000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+
+
+  "6928cb010ae5910a0fed2cf9": {
+    "itemTplToClone": "58889d0c2459775bc215d981",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f75b986f77447ec5d7710",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "sprstock.bundle", "rcid": "" },
+      "BackgroundColor": "blue",
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.3,
+      "Ergonomics": 10,
+      "ExtraSizeRight":1,
+      "RaidModdable":true,
+      "SizeReduceRight":1,
+      "HasShoulderContact":true,
+      "Recoil": -25,
+      "Slots": [
+        {
+          "_name": "mod_riser",
+          "_id": "6928cc13624ff64edaed2cfb",
+          "_parent": "6928cb010ae5910a0fed2cf9",
+          "_props": { "filters": [ { "Shift": 0, "Filter": ["6928cc292075420a16ed2cfc"] } ] },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Grids": []
+    },
+    "locales": {
+      "en": { "Name": "B&T SPR300 Precision Stock",
+        "ShortName": "SPR300 Stock",
+        "Description": "Small enough to be packable, but still stabilizes the gun phenomenally." }
+    },
+    "fleaPriceRoubles": 45000,
+    "handbookPriceRoubles": 44677,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 1
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "jaeger": {
+        "6928cbf71707e6385eed2cfa": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 55000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "6928cc292075420a16ed2cfc": {
+    "itemTplToClone": "618167441cb55961fa0fdc71",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "sprcheek.bundle", "rcid": "" },
+      "BackgroundColor": "blue",
+      "Width": 2, "Height": 1, "Weight": 0.15,
+      "Ergonomics": 9, "Recoil": -10,
+      "MergesWithChildren":true,
+      "Grids": [], "Slots": []
+    },
+    "locales": {
+      "en": { "Name": "B&T SPR300 Cheek Rest",
+        "ShortName": "SPR300 Cheek",
+        "Description": "Come, weary traveler, and rest your little head" }
+    },
+    "fleaPriceRoubles": 10000,
+    "handbookPriceRoubles": 11000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 1
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "jaeger": {
+        "6928ccaf533a52f687ed2cfd": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "6928ccf3e483449082ed2cfe": {
+    "itemTplToClone": "59bffbb386f77435b379b9c2",
+    "parentId": "550aa4cd4bdc2dd8348b456c",
+    "handbookParentId": "5b5f731a86f774093e6cb4f9",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "sprsup.bundle", "rcid": "" },
+      "BackgroundColor": "blue",
+      "Width": 2,
+      "Height": 1,
+      "Weight": 1.2,
+      "Ergonomics": -2,
+      "Recoil": -14,
+      "ExtraSizeLeft":1,
+      "HeatFactor":1.10,
+      "Loudness":-72,
+      "muzzleModType":"silencer",
+
+      "MergesWithChildren":true,
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": { "en":
+    { "Name":    "B&T SPR300 Suppressor",
+      "ShortName": "SPR300 Suppressor",
+      "Description": "Long and quiet, just like a hotdog." } },
+    "fleaPriceRoubles": 85000,
+    "handbookPriceRoubles": 75000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 1
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "jaeger": {
+        "6928cddc4e1b739c30ed2cff": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 95000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "6928cdf53823872ef9ed2d00": {
+    "itemTplToClone": "5aaa5e60e5b5b000140293d6",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "sprmag.bundle", "rcid": "" },
+      "BackgroundColor": "blue",
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.1,
+      "CheckTimeModifier":-15,
+      "CanPutIntoDuringTheRaid":true,
+      "Ergonomics": 5,
+      "CanFast":true,
+      "MalfunctionChance":0.05,
+      "MergesWithChildren":true,
+      "Recoil": -4,
+      "VisibleAmmoRangesString":"1-10",
+      "magAnimationIndex":6,
+      "Cartridges":
+      [
+        {
+          "_id": "6928ce70afe5572114ed2d01",
+          "_max_count": 10,
+          "_name": "cartridges",
+          "_parent": "6928cdf53823872ef9ed2d00",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59e6920f86f77411d82aa167",
+                  "59e6927d86f77411da468256",
+                  "54527a984bdc2d4e668b4567",
+                  "54527ac44bdc2d36668b4567",
+                  "59e68f6f86f7746c9f75e846",
+                  "59e6906286f7746c9f75e847",
+                  "59e690b686f7746c9f75e848",
+                  "59e6918f86f7746c9f75e849",
+                  "60194943740c5d77f6705eea",
+                  "601949593ae8f707c4608daa",
+                  "5c0d5ae286f7741e46554302",
+                  "5fbe3ffdf8b6a877a729ea82",
+                  "5fd20ff893a8961fc660a954",
+                  "619636be6db0f2477964e710",
+                  "6196364158ef8c428c287d9f",
+                  "6196365d58ef8c428c287da1",
+                  "64b8725c4b75259c590fa899"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": { "en": {
+      "Name": "B&T .300blk 10-round mag",
+      "ShortName": "B&T Clear 10rd",
+      "Description": "A 10 round Stanag pattern magazine, made of clear plastic so that you can see how much fun you have left for the day" } },
+    "fleaPriceRoubles": 11000,
+    "handbookPriceRoubles": 9500,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": true,
+    "modSlot": ["mod_magazine"],
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "jaeger": {
+        "6928cf92eda1df24b6ed2d02": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "6928d0d51fddbf01dbed2d05": {
+    "itemTplToClone": "5888976c24597754281f93f5",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "sprrails.bundle", "rcid": "" },
+      "BackgroundColor": "blue",
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.5,
+      "Ergonomics": 7,
+      "CanPutIntoDuringTheRaid":true,
+      "ExtraSizeLeft":0,
+      "Recoil": -4,
+      "Slots": [
+        {
+          "_name": "mod_foregrip",
+          "_id": "6928d0d3cdee4e5a7ced2d04",
+          "_parent": "6928d0d51fddbf01dbed2d05",
+          "_props": { "filters": [ { "Shift": 0, "Filter": [
+            "5c7fc87d2e221644f31c0298",
+            "5cda9bcfd7f00c0c0b53e900",
+            "59f8a37386f7747af3328f06",
+            "5a7dbfc1159bd40016548fde",
+            "619386379fb0c665d5490dbe",
+            "5c87ca002e221600114cb150",
+            "588226d124597767ad33f787",
+            "588226dd24597767ad33f789",
+            "588226e62459776e3e094af7",
+            "588226ef24597767af46e39c",
+            "59fc48e086f77463b1118392",
+            "5fce0cf655375d18a253eff0",
+            "5b057b4f5acfc4771e1bd3e9",
+            "5c791e872e2216001219c40a",
+            "558032614bdc2de7118b4585",
+            "58c157be86f77403c74b2bb6",
+            "58c157c886f774032749fb06",
+            "5f6340d3ca442212f4047eb2",
+            "591af28e86f77414a27a9e1d",
+            "5c1cd46f2e22164bef5cfedb",
+            "5c1bc4812e22164bef5cfde7",
+            "5c1bc5612e221602b5429350",
+            "5c1bc5af2e221602b412949b",
+            "5c1bc5fb2e221602b1779b32",
+            "5c1bc7432e221602b412949d",
+            "5c1bc7752e221602b1779b34",
+            "64806bdd26c80811d408d37a",
+            "64807a29e5ffe165600abc97",
+            "5cf4fb76d7f00c065703d3ac",
+            "648067db042be0705c0b3009",
+            "65169d5b30425317755f8e25",
+            "655df24fdf80b12750626d0a",
+            "655dccfdbdcc6b5df71382b6",
+            "661e52e29c8b4dadef008577",
+            "661e53149c8b4dadef008579",
+            "661e52415be02310ed07a07a",
+            "661e52b5b099f32c28003586",
+              "6644920d49817dc7d505ca71",
+              "676175bb48fa5c377e06fc36"
+            
+          ] } ] },
+          "_required": false, "_mergeSlotWithChildren": false, "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_scope",
+          "_id": "6928d0e974bb910fd0ed2d06",
+          "_parent": "6928d0d51fddbf01dbed2d05",
+          "_props": { "filters": [ { "Shift": 0, "Filter": [
+            "558022b54bdc2dac148b458d",
+            "58491f3324597764bc48fa02",
+            "584924ec24597768f12ae244",
+            "6165ac8c290d254f5e6b2f6c",
+            "60a23797a37c940de7062d02",
+            "5d2da1e948f035477b1ce2ba",
+            "584984812459776a704a82a6",
+            "59f9d81586f7744c7506ee62",
+            "570fd721d2720bc5458b4596",
+            "57ae0171245977343c27bfcf",
+            "58d39d3d86f77445bb794ae7",
+            "616554fe50224f204c1da2aa",
+            "5c7d55f52e221644f31bff6a",
+            "616584766ef05c2ce828ef57",
+            "615d8d878004cc50514c3233",
+            "577d128124597739d65d0e56",
+            "58d2664f86f7747fec5834f6",
+            "5649a2464bdc2d91118b45a8",
+            "61714b2467085e45ef140b2c",
+            "5b31163c5acfc400153b71cb",
+            "5a33b652c4a28232996e407c",
+            "5a33b2c9c4a282000c5a9511",
+            "64785e7c19d732620e045e15",
+            "655f13e0a246670fb0373245"
+          ] } ] },
+          "_required": false, "_mergeSlotWithChildren": false, "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_000",
+          "_id": "6928d10519fb07a817ed2d08",
+          "_parent": "6928d0d51fddbf01dbed2d05",
+          "_props": { "filters": [ { "Shift": 0, "Filter": [
+            "57fd23e32459772d0805bcf1",
+            "544909bb4bdc2d6f028b4577",
+            "5d10b49bd7ad1a1a560708b0",
+            "5c06595c0db834001a66af6c",
+            "61605d88ffa6e502ac5e7eeb",
+            "5c5952732e2216398b5abda2",
+            "644a3df63b0b6f03e101e065"
+          ] } ] },
+          "_required": false, "_mergeSlotWithChildren": false, "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_001",
+          "_id": "6928d103a500057b6aed2d07",
+          "_parent": "6928d0d51fddbf01dbed2d05",
+          "_props": { "filters": [ { "Shift": 0, "Filter": [
+            "5a800961159bd4315e3a1657",
+            "57fd23e32459772d0805bcf1",
+            "544909bb4bdc2d6f028b4577",
+            "5c06595c0db834001a66af6c",
+            "5cc9c20cd7f00c001336c65d",
+            "5d2369418abbc306c62e0c80",
+            "5b07dd285acfc4001754240d",
+            "56def37dd2720bec348b456a",
+            "5a7b483fe899ef0016170d15",
+            "61605d88ffa6e502ac5e7eeb",
+            "5a5f1ce64f39f90b401987bc",
+            "560d657b4bdc2da74d8b4572",
+            "5b3a337e5acfc4704b4a19a0",
+            "5c5952732e2216398b5abda2",
+            "57d17e212459775a1179a0f5",
+            "6267c6396b642f77f56f5c1c",
+            "626becf9582c3e319310b837",
+            "6272370ee4013c5d7e31f418",
+            "6272379924e29f06af4d5ecb",
+            "644a3df63b0b6f03e101e065",
+            "646f6322f43d0c5d62063715"
+          ] } ] },
+          "_required": false, "_mergeSlotWithChildren": false, "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_002",
+          "_id": "6928d10ffafe4904f4ed2d09",
+          "_parent": "6928d0d51fddbf01dbed2d05",
+          "_props": { "filters": [ { "Shift": 0, "Filter": [            "5a800961159bd4315e3a1657",
+            "57fd23e32459772d0805bcf1",
+            "544909bb4bdc2d6f028b4577",
+            "5c06595c0db834001a66af6c",
+            "5cc9c20cd7f00c001336c65d",
+            "5d2369418abbc306c62e0c80",
+            "5b07dd285acfc4001754240d",
+            "56def37dd2720bec348b456a",
+            "5a7b483fe899ef0016170d15",
+            "61605d88ffa6e502ac5e7eeb",
+            "5a5f1ce64f39f90b401987bc",
+            "560d657b4bdc2da74d8b4572",
+            "5b3a337e5acfc4704b4a19a0",
+            "5c5952732e2216398b5abda2",
+            "57d17e212459775a1179a0f5",
+            "6267c6396b642f77f56f5c1c",
+            "626becf9582c3e319310b837",
+            "6272370ee4013c5d7e31f418",
+            "6272379924e29f06af4d5ecb",
+            "644a3df63b0b6f03e101e065",
+            "646f6322f43d0c5d62063715"] } ] },
+          "_required": false, "_mergeSlotWithChildren": false, "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "B&T SPR300 Rail Assembly",
+        "ShortName": "SPR300 Rails",
+        "Description": "An addon set of rails to mount anything your heart desires"
+      }
+    },
+    "fleaPriceRoubles": 25000,
+    "handbookPriceRoubles": 25500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 1
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "jaeger": {
+        "6928d24d96680d1d64ed2d0a": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 27500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "6928d412401cd7f6a6ed2d0c": {
+    "itemTplToClone": "5a339805c4a2826c6e06d73d",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "sprgrip.bundle", "rcid": "" },
+      "BackgroundColor": "blue",
+      "Width": 1,
+      "Height": 2,
+      "Weight": 0.15,
+      "Ergonomics": 6,
+      "ExtraSizeDown":1,
+      "CanPutIntoDuringTheRaid":true,
+      "MergesWithChildren":true,
+
+      "Slots": [],
+      "Grids": []
+     
+    },
+    "locales": {
+      "en": { "Name": "B&T SPR300 Pistol Grip",
+        "ShortName": "SPR300 PGrip",
+        "Description": "A pretty basic pistol grip for AR pattern receivers. But it is Swiss, so it's automatically more fancy" }
+    },
+    "fleaPriceRoubles": 8500,
+    "handbookPriceRoubles": 7500,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": true,
+    "modSlot": ["mod_pistol_grip"],
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "jaeger": {
+        "690cefbb88a935e6cd6e7d97": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 8500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -21,6 +21,6 @@
 	</Target>
 
   <ItemGroup>
-    <PackageReference Include="WTT-ServerCommonLib" Version="2.0.0" />
+    <PackageReference Include="WTT-ServerCommonLib" Version="2.0.4" />
   </ItemGroup>
 </Project>

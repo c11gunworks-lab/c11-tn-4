@@ -4,7 +4,7 @@
     "parentId": "5447b5cf4bdc2d65278b4567",
     "handbookParentId": "5b5f792486f77447ed5636b3",
     "overrideProperties": {
-      "Weight": 0.4,
+      "Weight": 0.65,
       "BackgroundColor": "blue",
       "Width": 2,
       "Height": 1,
@@ -212,7 +212,11 @@
       "SingleFireRate": 450,
       "CanQueueSecondShot": true,
       "bFirerate": 30,
-      "Ergonomics": 85,
+      "Ergonomics": 88,
+      "RecoilForceUp": 90,
+      "RecoilForceBack": 120,
+      "CameraRecoil": 0.05,
+      "Convergence": 2.2,
       "Velocity": 0,
       "bEffDist": 50,
       "bHearDist": 80,
@@ -294,7 +298,7 @@
     "locales": {
       "en": {
         "name": "HK P30 Pistol",
-        "shortName": "HKP30",
+        "shortName": "HK P30",
         "description": "A compact 9mm pistol from Germany. Are you back working Mr. Wick?"
       }
     },
@@ -688,7 +692,7 @@
         "rcid": ""
       },
       "Velocity": 0,
-      "Weight": 0.5,
+      "Weight": 0.28,
       "Width": 2
     },
     "locales": {
@@ -1482,7 +1486,7 @@
         "rcid": ""
       },
       "Velocity": 0,
-      "Weight": 0.5,
+      "Weight": 0.28,
       "Width": 2
     },
     "locales": {
@@ -1626,14 +1630,14 @@
         "rcid": ""
       },
       "Velocity": 1.2,
-      "Weight": 0.113,
+      "Weight": 0.115,
       "Width": 1
     },
     "locales": {
       "en": {
-        "name": "HK P30 6 Port Compensator",
-        "shortName": "6portcomp",
-        "description": "This only exists because of John Wick. It did not exist prior to. "
+        "name": "HK P30 Threaded Barrel",
+        "shortName": "hkp30threaded",
+        "description": "Standard barrel threaded for 1/2x28 devices."
       }
     },
     "fleaPriceRoubles": 15000,
@@ -1673,7 +1677,7 @@
     "parentId": "550aa4bf4bdc2dd6348b456b",
     "handbookParentId": "5b5f724c86f774093f2ecf15",
     "overrideProperties": {
-      "Accuracy": 2,
+      "Accuracy": 0,
       "BackgroundColor": "blue",
       "BlocksCollapsible": false,
       "BlocksFolding": false,
@@ -1689,7 +1693,7 @@
       "DropSoundType": "None",
       "Durability": 100,
       "DurabilityBurnModificator": 0.98,
-      "Ergonomics": -1,
+      "Ergonomics": -2,
       "ExamineExperience": 5,
       "ExamineTime": 1,
       "ExaminedByDefault": true,
@@ -1744,14 +1748,14 @@
         "rcid": ""
       },
       "Velocity": 0,
-      "Weight": 0.036,
+      "Weight": 0.085,
       "Width": 1
     },
     "locales": {
       "en": {
-        "name": "HK P30 20 Round Extended Magazine",
-        "shortName": "hkp30stendomag",
-        "description": "20 Rounds will get you somewhere, that's for sure."
+        "name": "HK P30 6 Port Compensator",
+        "shortName": "6portcomp",
+        "description": "This only exists because of John Wick. It did not exist prior to. "
       }
     },
     "fleaPriceRoubles": 15000,
@@ -1828,7 +1832,7 @@
         }
       ],
       "CheckOverride": 1,
-      "CheckTimeModifier": 1,
+      "CheckTimeModifier": 10,
       "ConflictingItems": [],
       "Description": "hkp30stendomag",
       "DiscardLimit": -1,
@@ -1836,7 +1840,7 @@
       "DoubleActionAccuracyPenaltyMult": 1,
       "DropSoundType": "None",
       "EffectiveDistance": 0,
-      "Ergonomics": 1,
+      "Ergonomics": -1,
       "ExamineExperience": 10,
       "ExamineTime": 1,
       "ExaminedByDefault": true,
@@ -1860,7 +1864,7 @@
       "IsUnremovable": false,
       "IsUnsaleable": false,
       "ItemSound": "magazine_metal",
-      "LoadUnloadModifier": 1,
+      "LoadUnloadModifier": 10,
       "LootExperience": 5,
       "Loudness": 0,
       "MergesWithChildren": true,
@@ -1929,7 +1933,11 @@
       }
     },
     "locales": {
-      "en": {}
+      "en": {
+        "name": "HK P30 20 Round Extended Magazine",
+        "shortName": "hkp30stendomag",
+        "description": "20 Rounds will get you somewhere, that's for sure."
+      }
     }
   }
 }

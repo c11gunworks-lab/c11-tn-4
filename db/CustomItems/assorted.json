@@ -8,6 +8,18 @@
       "Name": "LV119 Covert Multicam Tropic",
       "ShortName": "LV119 MCT",
       "Description": "The Spiritus Systems LV119 Covert is perfect for operators looking for a high speed, low vis and scalable plate carrier. Comes with a Spiritus Systems MK V Placard. ",
+      "Weight": 0.85,
+      "Durability": 65,
+      "MaxDurability": 65,
+      "Ergonomics": -2,
+      "SpeedPenaltyPercent": -2,
+      "MousePenalty": -1,
+      "WeaponErgonomicPenalty": 0,
+      "armorClass": 0,
+      "ArmorMaterial": "Aramid",
+      "BluntThroughput": 0.2,
+      "ArmorZone": [],
+      "Indestructibility": 0.9,
       "Prefab": {
         "path": "119tropic.bundle",
         "rcid": ""
@@ -91,7 +103,7 @@
                 "armorPlateColliders": [
                   "Plate_Granit_SAPI_back"
                 ],
-                "bluntDamageReduceFromSoftArmor": true
+                "bluntDamageReduceFromSoftArmor": false
               }
             ]
           },
@@ -117,7 +129,7 @@
                 "armorPlateColliders": [
                   "Plate_Granit_SSAPI_side_left_high"
                 ],
-                "bluntDamageReduceFromSoftArmor": true
+                "bluntDamageReduceFromSoftArmor": false
               }
             ]
           },
@@ -143,7 +155,7 @@
                 "armorPlateColliders": [
                   "Plate_Granit_SSAPI_side_right_high"
                 ],
-                "bluntDamageReduceFromSoftArmor": true
+                "bluntDamageReduceFromSoftArmor": false
               }
             ]
           },
@@ -302,15 +314,13 @@
           "barters": [
             {
               "count": 57500,
-              "_tpl": "MONEY_ROUBLES" 
+              "_tpl": "MONEY_ROUBLES"
             }
           ]
         }
       }
     }
   },
-  
-
   "690289f47f98dc39096902fd": {
     "itemTplToClone": "5c7fc87d2e221644f31c0298",
     "parentId": "55818af64bdc2d5b648b4570",
@@ -333,7 +343,7 @@
       "DropSoundType": "None",
       "Durability": 100,
       "EffectiveDistance": 0,
-      "Ergonomics": 8,
+      "Ergonomics": 9,
       "ExamineExperience": 6,
       "ExamineTime": 1,
       "ExaminedByDefault": true,
@@ -391,7 +401,7 @@
         "rcid": ""
       },
       "Velocity": 0,
-      "Weight": 0.053,
+      "Weight": 0.05,
       "Width": 1
     },
     "locales": {
@@ -403,10 +413,12 @@
     },
     "fleaPriceRoubles": 25000,
     "handbookPriceRoubles": 25000,
-    "addtoBots": false,
+    "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoModSlots": true,
-    "modSlots":["mod_foregrip"],
+    "modSlots": [
+      "mod_foregrip"
+    ],
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [],
     "addtoSecureFilters": true,
@@ -422,7 +434,7 @@
           "barters": [
             {
               "count": 25000,
-              "_tpl": "MONEY_ROUBLES" 
+              "_tpl": "MONEY_ROUBLES"
             }
           ]
         }

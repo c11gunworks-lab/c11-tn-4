@@ -260,6 +260,135 @@
 "shaders",
 "assets/systems/effects/smoke.bundle"
             ]
+        },
+		{
+            "key": "opscoregb.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+		{
+            "key": "amparms.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+				{
+            "key": "comtac5mounted.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+		{
+            "key": "c11bb.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+		{
+            "key": "skullmiami.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+		{
+            "key": "coveraor2.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+		{
+            "key": "covermcb.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+		{
+            "key": "coverdts.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+		{
+            "key": "covermct.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+		{
+            "key": "vegaor2.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+		{
+            "key": "raclink.bundle",
+            "dependencyKeys": [       
+"shaders"
+            ]
+        },
+		
+		
+		 {
+            "key": "galilace.bundle",
+            "dependencyKeys": [       
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+            			"shaders",
+			"assets/content/prefabs/muzzleflash_base.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle"
+		
+
+            ]
+        },
+		 
+		 {
+            "key": "acepic.bundle",
+            "dependencyKeys": [       
+ "shaders"
+            ]
+        },
+		 {
+            "key": "acers.bundle",
+            "dependencyKeys": [       
+       "shaders"
+            ]
+        },
+		 {
+            "key": "acestock.bundle",
+            "dependencyKeys": [       
+ "shaders"
+            ]
+        },
+		 {
+            "key": "acedust.bundle",
+            "dependencyKeys": [       
+      "shaders"
+            ]
+        },
+		{
+            "key": "ar18mag30.bundle",
+            "dependencyKeys": [       
+ "shaders"
+            ]
+        },
+		{
+            "key": "ar18mag40.bundle",
+            "dependencyKeys": [       
+ "shaders"
+            ]
+        },
+		{
+            "key": "acegas.bundle",
+            "dependencyKeys": [       
+ "shaders"
+            ]
+        },
+		 {
+            "key": "acehg.bundle",
+            "dependencyKeys": [       
+      "shaders"
+            ]
         }
     ]
 }
