@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 2845379178
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86811171610963364bc6469c99d77e12
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1ec45ead8e05e57815fafec41aee9fac
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 86811171610963364bc6469c99d77e12
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f4591e6ef125534dada831973d4130f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f5d2e51b01d34f941afb657f06972821, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 955192fb6cf02a245a9e4b04667649e7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0e88583c408674d4bad1d52c226ee09a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ae72bbdd5dcca54f95119548373eb75, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: MuzzleJet/Particle
+- AssemblyName: Assembly-CSharp
+  ClassName: MuzzleSparks/ByteCurveValue
+- AssemblyName: Assembly-CSharp
+  ClassName: MuzzleSparks/CurveValue
+- AssemblyName: Assembly-CSharp
+  ClassName: PreviewPivot/IconSettings
+Assets:
+- Assets/BT300/Content/Weapons/dvl-10/Barrel.prefab
+Dependencies:
+- C:/Users/ngerwing/Documents/EscapeFromTarkov-SDK/AssetBundles/StandaloneWindows/assets/systems/effects/smoke.bundle
+- C:/Users/ngerwing/Documents/EscapeFromTarkov-SDK/AssetBundles/StandaloneWindows/shaders

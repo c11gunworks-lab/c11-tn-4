@@ -524,5 +524,66 @@
         }
       }
     }
+  },
+  "6931ac76994f765b133f29a2": {
+    "itemTplToClone": "57d17c5e2459775a5c57d17d",
+    "parentId": "55818b084bdc2d5b648b4571",
+    "handbookParentId": "5b5f73ab86f774094242f195",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "sasmount.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.65,
+      "Ergonomics": -1,
+      "Recoil": -1,
+      "MergesWithChildren":true,
+
+      "Slots": [
+        
+      ],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "LASER PRODUCTS Flashlight Mount",
+        "ShortName": "SAS Mount",
+        "Description": "Made famous by the SAS during the Iranian Embassy Siege. "
+      }
+    },
+    "fleaPriceRoubles": 5000,
+    "handbookPriceRoubles": 2500,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "6931ace2e2ec23453b3f29a3": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 7500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
   }
 }
