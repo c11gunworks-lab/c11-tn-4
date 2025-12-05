@@ -298,7 +298,25 @@
 
   "6930d46773f977e1746d3d19 Name": "Poly Technologies Type 81 Grenade Launcher Sleeve",
   "6930d46773f977e1746d3d19 ShortName": "T81 GL Sleeve",
-  "6930d46773f977e1746d3d19 Description": "Grenade launcher sleeve for Type 81 rifles. No grenades included."
+  "6930d46773f977e1746d3d19 Description": "Grenade launcher sleeve for Type 81 rifles. No grenades included.",
+  "6933214ee8e7f9e95db155cf Name":    "Sigmaco Canada Threaded Barrel Sleeve",
+  "6933214ee8e7f9e95db155cf ShortName": "T81 Thr Sleeve",
+  "6933214ee8e7f9e95db155cf Description": "Add muzzle devices to your Type 81, and don't look too hard into what sort of federal institution the owner of the company currently resides in. ",
+  "693322bda247a70444b155d2 Name": "Poly Technologies Type 81 Special Edition 5-round Pinned Magazine",
+  "693322bda247a70444b155d2 ShortName": "T81 SE Pin Mag",
+  "693322bda247a70444b155d2 Description": "Canadian Standard Civilian Mag.",
+  "693224968a1d92759be95bee Name":    "C11 Gunworks Type 81 Buffer Tube Adapter",
+  "693224968a1d92759be95bee ShortName": "T81 Buffer",
+  "693224968a1d92759be95bee Description": "If it looks wack, and it works, its still kinda wack",
+  "6932252226dccbce54e95bf0 Name":    "C11 Gunworks Type 81 Zenitco Sight Adapter",
+  "6932252226dccbce54e95bf0 ShortName": "T81 Zenit Sight",
+  "6932252226dccbce54e95bf0 Description": "Prototypes that Mike from Canmore has acquired for your use ",
+  "693225c799989d996ae95bf3 Name":    "C11 Gunworks Type 81 Zenitco B-10 Handguard",
+  "693225c799989d996ae95bf3 ShortName": "T81 Zenit HG",
+  "693225c799989d996ae95bf3 Description": "A Zenitco B-10 handguard that's been milled out by a local gunsmith for the Type 81. ",
+  "6932eef319a1361673b155cd Name": "C11 Gunworks Type 81 ACR Stock Adapter",
+  "6932eef319a1361673b155cd ShortName": "C11 T81 ACR",
+  "6932eef319a1361673b155cd Description": "Why not slap a stock worth close to half the price of the rifle on?"
 }
 
 
