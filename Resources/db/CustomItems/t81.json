@@ -150,7 +150,9 @@
               {
                 "shift": 0,
                 "Filter": [
-"6930d291dbd8befb636d3d12"                ]
+"6930d291dbd8befb636d3d12",
+                "693224968a1d92759be95bee"
+                ]
               }
             ]
           },
@@ -384,6 +386,7 @@
             {
               "Shift": 0,
               "Filter": [
+                "693225c799989d996ae95bf3",
                 "6930d1c9eb251e06e06d3d10"
               ]
             }
@@ -765,7 +768,42 @@
       "Recoil": 0,
       "MergesWithChildren":true,
       "Grids": [],
-      "Slots": []
+      "Slots": [
+        {
+          "_id": "6932ecfe71bd5bdf79b155cc",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_stock",
+          "_parent": "693224968a1d92759be95bee",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57ade1442459771557167e15",
+                  "5a33ca0fc4a282000d72292f",
+                  "5c0faeddd174af02a962601f",
+                  "5649be884bdc2d79388b4577",
+                  "5d120a10d7ad1a4e1026ba85",
+                  "5b0800175acfc400153aebd4",
+                  "5bb20e58d4351e00320205d7",
+                  "5947e98b86f774778f1448bc",
+                  "5947eab886f77475961d96c5",
+                  "5ef1ba28c64c5d0dfc0571a5",
+                  "602e3f1254072b51b239f713",
+                  "5c793fb92e221644f31bfb64",
+                  "5c793fc42e221600114ca25d",
+                  "591aef7986f774139d495f03",
+                  "591af10186f774139d495f0e",
+                  "627254cc9c563e6e442c398f",
+                  "638de3603a1a4031d8260b8c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
     },
     "locales": { "en":
     { "Name":    "C11 Gunworks Type 81 Buffer Tube Adapter",
@@ -1019,10 +1057,14 @@
         }
       ]
     },
-    "locales": { "en":
-    { "Name":    "C11 Gunworks Type 81 Zenitco Handguard",
+    "locales": {
+      "en":
+    {
+      "Name":    "C11 Gunworks Type 81 Zenitco B-10 Handguard",
       "ShortName": "T81 Zenit HG",
-      "Description": "The integrally machined B-10 foregrip is manufactured from aluminum alloy D16T with black coating and can be installed instead of the standard-issue foregrip on an AK. It's fitted with Picatinny rail mounts on two sides, allowing for the installation of additional equipment such as tactical foregrips, flashlights, and laser designators. Manufactured by Zenit." } },
+      "Description": "A Zenitco B-10 handguard that's been milled out by a local gunsmith for the Type 81. "
+    }
+    },
     "fleaPriceRoubles": 38000,
     "handbookPriceRoubles": 37000,
     "addtoBots": false,
