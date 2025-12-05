@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2400645261
+CRC: 1781319715
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 574276431b95853093ef1230cf2d33c0
+    Hash: da7b290f4942b432af07fcfb27df5d9a
   TypeTreeHash:
     serializedVersion: 2
     Hash: eb7430f05fe384d6d3bbea63932f829d
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 574276431b95853093ef1230cf2d33c0
+    Hash: da7b290f4942b432af07fcfb27df5d9a
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -38,6 +38,6 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
   ClassName: PreviewPivot/IconSettings
 Assets:
-- Assets/T81/Content/Weapons/akm/Magazine.prefab
+- Assets/T81/Content/Weapons/akm/Sigmaco Sleeve.prefab
 Dependencies:
 - C:/Users/ngerwing/Documents/EscapeFromTarkov-SDK/AssetBundles/StandaloneWindows/shaders

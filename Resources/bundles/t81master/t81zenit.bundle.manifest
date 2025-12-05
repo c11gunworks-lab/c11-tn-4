@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2400645261
+CRC: 3196437744
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 574276431b95853093ef1230cf2d33c0
+    Hash: 809f7b1dbd850201c79c43eea149744a
   TypeTreeHash:
     serializedVersion: 2
     Hash: eb7430f05fe384d6d3bbea63932f829d
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 574276431b95853093ef1230cf2d33c0
+    Hash: 809f7b1dbd850201c79c43eea149744a
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -38,6 +38,6 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
   ClassName: PreviewPivot/IconSettings
 Assets:
-- Assets/T81/Content/Weapons/akm/Magazine.prefab
+- Assets/T81/Content/Weapons/akm/t81 zenit.prefab
 Dependencies:
 - C:/Users/ngerwing/Documents/EscapeFromTarkov-SDK/AssetBundles/StandaloneWindows/shaders

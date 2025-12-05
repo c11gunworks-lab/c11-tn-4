@@ -456,6 +456,42 @@
       ]
     },
     {
+      "key": "t81zmoung.bundle",
+      "dependencyKeys": [
+        "shaders"
+      ]
+    },
+    {
+      "key": "t81buffer.bundle",
+      "dependencyKeys": [
+        "shaders"
+      ]
+    },
+    {
+      "key": "t81acr.bundle",
+      "dependencyKeys": [
+        "shaders"
+      ]
+    },
+    {
+      "key": "t81mag5.bundle",
+      "dependencyKeys": [
+        "shaders"
+      ]
+    },
+    {
+      "key": "t81sigm.bundle",
+      "dependencyKeys": [
+        "shaders"
+      ]
+    },
+    {
+      "key": "t81zenit.bundle",
+      "dependencyKeys": [
+        "shaders"
+      ]
+    },
+    {
       "key": "bt300.bundle",
       "dependencyKeys": [
 

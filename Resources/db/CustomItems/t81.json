@@ -1,8 +1,8 @@
 ﻿{
   "6930cde327aa0ba2c16d3d01": {
-    "itemTplToClone": "5ac66d2e5acfc43b321d4b53",
-    "parentId": "5447b5f14bdc2d61278b4567",
-    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "itemTplToClone": "59e6152586f77473dc057aa1",
+    "parentId": "5447b5fc4bdc2d87278b4567",
+    "handbookParentId": "5b5f78e986f77447ed5636b1",
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
@@ -19,12 +19,13 @@
       "CameraRecoil": 0.08,
       "Convergence": 2.0,
       "DeviationCurve":3.35,
+      "SightingRange":100,
       "SingleFireRate": 450,
       "CanQueueSecondShot": true,
-      "bFirerate": 680,
+      "bFirerate": 40,
       "Ergonomics": 50,
       "Velocity": 0,
-      "bEffDist": 500,
+      "bEffDist": 250,
       "bHearDist": 80,
       "isChamberLoad": true,
       "chamberAmmoCount": 1,
@@ -96,7 +97,8 @@
                 "AnimationIndex":-1,
                 "Shift": 0,
                 "Filter": [
-                  "6930d355328696040a6d3d16"
+                  "6930d355328696040a6d3d16",
+                  "693322bda247a70444b155d2"
                 ]
               }
             ]
@@ -114,7 +116,8 @@
             "filters": [
               {
                 "Filter": [
-"6930d46773f977e1746d3d19"
+"6930d46773f977e1746d3d19",
+                  "6933214ee8e7f9e95db155cf"
                 ],
                 "Shift": 0
               }
@@ -151,7 +154,8 @@
                 "shift": 0,
                 "Filter": [
 "6930d291dbd8befb636d3d12",
-                "693224968a1d92759be95bee"
+                "693224968a1d92759be95bee",
+                  "6932eef319a1361673b155cd"
                 ]
               }
             ]
@@ -554,6 +558,64 @@
       }
     }
   },
+  "6932eef319a1361673b155cd": {
+    "itemTplToClone": "5894a13e86f7742405482982",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "t81acr.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 1,
+      "Weight": 1.1,
+      "ExtraSizeRight":1,
+      "Ergonomics": 19,
+      "Recoil": -25,
+      "Slots": [],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "C11 Gunworks Type 81 ACR Stock Adapter",
+        "ShortName": "C11 T81 ACR",
+        "Description": "Why not slap a stock worth close to half the price of the rifle on?"
+      }
+    },
+    "fleaPriceRoubles": 45000,
+    "handbookPriceRoubles": 45500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "6932efc8e78eb21bc6b155ce": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 47500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
 
   "6930d2efff08b89be96d3d14": {
     "itemTplToClone": "5649ad3f4bdc2df8348b4585",
@@ -664,9 +726,97 @@
     },
     "locales": {
       "en": {
-        "Name": "Poly Technologies Type 81 Special Edition Magazine",
-        "ShortName": "T81 SE Mag",
+        "Name": "Poly Technologies Type 81 Special Edition Magazine 30-rounder",
+        "ShortName": "T81 SE 30 Mag",
         "Description": "The pin fell out, oh no."
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "6930d44474028b03656d3d18": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 17500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "693322bda247a70444b155d2": {
+    "itemTplToClone": "59e5d83b86f7745aed03d262",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "t81mag5.bundle",
+        "rcid": ""
+      },
+      "Width": 1,
+      "Height": 2,
+      "Weight": 1.0,
+      "CanFast":true,
+      "CanHit":true,
+      "VisibleAmmoRangesString":"1-5",
+      "CanPutIntoDuringTheRaid":true,
+      "ExtraSizeDown":1,
+
+      "Cartridges":
+      [
+        {
+          "_id": "6933231a3a087aedf0b155d3",
+          "_max_count": 5,
+          "_name": "cartridges",
+          "_parent": "693322bda247a70444b155d2",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59e0d99486f7744a32234762",
+                  "59e4d3d286f774176a36250a",
+                  "5656d7c34bdc2d9d198b4587",
+                  "59e4cf5286f7741778269d8a",
+                  "59e4d24686f7741776641ac7",
+                  "601aa3d2b2bcb34913271e6d",
+                  "64b7af734b75259c590fa895",
+                  "64b7af434b75259c590fa893",
+                  "64b7af5a8532cf95ee0a0dbd"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "Slots": [],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "Poly Technologies Type 81 Special Edition 5-round Pinned Magazine",
+        "ShortName": "T81 SE Pin Mag",
+        "Description": "Canadian Standard Civilian Mag."
       }
     },
     "fleaPriceRoubles": 5000,
@@ -685,7 +835,7 @@
     "addtoTraders": true,
     "traders": {
       "PRAPOR": {
-        "6930d44474028b03656d3d18": {
+        "6933234168d8a859ddb155d4": {
           "barterSettings": {
             "loyalLevel": 1,
             "unlimitedCount": true,
@@ -747,6 +897,84 @@
           "barters": [
             {
               "count": 6000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6933214ee8e7f9e95db155cf": {
+    "itemTplToClone": "5a0abb6e1526d8000a025282",
+    "parentId": "550aa4dd4bdc2dc9348b4569",
+    "handbookParentId": "5b5f72f786f77447ec5d7702",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "t81sigm.bundle", "rcid": "" },
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.3,
+      "Ergonomics": -1,
+      "Recoil": 0,
+      "MergesWithChildren":true,
+      "Grids": [],
+      "Slots": [
+        {
+          "_id": "6933221c4aab706e98b155d0",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "6933214ee8e7f9e95db155cf",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ac72e7d5acfc40016339a02",
+                  "5ac72e895acfc43b321d4bd5",
+                  "5f633f791b231926f2329f13",
+                  "5cc9ad73d7f00c000e2579d4",
+                  "5649ab884bdc2ded0b8b457f",
+                  "5e208b9842457a4a7a33d074",
+                  "59fb257e86f7742981561852"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": { "en":
+    { "Name":    "Sigmaco Canada Threaded Barrel Sleeve",
+      "ShortName": "T81 Thr Sleeve",
+      "Description": "Add muzzle devices to your Type 81, and don't look too hard into what sort of federal institution the owner of the company currently resides in. " } },
+    "fleaPriceRoubles": 18000,
+    "handbookPriceRoubles": 17000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 1
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "PRAPOR": {
+        "6933227146e02396a3b155d1": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 16000,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
