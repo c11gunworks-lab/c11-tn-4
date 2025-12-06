@@ -550,6 +550,20 @@
         "shaders",
         "assets/systems/effects/smoke.bundle"
       ]
+    },
+    {
+      "key": "sasmount.bundle",
+      "dependencyKeys": [
+        "shaders"
+
+      ]
+    },
+    {
+      "key": "sasfl.bundle",
+      "dependencyKeys": [
+        "shaders"
+
+      ]
     }
   ]
 }

@@ -472,7 +472,7 @@
             "filters": [
               {
                 "Filter": [
-"6931a33c9c3a7bbccf3f29a1"
+"6931ac76994f765b133f29a2"
                 ],
                 "Shift": 0
               }
@@ -532,26 +532,27 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "sasmount.bundle",
+        "path": "sasfl.bundle",
         "rcid": ""
       },
+      "CanPutIntoDuringTheRaid":true,
       "Width": 2,
       "Height": 1,
-      "Weight": 0.65,
+      "Weight": 1.65,
       "Ergonomics": -1,
       "Recoil": -1,
+      "ModesCount":1,
       "MergesWithChildren":true,
-
       "Slots": [
-        
+
       ],
       "Grids": []
     },
     "locales": {
       "en": {
-        "Name": "LASER PRODUCTS Flashlight Mount",
-        "ShortName": "SAS Mount",
-        "Description": "Made famous by the SAS during the Iranian Embassy Siege. "
+        "Name": "LASER PRODUCTS Flashlight",
+        "ShortName": "SAS Flashlight",
+        "Description": "Made famous by the SAS during the Iranian Embassy Siege. It is not a particularly good flashlight"
       }
     },
     "fleaPriceRoubles": 5000,
@@ -570,7 +571,7 @@
     "addtoTraders": true,
     "traders": {
       "MECHANIC": {
-        "6931ace2e2ec23453b3f29a3": {
+        "69348064c34eda1e4c61059a": {
           "barterSettings": {
             "loyalLevel": 1,
             "unlimitedCount": true,
