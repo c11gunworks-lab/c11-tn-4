@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 200813289
+CRC: 677981871
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6122c837aceaa3496069f5aae94a51d8
+    Hash: f76d17b923779b577ba001c80264ef47
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7e9a4fbb330efcd20c113bc417f48ccd
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6122c837aceaa3496069f5aae94a51d8
+    Hash: f76d17b923779b577ba001c80264ef47
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -100,5 +100,4 @@ Dependencies:
 - C:/Users/ngerwing/Documents/EscapeFromTarkov-SDK/AssetBundles/StandaloneWindows/assets/content/weapons/additional_hands/client_assets.bundle
 - C:/Users/ngerwing/Documents/EscapeFromTarkov-SDK/AssetBundles/StandaloneWindows/assets/systems/effects/heathaze/defaultheathaze.bundle
 - C:/Users/ngerwing/Documents/EscapeFromTarkov-SDK/AssetBundles/StandaloneWindows/assets/systems/effects/muzzleflash/muzzleflash.bundle
-- C:/Users/ngerwing/Documents/EscapeFromTarkov-SDK/AssetBundles/StandaloneWindows/assets/systems/effects/smoke.bundle
 - C:/Users/ngerwing/Documents/EscapeFromTarkov-SDK/AssetBundles/StandaloneWindows/shaders

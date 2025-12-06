@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 522689977
+CRC: 2471898869
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e1b98c5e8492058a07bea56fd9938c9f
+    Hash: 0f9389783a28a5473dbfe4435cc68bfb
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 47277a446b690e8a39427d59ac91a392
+    Hash: 627687b4c246cc0a94eca53c8f1f1f35
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e1b98c5e8492058a07bea56fd9938c9f
+    Hash: 0f9389783a28a5473dbfe4435cc68bfb
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -39,9 +39,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 6104d2fab22c48f18a1971bd61c570c5, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 6d345aada94f4f01b516eab6e7f03999, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 0e88583c408674d4bad1d52c226ee09a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: cad31bd55c5c45189e9fa172a20be6d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 02bb2adde22549879f61b37d5622c6b9, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 190a71a1e27a67dddc230beee250e93b, type: 3}
 - Class: 114
@@ -52,10 +56,15 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
+  ClassName: MultiFlareLight/Flare
+- AssemblyName: Assembly-CSharp
   ClassName: PreviewPivot/IconSettings
+- AssemblyName: Assembly-CSharp
+  ClassName: ProFlareAtlas/Element
 - AssemblyName: Assembly-CSharp
   ClassName: SpotLightFakeGI/Circle
 Assets:
 - Assets/misc/tactical_all_SAS_Light.prefab
 Dependencies:
+- C:/Users/ngerwing/Documents/EscapeFromTarkov-SDK/AssetBundles/StandaloneWindows/assets/systems/effects/nightvision.bundle
 - C:/Users/ngerwing/Documents/EscapeFromTarkov-SDK/AssetBundles/StandaloneWindows/shaders
