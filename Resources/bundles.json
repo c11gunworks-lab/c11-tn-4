@@ -561,6 +561,7 @@
     {
       "key": "sasfl.bundle",
       "dependencyKeys": [
+        "assets/systems/effects/nightvision.bundle",
         "shaders"
 
       ]

@@ -46,7 +46,7 @@
   <!-- Optional: Add SPTarkov packages if your mod integrates server-side behaviors -->
   <ItemGroup>
     <!-- You already use WTT, keep your version -->
-    <PackageReference Include="WTT-ServerCommonLib" Version="2.0.4" />
+    <PackageReference Include="WTT-ServerCommonLib" Version="2.0.6" />
 
     <!-- Uncomment if you need SPT 4.x server/common/DI APIs -->
     <!-- <PackageReference Include="SPTarkov.Common" Version="4.0.3" /> -->
