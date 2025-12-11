@@ -1,0 +1,88 @@
+{
+  "chances": {
+    "equipment": {
+      "FirstPrimaryWeapon": 20,
+      "Holster": 20
+    },
+    "weaponMods": {
+      "mod_pistol_grip": 100,
+      "mod_magazine": 100,
+      "mod_reciever": 100,
+      "mod_barrel": 100,
+      "mod_stock": 100,
+      "mod_stock_000": 100,
+      "mod_handguard": 100,
+      "mod_foregrip": 100,
+      "mod_scope_mount": 100,
+      "mod_scope": 100,
+      "mod_muzzle": 100,
+      "mod_tactical": 100,
+      "mod_tactical_001": 100,
+      "mod_tactical_002": 100,
+      "mod_trigger": 100,
+      "mod_hammer": 100,
+      "mod_catch": 100,
+      "mod_sight_rear": 100,
+      "mod_sight_front": 100
+    }
+  },
+  "inventory": {
+    "equipment": {
+      "FirstPrimaryWeapon": {
+        "5ea03f7400685063ec28bfa8": 1
+      },
+      "Holster": {
+        "68ded60bbd53f44248ea324f": 1
+      }
+    },
+    "mods": {
+      "5ea03f7400685063ec28bfa8": {
+        "mod_stock": [ "690a23ad14158912787e4659" ],
+        "mod_magazine": [ "5ea034eb5aad6446a939737b" ],
+        "mod_reciever": [ "690a1f37bb772fac86a41ca9" ],
+        "mod_barrel": [ "690a228693b29bcfa1c3b919" ]
+      },
+      "690a23ad14158912787e4659": {
+        "mod_stock": [ "690a22f8b12972947a6a4723" ],
+        "mod_pistol_grip": [ "5beec8ea0db834001a6f9dbf" ]
+      },
+      "690a22f8b12972947a6a4723": {
+        "mod_stock_000": [ "5beec8c20db834001d2c465c" ]
+      },
+      "690a1f37bb772fac86a41ca9": {
+        "mod_handguard": [ "690a205f953b984ffa348661" ],
+        "mod_scope_mount": [ "690a2214b583a83165ecac90" ]
+      },
+      "690a205f953b984ffa348661": {
+        "mod_foregrip": [ "5c1bc5fb2e221602b1779b32" ],
+        "mod_tactical_001": [ "5c5952732e2216398b5abda2" ],
+        "mod_tactical_002": [ "646f6322f43d0c5d62063715" ]
+      },
+      "646f6322f43d0c5d62063715": {
+        "mod_tactical": [ "646f62fee779812413011ab7" ]
+      },
+      "690a2214b583a83165ecac90": {
+        "mod_scope": [ "591c4efa86f7741030027726" ]
+      },
+      "690a228693b29bcfa1c3b919": {
+        "mod_muzzle": [ "571a28e524597720b4066567" ]
+      },
+      "68ded60bbd53f44248ea324f": {
+        "mod_barrel": [ "68dedf5072c1a7878545c9d4" ],
+        "mod_reciever": [ "68deec5afbef6b45bea1f051" ],
+        "mod_magazine": [ "68deeeb97cbd04a1abd7a74b" ],
+        "mod_trigger": [ "68def4fe6e38d59a384f0ae1" ],
+        "mod_hammer": [ "68def250e985661ccf8b1c79" ],
+        "mod_catch": [ "68def372f78f26bc8054cab3" ]
+      },
+      "68deec5afbef6b45bea1f051": {
+        "mod_sight_rear": [ "68deea38e2111fb84c156ff2" ],
+        "mod_sight_front": [ "68def18791f0b463b5c29f0c" ]
+      }
+    },
+    "Ammo": {
+      "Caliber762x25TT": { "573603562459776430731618": 1 },
+      "Caliber9x19PARA": { "5efb0da7a29a85116f6ea05f": 1 }
+    }
+  }
+}

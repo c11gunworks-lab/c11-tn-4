@@ -23,6 +23,8 @@
       "CanPutIntoDuringTheRaid":true,
       "BoltAction": true,
       "bHearDist": 270,
+      "CanSellOnRagfair":false,
+
       "defAmmo":"5fbe3ffdf8b6a877a729ea82",
       "defMagType":"55d4887d4bdc2d962f8b4570",
       "chamberAmmoCount": 1,
@@ -560,6 +562,8 @@
       "Ergonomics": -2,
       "Recoil": -14,
       "ExtraSizeLeft":1,
+      "CanSellOnRagfair":false,
+
       "HeatFactor":1.10,
       "Loudness":-72,
       "muzzleModType":"silencer",
@@ -714,6 +718,8 @@
       "Prefab": { "path": "sprrails.bundle", "rcid": "" },
       "BackgroundColor": "blue",
       "Width": 2,
+      "CanSellOnRagfair":false,
+
       "Height": 1,
       "Weight": 0.5,
       "Ergonomics": 7,

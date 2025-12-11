@@ -57,7 +57,8 @@
   <!-- (Optional) Declare folders so they show up in Solution Explorer -->
   <ItemGroup>
     <Folder Include="Resources\bundles\" />
-    <Folder Include="Resources\db\" />
+    <Folder Include="Resources\Presets\BotLoadouts\" />
+    <Folder Include="Resources\Presets\GlobalPresets\" />
   </ItemGroup>
 
   <!-- PostBuild: copy DLL + entire Resources folder to the mod directory -->

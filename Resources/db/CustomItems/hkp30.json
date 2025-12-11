@@ -326,8 +326,8 @@
           },
           "barters": [
             {
-              "count": 13500,
-              "_tpl": "MONEY_DOLLARS"
+              "count": 135,
+              "_tpl": "5696686a4bdc2da3298b456a"
             }
           ]
         }
@@ -446,8 +446,8 @@
           },
           "barters": [
             {
-              "count": 250,
-              "_tpl": "MONEY_DOLLARS"
+              "count": 45,
+              "_tpl": "5696686a4bdc2da3298b456a"
             }
           ]
         }
@@ -570,8 +570,8 @@
           },
           "barters": [
             {
-              "count": 55,
-              "_tpl": "MONEY_DOLLARS"
+              "count": 12,
+              "_tpl": "5696686a4bdc2da3298b456a"
             }
           ]
         }
@@ -726,8 +726,8 @@
           },
           "barters": [
             {
-              "count": 25,
-              "_tpl": "MONEY_DOLLARS"
+              "count": 65,
+              "_tpl": "5696686a4bdc2da3298b456a"
             }
           ]
         }
@@ -875,8 +875,8 @@
           },
           "barters": [
             {
-              "count": 120,
-              "_tpl": "MONEY_DOLLARS"
+              "count": 24,
+              "_tpl": "5696686a4bdc2da3298b456a"
             }
           ]
         }
@@ -995,8 +995,8 @@
           },
           "barters": [
             {
-              "count": 175,
-              "_tpl": "MONEY_DOLLARS"
+              "count": 10,
+              "_tpl": "5696686a4bdc2da3298b456a"
             }
           ]
         }
@@ -1119,7 +1119,7 @@
           "barters": [
             {
               "count": 15,
-              "_tpl": "MONEY_DOLLARS"
+              "_tpl": "5696686a4bdc2da3298b456a"
             }
           ]
         }
@@ -1241,8 +1241,8 @@
           },
           "barters": [
             {
-              "count": 25,
-              "_tpl": "MONEY_DOLLARS"
+              "count": 15,
+              "_tpl": "5696686a4bdc2da3298b456a"
             }
           ]
         }
@@ -1335,9 +1335,9 @@
     },
     "locales": {
       "en": {
-        "name": "HK P30 RMR Slide",
-        "shortName": "hkp3rmr",
-        "description": "Just puttin' dots on targets with the boys"
+        "name": "HK P30 trigger",
+        "shortName": "p30trig",
+        "description": "trigger"
       }
     },
     "fleaPriceRoubles": 15000,
@@ -1364,8 +1364,8 @@
           },
           "barters": [
             {
-              "count": 18,
-              "_tpl": "MONEY_DOLLARS"
+              "count": 20,
+              "_tpl": "5696686a4bdc2da3298b456a"
             }
           ]
         }
@@ -1491,9 +1491,9 @@
     },
     "locales": {
       "en": {
-        "name": "HK P30 Threaded Barrel",
-        "shortName": "hkp30threaded",
-        "description": "Get Screwed"
+        "name": "HK P30 rmrslide",
+        "shortName": "rmrslide",
+        "description": "slide"
       }
     },
     "fleaPriceRoubles": 15000,
@@ -1520,8 +1520,8 @@
           },
           "barters": [
             {
-              "count": 12,
-              "_tpl": "MONEY_DOLLARS"
+              "count": 115,
+              "_tpl": "5696686a4bdc2da3298b456a"
             }
           ]
         }
@@ -1664,8 +1664,8 @@
           },
           "barters": [
             {
-              "count": 35,
-              "_tpl": "MONEY_DOLLARS"
+              "count": 75,
+              "_tpl": "5696686a4bdc2da3298b456a"
             }
           ]
         }
@@ -1782,8 +1782,8 @@
           },
           "barters": [
             {
-              "count": 145,
-              "_tpl": "MONEY_DOLLARS"
+              "count": 125,
+              "_tpl": "5696686a4bdc2da3298b456a"
             }
           ]
         }
@@ -1925,8 +1925,8 @@
           },
           "barters": [
             {
-              "count": 285,
-              "_tpl": "MONEY_DOLLARS"
+              "count": 48,
+              "_tpl": "5696686a4bdc2da3298b456a"
             }
           ]
         }

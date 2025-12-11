@@ -174,7 +174,7 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "MECHANIC": {
+      "SKIER": {
         "690cd9bd33483eb49ec5355a": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -183,7 +183,7 @@
           },
           "barters": [
             {
-              "count": 45000,
+              "count": 23000,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -305,7 +305,7 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "MECHANIC": {
+      "SKIER": {
         "690cdbaeff28ed6c76c0c4ff": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -314,7 +314,7 @@
           },
           "barters": [
             {
-              "count": 14000,
+              "count": 15500,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -382,7 +382,7 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "MECHANIC": {
+      "SKIER": {
         "690ceea3d2d0f97990117faf": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -391,7 +391,7 @@
           },
           "barters": [
             {
-              "count": 8700,
+              "count": 4500,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -440,7 +440,7 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "MECHANIC": {
+      "SKIER": {
         "690cf747f3862cbfaebe5af7": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -449,7 +449,7 @@
           },
           "barters": [
             {
-              "count": 12000,
+              "count": 5200,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -501,7 +501,7 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "MECHANIC": {
+      "SKIER": {
         "690ceeee0b6da3a2ba0f6fd5": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -510,7 +510,7 @@
           },
           "barters": [
             {
-              "count": 12000,
+              "count": 3200,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -560,7 +560,7 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "MECHANIC": {
+      "SKIER": {
         "690cef66825733b1f45c7398": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -569,7 +569,7 @@
           },
           "barters": [
             {
-              "count": 5000,
+              "count": 2500,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -693,7 +693,7 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "MECHANIC": {
+      "SKIER": {
         "690cef90d9c6c98679825d7c": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -702,7 +702,7 @@
           },
           "barters": [
             {
-              "count": 27500,
+              "count": 15500,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -788,7 +788,7 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "MECHANIC": {
+      "SKIER": {
         "690cefbb88a935e6cd6e7d97": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -797,7 +797,7 @@
           },
           "barters": [
             {
-              "count": 13500,
+              "count": 3500,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -884,7 +884,7 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "MECHANIC": {
+      "SKIER": {
         "69220e084258af0d7681661c": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -893,7 +893,7 @@
           },
           "barters": [
             {
-              "count": 21000,
+              "count": 6500,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -980,7 +980,7 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "MECHANIC": {
+      "SKIER": {
         "69220e05e9e6c20688131d58": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -989,7 +989,7 @@
           },
           "barters": [
             {
-              "count": 40000,
+              "count": 11500,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -1058,7 +1058,7 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "MECHANIC": {
+      "SKIER": {
         "690cf76600691a667d6977e5": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -1067,7 +1067,7 @@
           },
           "barters": [
             {
-              "count": 11500,
+              "count": 4200,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -1117,7 +1117,7 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "MECHANIC": {
+      "SKIER": {
         "690cf770b8e651955ab5e5e7": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -1126,7 +1126,7 @@
           },
           "barters": [
             {
-              "count": 16500,
+              "count": 5800,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -1175,7 +1175,7 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "MECHANIC": {
+      "SKIER": {
         "690cf77ba4633fc416ca4ac2": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -1184,7 +1184,7 @@
           },
           "barters": [
             {
-              "count": 13500,
+              "count": 3800,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -1268,7 +1268,7 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "MECHANIC": {
+      "SKIER": {
         "690cf782aea2a2cac9c98b46": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -1277,7 +1277,7 @@
           },
           "barters": [
             {
-              "count": 13500,
+              "count": 7500,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -1350,7 +1350,7 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "MECHANIC": {
+      "SKIER": {
         "690cf79598d7545c141f5003": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -1359,7 +1359,7 @@
           },
           "barters": [
             {
-              "count": 13500,
+              "count": 7800,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -1479,7 +1479,7 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "MECHANIC": {
+      "SKIER": {
         "690cf79c789949d2ed4632e3": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -1488,7 +1488,7 @@
           },
           "barters": [
             {
-              "count": 33500,
+              "count": 16500,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -1609,7 +1609,7 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "MECHANIC": {
+      "SKIER": {
         "690cf7ac3c55e9101fb107c0": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -1618,7 +1618,7 @@
           },
           "barters": [
             {
-              "count": 13500,
+              "count": 6200,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -1761,7 +1761,7 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "MECHANIC": {
+      "SKIER": {
         "690cf7bd1367ce0c9c4c8de5": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -1770,7 +1770,7 @@
           },
           "barters": [
             {
-              "count": 19500,
+              "count": 6500,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -1892,7 +1892,7 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "MECHANIC": {
+      "SKIER": {
         "690cf7ca98d1fd84fea010b6": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -1901,7 +1901,7 @@
           },
           "barters": [
             {
-              "count": 13500,
+              "count": 5500,
               "_tpl": "MONEY_ROUBLES"
             }
           ]

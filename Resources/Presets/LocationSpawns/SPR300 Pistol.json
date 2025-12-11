@@ -1,0 +1,70 @@
+[
+  {
+    "locationId": "(0, 0, 0)",
+    "probability": 1,
+    "template": {
+      "Id": "SPR300_Pistol_spawn",
+      "IsContainer": false,
+      "useGravity": false,
+      "randomRotation": false,
+      "Position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "IsAlwaysSpawn": false,
+      "IsGroupPosition": false,
+      "GroupPositions": [],
+      "Root": "693b0bac9ced2ab5fcda5972",
+      "Items": [
+        {
+          "_id": "693b0bac9ced2ab5fcda5973",
+          "_tpl": "6928b6bf523e7af9a6ed2cec",
+          "upd": {
+            "Repairable": {
+              "Durability": 100,
+              "MaxDurability": 100
+            },
+            "FireMode": {
+              "FireMode": "single"
+            },
+            "Foldable": {
+              "Folded": false
+            }
+          }
+        },
+        {
+          "_id": "693b09839ced2ab5fcd9d435",
+          "_tpl": "6928d412401cd7f6a6ed2d0c",
+          "parentId": "693b0bac9ced2ab5fcda5973",
+          "slotId": "mod_pistol_grip"
+        },
+        {
+          "_id": "693b09839ced2ab5fcd9d436",
+          "_tpl": "6928cdf53823872ef9ed2d00",
+          "parentId": "693b0bac9ced2ab5fcda5973",
+          "slotId": "mod_magazine"
+        },
+        {
+          "_id": "693b09839ced2ab5fcd9d437",
+          "_tpl": "6928c96c09ac8dd00eed2cf6",
+          "parentId": "693b0bac9ced2ab5fcda5973",
+          "slotId": "mod_barrel"
+        }
+      ]
+    },
+    "itemDistribution": [
+      {
+        "composedKey": {
+          "key": "693b0bac9ced2ab5fcda5973"
+        },
+        "relativeProbability": 1
+      }
+    ]
+  }
+]

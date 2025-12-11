@@ -22,7 +22,7 @@ public record ModMetadata : AbstractModMetadata
 
     public override Dictionary<string, Range>? ModDependencies { get; init; } = new()
     {
-        { "com.wtt.commonlib", new Range("~2.0.0") }
+        { "com.wtt.commonlib", new Range("~2.0.5") }
     };
 
     public override string? Url { get; init; }
@@ -48,6 +48,8 @@ public class TrueNorth(
         await wttCommon.CustomItemServiceExtended.CreateCustomItems(assembly);
         await wttCommon.CustomLocaleService.CreateCustomLocales(assembly);
         await wttCommon.CustomAssortSchemeService.CreateCustomAssortSchemes(assembly);
+        await wttCommon.CustomBotLoadoutService.CreateCustomBotLoadouts(assembly);
+        await wttCommon.CustomWeaponPresetService.CreateCustomWeaponPresets(assembly);
 
 
         log.LogInformation("Welcome to the True North");
