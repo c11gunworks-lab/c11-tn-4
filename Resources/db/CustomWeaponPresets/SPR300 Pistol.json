@@ -1,44 +1,45 @@
 {
-  "_id": "693b0bac9ced2ab5fcda5974",
-  "_type": "Preset",
-  "_changeWeaponName": false,
-  "_name": "SPR300 Pistol",
-  "_parent": "693b0bac9ced2ab5fcda5975",
-  "_items": [
-    {
-      "_id": "693b0bac9ced2ab5fcda5975",
-      "_tpl": "6928b6bf523e7af9a6ed2cec",
-      "upd": {
-        "Repairable": {
-          "Durability": 100,
-          "MaxDurability": 100
-        },
-        "FireMode": {
-          "FireMode": "single"
-        },
-        "Foldable": {
-          "Folded": false
+  "693b33e9bb6046f96c3ab76e": {
+    "_id": "693b33e9bb6046f96c3ab76e",
+    "_type": "Preset",
+    "_changeWeaponName": true,
+    "_name": "Pistol",
+    "_parent": "693b33e9bb6046f96c3ab76f",
+    "_items": [
+      {
+        "_id": "693b33e9bb6046f96c3ab76f",
+        "_tpl": "6928b6bf523e7af9a6ed2cec",
+        "upd": {
+          "Repairable": {
+            "Durability": 100,
+            "MaxDurability": 100
+          },
+          "FireMode": {
+            "FireMode": "single"
+          },
+          "Foldable": {
+            "Folded": false
+          }
         }
+      },
+      {
+        "_id": "693b33e9bb6046f96c3ab770",
+        "_tpl": "6928d412401cd7f6a6ed2d0c",
+        "parentId": "693b33e9bb6046f96c3ab76f",
+        "slotId": "mod_pistol_grip"
+      },
+      {
+        "_id": "693b33e9bb6046f96c3ab771",
+        "_tpl": "6928cdf53823872ef9ed2d00",
+        "parentId": "693b33e9bb6046f96c3ab76f",
+        "slotId": "mod_magazine"
+      },
+      {
+        "_id": "693b33e9bb6046f96c3ab772",
+        "_tpl": "6928c96c09ac8dd00eed2cf6",
+        "parentId": "693b33e9bb6046f96c3ab76f",
+        "slotId": "mod_barrel"
       }
-    },
-    {
-      "_id": "693b0bac9ced2ab5fcda5976",
-      "_tpl": "6928d412401cd7f6a6ed2d0c",
-      "parentId": "693b0bac9ced2ab5fcda5975",
-      "slotId": "mod_pistol_grip"
-    },
-    {
-      "_id": "693b0bac9ced2ab5fcda5977",
-      "_tpl": "6928cdf53823872ef9ed2d00",
-      "parentId": "693b0bac9ced2ab5fcda5975",
-      "slotId": "mod_magazine"
-    },
-    {
-      "_id": "693b0bac9ced2ab5fcda5978",
-      "_tpl": "6928c96c09ac8dd00eed2cf6",
-      "parentId": "693b0bac9ced2ab5fcda5975",
-      "slotId": "mod_barrel"
-    }
-  ],
-  "_encyclopedia": "6928b6bf523e7af9a6ed2cec"
+    ]
+  }
 }

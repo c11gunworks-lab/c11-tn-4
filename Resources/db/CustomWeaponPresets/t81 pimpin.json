@@ -1,0 +1,120 @@
+{
+  "693b33e9bb6046f96c3ab7e3": {
+    "_id": "693b33e9bb6046f96c3ab7e3",
+    "_type": "Preset",
+    "_changeWeaponName": true,
+    "_name": "C11 Type 81 Canadian Brutality Edition",
+    "_parent": "693b33e9bb6046f96c3ab7e4",
+    "_items": [
+      {
+        "_id": "693b33e9bb6046f96c3ab7e4",
+        "_tpl": "6930cde327aa0ba2c16d3d01",
+        "upd": {
+          "Repairable": {
+            "Durability": 100,
+            "MaxDurability": 100
+          },
+          "FireMode": {
+            "FireMode": "single"
+          }
+        }
+      },
+      {
+        "_id": "693b33e0bb6046f96c3ab75e",
+        "_tpl": "6930d0095c6559e2816d3d0a",
+        "parentId": "693b33e9bb6046f96c3ab7e4",
+        "slotId": "mod_gas_block"
+      },
+      {
+        "_id": "693b33e9bb6046f96c3ab7e6",
+        "_tpl": "6930d355328696040a6d3d16",
+        "parentId": "693b33e9bb6046f96c3ab7e4",
+        "slotId": "mod_magazine"
+      },
+      {
+        "_id": "693b33e9bb6046f96c3ab7e7",
+        "_tpl": "6933214ee8e7f9e95db155cf",
+        "parentId": "693b33e9bb6046f96c3ab7e4",
+        "slotId": "mod_muzzle"
+      },
+      {
+        "_id": "693b33e9bb6046f96c3ab7e8",
+        "_tpl": "6930cfb2b708723c496d3d09",
+        "parentId": "693b33e9bb6046f96c3ab7e4",
+        "slotId": "mod_reciever"
+      },
+      {
+        "_id": "693b33e9bb6046f96c3ab7e9",
+        "_tpl": "6932eef319a1361673b155cd",
+        "parentId": "693b33e9bb6046f96c3ab7e4",
+        "slotId": "mod_stock"
+      },
+      {
+        "_id": "693b33e9bb6046f96c3ab7ea",
+        "_tpl": "6930d2efff08b89be96d3d14",
+        "parentId": "693b33e9bb6046f96c3ab7e4",
+        "slotId": "mod_pistol_grip"
+      },
+      {
+        "_id": "693b33e0bb6046f96c3ab764",
+        "_tpl": "6930d0ab3adc98bda56d3d0c",
+        "parentId": "693b33e0bb6046f96c3ab75e",
+        "slotId": "mod_handguard"
+      },
+      {
+        "_id": "693b33e9bb6046f96c3ab7ec",
+        "_tpl": "5649ab884bdc2ded0b8b457f",
+        "parentId": "693b33e0bb6046f96c3ab760",
+        "slotId": "mod_muzzle"
+      },
+      {
+        "_id": "693b33e0bb6046f96c3ab766",
+        "_tpl": "693225c799989d996ae95bf3",
+        "parentId": "693b33e0bb6046f96c3ab764",
+        "slotId": "mod_handguard_000"
+      },
+      {
+        "_id": "693b33e9bb6046f96c3ab7ee",
+        "_tpl": "5c1bc7752e221602b1779b34",
+        "parentId": "693b33e0bb6046f96c3ab766",
+        "slotId": "mod_foregrip"
+      },
+      {
+        "_id": "693b33e0bb6046f96c3ab768",
+        "_tpl": "6932252226dccbce54e95bf0",
+        "parentId": "693b33e0bb6046f96c3ab766",
+        "slotId": "mod_mount"
+      },
+      {
+        "_id": "693b33e9bb6046f96c3ab7f0",
+        "_tpl": "626becf9582c3e319310b837",
+        "parentId": "693b33e0bb6046f96c3ab766",
+        "slotId": "mod_tactical",
+        "upd": {
+          "Light": {
+            "IsActive": true,
+            "SelectedMode": 0
+          }
+        }
+      },
+      {
+        "_id": "693b33e9bb6046f96c3ab7f1",
+        "_tpl": "584924ec24597768f12ae244",
+        "parentId": "693b33e0bb6046f96c3ab768",
+        "slotId": "mod_sight",
+        "upd": {
+          "Sight": {
+            "ScopesCurrentCalibPointIndexes": [
+              0
+            ],
+            "ScopesSelectedModes": [
+              0
+            ],
+            "SelectedScope": 0,
+            "ScopeZoomValue": 0
+          }
+        }
+      }
+    ]
+  }
+}

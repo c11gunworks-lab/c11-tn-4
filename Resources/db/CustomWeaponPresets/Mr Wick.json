@@ -1,12 +1,14 @@
 {
-  "_id": "693b0bac9ced2ab5fcda59cd",
+  "693b33e9bb6046f96c3ab7c7": {
+    
+  "_id": "693b33e9bb6046f96c3ab7c7",
   "_type": "Preset",
   "_changeWeaponName": true,
   "_name": "Mr Wick",
-  "_parent": "693b0bac9ced2ab5fcda59ce",
+  "_parent": "693b33e9bb6046f96c3ab7c8",
   "_items": [
     {
-      "_id": "693b0bac9ced2ab5fcda59ce",
+      "_id": "693b33e9bb6046f96c3ab7c8",
       "_tpl": "68ded60bbd53f44248ea324f",
       "upd": {
         "Repairable": {
@@ -19,45 +21,45 @@
       }
     },
     {
-      "_id": "693b0bac9ced2ab5fcda59cf",
+      "_id": "693b0b6f9ced2ab5fcda4c14",
       "_tpl": "68e028ee33872c8c0b4e5e81",
-      "parentId": "693b0bac9ced2ab5fcda59ce",
+      "parentId": "693b33e9bb6046f96c3ab7c8",
       "slotId": "mod_barrel"
     },
     {
-      "_id": "693b0bac9ced2ab5fcda59d0",
+      "_id": "693b0b6f9ced2ab5fcda4c15",
       "_tpl": "68e025fd8d83867f8fe9bc5f",
-      "parentId": "693b0bac9ced2ab5fcda59ce",
+      "parentId": "693b33e9bb6046f96c3ab7c8",
       "slotId": "mod_reciever"
     },
     {
-      "_id": "693b0bac9ced2ab5fcda59d1",
+      "_id": "693b33e9bb6046f96c3ab7cb",
       "_tpl": "68fbd1861ec54c3c42ce0ff5",
-      "parentId": "693b0bac9ced2ab5fcda59ce",
+      "parentId": "693b33e9bb6046f96c3ab7c8",
       "slotId": "mod_magazine"
     },
     {
-      "_id": "693b0bac9ced2ab5fcda59d2",
+      "_id": "693b33e9bb6046f96c3ab7cc",
       "_tpl": "68def4fe6e38d59a384f0ae1",
-      "parentId": "693b0bac9ced2ab5fcda59ce",
+      "parentId": "693b33e9bb6046f96c3ab7c8",
       "slotId": "mod_trigger"
     },
     {
-      "_id": "693b0bac9ced2ab5fcda59d3",
+      "_id": "693b33e9bb6046f96c3ab7cd",
       "_tpl": "68def250e985661ccf8b1c79",
-      "parentId": "693b0bac9ced2ab5fcda59ce",
+      "parentId": "693b33e9bb6046f96c3ab7c8",
       "slotId": "mod_hammer"
     },
     {
-      "_id": "693b0bac9ced2ab5fcda59d4",
+      "_id": "693b33e9bb6046f96c3ab7ce",
       "_tpl": "68def372f78f26bc8054cab3",
-      "parentId": "693b0bac9ced2ab5fcda59ce",
+      "parentId": "693b33e9bb6046f96c3ab7c8",
       "slotId": "mod_catch"
     },
     {
-      "_id": "693b0bac9ced2ab5fcda59d5",
+      "_id": "693b33e9bb6046f96c3ab7cf",
       "_tpl": "5a7b483fe899ef0016170d15",
-      "parentId": "693b0bac9ced2ab5fcda59ce",
+      "parentId": "693b33e9bb6046f96c3ab7c8",
       "slotId": "mod_mount_000",
       "upd": {
         "Light": {
@@ -67,13 +69,13 @@
       }
     },
     {
-      "_id": "693b0bac9ced2ab5fcda59d6",
+      "_id": "693b33e9bb6046f96c3ab7d0",
       "_tpl": "68e029fe3948c17cabf65482",
       "parentId": "693b0b6f9ced2ab5fcda4c14",
       "slotId": "mod_muzzle"
     },
     {
-      "_id": "693b0bac9ced2ab5fcda59d7",
+      "_id": "693b33e9bb6046f96c3ab7d1",
       "_tpl": "5a32aa8bc4a2826c6e06d737",
       "parentId": "693b0b6f9ced2ab5fcda4c15",
       "slotId": "mod_scope.001",
@@ -91,7 +93,7 @@
       }
     },
     {
-      "_id": "693b0bac9ced2ab5fcda59d8",
+      "_id": "693b33e9bb6046f96c3ab7d2",
       "_tpl": "68def18791f0b463b5c29f0c",
       "parentId": "693b0b6f9ced2ab5fcda4c15",
       "slotId": "mod_sight_front.001",
@@ -108,6 +110,6 @@
         }
       }
     }
-  ],
-  "_encyclopedia": "68ded60bbd53f44248ea324f"
+  ]
+}
 }
