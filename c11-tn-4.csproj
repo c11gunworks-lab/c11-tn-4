@@ -1,6 +1,4 @@
-﻿
-<!-- c11-tn-4.csproj (HYBRID) -->
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <!-- Core build settings -->
   <PropertyGroup>
@@ -8,102 +6,97 @@
     <LangVersion>latest</LangVersion>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-
-    <!-- Versioning + clean output structure (optional but helpful) -->
     <Version>4.0.0</Version>
     <AssemblyName>c11-tn-4</AssemblyName>
-    <!-- Keep output path simple; avoid appending framework -->
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <OutputType>Library</OutputType>
-    <!-- Optional: versioned output path under bin -->
     <OutputPath>bin\$(Configuration)\$(ProjectName)\$(AssemblyName)-$(Version)\</OutputPath>
   </PropertyGroup>
 
-  <!-- Where to deploy the mod after build -->
+  <!-- DEPLOYMENT PATHS -->
   <PropertyGroup>
-    <!-- TODO: update to your actual mod folder if different -->
+    <!-- The final folder where the mod lives in SPT -->
     <SptModsDir>C:\SPT4\SPT\user\mods\c11-tn-4</SptModsDir>
-    <!-- Path to Resources in the project (bundles, db, res, etc.) -->
+    
+    <!-- Internal Project Paths -->
     <ResourcesDir>$(ProjectDir)Resources</ResourcesDir>
   </PropertyGroup>
 
-  <!-- Keep your existing DB copy items -->
+  <!-- 1. DEFINE ITEMS TO COPY -->
   <ItemGroup>
-    <ItemToCopy Include="..\db\CustomItems\**\*.json" />
-    <ItemToCopy Include="..\db\CustomLocales\**\*.json" />
+    <!-- 
+      Captures all JSON files recursively inside Resources\db 
+      (CustomItems, CustomLocales, CustomBotLoadouts, etc.)
+    -->
+    <DbFiles Include="Resources\db\**\*.json" />
+    
+    <!-- Captures bundles.json from Resources -->
+    <BundlesJson Include="Resources\bundles.json" />
   </ItemGroup>
 
-  <!-- Copies JSON db into the mod folder (your original target, retained) -->
-  <Target Name="CopyDbJson" AfterTargets="Build">
-    <Message Importance="high" Text="[CopyDbJson] Copying db JSON to $(SptModsDir)\db" />
-    <MakeDir Directories="$(SptModsDir)\db\CustomItems" />
-    <MakeDir Directories="$(SptModsDir)\db\CustomLocales" />
-    <Copy SourceFiles="@(ItemToCopy)"
-          DestinationFolder="$(SptModsDir)\db\%(RecursiveDir)"
-          SkipUnchangedFiles="true" />
-  </Target>
-
-  <!-- Optional: Add SPTarkov packages if your mod integrates server-side behaviors -->
   <ItemGroup>
-    <!-- You already use WTT, keep your version -->
     <PackageReference Include="WTT-ServerCommonLib" Version="2.0.6" />
-
-    <!-- Uncomment if you need SPT 4.x server/common/DI APIs -->
-    <!-- <PackageReference Include="SPTarkov.Common" Version="4.0.3" /> -->
-    <!-- <PackageReference Include="SPTarkov.DI" Version="4.0.3" /> -->
-    <!-- <PackageReference Include="SPTarkov.Server.Core" Version="4.0.3" /> -->
   </ItemGroup>
 
-  <!-- (Optional) Declare folders so they show up in Solution Explorer -->
+  <!-- Folder structure for Visual Studio organization -->
   <ItemGroup>
     <Folder Include="Resources\bundles\" />
-    <Folder Include="Resources\Presets\BotLoadouts\" />
-    <Folder Include="Resources\Presets\GlobalPresets\" />
+    <Folder Include="Resources\db\" />
   </ItemGroup>
 
-  <!-- PostBuild: copy DLL + entire Resources folder to the mod directory -->
-  <!-- This keeps the mod folder in sync with your build and assets -->
+  <!-- 2. DEPLOYMENT TARGET -->
+  <Target Name="DeployMod" AfterTargets="Build">
+    <Message Importance="high" Text="[DeployMod] Starting Deployment to $(SptModsDir)..." />
 
-  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-    <PropertyGroup>
-      <_ModName>$(AssemblyName)</_ModName>
-      <_DllPath>$(TargetDir)$(TargetName).dll</_DllPath>
-      <_OutDir>$(SptModsDir)</_OutDir>
-      <_ResourcesDir>$(ProjectDir)Resources</_ResourcesDir>
-      <_BundlesSrc>$(_ResourcesDir)\bundles</_BundlesSrc>
-      <_BundlesDest>$(_OutDir)\bundles</_BundlesDest>
-    </PropertyGroup>
+    <!-- A. Copy the DLL -->
+    <Copy SourceFiles="$(TargetDir)$(TargetName).dll" 
+          DestinationFolder="$(SptModsDir)" 
+          OverwriteReadOnlyFiles="true" 
+          SkipUnchangedFiles="false" />
 
-    <!-- Ensure mod output folder exists -->
-    <MakeDir Directories="$(_OutDir)" />
-    <MakeDir Directories="$(_BundlesDest)" />
+    <!-- B. Copy bundles.json to mod root -->
+    <Message Importance="high" Text="[DeployMod] Copying bundles.json..." />
+    <Copy SourceFiles="@(BundlesJson)" 
+          DestinationFolder="$(SptModsDir)" 
+          OverwriteReadOnlyFiles="true" 
+          SkipUnchangedFiles="false" />
 
-    <!-- Copy DLL -->
-    <Exec Command="copy /Y &quot;$(_DllPath)&quot; &quot;$(_OutDir)\&quot;" />
+    <!-- C. Copy DB folder (maintaining folder structure) -->
+    <!-- 
+       %(RecursiveDir) captures the path after "Resources\db\".
+       e.g. "CustomItems\file.json" puts file.json into "mod\db\CustomItems\"
+    -->
+    <Message Importance="high" Text="[DeployMod] Copying DB files..." />
+    <Copy SourceFiles="@(DbFiles)" 
+          DestinationFolder="$(SptModsDir)\db\%(RecursiveDir)" 
+          OverwriteReadOnlyFiles="true" 
+          SkipUnchangedFiles="false" />
 
-    <!-- Copy all bundles recursively -->
-    <Exec Command="xcopy &quot;$(_BundlesSrc)&quot; &quot;$(_BundlesDest)&quot; /E /I /Y" />
+    <!-- D. Handle Bundles (From Resources/bundles -> mod/bundles) -->
+    <MakeDir Directories="$(SptModsDir)\bundles" />
+    
+    <!-- Copy bundles recursively -->
+    <Exec Command="xcopy &quot;$(ResourcesDir)\bundles&quot; &quot;$(SptModsDir)\bundles&quot; /E /I /Y" />
 
-    <!-- Flatten: move all files from subfolders to root -->
+    <!-- Flatten: move all files from subfolders to root of bundles -->
     <Exec Command="
-    for /r &quot;$(_BundlesDest)&quot; %%F in (*) do (
-      if /I not &quot;%%~dpF&quot;==&quot;$(_BundlesDest)\&quot; (
-        move /Y &quot;%%F&quot; &quot;$(_BundlesDest)&quot;
+      for /r &quot;$(SptModsDir)\bundles&quot; %%F in (*) do (
+        if /I not &quot;%%~dpF&quot;==&quot;$(SptModsDir)\bundles\&quot; (
+          move /Y &quot;%%F&quot; &quot;$(SptModsDir)\bundles&quot;
+        )
       )
-    )
-  " />
+    " />
 
-    <!-- Remove empty subfolders -->
+    <!-- Remove empty subfolders in bundles -->
     <Exec Command="
-    for /d /r &quot;$(_BundlesDest)&quot; %%D in (*) do (
-      if exist &quot;%%D&quot; (
-        dir /b &quot;%%D&quot; &gt;nul 2&gt;&amp;1 || rmdir /s /q &quot;%%D&quot;
+      for /d /r &quot;$(SptModsDir)\bundles&quot; %%D in (*) do (
+        if exist &quot;%%D&quot; (
+          dir /b &quot;%%D&quot; &gt;nul 2&gt;&amp;1 || rmdir /s /q &quot;%%D&quot;
+        )
       )
-    )
-  " />
+    " />
 
-    <Message Importance="high" Text="[PostBuild] Flattened bundles into $(_BundlesDest)" />
+    <Message Importance="high" Text="[DeployMod] Deployment Complete." />
   </Target>
-
 
 </Project>

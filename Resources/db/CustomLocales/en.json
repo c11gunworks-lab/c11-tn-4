@@ -290,11 +290,11 @@
 
   "6930d2efff08b89be96d3d14 Name": "Poly Technologies Type 81 Special Edition Pistol Grip",
   "6930d2efff08b89be96d3d14 ShortName": "T81 SE Grip",
-  "6930d2efff08b89be96d3d14 Description": "Ergonomic pistol grip for Type 81. Painted for flair.",
+  "6930d2efff08b89be96d3d14 Description": "Ergonomic pistol grip for Type 81. Very Red.",
 
   "6930d355328696040a6d3d16 Name": "Poly Technologies Type 81 Special Edition Magazine",
   "6930d355328696040a6d3d16 ShortName": "T81 SE Mag",
-  "6930d355328696040a6d3d16 Description": "Special edition magazine for Type 81 rifles. Holds rounds and attention.",
+  "6930d355328696040a6d3d16 Description": "Special edition magazine for Type 81 rifles. The pin fell out. Don't tell the RCMP.",
 
   "6930d46773f977e1746d3d19 Name": "Poly Technologies Type 81 Grenade Launcher Sleeve",
   "6930d46773f977e1746d3d19 ShortName": "T81 GL Sleeve",
@@ -317,14 +317,9 @@
   "6932eef319a1361673b155cd Name": "C11 Gunworks Type 81 ACR Stock Adapter",
   "6932eef319a1361673b155cd ShortName": "C11 T81 ACR",
   "6932eef319a1361673b155cd Description": "Why not slap a stock worth close to half the price of the rifle on?",
-  "693b33e9bb6046f96c3ab792 Name": "Armalite AR-18 Irish Door Kicker",
-  "693b33e9bb6046f96c3ab76e Name": "B&T SPR300 Bolt Action Pistol",
-  "693b33e9bb6046f96c3ab7a6 Name": "PPSh-41 7.62x25 submachine gun Tactical Edition",
-  "693b33e9bb6046f96c3ab7c7 Name": "H&K P30 Mr Wick Edition",
-  "693b33e9bb6046f96c3ab7e3 Name": "C11 Type 81 Canadian Brutality Edition"
-
-
-
+  "693c59557af373b906645b54 Name":    "UNITY Tactical Platform Adapter",
+  "693c59557af373b906645b54 ShortName": "UNITY Adapter",
+  "693c59557af373b906645b54 Description": "The Platform Adapter™ enables attachment of the Ops-Core AMP Helmet Rail Mount Kit to M-LOK rails or the Team Wendy EXFIL Rail 2.0 and EXFIL Rail 3.0 accessory rail systems."
 }
 
 

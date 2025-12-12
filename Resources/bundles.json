@@ -545,6 +545,13 @@
       ]
     },
     {
+      "key": "twunity.bundle",
+      "dependencyKeys": [
+        "shaders"
+
+      ]
+    },
+    {
       "key": "sprbarrel.bundle",
       "dependencyKeys": [
         "shaders",

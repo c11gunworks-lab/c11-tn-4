@@ -39,7 +39,7 @@
       "CompactHandling": true,
       "SingleFireRate": 450,
       "CanQueueSecondShot": true,
-      "ammoCaliber": "Caliber556x45NATO",
+      "ammoCaliber": "Caliber762x35",
       "weapFireType": [
         "single"
       ],
