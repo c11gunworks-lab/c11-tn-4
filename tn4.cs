@@ -50,6 +50,7 @@ public class TrueNorth(
         await wttCommon.CustomAssortSchemeService.CreateCustomAssortSchemes(assembly);
         await wttCommon.CustomBotLoadoutService.CreateCustomBotLoadouts(assembly);
         await wttCommon.CustomWeaponPresetService.CreateCustomWeaponPresets(assembly);
+        wttCommon.CustomRigLayoutService.CreateRigLayouts(assembly);
 
 
         log.LogInformation("Welcome to the True North");

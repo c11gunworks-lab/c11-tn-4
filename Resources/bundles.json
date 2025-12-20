@@ -559,7 +559,27 @@
         "shaders",
         "assets/systems/effects/smoke.bundle"
       ]
+    },
+    {
+      "key": "fcpcaor2.bundle",
+      "dependencyKeys": [
+        "shaders"
+
+      ]
+    },
+    {
+      "key": "slickstermc.bundle",
+      "dependencyKeys": [
+        "shaders"
+
+      ]
+    },
+    {
+      "key": "slickstermcl.bundle",
+      "dependencyKeys": [
+        "shaders"
+
+      ]
     }
-    
   ]
 }

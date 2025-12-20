@@ -319,7 +319,20 @@
   "6932eef319a1361673b155cd Description": "Why not slap a stock worth close to half the price of the rifle on?",
   "693c59557af373b906645b54 Name":    "UNITY Tactical Platform Adapter",
   "693c59557af373b906645b54 ShortName": "UNITY Adapter",
-  "693c59557af373b906645b54 Description": "The Platform Adapter™ enables attachment of the Ops-Core AMP Helmet Rail Mount Kit to M-LOK rails or the Team Wendy EXFIL Rail 2.0 and EXFIL Rail 3.0 accessory rail systems."
+  "693c59557af373b906645b54 Description": "The Platform Adapter™ enables attachment of the Ops-Core AMP Helmet Rail Mount Kit to M-LOK rails or the Team Wendy EXFIL Rail 2.0 and EXFIL Rail 3.0 accessory rail systems.",
+
+  "6946e6eb235d271463a266f5 Name": "Ferro Concepts FCPC V5 Plate Carrier (AOR2)",
+  "6946e6eb235d271463a266f5 ShortName": "FCPC AOR2",
+  "6946e6eb235d271463a266f5 Description": "The Ferro Concepts Plate Carrier V5 is a lightweight and modular armor system. This 'Breacher' variant features the AOR2 camouflage pattern, typically favored by Naval Special Warfare units. Designed for mission adaptability, it balances protection with distinct visual profile.",
+  "6946e8551234567890abcdef Name": "Ferro Concepts Slickster Plate Carrier w/ KTAR Flap (Multicam)",
+  "6946e8551234567890abcdef ShortName": "Slickster KTAR MC",
+  "6946e8551234567890abcdef Description": "A Ferro Concepts Slickster configured with the KTAR front flap. This setup bridges the gap between low-vis operations and direct action, offering the retention of a triple magazine shingle while maintaining the lightweight profile the Slickster is famous for.",
+
+  "69470492ccfa86b8e1a266fc Name": "Ferro Concepts Slickster Plate Carrier (Multicam)",
+  "69470492ccfa86b8e1a266fc ShortName": "Slickster MC",
+  "69470492ccfa86b8e1a266fc Description": "The legendary Ferro Concepts Slickster in its purest form. Designed for law enforcement and military professionals, this minimalist multi-mission carrier provides the lowest possible profile for covert operations, vehicular work, or situations where mobility is the absolute priority."
+
+
 }
 
 
