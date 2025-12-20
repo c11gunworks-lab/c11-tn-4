@@ -346,7 +346,6 @@
         "path": "fcpcaor2.bundle",
         "rcid": ""
       },
-      "RigLayoutName": "FCPC-RIGLAYOUT",
       "Slots": [
         {
           "_name": "Front_plate",
@@ -802,7 +801,9 @@
           },
           "_proto": "55d329c24bdc2d892f8b4567"
         }
-      ]
+      ],
+      "LayoutName": "FCPC-RIGLAYOUT"
+
     },
     "locales": {
       "en": {
@@ -1017,7 +1018,6 @@
         "path": "slickstermcl.bundle",
         "rcid": ""
       },
-      "RigLayoutName": "SLICKSTER-RIGLAYOUT",
 
       "Slots": [
         {
@@ -1228,7 +1228,8 @@
           },
           "_proto": "55d329c24bdc2d892f8b4567"
         }
-      ]
+      ],
+      "LayoutName": "SLICKSTER-RIGLAYOUT"
     },
     "locales": {
       "en": {
