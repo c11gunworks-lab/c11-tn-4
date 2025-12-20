@@ -336,7 +336,9 @@
         "assets/content/audio/blendoptions/assets.bundle",
         "shaders",
         "assets/content/prefabs/muzzleflash_base.bundle",
-        "assets/content/weapons/weapon_root_anim_fix.bundle"
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/systems/effects/smoke.bundle",
+        "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle"
 
 
       ]
