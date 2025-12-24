@@ -339,7 +339,48 @@
       "BluntThroughput": 0.15,
       "CanPutIntoDuringTheRaid":true,
       "CanSellOnRagfair":false,
-      "ConflictingItems":["5448e53e4bdc2d60728b4567"
+      "ConflictingItems":[
+
+        "544a5cde4bdc2d39388b456b",
+        "545cdae64bdc2d39198b4568",
+        "56e294cdd2720b603a8b4575",
+        "56e335e4d2720b6c058b456d",
+        "56e33634d2720bd8058b456b",
+        "56e33680d2720be2748b4576",
+        "59e763f286f7742ee57895da",
+        "5ab8ebf186f7742d8b372e80",
+        "5ab8ee7786f7742d8f33f0b9",
+        "5ab8f04f86f774585f4237d8",
+        "5b44c6ae86f7742d1627baea",
+        "5c0e774286f77468413cc5b2",
+        "5c0e805e86f774683f3dd637",
+        "5ca20d5986f774331e7c9602",
+        "5d5d940f86f7742797262046",
+        "5df8a4d786f77412672a1e3b",
+        "5e4abc6786f77406812bd572",
+        "5f5e45cc5021ce62144be7aa",
+        "5f5e467b0bc58666c37e7821",
+        "5f5e46b96bdad616ad46d613",
+        "6034d0230ca681766b6a0fb5",
+        "6038d614d10cbf667352dd44",
+        "6038d5d6f5c0f368103a92d8",
+        "60a272cc93ef783291411d8e",
+        "60a2828e8689911a226117f9",
+        "618bb76513f5097c8d5aa2d5",
+        "618cfae774bb2d036a049e7c",
+        "619cf0335771dd3c390269ae",
+        "61b9e1aaef9a1b5d6a79899a",
+        "628bc7fb408e2b2e9c0801b1",
+        "628e1ffc83ec92260c0f437f",
+        "62a1b7fbc30cfa1d366af586",
+        "639346cc1c8f182ad90c8972",
+        "656ddcf0f02d7bcea90bf395",
+        "656e0436d44a1bb4220303a0",
+        "656f198fb27298d6fd005466",
+        "66a9f98f3bd5a41b162030f4",
+        "66b5f22b78bbc0200425f904",
+        "66b5f247af44ca0014063c02"
+        
       ],
       "ArmorZone": [],
       "RigLayoutName": "FCPC-RIGLAYOUT",
@@ -489,7 +530,7 @@
       ],
       "Grids": [
         {
-          "_id": "b4fca2cea65633b131dd5cfc",
+          "_id": "444eea1a6cd91ff6b9f14033",
           "_name": "GridView (1)",
           "_parent": "FCPC-RIGLAYOUT",
           "_props": {
@@ -513,7 +554,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "6f20ed992bb2f977a09d77d6",
+          "_id": "2a6ed3414721000d39c3c187",
           "_name": "GridView (2)",
           "_parent": "FCPC-RIGLAYOUT",
           "_props": {
@@ -537,7 +578,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "8b1e6988ef4ec5c4b51b33ec",
+          "_id": "c8f48d3a2eea4df91d07f0a0",
           "_name": "GridView (3)",
           "_parent": "FCPC-RIGLAYOUT",
           "_props": {
@@ -561,7 +602,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "f160081b4815fcc045a0fa1d",
+          "_id": "2a54bec38a69dc05b03da80d",
           "_name": "GridView (4)",
           "_parent": "FCPC-RIGLAYOUT",
           "_props": {
@@ -585,7 +626,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "67d602ea7d7dc2666a2a9f0f",
+          "_id": "85251fc64e4f4a48837aa5c3",
           "_name": "GridView (5)",
           "_parent": "FCPC-RIGLAYOUT",
           "_props": {
@@ -609,7 +650,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "6ebdddf820ab8036c86b5dbf",
+          "_id": "058849c064eddb53081a250c",
           "_name": "GridView (6)",
           "_parent": "FCPC-RIGLAYOUT",
           "_props": {
@@ -633,7 +674,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "838fee35eafb7a9df81e8726",
+          "_id": "3b64622088f764cef9238d3d",
           "_name": "GridView (7)",
           "_parent": "FCPC-RIGLAYOUT",
           "_props": {
@@ -657,7 +698,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "ca617f87ca90ab62606ce8d8",
+          "_id": "32df19ece87e96ad3801072b",
           "_name": "GridView (8)",
           "_parent": "FCPC-RIGLAYOUT",
           "_props": {
@@ -681,7 +722,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "406111cda8f2480f592b7fb0",
+          "_id": "505af1b68ea602fc784d1c3f",
           "_name": "GridView (9)",
           "_parent": "FCPC-RIGLAYOUT",
           "_props": {
@@ -705,7 +746,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "6f658d33158ee88c4a9e30c5",
+          "_id": "6259df13550a2d8aec81425c",
           "_name": "GridView (10)",
           "_parent": "FCPC-RIGLAYOUT",
           "_props": {
@@ -729,7 +770,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "2814bfb1b16483d90ec67900",
+          "_id": "361e9d91fd225a6a671cabb2",
           "_name": "GridView (11)",
           "_parent": "FCPC-RIGLAYOUT",
           "_props": {
@@ -753,7 +794,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "c17c934fd8675bb163f31408",
+          "_id": "607bd4713e212e51b50eb819",
           "_name": "GridView (12)",
           "_parent": "FCPC-RIGLAYOUT",
           "_props": {
@@ -777,7 +818,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "4574339896890e6220d5f25c",
+          "_id": "26dc4fbbfc0f52fa759b7f9c",
           "_name": "GridView (13)",
           "_parent": "FCPC-RIGLAYOUT",
           "_props": {
@@ -789,9 +830,7 @@
                   "5448bf274bdc2dfc2f8b456a"
                 ],
                 "Filter": [
-                  "57864c8c245977548867e7f1",
-                  "543be5664bdc2dd4348b4569",
-                  "5448f39d4bdc2d0a728b4568"
+                  "5448f3ac4bdc2dce718b4569"
                 ]
               }
             ],
@@ -1015,6 +1054,8 @@
         "z": 0
       },
       "ArmorZone": [],
+      "RigLayoutName": "SLICKSTER-RIGLAYOUT",
+
       "Prefab": {
         "path": "slickstermcl.bundle",
         "rcid": ""
@@ -1108,7 +1149,7 @@
       ],
       "Grids": [
         {
-          "_id": "e80ebea1a92574f6e5ea036b",
+          "_id": "d625d809a40fca760716b00f",
           "_name": "GridView (1)",
           "_parent": "SLICKSTER-RIGLAYOUT",
           "_props": {
@@ -1120,9 +1161,7 @@
                   "5448bf274bdc2dfc2f8b456a"
                 ],
                 "Filter": [
-                  "57864c8c245977548867e7f1",
-                  "543be5664bdc2dd4348b4569",
-                  "5448f39d4bdc2d0a728b4568"
+                  "5448f3ac4bdc2dce718b4569"
                 ]
               }
             ],
@@ -1134,7 +1173,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "f7c32805d10f83a107fb4f67",
+          "_id": "811a7ea2f87ec719545173c7",
           "_name": "GridView (2)",
           "_parent": "SLICKSTER-RIGLAYOUT",
           "_props": {
@@ -1158,7 +1197,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "e38df29119f5dc4435c265b1",
+          "_id": "d3d2c9c659fb8e84ded5da6e",
           "_name": "GridView (3)",
           "_parent": "SLICKSTER-RIGLAYOUT",
           "_props": {
@@ -1182,7 +1221,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "2a4d94d5941c16d1cc3ac072",
+          "_id": "523da33db855c90b2f30b2c4",
           "_name": "GridView (4)",
           "_parent": "SLICKSTER-RIGLAYOUT",
           "_props": {
@@ -1206,7 +1245,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "23d6fa0d2e51971a360b03ca",
+          "_id": "2e3f2ab8880ac51c1b3b8acf",
           "_name": "GridView (5)",
           "_parent": "SLICKSTER-RIGLAYOUT",
           "_props": {

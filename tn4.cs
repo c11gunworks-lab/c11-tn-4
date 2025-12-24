@@ -52,6 +52,9 @@ public class TrueNorth(
         await wttCommon.CustomWeaponPresetService.CreateCustomWeaponPresets(assembly);
         wttCommon.CustomRigLayoutService.CreateRigLayouts(assembly);
 
+        // DEBUG: list what the server actually registered
+        var layouts = wttCommon.CustomRigLayoutService.GetLayoutManifest();
+        log.LogInformation("[True North] Rig layouts registered: {Layouts}", string.Join(", ", layouts));
 
         log.LogInformation("Welcome to the True North");
         await Task.CompletedTask;
