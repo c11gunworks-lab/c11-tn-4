@@ -580,6 +580,49 @@
         "shaders"
 
       ]
+    },
+    {
+      "key": "ruger2245.bundle",
+      "dependencyKeys": [
+
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/audio/blendoptions/assets.bundle",
+        "shaders",
+        "assets/content/prefabs/muzzleflash_base.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/systems/effects/smoke.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle"
+
+
+      ]
+    },
+    {
+      "key": "ruger10rd.bundle",
+      "dependencyKeys": [
+        "shaders"
+
+      ]
+    },
+    {
+      "key": "rugertp.bundle",
+      "dependencyKeys": [
+        "shaders"
+
+      ]
+    },
+    {
+      "key": "rugerupper.bundle",
+      "dependencyKeys": [
+        "shaders"
+
+      ]
+    },
+    {
+      "key": "rugerwoodgrip.bundle",
+      "dependencyKeys": [
+        "shaders"
+
+      ]
     }
   ]
 }
