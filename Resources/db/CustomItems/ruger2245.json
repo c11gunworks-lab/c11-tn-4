@@ -1,6 +1,6 @@
 {
-  "68ded60bbd53f44248ea324f": {
-    "itemTplToClone": "6193a720f8ee7e52e42109ed",
+  "694c80fa9b0201378540f8bd": {
+    "itemTplToClone": "56e0598dd2720bb5668b45a6",
     "parentId": "5447b5cf4bdc2d65278b4567",
     "handbookParentId": "5b5f792486f77447ed5636b3",
     "overrideProperties": {
@@ -10,10 +10,9 @@
       "Height": 1,
       "StackMaxSize": 1,
       "Prefab": {
-        "path": "hkp30.bundle",
+        "path": "ruger2245.bundle",
         "rcid": ""
       },
-
       "RepairCost": 210,
       "RepairSpeed": 15,
       "ExtraSizeLeft": 0,
@@ -29,54 +28,41 @@
       "CantRemoveFromSlotsDuringRaid": [],
       "weapClass": "pistol",
       "weapUseType": "secondary",
-      "ammoCaliber": "Caliber9x19PARA",
+      "ammoCaliber": "Caliber22LR",
       "Durability": 100,
       "MaxDurability": 100,
-      "OperatingResource": 4600,
-      "RepairComplexity": 0,
-      "durabSpawnMin": 25,
-      "durabSpawnMax": 75,
       "isFastReload": true,
       "weapFireType": [
         "single"
       ],
-      "SingleFireRate": 450,
+      "SingleFireRate": 650,
       "CanQueueSecondShot": true,
       "bFirerate": 30,
-      "Ergonomics": 88,
-      "RecoilForceUp": 90,
-      "RecoilForceBack": 120,
-      "CameraRecoil": 0.05,
-      "Convergence": 2.2,
+      "Ergonomics": 78,
+      "RecoilForceUp": 25,
+      "RecoilForceBack": 40,
+      "CameraRecoil": 0.01,
+      "Convergence": 0.7,
       "Velocity": 0,
-      "bEffDist": 150,
-      "bHearDist": 180,
+      "bEffDist": 75,
+      "bHearDist": 150,
       "isChamberLoad": true,
       "chamberAmmoCount": 1,
       "isBoltCatch": true,
-      "defMagType": "68deeeb97cbd04a1abd7a74b",
-      "defAmmo": "5c3df7d588a4501f290594e5",
-      "AdjustCollimatorsToTrajectory": false,
-      "shotgunDispersion": 10,
+      "defMagType": "NEW MAG",
+      "defAmmo": "694c796b42ae52a1a940f8ba",
+
       "Chambers": [
         {
           "_name": "patron_in_weapon",
-          "_id": "68dedd24acdc0720bf05b2bd",
+          "_id": "694c83108e7f4cfed940f8be",
           "_mergeSlotWithChildren": false,
-          "_parent": "68ded60bbd53f44248ea324f",
+          "_parent": "694c80fa9b0201378540f8bd",
           "_props": {
             "filters": [
               {
                 "Filter": [
-                  "5efb0da7a29a85116f6ea05f",
-                  "5c3df7d588a4501f290594e5",
-                  "58864a4f2459770fcc257101",
-                  "56d59d3ad2720bdb418b4577",
-                  "5c925fa22e221601da359b7b",
-                  "5a3c16fe86f77452b62de32a",
-                  "5efb0e16aeb21837e749c7ff",
-                  "5c0d56a986f774449d5de529",
-                  "64b7bbb74b75259c590fa897"
+                  "694c796b42ae52a1a940f8ba"
                 ]
               }
             ]
@@ -86,10 +72,6 @@
         }
       ],
       "ReloadMode": "ExternalMagazine",
-      "Foldable": false,
-      "Retractable": false,
-      "SizeReduceRight": 1,
-      "FoldedSlot": "",
       "CompactHandling": true,
       "SightingRange": 0,
       "MinRepairDegradation": 0,
@@ -111,34 +93,24 @@
       "AllowSlide": true,
       "DurabilityBurnRatio": 1.15,
       "HeatFactorGun": 1,
-      "CoolFactorGun": 4.0,
-      "CoolFactorGunMods": 0.98,
-      "HeatFactorByShot": 1.95,
+      "CoolFactorGun": 1.0,
       "AllowOverheat": true,
       "MinRepairKitDegradation": 0,
       "MaxRepairKitDegradation": 0.025,
-      "IsFlareGun": false,
-      "IsOneoff": false,
-      "IsGrenadeLauncher": false,
-      "NoFiremodeOnBoltcatch": false,
-      "IsStationaryWeapon": false,
-      "IsBeltMachineGun": false,
-      "WithAnimatorAiming": false,
-      "blockLeftStance": false,
-     
+
+      
       "Grids": [],
       "Slots": [
         {
-          "_id": "68dedad488f5de26f05cff6a",
+          "_id": "694c83aa3b371e596840f8bf",
           "_mergeSlotWithChildren": false,
-          "_name": "mod_barrel",
-          "_parent": "68ded60bbd53f44248ea324f",
+          "_name": "mod_reciever_001",
+          "_parent": "694c80fa9b0201378540f8bd",
           "_props": {
             "filters": [
               {
                 "Filter": [
-                  "68dedf5072c1a7878545c9d4",
-                  "68e028ee33872c8c0b4e5e81"
+                 newbolt
                 ],
                 "Shift": 0
               }
@@ -148,16 +120,15 @@
           "_required": true
         },
         {
-          "_id": "68dedaee736352bed6555f89",
+          "_id": "694c83bf8f195a240e40f8c0",
           "_mergeSlotWithChildren": false,
           "_name": "mod_reciever",
-          "_parent": "68ded60bbd53f44248ea324f",
+          "_parent": "694c80fa9b0201378540f8bd",
           "_props": {
             "filters": [
               {
                 "Filter": [
-                  "68deec5afbef6b45bea1f051",
-                  "68e025fd8d83867f8fe9bc5f"
+newrec
                 ],
                 "Shift": 0
               }
@@ -167,17 +138,16 @@
           "_required": true
         },
         {
-          "_id": "68dedb03bc524f2749b7d391",
+          "_id": "694c83cb7f72e9bfb240f8c1",
           "_mergeSlotWithChildren": false,
           "_name": "mod_magazine",
-          "_parent": "68ded60bbd53f44248ea324f",
+          "_parent": "694c80fa9b0201378540f8bd",
           "_props": {
             "filters": [
               {
                 "AnimationIndex": 0,
                 "Filter": [
-                  "68deeeb97cbd04a1abd7a74b",
-                  "68fbd1861ec54c3c42ce0ff5"
+newmag
                 ]
               }
             ]
@@ -186,15 +156,15 @@
           "_required": false
         },
         {
-          "_id": "68dedb166a47f9f854e38a79",
+          "_id": "694c83f6d415662ebb40f8c2",
           "_mergeSlotWithChildren": false,
-          "_name": "mod_trigger",
-          "_parent": "68ded60bbd53f44248ea324f",
+          "_name": "mod_pistolgrip",
+          "_parent": "694c80fa9b0201378540f8bd",
           "_props": {
             "filters": [
               {
                 "Filter": [
-                  "68def4fe6e38d59a384f0ae1"
+woodgrips
                 ],
                 "Shift": 0
               }
@@ -202,76 +172,16 @@
           },
           "_proto": "55d30c4c4bdc2db4468b457e",
           "_required": true
-        },
-        {
-          "_id": "68dedb2f3200a320534ab4e6",
-          "_mergeSlotWithChildren": false,
-          "_name": "mod_hammer",
-          "_parent": "68ded60bbd53f44248ea324f",
-          "_props": {
-            "filters": [
-              {
-                "Filter": [
-                  "68def250e985661ccf8b1c79"
-                ],
-                "Shift": 0
-              }
-            ]
-          },
-          "_proto": "55d30c4c4bdc2db4468b457e",
-          "_required": true
-        },
-        {
-          "_id": "68dedb416af6f8373331e0e9",
-          "_mergeSlotWithChildren": false,
-          "_name": "mod_catch",
-          "_parent": "68ded60bbd53f44248ea324f",
-          "_props": {
-            "filters": [
-              {
-                "Filter": [
-                  "68def372f78f26bc8054cab3"
-                ],
-                "Shift": 0
-              }
-            ]
-          },
-          "_proto": "55d30c4c4bdc2db4468b457e",
-          "_required": true
-        },
-        {
-          "_id": "68dedbaa7e3218b205e42080",
-          "_mergeSlotWithChildren": false,
-          "_name": "mod_mount_000",
-          "_parent": "68ded60bbd53f44248ea324f",
-          "_props": {
-            "filters": [
-              {
-                "Filter": [
-                  "5a800961159bd4315e3a1657",
-                  "5cc9c20cd7f00c001336c65d",
-                  "5d2369418abbc306c62e0c80",
-                  "5b07dd285acfc4001754240d",
-                  "56def37dd2720bec348b456a",
-                  "5a7b483fe899ef0016170d15",
-                  "6272370ee4013c5d7e31f418",
-                  "6272379924e29f06af4d5ecb"
-                ],
-                "Shift": 0
-              }
-            ]
-          },
-          "_proto": "55d30c4c4bdc2db4468b457e",
-          "_required": false
         }
+       
       ]
-
+      
     },
     "locales": {
       "en": {
-        "name": "HK P30 Pistol",
-        "shortName": "HK P30",
-        "description": "A compact 9mm pistol from Germany. Are you back working Mr. Wick?"
+        "name": "ruger 2245",
+        "shortName": "2245",
+        "description": "bang"
       }
     },
     "fleaPriceRoubles": 15000,
@@ -289,8 +199,8 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "PEACEKEEPER": {
-        "68ded60bb111111111111111": {
+      "SKIER": {
+        "694c843974f04af89d40f8c3": {
           "barterSettings": {
             "loyalLevel": 2,
             "unlimitedCount": true,
