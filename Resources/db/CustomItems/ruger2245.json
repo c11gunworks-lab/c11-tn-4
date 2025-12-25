@@ -49,7 +49,7 @@
       "isChamberLoad": true,
       "chamberAmmoCount": 1,
       "isBoltCatch": true,
-      "defMagType": "NEW MAG",
+      "defMagType": "694d4ff2984bc5d85740f8cc",
       "defAmmo": "694c796b42ae52a1a940f8ba",
 
       "Chambers": [
@@ -170,7 +170,7 @@
             ]
           },
           "_proto": "55d30c4c4bdc2db4468b457e",
-          "_required": true
+          "_required": false
         },
         {
           "_id": "694c83cb7f72e9bfb240f8c1",
