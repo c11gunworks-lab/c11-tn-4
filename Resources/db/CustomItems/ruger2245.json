@@ -62,7 +62,9 @@
             "filters": [
               {
                 "Filter": [
-                  "694c796b42ae52a1a940f8ba"
+                  "694c796b42ae52a1a940f8ba",
+                  "694efa39da82e820e540f8da",
+                  "694ef9c8bc499b141d40f8d7"
                 ]
               }
             ]
@@ -104,13 +106,31 @@
         {
           "_id": "694c83aa3b371e596840f8bf",
           "_mergeSlotWithChildren": false,
-          "_name": "mod_reciever_001",
+          "_name": "mod_reciever.001",
           "_parent": "694c80fa9b0201378540f8bd",
           "_props": {
             "filters": [
               {
                 "Filter": [
                  "694d4afc492b8a3abf40f8c5"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "694d8609718246cc9340f8d4",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_reciever",
+          "_parent": "694c80fa9b0201378540f8bd",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "694d8611a9a00cec0d40f8d5"
                 ],
                 "Shift": 0
               }
@@ -199,7 +219,8 @@
             "filters": [
               {
                 "Filter": [
-"694d5067acb165798440f8cd"
+"694d5067acb165798440f8cd",
+                  "694d7332a9f57254a140f8d2"
                 ],
                 "Shift": 0
               }
@@ -219,8 +240,8 @@
         "description": "bang"
       }
     },
-    "fleaPriceRoubles": 15000,
-    "handbookPriceRoubles": 12500,
+    "fleaPriceRoubles": 24500,
+    "handbookPriceRoubles": 19750,
     "addtoBots": false,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
@@ -243,7 +264,7 @@
           },
           "barters": [
             {
-              "count": 45000,
+              "count": 40000,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -301,8 +322,6 @@
                   "570fd79bd2720bc7458b4583",
                   "570fd6c2d2720bc6458b457f",
                   "558022b54bdc2dac148b458d",
-                  "5c07dd120db834001c39092d",
-                  "5c0a2cec0db834001b7ce47d",
                   "58491f3324597764bc48fa02",
                   "584924ec24597768f12ae244",
                   "5b30b0dc5acfc400153b7124",
@@ -354,7 +373,7 @@
         "description": "slide"
       }
     },
-    "fleaPriceRoubles": 15000,
+    "fleaPriceRoubles": 16500,
     "handbookPriceRoubles": 12500,
     "addtoBots": false,
     "addtoSpecialSlots": false,
@@ -378,7 +397,7 @@
           },
           "barters": [
             {
-              "count": 16500,
+              "count": 20000,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -411,7 +430,9 @@
             "filters": [
               {
                 "Filter": [
-"694c796b42ae52a1a940f8ba"
+"694c796b42ae52a1a940f8ba",
+                  "694efa39da82e820e540f8da",
+                  "694ef9c8bc499b141d40f8d7"
                 ]
               }
             ]
@@ -438,8 +459,8 @@
         "description": "bang"
       }
     },
-    "fleaPriceRoubles": 15000,
-    "handbookPriceRoubles": 12500,
+    "fleaPriceRoubles": 3500,
+    "handbookPriceRoubles": 2500,
     "addtoBots": false,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
@@ -462,7 +483,7 @@
           },
           "barters": [
             {
-              "count": 1500,
+              "count": 3000,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -482,7 +503,7 @@
       },
       "Accuracy": 0,
       "BackgroundColor": "blue",
-      "Ergonomics": 11,
+      "Ergonomics": 9,
       "Height": 1,
       "RaidModdable": false,
       "Recoil": 0,
@@ -498,8 +519,8 @@
         "description": "rugerwoodgrip"
       }
     },
-    "fleaPriceRoubles": 15000,
-    "handbookPriceRoubles": 12500,
+    "fleaPriceRoubles": 7000,
+    "handbookPriceRoubles": 6000,
     "addtoBots": false,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
@@ -516,13 +537,73 @@
       "SKIER": {
         "694d51ca874c20a17f40f8ce": {
           "barterSettings": {
-            "loyalLevel": 2,
+            "loyalLevel": 1,
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },
           "barters": [
             {
-              "count": 1500,
+              "count": 8000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "694d7332a9f57254a140f8d2": {
+    "itemTplToClone": "6374a7e7417239a7bf00f042",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "rugerpolymergrips.bundle",
+        "rcid": ""
+      },
+      "Accuracy": 0,
+      "BackgroundColor": "blue",
+      "UniqueAnimationModID":10,
+      "Ergonomics": 12,
+      "Height": 1,
+      "RaidModdable": false,
+      "Recoil": 0,
+      "Weight": 0.017,
+      "Width": 1,
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "rugerpolgrip",
+        "shortName": "rugerpolgrip",
+        "description": "rugerpolgrip"
+      }
+    },
+    "fleaPriceRoubles": 7500,
+    "handbookPriceRoubles": 6500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "SKIER": {
+        "694d7352421e0f3f8140f8d3": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3500,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -532,7 +613,7 @@
   },
  
   "694d576f3a480ae8db40f8d0": {
-    "itemTplToClone": "587de5ba2459771c0f1e8a58",
+    "itemTplToClone": "544a38634bdc2d58388b4568",
     "parentId": "550aa4dd4bdc2dc9348b4569",
     "handbookParentId": "5b5f72f786f77447ec5d7702",
     "overrideProperties": {
@@ -543,6 +624,11 @@
       "Accuracy": 0,
       "BackgroundColor": "blue",
       "Ergonomics": 1,
+      "CoolFactor":1,
+      "HeatFactor":1,
+      "Velocity":0,
+      "muzzleModType":"muzzleCombo",
+      "Loudness":0,
       "Height": 1,
       "Recoil": 0,
       "Weight": 0.01,
@@ -557,11 +643,14 @@
         "description": "rugerthreadprot "
       }
     },
-    "fleaPriceRoubles": 15000,
-    "handbookPriceRoubles": 12500,
-    "addtoBots": false,
+    "fleaPriceRoubles": 1000,
+    "handbookPriceRoubles": 800,
+    "addtoBots": true,
     "addtoSpecialSlots": false,
-    "addtoModSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
       {
@@ -581,7 +670,66 @@
           },
           "barters": [
             {
-              "count": 1250,
+              "count": 1500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "694d8611a9a00cec0d40f8d5": {
+    "itemTplToClone": "6374a822e629013b9c0645c8",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "rugerbolts.bundle",
+        "rcid": ""
+      },
+      "Accuracy": 0,
+      "BackgroundColor": "blue",
+      "Ergonomics": 5,
+      "Height": 1,
+      "Recoil": 0,
+      "Weight": 0.51,
+      "Width": 1,
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "rugerbolt",
+        "shortName": "rugerbolt",
+        "description": "rugerbolt "
+      }
+    },
+    "fleaPriceRoubles": 1000,
+    "handbookPriceRoubles": 800,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "SKIER": {
+        "694d86556befcbeb9840f8d6": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1500,
               "_tpl": "MONEY_ROUBLES"
             }
           ]

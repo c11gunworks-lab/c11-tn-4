@@ -343,11 +343,15 @@
   "694d5067acb165798440f8cd Name": "Ruger Mark IV 22/45 Classic Wood Grip",
   "694d5067acb165798440f8cd ShortName": "22/45 Wood Grip",
   "694d5067acb165798440f8cd Description": "A 1911 style wooden pistol grip for the Ruger 22/45, offering a comfortable and traditional feel.",
+  "694d7332a9f57254a140f8d2 Name": "Ruger Mark IV 22/45 Polymer Grip",
+  "694d7332a9f57254a140f8d2 ShortName": "22/45 Polymer Grip",
+  "694d7332a9f57254a140f8d2 Description": "A 1911 style polymer pistol grip for the Ruger 22/45, offering a ... grip to hold",
   "694d576f3a480ae8db40f8d0 Name": "Ruger Mark IV 22/45 Thread Protector",
   "694d576f3a480ae8db40f8d0 ShortName": "22/45 Thread Prot",
-  "694d576f3a480ae8db40f8d0 Description": "A simple thread protector to cap off the threaded barrel of the Ruger 22/45 when not using a suppressor. Why are you not using a suppressor?"
-  
-
+  "694d576f3a480ae8db40f8d0 Description": "A simple thread protector to cap off the threaded barrel of the Ruger 22/45 when not using a suppressor. Why are you not using a suppressor?",
+  "694d8611a9a00cec0d40f8d5 Name": "Ruger Mark IV 22/45 Bolt",
+  "694d8611a9a00cec0d40f8d5 ShortName": "22/45 Bolt",
+  "694d8611a9a00cec0d40f8d5 Description": "A standard Ruger 22/45 bolt"
 }
 
 
