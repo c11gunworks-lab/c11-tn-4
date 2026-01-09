@@ -636,6 +636,268 @@
         "shaders"
 
       ]
+    },
+
+
+
+    {
+      "key": "am180.bundle",
+      "dependencyKeys": [
+
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+        "shaders",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/systems/effects/smoke.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle"
+
+
+      ]
+    },
+    {
+      "key": "180fstock.bundle",
+      "dependencyKeys": [
+        "shaders"
+
+      ]
+    },
+    {
+      "key": "180rs.bundle",
+      "dependencyKeys": [
+        "shaders"
+
+      ]
+    },
+    {
+      "key": "180slstock.bundle",
+      "dependencyKeys": [
+        "shaders"
+
+      ]
+    },
+    {
+      "key": "am180fs.bundle",
+      "dependencyKeys": [
+        "shaders"
+
+      ]
+    },
+    {
+      "key": "hglong.bundle",
+      "dependencyKeys": [
+        "shaders"
+
+      ]
+    },
+    {
+      "key": "lbarrel.bundle",
+      "dependencyKeys": [
+        "shaders"
+
+      ]
+    },
+    {
+      "key": "mag.bundle",
+      "dependencyKeys": [
+        "shaders"
+
+      ]
+    },
+    {
+      "key": "sbarrel.bundle",
+      "dependencyKeys": [
+        "shaders"
+
+      ]
+    },
+    {
+      "key": "sightmount180.bundle",
+      "dependencyKeys": [
+        "shaders"
+
+      ]
+    },
+    {
+      "key": "tommy.bundle",
+      "dependencyKeys": [
+        "shaders"
+
+      ]
+    },
+    {
+      "key": "t81lmg.bundle",
+      "dependencyKeys": [
+
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/audio/blendoptions/assets.bundle",
+        "shaders",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "epic_shaders.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle"
+
+
+      ]
+    },
+
+    {
+      "key": "camotophg.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "dustcamo.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "fscamo.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "lmgbipod.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "lmghgcamo.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "lmgstockcamo.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "pgcamo.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "threadpcamo.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "t81lmgbeech.bundle",
+      "dependencyKeys": [
+
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/audio/blendoptions/assets.bundle",
+        "shaders",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "epic_shaders.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle"
+
+
+      ]
+    },
+
+    {
+      "key": "thgbeech.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "dusthd.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "fshd.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "bipodgry.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "lhgbeech.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "lmgstockbeech.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "pgbeech.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "tphd.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "deltapointmicroglock.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "t81zhuk.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "dovetaillmg.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "t811913.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "t81moe.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "vzorremote.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle",
+        "assets/content/textures/holemanager/round_spec_mask.bundle",
+        "shaders"
+      ]
+    },
+    {
+      "key": "vzor4.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle",
+        "assets/systems/effects/nightvision.bundle",
+        "assets/content/textures/holemanager/round_spec_mask.bundle",
+        "shaders"
+      ]
     }
   ]
 }

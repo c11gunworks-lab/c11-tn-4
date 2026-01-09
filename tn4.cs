@@ -15,7 +15,7 @@ public record ModMetadata : AbstractModMetadata
     public override SemanticVersioning.Version Version { get; init; } = new("1.0.0");
 
     // Allow any 4.0.x 
-    public override Range SptVersion { get; init; } = new("^4.0.0");
+    public override Range SptVersion { get; init; } = new("~4.0.5");
 
     public override string License { get; init; } = "MIT";
     public override bool? IsBundleMod { get; init; } = true;
@@ -23,7 +23,8 @@ public record ModMetadata : AbstractModMetadata
     public override Dictionary<string, Range>? ModDependencies { get; init; } = new()
     {
         { "com.wtt.commonlib", new Range("~2.0.5") },
-        { "com.c11.spt22lr", new Range("~1.0.0") }
+        { "com.c11.spt22lr", new Range("~1.0.0") },
+        { "com.epicrangetime.shaders", new Range("~1.0.1") }
     };
 
     public override string? Url { get; init; }

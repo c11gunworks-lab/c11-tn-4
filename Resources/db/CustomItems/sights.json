@@ -1,0 +1,270 @@
+{
+
+  "695e89ae12149be247446f63": {
+    "itemTplToClone": "5a6f5d528dc32e00094b97d9",
+    "parentId": "55818acf4bdc2dde698b456b",
+    "handbookParentId": "5b5f744786f774094242f197",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "deltapointmicroglock.bundle",
+        "rcid": ""
+      },
+      "AimSensitivity": [
+        [
+          0.65
+        ]
+
+      ],
+      "CalibrationDistances": [
+        [
+          25,
+          50,
+          100
+        ]
+      ],
+      "ModesCount": [
+        1
+      ],
+      "Width": 1,
+      "Ergonomics":0,
+      "SightingRange":125,
+      "ScopesCount":1,
+      "ZoomSensitivity":0,
+      "Zooms":[
+        [
+          1
+        ]
+      ],
+      "Height": 1,
+      "Weight": 0.35,
+      "sightModType":"reflex",
+      "ConflictingItems": [
+      ],
+      "CanPutIntoDuringTheRaid":true,
+      "Slots": [],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "micro ",
+        "ShortName": "micro",
+        "Description": "micro"
+      }
+    },
+    "fleaPriceRoubles": 45000,
+    "handbookPriceRoubles": 42500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_sight_rear"
+    ],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "695e8aa6f0b840e2e0446f64": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 150,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "695ffdaedd28a71ea5446f66": {
+    "itemTplToClone": "655f13e0a246670fb0373245",
+    "parentId": "55818ad54bdc2ddc698b4569",
+    "handbookParentId": "5b5f742686f774093e6cb4ff",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "vzor4.bundle",
+        "rcid": ""
+      },
+      "AimSensitivity": [
+        [
+          0.65,
+          0.65,
+          0.65,
+          0.65,
+          0.65
+        ]
+        
+      ],
+      "CalibrationDistances": [
+        [
+          50,
+          100,
+          150,
+          200
+        ]
+       
+      ],
+      "ModesCount": [
+        5
+      ],
+      "Width": 1,
+      "Ergonomics":-1,
+      "SightingRange":500,
+      "ScopesCount":1,
+      "ZoomSensitivity":0,
+      "Zooms":[
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      ],
+      "Height": 1,
+      "Weight": 0.275,
+      "sightModType":"hybrid",
+      "ConflictingItems": [
+      ],
+      "CanPutIntoDuringTheRaid":true,
+      "Slots": [
+        {
+        "_id": "696001763f385f6edf446f6e",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_switch",
+        "_parent": "695ffdaedd28a71ea5446f66",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [ "696000ef0493e34c01446f6a"
+
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "vzor4  ",
+        "ShortName": "vzor4",
+        "Description": "vzor4"
+      }
+    },
+    "fleaPriceRoubles": 75000,
+    "handbookPriceRoubles": 62500,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": ["mod_scope"],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "695fff7c881392e07a446f68": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 350,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+
+  },
+  "696000ef0493e34c01446f6a": {
+    "itemTplToClone": "5d123a3cd7ad1a004e476058",
+    "parentId": "5a74651486f7744e73386dd1",
+    "handbookParentId": "5b5f74cc86f77447ec5d770a",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "vzorremote.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 1,
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.05,
+      "ConflictingItems": [
+      ],
+      "CanPutIntoDuringTheRaid":true,
+      "Slots": [
+
+       
+      ],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "vzor4 remote  ",
+        "ShortName": "vzor4 remote",
+        "Description": "vzor4remote"
+      }
+    },
+    "fleaPriceRoubles": 5000,
+    "handbookPriceRoubles": 2500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "modSlot": [
+      
+    ],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "696000d4a94ad7037a446f69": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 50,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+
+  }
+}

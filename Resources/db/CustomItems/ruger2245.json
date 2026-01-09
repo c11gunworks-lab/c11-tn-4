@@ -41,7 +41,7 @@
       "Ergonomics": 78,
       "RecoilForceUp": 25,
       "RecoilForceBack": 40,
-      "CameraRecoil": 0.01,
+      "RecoilCamera": 0.01,
       "Convergence": 0.7,
       "Velocity": 0,
       "bEffDist": 75,

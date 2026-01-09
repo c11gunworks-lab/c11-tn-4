@@ -1,0 +1,879 @@
+﻿{
+  "6959ae1d8e4dae34b821a223": {
+    "itemTplToClone": "6513ef33e06849f06c0957ca",
+    "parentId": "5447bed64bdc2d97278b4568",
+    "handbookParentId": "5b5f79a486f77409407a7f94",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "t81lmgbeech.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "default",
+      "MergesWithChildren": true,
+      "Width": 4,
+      "Height": 1,
+      "ConflictingItems":[
+        "693225c799989d996ae95bf3",
+        "6930d1c9eb251e06e06d3d10"
+      ],
+      "Weight": 4.5,
+      "RecoilForceUp": 110,
+      "RecoilForceBack": 275,
+      "RecoilCamera": 0.06,
+      "Convergence": 2.0,
+      "DeviationCurve":3.0,
+      "DeviationMax":27,
+      "SightingRange":150,
+      "SingleFireRate": 450,
+      "CameraSnap":3.7,
+      "RecoilStableIndexShot":3,
+      "RecolDispersion":12,
+      "CoolFactorGun":1.168,
+      "DurabilityBurnRatio":1.10,
+      "BaseMalfunctionChance":0.13,
+      "HeatFactorByShot":1.17,
+      "HeatFactorGun":0.995,
+      "CanQueueSecondShot": true,
+      "bFirerate": 720,
+      "Ergonomics": 40,
+      "Velocity": 0,
+      "bEffDist": 750,
+      "bHearDist": 80,
+      "isChamberLoad": true,
+      "chamberAmmoCount": 1,
+      "isBoltCatch": false,
+      "defMagType": "6930d355328696040a6d3d16",
+      "ammoCaliber": "Caliber762x39",
+      "isFastReload": true,
+      "ReloadMode": "ExternalMagazine",
+      "Foldable": false,
+      "Retractable": false,
+      "CompactHandling": false,
+      "weapFireType": [
+        "single",
+        "fullauto"
+      ],
+      "defAmmo": "5656d7c34bdc2d9d198b4587",
+      "Chambers": [
+        {
+          "_name": "patron_in_weapon",
+          "_id": "6959ae38daeea6e32c21a224",
+          "_parent": "6959ae1d8e4dae34b821a223",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59e0d99486f7744a32234762",
+                  "59e4d3d286f774176a36250a",
+                  "5656d7c34bdc2d9d198b4587",
+                  "59e4cf5286f7741778269d8a",
+                  "59e4d24686f7741776641ac7",
+                  "601aa3d2b2bcb34913271e6d",
+                  "64b7af5a8532cf95ee0a0dbd",
+                  "64b7af434b75259c590fa893",
+                  "64b7af734b75259c590fa895"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d4af244bdc2d962f8b4571"
+        }
+      ],
+
+      "Slots": [
+        {
+          "_name": "mod_gas_block",
+          "_id": "6959ae3cac05e95afb21a225",
+          "_parent": "6959ae1d8e4dae34b821a223",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "6930d0095c6559e2816d3d0a"
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_magazine",
+          "_id": "6959ae41ece8efd88f21a226",
+          "_parent": "6959ae1d8e4dae34b821a223",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex":-1,
+                "Shift": 0,
+                "Filter": [
+                  "6930d355328696040a6d3d16",
+                  "693322bda247a70444b155d2"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_id": "6959ae49972039b1b621a227",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "6959ae1d8e4dae34b821a223",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "628a66b41d5e41750e314f34",
+                  "6642f63667f5cb56a00662eb",
+                  "6959a1d728c934517821a222",
+                  "6959aedfd709381bfe21a23e"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_name": "mod_reciever",
+          "_id": "6959ae4c45436a59b421a228",
+          "_parent": "6959ae1d8e4dae34b821a223",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "6930cfb2b708723c496d3d09",
+                  "695998fdbbb7a9ea8221a20e",
+                  "6959ae648ab2d4472721a22e"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_stock",
+          "_id": "6959ae501d77855ad021a229",
+          "_parent": "6959ae1d8e4dae34b821a223",
+          "_props": {
+            "filters": [
+              {
+                "shift": 0,
+                "Filter": [
+                  "6930d291dbd8befb636d3d12",
+                  "693224968a1d92759be95bee",
+                  "6932eef319a1361673b155cd",
+                  "695999fa946736058d21a215",
+                  "6959aeabb718f8c8e421a237",
+                  "6960451b092ed1ff3f446f7b"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_pistol_grip",
+          "_id": "6959ae54ca520f1eba21a22a",
+          "_parent": "6959ae1d8e4dae34b821a223",
+          "_props": {
+            "filters": [
+              {
+                "shift": 0,
+                "Filter": [
+                  "6930d2efff08b89be96d3d14",
+                  "69599b727e06e825d921a21b",
+                  "6959af89357f345cf121a240"
+                ]
+              }
+            ]
+          },
+          
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_pistol_grip_akms",
+          "_id": "6960472fef706408c3446f84",
+          "_parent": "6959ae1d8e4dae34b821a223",
+          "_props": {
+            "filters": [
+              {
+                "shift": 0,
+                "Filter": [
+                  "69604673cf174632a1446f81"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_bipod",
+          "_id": "6959ae576af573f24e21a22b",
+          "_parent": "6959ae1d8e4dae34b821a223",
+          "_props": {
+            "filters": [
+              {
+                "shift": 0,
+                "Filter": [
+                  "69599b17ea6e57427e21a218",
+                  "6959aec299f49d72b121a239"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_front",
+          "_id": "6959ae5ba7ead13d3121a22c",
+          "_parent": "6959ae1d8e4dae34b821a223",
+          "_props": {
+            "filters": [
+              {
+                "shift": 0,
+                "Filter": [
+                  "69599be8356917b60121a21d",
+                  "6959aed9f579411c0a21a23c"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Grids": []
+
+
+    },
+    "locales": {
+      "en": {
+        "Name": "Poly Technologies Type 81 LMG (camo)",
+        "ShortName": "Type 81 LMG Camo",
+        "Description": "A military issue t81 lmg, with the threads on the barrel machined to 5/8x24 ar10 thread pitch"
+      }
+    },
+    "fleaPriceRoubles": 95000,
+    "handbookPriceRoubles": 97500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 2
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "6959ae607ae988d0cc21a22d": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 922500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6959ae648ab2d4472721a22e": {
+    "itemTplToClone": "5649af094bdc2df8348b4586",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "dusthd.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "default",
+      "MergesWithChildren": true,
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.65,
+      "Slots": [
+
+      ],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "Poly Technologies Type 81 Dust Cover Camo",
+        "ShortName": "T81 Dust Camo",
+        "Description": "A dust cover capable of (supposedly) keeping the dust out but in camo"
+      }
+    },
+    "fleaPriceRoubles": 7000,
+    "handbookPriceRoubles": 6500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 1
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "6959ae6834772f0b5721a22f": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 8500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "6959ae8a8609fc1ded21a231": {
+    "itemTplToClone": "59d64f2f86f77417193ef8b3",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "thgbeech.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "default",
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.28,
+      "Ergonomics": 4,
+      "Recoil": -2,
+      "Grids": [],
+      "Slots": [{
+        "_name": "mod_handguard_000",
+        "_id": "6959ae8d505648967d21a232",
+        "_parent": "6959ae8a8609fc1ded21a231",
+        "_props": {
+          "filters": [
+            {
+              "Shift": 0,
+              "Filter": [
+                "693225c799989d996ae95bf3",
+                "6930d1c9eb251e06e06d3d10",
+                "695999901ac7ab67ee21a213",
+                "6959aea76bcb6afbd721a235",
+                "693225c799989d996ae95bf3",
+                "69604054ad6ba86d79446f6f",
+                "6960434f897946d918446f76"
+              ]
+            }
+          ]
+        },
+        "_required": true,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }]
+    },
+    "locales": {
+      "en": {
+        "Name": "Poly Technologies Type 81 Upper Gas Tube Cover Camo",
+        "ShortName": "T81 Gas Cover Camo",
+        "Description": "it camo"
+      }
+    },
+    "fleaPriceRoubles": 9900,
+    "handbookPriceRoubles": 10500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "6959ae9545771b297021a233": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 13000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6959aea76bcb6afbd721a235": {
+    "itemTplToClone": "59d64f2f86f77417193ef8b3",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "lhgbeech.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "default",
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.15,
+      "Ergonomics": 1,
+      "Recoil": -2,
+
+      "Grids": [],
+      "Slots": [
+
+      ]
+    },
+    "locales": {
+      "en": {
+        "Name": "Poly Technologies Type 81 LMG Camo Lower Handguard",
+        "ShortName": "T81 Handguard LMG Camo",
+        "Description": "She was Camo and an LMG"
+      }
+    },
+    "fleaPriceRoubles": 9500,
+    "handbookPriceRoubles": 7500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "6959aea9a348b02c7e21a236": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "6959aeabb718f8c8e421a237": {
+    "itemTplToClone": "6513f1798cb24472490ee331",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "lmgstockbeech.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.65,
+      "ExtraSizeLeft": 1,
+      "ExtraSizeUp": 0,
+      "ExtraSizeDown": 0,
+      "Ergonomics": 15,
+      "Recoil": -25,
+      "Slots": [],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "Poly Technologies Type 81 LMG Camo Stock",
+        "ShortName": "T81 LMG Camo Stock",
+        "Description": "big and hidey"
+      }
+    },
+    "fleaPriceRoubles": 35000,
+    "handbookPriceRoubles": 35500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "6959aeb762a40be4e921a238": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 37500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6959aec299f49d72b121a239": {
+    "itemTplToClone": "6513f037e06849f06c0957d7",
+    "parentId": "55818afb4bdc2dde698b456d",
+    "handbookParentId": "5b5f71c186f77409407a7ec0",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "bipodgry.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.9,
+      "Ergonomics": -6,
+      "Recoil": 0,
+      "YawLimitProneBipod": {
+        "x": -15,
+        "y": 15,
+        "z": 0
+      },
+      "PitchLimitProneBipod":{
+        "x": -4,
+        "y": 6,
+        "z": 0
+      },
+      "BipodCameraSnapMultiplier":0.96,
+      "BipodOutOfStaminaBreathMultiplier":0.1,
+      "BipodRecoilMultiplier":0.25,
+      "BipodReturnHandSpeedMultiplier":1,
+
+      "Slots": [],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "lmg bpipod",
+        "ShortName": "lmg bbipod",
+        "Description": "It no work"
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 15500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "6959aec5d2f2aa002021a23a": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 27500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "6959af89357f345cf121a240": {
+    "itemTplToClone": "5649ad3f4bdc2df8348b4585",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "pgbeech.bundle",
+        "rcid": ""
+      },
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.45,
+      "ExtraSizeDown": 1,
+      "ExtraSizeForceAdd":false,
+      "ExtraSizeUp":0,
+      "Ergonomics": 4,
+      "Recoil": -7,
+      "Slots": [],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "Poly Technologies Type 81 camo grip",
+        "ShortName": "T81 camo Grip",
+        "Description": "camo Chopper"
+      }
+    },
+    "fleaPriceRoubles": 6000,
+    "handbookPriceRoubles": 6500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "6959aed002d1dcea9f21a23b": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 8500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6959aed9f579411c0a21a23c": {
+    "itemTplToClone": "6601268bc752a02bbe05e686",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "fshd.bundle",
+        "rcid": ""
+      },
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.10,
+      "SightingRange":250,
+      "CalibrationDistances": [
+        [
+          100
+        ]
+      ],
+      "Slots": [],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "Poly Technologies Type 81 lmg sight",
+        "ShortName": "T81 lmg sight",
+        "Description": "lmg sight"
+      }
+    },
+    "fleaPriceRoubles": 5000,
+    "handbookPriceRoubles": 2500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "6959aedcdc7a5aca6e21a23d": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "6959aedfd709381bfe21a23e": {
+    "itemTplToClone": "5bbdb8bdd4351e4502011460",
+    "parentId": "550aa4bf4bdc2dd6348b456b",
+    "handbookParentId": "5b5f724c86f774093f2ecf15",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "tphd.bundle", "rcid": "" },
+      "Accuracy": 0,
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "blue",
+      "BlocksCollapsible": false,
+      "BlocksFolding": false,
+      "CanPutIntoDuringTheRaid": true,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ConflictingItems": [],
+      "CoolFactor": 1,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "DropSoundType": "None",
+      "Durability": 100,
+      "DurabilityBurnModificator": 1,
+      "EffectiveDistance": 0,
+      "Ergonomics": 1,
+      "ExamineExperience": 5,
+      "ExamineTime": 1,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Grids": [],
+      "HasShoulderContact": false,
+      "HeatFactor": 1,
+      "Height": 1,
+      "ItemSound": "mod",
+      "LootExperience": 10,
+      "Loudness": 0,
+      "MergesWithChildren": true,
+      "RaidModdable": true,
+      "Recoil": 0,
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "SightingRange": 0,
+      "Slots": [],
+      "ToolModdable": false,
+      "UniqueAnimationModID": 0,
+      "Velocity": 0,
+      "Weight": 0.01,
+      "Width": 1,
+      "muzzleModType": "conpensator"
+    },
+    "locales": { "en":
+    { "Name":    "Poly Technologies Type 81 lmg muzzle protector camo",
+      "ShortName": "T81 lmg prot camo",
+      "Description": "it work" } },
+    "fleaPriceRoubles": 3000,
+    "handbookPriceRoubles": 2000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 1
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "PRAPOR": {
+        "6959aee9cbc945ba2e21a23f": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 2000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

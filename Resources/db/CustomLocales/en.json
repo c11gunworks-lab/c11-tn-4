@@ -351,7 +351,162 @@
   "694d576f3a480ae8db40f8d0 Description": "A simple thread protector to cap off the threaded barrel of the Ruger 22/45 when not using a suppressor. Why are you not using a suppressor?",
   "694d8611a9a00cec0d40f8d5 Name": "Ruger Mark IV 22/45 Bolt",
   "694d8611a9a00cec0d40f8d5 ShortName": "22/45 Bolt",
-  "694d8611a9a00cec0d40f8d5 Description": "A standard Ruger 22/45 bolt"
+  "694d8611a9a00cec0d40f8d5 Description": "A standard Ruger 22/45 bolt",
+
+  "69583cac7bad89e9f121a1e0 Name": "American-180 .22LR Submachine Gun",
+  "69583cac7bad89e9f121a1e0 ShortName": "AM-180",
+  "69583cac7bad89e9f121a1e0 Description": "A submachine gun from a bygone era, famous for its incredibly high rate of fire and unique top-mounted pan magazine. Chambered in the low-recoil .22LR cartridge, it can unleash a devastating swarm of lead, though its effectiveness against modern body armor is questionable.",
+
+  "69584151abc7f4803221a1e8 Name": "AM-180 Wire Stock",
+  "69584151abc7f4803221a1e8 ShortName": "AM-180 Wire",
+  "69584151abc7f4803221a1e8 Description": "A lightweight, retractable wire stock for the American-180. Offers a compact profile at the cost of ergonomics and recoil control.",
+
+  "6958422e405f99550021a1ea Name": "AM-180 Wooden Stock",
+  "6958422e405f99550021a1ea ShortName": "AM-180 Wood",
+  "6958422e405f99550021a1ea Description": "A classic fixed wooden stock for the American-180. Its weight and comfortable design provide superior stability and recoil management over the standard wire stock.",
+
+  "695843696bfb3ee57c21a1ec Name": "AM-180 Horizontal Wooden Handguard",
+  "695843696bfb3ee57c21a1ec ShortName": "AM-180 H.HG",
+  "695843696bfb3ee57c21a1ec Description": "A standard horizontal wooden handguard for the American-180 submachine gun.",
+
+  "6958492171c81a769421a1ff Name": "AM-180 \"Tommy\" Vertical Foregrip",
+  "6958492171c81a769421a1ff ShortName": "AM-180 Tommy",
+  "6958492171c81a769421a1ff Description": "An iconic vertical foregrip designed for the American-180, reminiscent of early 20th-century submachine guns. Provides excellent handling and recoil control.",
+
+  "6958440cedf0991bdf21a1ee Name": "American-180 Picatinny Sight Mount",
+  "6958440cedf0991bdf21a1ee ShortName": "AM-180 Riser",
+  "6958440cedf0991bdf21a1ee Description": "A simple Picatinny rail that replaces the rear iron sight on the American-180, allowing for the installation of modern reflex sights and other compact optics.",
+
+  "695844d86dcde47c9021a1f1 Name": "American-180 Standard Rear Sight",
+  "695844d86dcde47c9021a1f1 ShortName": "AM-180 RS",
+  "695844d86dcde47c9021a1f1 Description": "A standard-issue aperture rear sight for the American-180.",
+
+  "695845555bfd8faa2421a1f3 Name": "American-180 Standard Front Sight",
+  "695845555bfd8faa2421a1f3 ShortName": "AM-180 FS",
+  "695845555bfd8faa2421a1f3 Description": "A standard-issue front sight post for the American-180.",
+
+  "69584fdca0ffe7c97b21a203 Name": "AM-180 16.5 inch Barrel",
+  "69584fdca0ffe7c97b21a203 ShortName": "AM-180 16.5\"",
+  "69584fdca0ffe7c97b21a203 Description": "A full-length, 16.5-inch barrel for the American-180. Its length provides increased muzzle velocity and accuracy at the cost of ergonomics.",
+
+  "69584763d13f0873e521a1f9 Name": "AM-180 9 inch Barrel",
+  "69584763d13f0873e521a1f9 ShortName": "AM-180 9\"",
+  "69584763d13f0873e521a1f9 Description": "A short, 9-inch barrel for the American-180, designed for close-quarters engagements. What it lacks in accuracy and muzzle velocity, it makes up for in superior handling.",
+
+  "695849c97bbef3c79621a200 Name": "AM-180 177-round .22LR pan magazine",
+  "695849c97bbef3c79621a200 ShortName": "AM-180 177",
+  "695849c97bbef3c79621a200 Description": "The signature feature of the American-180: a massive 177-round capacity pan magazine. Its sheer volume of fire is offset by a slow and cumbersome loading process, poor ergonomics, and a tendency to malfunction.",
+
+
+  "69599638cd1179848621a204 Name": "Poly Technologies Type 81 LMG (Sprayed Tan)",
+  "69599638cd1179848621a204 ShortName": "Type 81 LMG (Tan)",
+  "69599638cd1179848621a204 Description": "A squad automatic weapon variant of the Type 81 rifle, finished with a hasty, non-regulation tan spray paint job for arid environments. This particular model has been field-modified to accept standard 5/8x24 threaded muzzle devices.",
+
+  "695998fdbbb7a9ea8221a20e Name": "Type 81 Dust Cover (Sprayed Tan)",
+  "695998fdbbb7a9ea8221a20e ShortName": "T81 DC (Tan)",
+  "695998fdbbb7a9ea8221a20e Description": "A standard dust cover for the Type 81 rifle series, finished with a matte tan spray paint.",
+
+  "6959993ecb9c07cd0421a210 Name": "Type 81 Upper Handguard (Sprayed Tan)",
+  "6959993ecb9c07cd0421a210 ShortName": "T81 UHG (Tan)",
+  "6959993ecb9c07cd0421a210 Description": "The upper handguard and gas tube assembly for a Type 81 rifle, featuring a tan spray paint finish. Allows for the installation of a compatible lower handguard.",
+
+  "695999901ac7ab67ee21a213 Name": "Type 81 LMG Lower Handguard (Sprayed Tan)",
+  "695999901ac7ab67ee21a213 ShortName": "T81 LMG HG (Tan)",
+  "695999901ac7ab67ee21a213 Description": "The unique lower handguard for the LMG variant of the Type 81, providing a stable grip. Finished with a tan spray paint job.",
+
+  "695999fa946736058d21a215 Name": "Type 81 LMG Stock (Sprayed Tan)",
+  "695999fa946736058d21a215 ShortName": "T81 LMG Stock (Tan)",
+  "695999fa946736058d21a215 Description": "The robust, fixed stock designed for the LMG variant of the Type 81. Its solid construction helps manage sustained fire. Features a non-regulation tan spray paint finish.",
+
+  "69599b17ea6e57427e21a218 Name": "Type 81 LMG Bipod (Sprayed Tan)",
+  "69599b17ea6e57427e21a218 ShortName": "T81 Bipod (Tan)",
+  "69599b17ea6e57427e21a218 Description": "A standard-issue folding bipod for the Type 81 LMG. This bipod has been given a coat of tan spray paint to match the rest of the weapon.",
+
+  "69599b727e06e825d921a21b Name": "Type 81 Pistol Grip (Sprayed Tan)",
+  "69599b727e06e825d921a21b ShortName": "T81 PG (Tan)",
+  "69599b727e06e825d921a21b Description": "A standard polymer pistol grip for the Type 81 rifle series, finished with a matte tan spray paint.",
+
+  "69599be8356917b60121a21d Name": "Type 81 LMG Front Sight(Sprayed Tan)",
+  "69599be8356917b60121a21d ShortName": "T81 LMG FSB (Tan)",
+  "69599be8356917b60121a21d Description": "The front sight and gas block assembly specific to the LMG variant of the Type 81 rifle. This assembly has been hit with tan spray paint.",
+
+  "6959a1d728c934517821a222 Name": "5/8x24 Thread Protector (Sprayed Tan)",
+  "6959a1d728c934517821a222 ShortName": "5/8x24 Prot. (Tan)",
+  "6959a1d728c934517821a222 Description": "A simple thread protector for barrels with a 5/8x24 thread pitch, finished with a tan spray paint job to match the weapon.",
+
+  "6959ae1d8e4dae34b821a223 Name": "Poly Technologies Type 81 LMG",
+  "6959ae1d8e4dae34b821a223 ShortName": "Type 81 LMG",
+  "6959ae1d8e4dae34b821a223 Description": "A squad automatic weapon variant of the Type 81 rifle, featuring a heavier barrel, bipod, and classic beech wood furniture with a standard gunmetal finish. This particular model has been field-modified to accept standard 5/8x24 threaded muzzle devices.",
+
+  "6959ae648ab2d4472721a22e Name": "Type 81 Dust Cover",
+  "6959ae648ab2d4472721a22e ShortName": "T81 DC",
+  "6959ae648ab2d4472721a22e Description": "A standard-issue stamped steel dust cover for the Type 81 rifle series with a factory gunmetal finish.",
+
+  "6959ae8a8609fc1ded21a231 Name": "Type 81 Upper Handguard (Beech)",
+  "6959ae8a8609fc1ded21a231 ShortName": "T81 UHG (Beech)",
+  "6959ae8a8609fc1ded21a231 Description": "The upper handguard and gas tube assembly for a Type 81 rifle, made from traditional beech wood. Allows for the installation of a compatible lower handguard.",
+
+  "6959aea76bcb6afbd721a235 Name": "Type 81 LMG Lower Handguard (Beech)",
+  "6959aea76bcb6afbd721a235 ShortName": "T81 LMG HG (Beech)",
+  "6959aea76bcb6afbd721a235 Description": "The unique lower handguard for the LMG variant of the Type 81, providing a stable grip. Carved from durable beech wood.",
+
+  "6959aeabb718f8c8e421a237 Name": "Type 81 LMG Stock (Beech)",
+  "6959aeabb718f8c8e421a237 ShortName": "T81 LMG Stock (Beech)",
+  "6959aeabb718f8c8e421a237 Description": "The robust, fixed stock designed for the LMG variant of the Type 81, made from classic beech wood. Its solid construction helps manage sustained fire.",
+
+  "6959aec299f49d72b121a239 Name": "Type 81 LMG Bipod",
+  "6959aec299f49d72b121a239 ShortName": "T81 Bipod",
+  "6959aec299f49d72b121a239 Description": "A standard-issue folding bipod for the Type 81 LMG with a factory gunmetal finish. Essential for providing a stable firing platform.",
+
+  "6959af89357f345cf121a240 Name": "Type 81 Pistol Grip (Beech)",
+  "6959af89357f345cf121a240 ShortName": "T81 PG (Beech)",
+  "6959af89357f345cf121a240 Description": "A standard pistol grip for the Type 81 rifle series, carved from classic beech wood.",
+
+  "6959aed9f579411c0a21a23c Name": "Type 81 LMG Front Sight",
+  "6959aed9f579411c0a21a23c ShortName": "T81 LMG FSB",
+  "6959aed9f579411c0a21a23c Description": "The front sight and gas block assembly specific to the LMG variant of the Type 81 rifle, with a standard gunmetal finish.",
+
+  "6959aedfd709381bfe21a23e Name": "5/8x24 Thread Protector",
+  "6959aedfd709381bfe21a23e ShortName": "5/8x24 Prot.",
+  "6959aedfd709381bfe21a23e Description": "A simple thread protector for barrels with a 5/8x24 thread pitch. Keeps the threads from being damaged when no muzzle device is attached.",
+  "695e89ae12149be247446f63 Name": "DeltaPoint Micro (Glock)",
+  "695e89ae12149be247446f63 ShortName": "DP Micro",
+  "695e89ae12149be247446f63 Description": "The DeltaPoint Micro is fast on target, extremely accurate, and built Leupold® tough. But it’s the low-profile, concealable design that really makes it stand out from the competition. Mounted at the same height as factory iron sights, the DeltaPoint Micro aligns the red dot with the front sight, making target acquisition fast and intuitive and improving your accuracy, all while maintaining a compact profile.",
+
+  "695ffdaedd28a71ea5446f66 Name": "ZenitCo Vzor-4 Sight/Laser/Illuminator Combo ",
+  "695ffdaedd28a71ea5446f66 ShortName": "Vzor-4",
+  "695ffdaedd28a71ea5446f66 Description": "The ZenitCo Vzor-4 combines a red dot sight, dual laser designator, and IR illuminator, providing all-in-one functionality for various shooting scenarios.  The ability to use visible and IR lasers, along with brightness adjustments for the aiming mark, ensures clear targeting in diverse lighting conditions. ",
+
+  "696000ef0493e34c01446f6a Name": "ZenitCo Vzor-4 Remote Switch",
+  "696000ef0493e34c01446f6a ShortName": "Vzor-4 Switch",
+  "696000ef0493e34c01446f6a Description": "The ZenitCo Vzor-4 Switch for turning things on and off. Like in I.T. ",
+  
+   "69604054ad6ba86d79446f6f Name": "Type 81 Magpul Zhukov-U handguard (Multicam Black)",
+  "69604054ad6ba86d79446f6f ShortName": "T81 Zhukov-U MCB",
+  "69604054ad6ba86d79446f6f Description": "The Type 81 Magpul Zhukov-U handguard is installed on the Type 81 compatible weapon systems. Equipped with licensed M-LOK mounts for installation of additional devices or rails. Multicam Black version.",
+
+  "6960434f897946d918446f76 Name": "Type 81 Magpul MOE AKM handguard (Multicam Rubble)",
+  "6960434f897946d918446f76 ShortName": "T81 MOE MCB",
+  "6960434f897946d918446f76 Description": "The Type 81 Magpul MOE AKM handguard is installed on the Type 81 and compatible weapon systems. It comes equipped with licensed M-LOK mounts for the installation of additional devices or rails. Multicam Rubble version.",
+
+  "6960451b092ed1ff3f446f7b Name": "Sigmaco Type 81 1913 Rail Stock Adapter",
+  "6960451b092ed1ff3f446f7b ShortName": "T81 1913",
+  "6960451b092ed1ff3f446f7b Description": "Add a 1913 stock to your type 81 with this lovely chunk - o - metal",
+  "69604673cf174632a1446f81 Name": "Type 81 Ebay Special Dovetail Mount",
+  "69604673cf174632a1446f81 ShortName": "T81 EBAY",
+  "69604673cf174632a1446f81 Description": "Add a dovetail mount to your Type 81 LMG, directly from ebay. Don't wreck anything mounting it!"
+
+
+
+
+
+
+
+
+
+
+
+
 }
 
 

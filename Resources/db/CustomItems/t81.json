@@ -16,7 +16,7 @@
       "Weight": 3.95,
       "RecoilForceUp": 125,
       "RecoilForceBack": 270,
-      "CameraRecoil": 0.08,
+      "RecoilCamera": 0.08,
       "Convergence": 2.0,
       "DeviationCurve":3.35,
       "SightingRange":100,
@@ -135,8 +135,9 @@
               {
                 "Shift": 0,
                 "Filter": [
-"6930cfb2b708723c496d3d09"
-                ]
+                  "6930cfb2b708723c496d3d09",
+                  "695998fdbbb7a9ea8221a20e"     ,
+                "6959ae648ab2d4472721a22e"]
               }
             ]
           },
@@ -155,7 +156,11 @@
                 "Filter": [
 "6930d291dbd8befb636d3d12",
                 "693224968a1d92759be95bee",
-                  "6932eef319a1361673b155cd"
+                  "6932eef319a1361673b155cd",
+                  "695999fa946736058d21a215",
+                  "6959aeabb718f8c8e421a237",
+                  "6960451b092ed1ff3f446f7b"
+
                 ]
               }
             ]
@@ -173,7 +178,10 @@
               {
                 "shift": 0,
                 "Filter": [
-                  "6930d2efff08b89be96d3d14"                ]
+                  "6930d2efff08b89be96d3d14",
+                  "69599b727e06e825d921a21b",
+                  "6959af89357f345cf121a240"
+                ]
               }
             ]
           },
@@ -309,7 +317,9 @@
               {
                 "Shift": 0,
                 "Filter": [
-                  "6930d0ab3adc98bda56d3d0c"
+                  "6930d0ab3adc98bda56d3d0c",
+                  "6959993ecb9c07cd0421a210",
+                  "6959ae8a8609fc1ded21a231"
                 ]
               }
             ]
@@ -391,7 +401,12 @@
               "Shift": 0,
               "Filter": [
                 "693225c799989d996ae95bf3",
-                "6930d1c9eb251e06e06d3d10"
+                "6930d1c9eb251e06e06d3d10",
+                "695999901ac7ab67ee21a213",
+                "6959aea76bcb6afbd721a235",
+                "693225c799989d996ae95bf3",
+                "69604054ad6ba86d79446f6f",
+                "6960434f897946d918446f76"
               ]
             }
           ]

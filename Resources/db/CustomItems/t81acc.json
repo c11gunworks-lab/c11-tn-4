@@ -1,0 +1,389 @@
+{
+  "69604054ad6ba86d79446f6f": {
+    "itemTplToClone": "5c9a07572e221644f31c4b32",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "t81zhuk.bundle", "rcid": "" },
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.35,
+      "MergesWithChildren":true,
+      "Grids": [],
+      "Slots": [
+        {
+          "_id": "6960409f4cfb9a27a4446f71",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "69604054ad6ba86d79446f6f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57cffb66245977632f391a99",
+                  "57cffcd624597763133760c5",
+                  "57cffcdd24597763f5110006",
+                  "57cffce524597763b31685d8",
+                  "5b7be4895acfc400170e2dd5",
+                  "651a8bf3a8520e48047bf708",
+                  "651a8e529829226ceb67c319",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "696040ae051f6d0e86446f72",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_000",
+          "_parent": "69604054ad6ba86d79446f6f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "696040b0800b73d335446f73",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_001",
+          "_parent": "69604054ad6ba86d79446f6f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en":
+      {
+        "Name":    "Magpul zhuk",
+        "ShortName": "Magpul zhuk",
+        "Description": "Magpul zhuk "
+      }
+    },
+    "fleaPriceRoubles": 48000,
+    "handbookPriceRoubles": 47000,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 1
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "MECHANIC": {
+        "6960434c1033b74cee446f75": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 46000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6960434f897946d918446f76": {
+    "itemTplToClone": "57cff947245977638e6f2a19",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "t81moe.bundle", "rcid": "" },
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.35,
+      "MergesWithChildren":true,
+      "Grids": [],
+      "Slots": [
+        {
+          "_id": "6960439d0f87bd2390446f77",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_003",
+          "_parent": "6960434f897946d918446f76",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57cffb66245977632f391a99",
+                  "57cffcd624597763133760c5",
+                  "57cffcdd24597763f5110006",
+                  "57cffce524597763b31685d8",
+                  "5b7be4895acfc400170e2dd5",
+                  "651a8e529829226ceb67c319",
+                  "651a8bf3a8520e48047bf708",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6960439e0e1888e576446f78",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_000",
+          "_parent": "6960434f897946d918446f76",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en":
+      {
+        "Name":    "Magpul MOE",
+        "ShortName": "Magpul MOE",
+        "Description": "Magpul MOE "
+      }
+    },
+    "fleaPriceRoubles": 18000,
+    "handbookPriceRoubles": 17000,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 1
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "MECHANIC": {
+        "696043b16d8fe2ff0a446f79": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 16000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "6960451b092ed1ff3f446f7b": {
+    "itemTplToClone": "66ffc246a81a4f85e70d4d06",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "t811913.bundle", "rcid": "" },
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.15,
+      "Ergonomics": 0,
+      "Recoil": 0,
+      "MergesWithChildren":true,
+      "Grids": [],
+      "Slots": [
+        {
+          "_id": "69604521c474ed2d8a446f7c",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_stock",
+          "_parent": "6960451b092ed1ff3f446f7b",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "58ac1bf086f77420ed183f9f",
+                  "5894a13e86f7742405482982",
+                  "5fbcc429900b1d5091531dd7",
+                  "5fbcc437d724d907e2077d5c",
+                  "5c5db6ee2e221600113fba54",
+                  "5c5db6f82e2216003a0fe914",
+                  "6529348224cbe3c74a05e5c4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": { "en":
+    { "Name":    "Sigmaco Type 81 1913 Rail Stock Adapter",
+      "ShortName": "T81 1913",
+      "Description": "wow" } },
+    "fleaPriceRoubles": 18000,
+    "handbookPriceRoubles": 17000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 1
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "MECHANIC": {
+        "6960454cecd35fcdf1446f7e": {
+          "barterSettings": {
+            "loyalLevel":2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 26000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "69604673cf174632a1446f81": {
+    "itemTplToClone": "587e08ee245977446b4410cf",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "dovetaillmg.bundle", "rcid": "" },
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.05,
+      "MergesWithChildren":true,
+      "Grids": [],
+      "Slots": [
+        {
+          "_id": "6960469ffaaadf0783446f82",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "69604673cf174632a1446f81",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5947db3f86f77447880cf76f",
+                  "6113d6c3290d254f5e6b27db",
+                  "57486e672459770abd687134",
+                  "5c82342f2e221644f31c060e",
+                  "576fd4ec2459777f0b518431",
+                  "5c82343a2e221644f31c0611",
+                  "5cf638cbd7f00c06595bc936",
+                  "5a7c74b3e899ef0014332c29",
+                  "591ee00d86f774592f7b841e",
+                  "618a75c9a3884f56c957ca1b",
+                  "57acb6222459771ec34b5cb0",
+                  "638db77630c4240f9e06f8b6",
+                  "63d114019e35b334d82302f7",
+                  "6544d4187c5457729210d277"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": { "en":
+    { "Name":    "dovetail",
+      "ShortName": "T81 dove",
+      "Description": "wow" } },
+    "fleaPriceRoubles": 18000,
+    "handbookPriceRoubles": 17000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 1
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "PRAPOR": {
+        "696045d049a8262d69446f80": {
+          "barterSettings": {
+            "loyalLevel":2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 16000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

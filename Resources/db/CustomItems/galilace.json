@@ -16,7 +16,7 @@
       "Weight": 2.95,
       "RecoilForceUp": 145,
       "RecoilForceBack": 320,
-      "CameraRecoil": 0.11,
+      "RecoilCamera": 0.11,
       "Convergence": 1.4,
       "Slots": [
         {
