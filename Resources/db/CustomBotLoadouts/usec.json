@@ -1,7 +1,7 @@
 {
   "chances": {
     "equipment": {
-      "FirstPrimaryWeapon": 20,
+      "FirstPrimaryWeapon": 100,
       "Holster": 20
     },
     "weaponMods": {
@@ -27,11 +27,11 @@
   "inventory": {
     "equipment": {
       "FirstPrimaryWeapon": {
-        "68b4b52f1a1ff2a6c49ac5be": 10,
-        "6928b6bf523e7af9a6ed2cec": 5
+        "68b4b52f1a1ff2a6c49ac5be": 2,
+        "6928b6bf523e7af9a6ed2cec": 1
       },
       "Holster": {
-        "68ded60bbd53f44248ea324f": 10
+        "68ded60bbd53f44248ea324f": 1
       }
     },
     "mods": {
@@ -62,9 +62,6 @@
         "mod_barrel": [ "68dedf5072c1a7878545c9d4", "68e028ee33872c8c0b4e5e81" ],
         "mod_reciever": [ "68deec5afbef6b45bea1f051", "68e025fd8d83867f8fe9bc5f" ],
         "mod_magazine": [ "68deeeb97cbd04a1abd7a74b", "68fbd1861ec54c3c42ce0ff5" ],
-        "mod_trigger": [ "68def4fe6e38d59a384f0ae1" ],
-        "mod_hammer": [ "68def250e985661ccf8b1c79" ],
-        "mod_catch": [ "68def372f78f26bc8054cab3" ],
         "mod_mount_000": [ "5a7b483fe899ef0016170d15" ]
       },
       "68deec5afbef6b45bea1f051": {
@@ -75,13 +72,13 @@
         "mod_muzzle": [ "68e029fe3948c17cabf65482" ]
       },
       "68e025fd8d83867f8fe9bc5f": {
-        "mod_scope.001": [ "5a32aa8bc4a2826c6e06d737" ],
-        "mod_sight_front.001": [ "68def18791f0b463b5c29f0c" ]
+        "mod_scope": [ "5a32aa8bc4a2826c6e06d737" ],
+        "mod_sight_front": [ "68def18791f0b463b5c29f0c" ]
       }
     },
     "Ammo": {
-      "Caliber556x45NATO": { "59e6920f86f77411d82aa167": 1, "54527ac44bdc2d36668b4567": 1 },
-      "Caliber9x19PARA": { "5efb0da7a29a85116f6ea05f": 3, "5c0d56a986f774449d5de529": 1 }
+      "Caliber556x45NATO": { "59e6920f86f77411d82aa167": 5500, "54527ac44bdc2d36668b4567": 15 },
+      "Caliber9x19PARA": { "5efb0da7a29a85116f6ea05f": 30000, "5c0d56a986f774449d5de529": 15000 }
     }
   }
 }

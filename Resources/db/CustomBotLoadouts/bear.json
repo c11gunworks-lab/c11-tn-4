@@ -1,8 +1,7 @@
 {
   "chances": {
     "equipment": {
-      "FirstPrimaryWeapon": 20,
-      "Holster": 20
+      "FirstPrimaryWeapon": 100
     },
     "weaponMods": {
       "mod_pistol_grip": 100,
@@ -18,21 +17,13 @@
       "mod_muzzle": 100,
       "mod_tactical": 100,
       "mod_tactical_001": 100,
-      "mod_tactical_002": 100,
-      "mod_trigger": 100,
-      "mod_hammer": 100,
-      "mod_catch": 100,
-      "mod_sight_rear": 100,
-      "mod_sight_front": 100
+      "mod_tactical_002": 100
     }
   },
   "inventory": {
     "equipment": {
       "FirstPrimaryWeapon": {
-        "5ea03f7400685063ec28bfa8": 1
-      },
-      "Holster": {
-        "68ded60bbd53f44248ea324f": 1
+        "5ea03f7400685063ec28bfa8": 3
       }
     },
     "mods": {
@@ -66,23 +57,10 @@
       },
       "690a228693b29bcfa1c3b919": {
         "mod_muzzle": [ "571a28e524597720b4066567" ]
-      },
-      "68ded60bbd53f44248ea324f": {
-        "mod_barrel": [ "68dedf5072c1a7878545c9d4" ],
-        "mod_reciever": [ "68deec5afbef6b45bea1f051" ],
-        "mod_magazine": [ "68deeeb97cbd04a1abd7a74b" ],
-        "mod_trigger": [ "68def4fe6e38d59a384f0ae1" ],
-        "mod_hammer": [ "68def250e985661ccf8b1c79" ],
-        "mod_catch": [ "68def372f78f26bc8054cab3" ]
-      },
-      "68deec5afbef6b45bea1f051": {
-        "mod_sight_rear": [ "68deea38e2111fb84c156ff2" ],
-        "mod_sight_front": [ "68def18791f0b463b5c29f0c" ]
       }
+      
     },
     "Ammo": {
-      "Caliber762x25TT": { "573603562459776430731618": 1 },
-      "Caliber9x19PARA": { "5efb0da7a29a85116f6ea05f": 1 }
-    }
+      "Caliber762x25TT": { "573603562459776430731618": 1 }}
   }
 }

@@ -28,22 +28,137 @@
         "_tpl": "657f8ec5f4c82973640b234c",
         "slotId": "Helmet_back",
         "parentId": "691a04c0a9c820e5ed459baa"
+      },
+
+      {
+        "_id": "6998eef8abc61684aaf7a06d",
+        "_tpl": "6998e428d9c1fe43aaf7a03d",
+        "upd": {
+          "Repairable": {
+            "MaxDurability": 100,
+            "Durability": 100
+          },
+
+          "UnlimitedCount": true,
+          "StackObjectsCount": 999999,
+          "BuyRestrictionMax": 2
+        },
+        "parentId": "hideout",
+        "slotId": "hideout"
+      },
+      {
+        "_id": "6998ef0b55ba513551f7a06e",
+        "_tpl": "657f8ec5f4c82973640b234c",
+        "slotId": "Helmet_top",
+        "parentId": "6998eef8abc61684aaf7a06d"
+      },
+      {
+        "_id": "6998ef0e414a25859cf7a06f",
+        "_tpl": "657f8ec5f4c82973640b234c",
+        "slotId": "Helmet_back",
+        "parentId": "6998eef8abc61684aaf7a06d"
+      },
+      {
+        "_id": "6998ef1a3fa259944ff7a070",
+        "_tpl": "6998e48a9d7c140756f7a049",
+        "upd": {
+          "Repairable": {
+            "MaxDurability": 100,
+            "Durability": 100
+          },
+
+          "UnlimitedCount": true,
+          "StackObjectsCount": 999999,
+          "BuyRestrictionMax": 2
+        },
+        "parentId": "hideout",
+        "slotId": "hideout"
+      },
+      {
+        "_id": "6998ef2333760a5449f7a071",
+        "_tpl": "657f8ec5f4c82973640b234c",
+        "slotId": "Helmet_top",
+        "parentId": "6998ef1a3fa259944ff7a070"
+      },
+      {
+        "_id": "6998ef26cfad9df6daf7a072",
+        "_tpl": "657f8ec5f4c82973640b234c",
+        "slotId": "Helmet_back",
+        "parentId": "6998ef1a3fa259944ff7a070"
+      },
+      {
+        "_id": "6998ef44f4d940861ff7a073",
+        "_tpl": "6998e4f8f156ad13a1f7a055",
+        "upd": {
+          "Repairable": {
+            "MaxDurability": 100,
+            "Durability": 100
+          },
+
+          "UnlimitedCount": true,
+          "StackObjectsCount": 999999,
+          "BuyRestrictionMax": 2
+        },
+        "parentId": "hideout",
+        "slotId": "hideout"
+      },
+      {
+        "_id": "6998ef4748513994a9f7a074",
+        "_tpl": "657f8ec5f4c82973640b234c",
+        "slotId": "Helmet_top",
+        "parentId": "6998ef44f4d940861ff7a073"
+      },
+      {
+        "_id": "6998ef499d3da0093af7a075",
+        "_tpl": "657f8ec5f4c82973640b234c",
+        "slotId": "Helmet_back",
+        "parentId": "6998ef44f4d940861ff7a073"
       }
-      
-        
+
+
     ],
     "barter_scheme": {
       "691a04c0a9c820e5ed459baa": [
+        [
+          {
+            "count": 160000,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "6998eef8abc61684aaf7a06d": [
+        [
+          {
+            "count": 260000,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "6998ef1a3fa259944ff7a070": [
         [
           {
             "count": 360000,
             "_tpl": "5449016a4bdc2d6f028b456f"
           }
         ]
+      ],
+      "6998ef44f4d940861ff7a073": [
+        [
+          {
+            "count": 460000,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
       ]
     },
     "loyal_level_items": {
-      "691a04c0a9c820e5ed459baa": 4
+      "691a04c0a9c820e5ed459baa": 2,
+      "6998eef8abc61684aaf7a06d": 3,
+      "6998ef1a3fa259944ff7a070": 4,
+      "6998ef44f4d940861ff7a073": 4
+
+
+
     }
     
   }

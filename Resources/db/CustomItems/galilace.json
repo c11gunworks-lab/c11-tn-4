@@ -9,14 +9,17 @@
         "path": "galilace.bundle",
         "rcid": ""
       },
-      "BackgroundColor": "default",
+      "BackgroundColor": "black",
       "MergesWithChildren": true,
       "Width": 3,
+      "BaseMalfunctionChance":0.16,
+      "DurabilityBurnRatio":1.11,
+
       "Height": 1,
-      "Weight": 2.95,
+      "Weight": 3.25,
       "RecoilForceUp": 145,
-      "RecoilForceBack": 320,
-      "RecoilCamera": 0.11,
+      "RecoilForceBack": 360,
+      "RecoilCamera": 0.08,
       "Convergence": 1.4,
       "Slots": [
         {
@@ -114,7 +117,7 @@
               }
             ]
           },
-          "_required": true,
+          "_required": false,
           "_mergeSlotWithChildren": false,
           "_proto": "55d30c4c4bdc2db4468b457e"
         },
@@ -127,12 +130,14 @@
               {
                 "shift": 0,
                 "Filter": [
-                  "6920fc9bde9ac414d66cb930"
+                  "6920fc9bde9ac414d66cb930",
+                  "696136015bce2091f3446f8e",
+                  "69613556415ec190d1446f8b"
                 ]
               }
             ]
           },
-          "_required": true,
+          "_required": false,
           "_mergeSlotWithChildren": false,
           "_proto": "55d30c4c4bdc2db4468b457e"
         }
@@ -147,8 +152,9 @@
       "SingleFireRate": 350,
       "CanQueueSecondShot": true,
       "bFirerate": 680,
-      "Ergonomics": 52,
-      "Velocity": 0,
+      "Ergonomics": 68,
+      "Velocity": -5,
+      "SightingRange":100,
       "bEffDist": 500,
       "bHearDist": 80,
       "isChamberLoad": true,
@@ -195,9 +201,9 @@
         "Description": "A modernized version of the classic Galil assault rifle, the Galil ACE in 7.62x39mm offers improved ergonomics, reliability, and modularity, making it a versatile choice for various combat scenarios. The bolt carrier has been swapped with a Z111 STV-380 for right side charging."
       }
     },
-    "fleaPriceRoubles": 65000,
-    "handbookPriceRoubles": 75000,
-    "addtoBots": false,
+    "fleaPriceRoubles": 75000,
+    "handbookPriceRoubles": 68000,
+    "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
@@ -208,6 +214,105 @@
       }
     ],
     "addtoSecureFilters": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "6959a7169b6dadf5c8e933e9",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Gen One",
+        "_parent": "6959a7169b6dadf5c8e933ea",
+        "_items": [
+          {
+            "_id": "6959a7169b6dadf5c8e933ea",
+            "_tpl": "6920f5d89049842deac34398",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              }
+            }
+          },
+          {
+            "_id": "6946ec4b65069e49280d96f0",
+            "_tpl": "6920fa10105fab44300e438a",
+            "parentId": "6959a7169b6dadf5c8e933ea",
+            "slotId": "mod_gas_block"
+          },
+          {
+            "_id": "6946ec4b65069e49280d96f1",
+            "_tpl": "59d6272486f77466146386ff",
+            "parentId": "6959a7169b6dadf5c8e933ea",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "6946ec4b65069e49280d96f2",
+            "_tpl": "8ba3e8781a976de83ca7e6e4",
+            "parentId": "6959a7169b6dadf5c8e933ea",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "6946ec4b65069e49280d96f3",
+            "_tpl": "6920f942d3ac2f0d40e5acda",
+            "parentId": "6959a7169b6dadf5c8e933ea",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "6946ec4b65069e49280d96f4",
+            "_tpl": "6920fc9bde9ac414d66cb930",
+            "parentId": "6959a7169b6dadf5c8e933ea",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "6946ec4b65069e49280d96f5",
+            "_tpl": "6920fadbf0d17bf37ce3ca85",
+            "parentId": "6946ec4b65069e49280d96f0",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "6946ec4b65069e49280d96f6",
+            "_tpl": "6920fb556e317e30d954422b",
+            "parentId": "6946ec4b65069e49280d96f3",
+            "slotId": "mod_mount_001"
+          },
+          {
+            "_id": "6946ec4b65069e49280d96f7",
+            "_tpl": "6920fc2ed6d85697b6c81987",
+            "parentId": "6946ec4b65069e49280d96f6",
+            "slotId": "mod_rear_sight",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          }
+        ],
+        "_encyclopedia": "6920f5d89049842deac34398"
+      }
+
+
+
+    ],
+    "masterySections": [
+      {
+        "Level2": 150,
+        "Level3": 200,
+        "Name": "GalilAce",
+        "Templates": [
+          "6920f5d89049842deac34398"
+        ]
+      }
+    ],
     "addtoTraders": true,
     "traders": {
       "MECHANIC": {
@@ -234,10 +339,10 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "acedust.bundle",
+        "path": "ace32dust.bundle",
         "rcid": ""
       },
-      "BackgroundColor": "default",
+      "BackgroundColor": "black",
       "MergesWithChildren": true,
       "Width": 2,
       "Height": 1,
@@ -254,7 +359,8 @@
               {
                 "Shift": 0,
                 "Filter": [
-                  "6920fb556e317e30d954422b"
+                  "6920fb556e317e30d954422b",
+                  "69723adba548ea7d12c39330"
                 ]
               }
             ]
@@ -273,9 +379,9 @@
         "Description": "A dust cover capable of (supposedly) holding zero for the picatinny rail mounted to it."
       }
     },
-    "fleaPriceRoubles": 25000,
-    "handbookPriceRoubles": 19500,
-    "addtoBots": false,
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12000,
+    "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
@@ -297,7 +403,7 @@
           },
           "barters": [
             {
-              "count": 26500,
+              "count": 16500,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -330,12 +436,14 @@
               {
                 "Shift": 0,
                 "Filter": [
-                  "6920fadbf0d17bf37ce3ca85"
+                  "6920fadbf0d17bf37ce3ca85",
+                  "69612efb852f06ddba446f85",
+                  "697238de1644c6baa9c3932a"
                 ]
               }
             ]
           },
-          "_required": false,
+          "_required": true,
           "_mergeSlotWithChildren": false,
           "_proto": "55d30c4c4bdc2db4468b457e"
         },
@@ -438,12 +546,12 @@
         "path": "acehg.bundle",
         "rcid": ""
       },
-      "BackgroundColor": "default",
-      "Width": 2,
+      "BackgroundColor": "black",
+      "Width": 1,
       "Height": 1,
       "Weight": 0.28,
-      "Ergonomics": 8,
-      "Recoil": -2,
+      "Ergonomics": 5,
+      "Recoil": 0,
       "Grids": [],
       "Slots": []
     },
@@ -454,9 +562,9 @@
         "Description": "The stock handguard for the Galil ACE, Gen 1"
       }
     },
-    "fleaPriceRoubles": 18900,
-    "handbookPriceRoubles": 21500,
-    "addtoBots": false,
+    "fleaPriceRoubles": 4500,
+    "handbookPriceRoubles": 3000,
+    "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
@@ -478,7 +586,197 @@
           },
           "barters": [
             {
-              "count": 21000,
+              "count": 5200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69612efb852f06ddba446f85": {
+    "itemTplToClone": "5648ae314bdc2d3d1c8b457f",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "acehgpic.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "black",
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.21,
+      "Ergonomics": 7,
+      "Recoil": 0,
+      "Grids": [],
+      "Slots": [
+        {
+          "_id": "696134cbd25ff4eb17446f86",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "69612efb852f06ddba446f85",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c7fc87d2e221644f31c0298",
+                  "5cda9bcfd7f00c0c0b53e900",
+                  "59f8a37386f7747af3328f06",
+                  "619386379fb0c665d5490dbe",
+                  "5c87ca002e221600114cb150",
+                  "588226d124597767ad33f787",
+                  "588226dd24597767ad33f789",
+                  "588226e62459776e3e094af7",
+                  "588226ef24597767af46e39c",
+                  "59fc48e086f77463b1118392",
+                  "5fce0cf655375d18a253eff0",
+                  "5cf4fb76d7f00c065703d3ac",
+                  "5b057b4f5acfc4771e1bd3e9",
+                  "5c791e872e2216001219c40a",
+                  "558032614bdc2de7118b4585",
+                  "58c157be86f77403c74b2bb6",
+                  "58c157c886f774032749fb06",
+                  "5f6340d3ca442212f4047eb2",
+                  "591af28e86f77414a27a9e1d",
+                  "5c1cd46f2e22164bef5cfedb",
+                  "5c1bc4812e22164bef5cfde7",
+                  "5c1bc5612e221602b5429350",
+                  "5c1bc5af2e221602b412949b",
+                  "5c1bc5fb2e221602b1779b32",
+                  "5c1bc7432e221602b412949d",
+                  "5c1bc7752e221602b1779b34",
+                  "64806bdd26c80811d408d37a",
+                  "64807a29e5ffe165600abc97",
+                  "648067db042be0705c0b3009",
+                  "65169d5b30425317755f8e25",
+                  "655df24fdf80b12750626d0a",
+                  "655dccfdbdcc6b5df71382b6",
+                  "661e53149c8b4dadef008579",
+                  "661e52e29c8b4dadef008577",
+                  "661e52415be02310ed07a07a",
+                  "661e52b5b099f32c28003586"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+       
+        {
+          "_id": "696134e7f2d31c1ea9446f88",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical_001",
+          "_parent": "69612efb852f06ddba446f85",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a800961159bd4315e3a1657",
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5c06595c0db834001a66af6c",
+                  "5cc9c20cd7f00c001336c65d",
+                  "5d2369418abbc306c62e0c80",
+                  "5b07dd285acfc4001754240d",
+                  "56def37dd2720bec348b456a",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5a5f1ce64f39f90b401987bc",
+                  "560d657b4bdc2da74d8b4572",
+                  "5b3a337e5acfc4704b4a19a0",
+                  "5c5952732e2216398b5abda2",
+                  "57d17e212459775a1179a0f5",
+                  "6267c6396b642f77f56f5c1c",
+                  "6272370ee4013c5d7e31f418",
+                  "6272379924e29f06af4d5ecb",
+                  "626becf9582c3e319310b837",
+                  "644a3df63b0b6f03e101e065",
+                  "646f6322f43d0c5d62063715"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "696134e45c3c5cc111446f87",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical_002",
+          "_parent": "69612efb852f06ddba446f85",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a800961159bd4315e3a1657",
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "5cc9c20cd7f00c001336c65d",
+                  "5d2369418abbc306c62e0c80",
+                  "5b07dd285acfc4001754240d",
+                  "56def37dd2720bec348b456a",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5a5f1ce64f39f90b401987bc",
+                  "560d657b4bdc2da74d8b4572",
+                  "5b3a337e5acfc4704b4a19a0",
+                  "5c5952732e2216398b5abda2",
+                  "57d17e212459775a1179a0f5",
+                  "6267c6396b642f77f56f5c1c",
+                  "6272370ee4013c5d7e31f418",
+                  "6272379924e29f06af4d5ecb",
+                  "626becf9582c3e319310b837",
+                  "644a3df63b0b6f03e101e065",
+                  "646f6322f43d0c5d62063715"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "Name": "Galil ACE Picatinny handgard",
+        "ShortName": "ACE HG Pic",
+        "Description": "The stock handguard for the Galil ACE, Gen 1, with the grip covers removed"
+      }
+    },
+    "fleaPriceRoubles": 28900,
+    "handbookPriceRoubles": 25000,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "6961352249e45f8cb9446f8a": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 31000,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -496,7 +794,7 @@
         "path": "acepic.bundle",
         "rcid": ""
       },
-      "BackgroundColor": "default",
+      "BackgroundColor": "black",
       "Width": 2,
       "Height": 1,
       "Weight": 0.15,
@@ -720,7 +1018,7 @@
       "Weight": 0.45,
       "ExtraSizeLeft": 1,
       "Ergonomics": 11,
-      "Recoil": -32,
+      "Recoil": -19,
       "Slots": [],
       "Grids": []
     },
@@ -728,12 +1026,12 @@
       "en": {
         "Name": "Galil ACE stock",
         "ShortName": "ACE Stock",
-        "Description": "A sliding Polymer stock for the Galil ACE"
+        "Description": "A sliding Polymer fixed stock for the Galil ACE"
       }
     },
-    "fleaPriceRoubles": 25000,
-    "handbookPriceRoubles": 25500,
-    "addtoBots": false,
+    "fleaPriceRoubles": 9500,
+    "handbookPriceRoubles": 8000,
+    "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
@@ -755,7 +1053,182 @@
           },
           "barters": [
             {
-              "count": 27500,
+              "count": 11000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69613556415ec190d1446f8b": {
+    "itemTplToClone": "628a6678ccaab13006640e49",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "acebuffer.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "black",
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.2,
+      "Ergonomics": -1,
+      "Slots": [
+        {
+          "_name": "mod_stock",
+          "_id": "6961359d8f06acf0ee446f8c",
+          "_parent": "69613556415ec190d1446f8b",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57ade1442459771557167e15",
+                  "5a33ca0fc4a282000d72292f",
+                  "5649be884bdc2d79388b4577",
+                  "5d120a10d7ad1a4e1026ba85",
+                  "5b0800175acfc400153aebd4",
+                  "5bb20e58d4351e00320205d7",
+                  "5947e98b86f774778f1448bc",
+                  "5947eab886f77475961d96c5",
+                  "5ef1ba28c64c5d0dfc0571a5",
+                  "602e3f1254072b51b239f713",
+                  "5c793fb92e221644f31bfb64",
+                  "5c793fc42e221600114ca25d",
+                  "627254cc9c563e6e442c398f",
+                  "591aef7986f774139d495f03",
+                  "591af10186f774139d495f0e",
+                  "606587e18900dc2d9a55b65f",
+                  "5c0faeddd174af02a962601f",
+                  "638de3603a1a4031d8260b8c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "Galil Ace Gen II Buffer Tube Adapter",
+        "ShortName": "Galil Buffer",
+        "Description": "Buffer Tube Adapter from IWI"
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "696135f83c8ac58095446f8d": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 17500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "696136015bce2091f3446f8e": {
+    "itemTplToClone": "66ffc246a81a4f85e70d4d06",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "acepicstock.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "black",
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.18,
+      "Ergonomics": -1,
+      "Slots": [
+        {
+          "_name": "mod_stock",
+          "_id": "6961362a7eab869717446f8f",
+          "_parent": "696136015bce2091f3446f8e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "58ac1bf086f77420ed183f9f",
+                  "5894a13e86f7742405482982",
+                  "5fbcc429900b1d5091531dd7",
+                  "5fbcc437d724d907e2077d5c",
+                  "5c5db6ee2e221600113fba54",
+                  "5c5db6f82e2216003a0fe914",
+                  "6529348224cbe3c74a05e5c4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "KNS Galil Ace Picatinny Stock Adapter",
+        "ShortName": "KNS Pic",
+        "Description": "Picatinny Mount Adapter from KNS Precision"
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "69613662f75288a980446f90": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 17800,
               "_tpl": "MONEY_ROUBLES"
             }
           ]

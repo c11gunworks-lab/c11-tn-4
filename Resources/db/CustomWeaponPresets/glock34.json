@@ -1,0 +1,79 @@
+﻿{
+    "69726bb8d97092c26c567f48": {
+      "_changeWeaponName": true,
+      "_id": "69726bb8d97092c26c567f48",
+      "_items": [
+        {
+          "_id": "69726bb8d97092c26c567f49",
+          "_tpl": "5a7ae0c351dfba0017554310",
+          "upd": {
+            "Repairable": {
+              "Durability": 100,
+              "MaxDurability": 100
+            },
+            "FireMode": {
+              "FireMode": "single"
+            }
+          }
+        },
+        {
+          "_id": "6969233ac240af04d4df5f0a",
+          "_tpl": "696902a4db5b91cfcaa35d62",
+          "parentId": "69726bb8d97092c26c567f49",
+          "slotId": "mod_barrel"
+        },
+        {
+          "_id": "6969233ac240af04d4df5f0b",
+          "_tpl": "6968fd52be483ad558a35d5c",
+          "parentId": "69726bb8d97092c26c567f49",
+          "slotId": "mod_reciever"
+        },
+        {
+          "_id": "6969233ac240af04d4df5f0c",
+          "_tpl": "5a718b548dc32e000d46d262",
+          "parentId": "69726bb8d97092c26c567f49",
+          "slotId": "mod_magazine"
+        },
+        {
+          "_id": "6969233ac240af04d4df5f0d",
+          "_tpl": "5a6f5d528dc32e00094b97d9",
+          "parentId": "6969233ac240af04d4df5f0b",
+          "slotId": "mod_sight_rear",
+          "upd": {
+            "Sight": {
+              "ScopesCurrentCalibPointIndexes": [
+                0
+              ],
+              "ScopesSelectedModes": [
+                0
+              ],
+              "SelectedScope": 0,
+              "ScopeZoomValue": 0
+            }
+          }
+        },
+        {
+          "_id": "6969233ac240af04d4df5f0e",
+          "_tpl": "5a6f58f68dc32e000a311390",
+          "parentId": "6969233ac240af04d4df5f0b",
+          "slotId": "mod_sight_front",
+          "upd": {
+            "Sight": {
+              "ScopesCurrentCalibPointIndexes": [
+                0
+              ],
+              "ScopesSelectedModes": [
+                0
+              ],
+              "SelectedScope": 0,
+              "ScopeZoomValue": 0
+            }
+          }
+        }
+      ],
+      "_name": "Glock 34",
+      "_parent": "69726bb8d97092c26c567f49",
+      "_type": "Preset"
+    }
+  }
+

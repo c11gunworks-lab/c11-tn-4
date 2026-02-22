@@ -1,0 +1,853 @@
+﻿{
+
+
+  "6968fd52be483ad558a35d5c": {
+    "itemTplToClone": "5a6f5e048dc32e00094b97da",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Accuracy": 4,
+      "BackgroundColor": "blue",
+      "CanPutIntoDuringTheRaid": true,
+      "CanSellOnRagfair": true,
+      "ConflictingItems":[
+        "5a6b5b8a8dc32e001207faf3",
+        "5a6b5e468dc32e001207faf5",
+        "5a6b60158dc32e000a31138b",
+        "5a6b5f868dc32e000a311389",
+        "5a6b5ed88dc32e000c52ec86"
+      ],
+      "CoolFactor": 1.005,
+      "Ergonomics": 2,
+      "ExaminedByDefault": true,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 1,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "HeatFactor": 0.95,
+      "Height": 1,
+      "Velocity": 0,
+      "Weight": 0.42,
+      "Width": 3,
+      "MergesWithChildren": true,
+      "Prefab": {
+        "path": "34slidereg.bundle",
+        "rcid": ""
+      },
+      "Recoil": -8,
+
+      "Slots": [
+        {
+          "_id": "6968ff36913d701911a35d5d",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_rear",
+          "_parent": "6968fd52be483ad558a35d5c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a7d9122159bd4001438dbf4",
+                  "5a6f5d528dc32e00094b97d9",
+                  "5a7d912f159bd400165484f3",
+                  "5a71e0fb8dc32e00094b97f2",
+                  "630765cb962d0247b029dc45",
+                  "695e89ae12149be247446f63",
+                  "6973e015a991f8f91bc3934c",
+                  "69712903028922b745e7e8e0"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6968ff3a14103fba1ca35d5e",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_front",
+          "_parent": "6968fd52be483ad558a35d5c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a7d90eb159bd400165484f1",
+                  "5a6f58f68dc32e000a311390",
+                  "5a7d9104159bd400134c8c21",
+                  "5a71e0048dc32e000c52ecc8",
+                  "630765777d50ff5e8a1ea718",
+                  "69712816e7a4140950e7e8dd",
+                  "59e6906286f7746c9f75e848"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+
+
+    },
+    "locales": {
+      "en": {
+        "name": "glock 34 slide",
+        "shortName": "glock34slide",
+        "description": "long"
+      }
+    },
+    "fleaPriceRoubles": 35000,
+    "handbookPriceRoubles": 42500,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "696901d9a331a4f006a35d60": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 125,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+
+  "696902a4db5b91cfcaa35d62": {
+    "itemTplToClone": "5a6b5f868dc32e000a311389",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Accuracy": 10,
+      "BackgroundColor": "blue",
+      "CanPutIntoDuringTheRaid": true,
+      "CoolFactor": 1.28,
+      "CenterOfImpact":0.34,
+      "ConflictingItems":[
+        "5a7b32a2e899ef00135e345a"
+        
+        
+      ],
+      "DurabilityBurnModificator": 1,
+      "Ergonomics": -6,
+      "DeviationCurve": 2.20,
+      "DeviationMax": 9,
+      "ExaminedByDefault": true,
+      "HeatFactor": 1.05,
+      "Height": 1,
+      "MergesWithChildren": true,
+      "Prefab": {
+        "path": "34barrelstandard.bundle",
+        "rcid": ""
+      },
+      "Recoil": -5,
+      "Velocity": 0.7,
+      "Weight": 0.20,
+      "Width": 2,
+      "Slots": [],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "name": "glock34regb",
+        "shortName": "glock34regb",
+        "description": "glock34regb"
+      }
+    },
+    "fleaPriceRoubles": 25000,
+    "handbookPriceRoubles": 22500,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "69690658b08a3c7285a35d63": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 75,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "696906f9ce381c2741a35d64": {
+    "itemTplToClone": "5a6b5b8a8dc32e001207faf3",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Accuracy": 10,
+      "BackgroundColor": "blue",
+      "CanPutIntoDuringTheRaid": true,
+      "ConflictingItems":[
+        "5a7b32a2e899ef00135e345a"
+      ],
+      "CoolFactor": 1.45,
+      "CenterOfImpact":0.34,
+      "DurabilityBurnModificator": 1,
+      "Ergonomics": -6,
+      "DeviationCurve": 2.18,
+      "DeviationMax": 6.5,
+      "ExaminedByDefault": true,
+      "HeatFactor": 0.95,
+      "Height": 1,
+      "MergesWithChildren": true,
+      "Prefab": {
+        "path": "34barrelthreaded.bundle",
+        "rcid": ""
+      },
+      "Recoil": -5,
+      "Velocity": 1.8,
+      "Weight": 0.23,
+      "Width": 2,
+      "Slots": [
+        {
+          "_id": "696907dc48f5d106ada35d66",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "696906f9ce381c2741a35d64",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a7ad0c451dfba0013379712",
+                  "5a7037338dc32e000d46d257",
+                  "5a70366c8dc32e001207fb06",
+                  "5a705e128dc32e000d46d258",
+                  "5a7ad1fb51dfba0013379715",
+                  "5a6b585a8dc32e5a9c28b4f1",
+                  "5a6b592c8dc32e00094b97bf",
+                  "5a6b59a08dc32e000b452fb7",
+                  "5c7e8fab2e22165df16b889b",
+                  "5a33a8ebc4a282000c5a950d",
+                  "5c6165902e22160010261b28",
+                  "5a32a064c4a28200741e22de",
+                  "5d1c819a86f7743b355c4887"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "name": "glock34tb",
+        "shortName": "glock34tb",
+        "description": "glock34tb"
+      }
+    },
+    "fleaPriceRoubles": 29000,
+    "handbookPriceRoubles": 29500,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "696907a84309442c56a35d65": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 85,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+
+
+
+
+
+
+
+  "6971222c398edd4505e7e8cf": {
+    "itemTplToClone": "5a702d198dc32e000b452fc3",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Accuracy": 2,
+      "BackgroundColor": "blue",
+      "CanPutIntoDuringTheRaid": true,
+      "CanSellOnRagfair": true,
+      "CoolFactor": 1.08,
+      "Ergonomics": 5,
+      "ExaminedByDefault": true,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "HeatFactor": 0.94,
+      "Height": 1,
+      "Velocity": 0,
+      "Weight": 0.28,
+      "Width": 2,
+      "MergesWithChildren": true,
+      "Prefab": {
+        "path": "aaslide.bundle",
+        "rcid": ""
+      },
+      "Recoil": -1,
+
+      "Slots": [
+        {
+          "_id": "69712457de380b7f13e7e8d0",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_rear",
+          "_parent": "6971222c398edd4505e7e8cf",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a7d9122159bd4001438dbf4",
+                  "5a6f5d528dc32e00094b97d9",
+                  "5a7d912f159bd400165484f3",
+                  "5a71e0fb8dc32e00094b97f2",
+                  "630765cb962d0247b029dc45",
+                  "695e89ae12149be247446f63",
+                  "6973e015a991f8f91bc3934c",
+                  "69712903028922b745e7e8e0"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6971245e4153ced417e7e8d1",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_front",
+          "_parent": "6971222c398edd4505e7e8cf",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a7d90eb159bd400165484f1",
+                  "5a6f58f68dc32e000a311390",
+                  "5a7d9104159bd400134c8c21",
+                  "5a71e0048dc32e000c52ecc8",
+                  "630765777d50ff5e8a1ea718",
+                  "69712816e7a4140950e7e8dd",
+                  "59e6906286f7746c9f75e848"
+
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6971246b11d0b83632e7e8d2",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "6971222c398edd4505e7e8cf",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a32aa8bc4a2826c6e06d737"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "697127d993d68c7f16e7e8dc",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "6971222c398edd4505e7e8cf",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "697126108e1daf677ae7e8d9"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+
+
+    },
+    "locales": {
+      "en": {
+        "name": "glock aa slide",
+        "shortName": "glockaaslide",
+        "description": "aa"
+      }
+    },
+    "fleaPriceRoubles": 75000,
+    "handbookPriceRoubles": 55000,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "697124e8077dab2958e7e8d6": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 250,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+
+  "697125150b1257b151e7e8d7": {
+    "itemTplToClone": "5a6b5f868dc32e000a311389",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Accuracy": 8,
+      "BackgroundColor": "violet",
+      "CanPutIntoDuringTheRaid": true,
+      "CoolFactor": 1.28,
+      "CenterOfImpact":0.34,
+      "ConflictingItems":[
+"6968fd52be483ad558a35d5c"
+
+      ],
+      "DurabilityBurnModificator": 0.99,
+      "Ergonomics": -3,
+      "DeviationCurve": 2.22,
+      "DeviationMax": 10,
+      
+      "ExaminedByDefault": true,
+      "HeatFactor": 1.05,
+      "Height": 1,
+      "MergesWithChildren": true,
+      "Prefab": {
+        "path": "aabarrel.bundle",
+        "rcid": ""
+      },
+      "Recoil": -1,
+      "Velocity": 0.3,
+      "Weight": 0.115,
+      "Width": 1,
+      "Slots": [],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "name": "aabarrel",
+        "shortName": "aabarrel",
+        "description": "aabarrel"
+      }
+    },
+    "fleaPriceRoubles": 40000,
+    "handbookPriceRoubles": 32500,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "697125dfdf93d875bae7e8d8": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 95,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "697126108e1daf677ae7e8d9": {
+    "itemTplToClone": "5a7b32a2e899ef00135e345a",
+    "parentId": "550aa4bf4bdc2dd6348b456b",
+    "handbookParentId": "5b5f724c86f774093f2ecf15",
+    "overrideProperties": {
+      "Accuracy": -1,
+      "BackgroundColor": "violet",
+      "ConflictingItems": [
+        "5a7ad0c451dfba0013379712",
+        "5a7037338dc32e000d46d257",
+        "5a70366c8dc32e001207fb06",
+        "5a705e128dc32e000d46d258",
+        "5a7ad1fb51dfba0013379715",
+        "5a6b585a8dc32e5a9c28b4f1",
+        "5a6b592c8dc32e00094b97bf",
+        "5a6b59a08dc32e000b452fb7",
+        "5c7e8fab2e22165df16b889b",
+        "5a33a8ebc4a282000c5a950d",
+        "5c6165902e22160010261b28",
+        "5a32a064c4a28200741e22de",
+        "5a7ad74e51dfba0015068f45"
+      ],
+      "CoolFactor": 1,
+      "DurabilityBurnModificator": 1.05,
+      "Ergonomics": -1,
+      "HeatFactor": 1.01,
+      "Height": 1,
+      "Loudness": 10,
+      "MergesWithChildren": true,
+      "Prefab": {
+        "path": "aa417.bundle",
+        "rcid": ""
+      },
+      "RaidModdable": true,
+      "Recoil": -6,
+      "Velocity": 0.05,
+      "Weight": 0.028,
+      "Width": 1
+    },
+    "locales": {
+      "en": {
+        "name": "417comp",
+        "shortName": "417comp",
+        "description": "417comp"
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "697127a5945f00126de7e8db": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 125,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69712816e7a4140950e7e8dd": {
+    "itemTplToClone": "5a6f58f68dc32e000a311390",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Accuracy": 0,
+      "CanPutIntoDuringTheRaid": true,
+      "Ergonomics": 1,
+      "SightingRange":100,
+      "Height": 1,
+      "Prefab": {
+        "path": "aafs.bundle",
+        "rcid": ""
+      },     
+      "Weight": 0.002,
+      "Width": 1
+    },
+    "locales": {
+      "en": {
+        "name": "AAFrontSight",
+        "shortName": "AAFrontSight",
+        "description": "AAFrontSight"
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_sight_front"
+    ],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "6971287149634041f2e7e8de": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 10,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69712903028922b745e7e8e0": {
+    "itemTplToClone": "5a6f5d528dc32e00094b97d9",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Accuracy": 0,
+      "CanPutIntoDuringTheRaid": true,
+      "Ergonomics": 1,
+      "SightingRange":100,
+      "Height": 1,
+      "Prefab": {
+        "path": "aars.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.002,
+      "Width": 1
+    },
+    "locales": {
+      "en": {
+        "name": "AARSight",
+        "shortName": "AARSight",
+        "description": "AARSight"
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_sight_rear"
+    ],    
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "697128f477c46d2b85e7e8df": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 10,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "697299c25cf1535be3c39338": {
+    "itemTplToClone": "5a718b548dc32e000d46d262",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      
+      "Cartridges": [
+        {
+          "_id": "69729a31b02c3ac720c39339",
+          "_max_count": 21,
+          "_name": "cartridges",
+          "_parent": "697299c25cf1535be3c39338",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5efb0da7a29a85116f6ea05f",
+                  "5c3df7d588a4501f290594e5",
+                  "58864a4f2459770fcc257101",
+                  "56d59d3ad2720bdb418b4577",
+                  "5c925fa22e221601da359b7b",
+                  "5a3c16fe86f77452b62de32a",
+                  "5efb0e16aeb21837e749c7ff",
+                  "5c0d56a986f774449d5de529",
+                  "64b7bbb74b75259c590fa897"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "CheckOverride": 1,
+      "CheckTimeModifier": -15,
+      "Height": 1,
+      "MergesWithChildren": true,
+      "Prefab": {
+        "path": "glock17stendo.bundle",
+        "rcid": ""
+      },
+      "ReloadMagType": "ExternalMagazine",
+      "Weight": 0.156,
+      "VisibleAmmoRangesString": "1-17",
+      "Width": 1
+    },
+    "locales": {
+      "en": {
+        "name": "glok stendo",
+        "shortName": "glonk",
+        "description": "it long"
+      }
+    },
+    "fleaPriceRoubles": 11000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "6972995a3218d65fecc39337": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 25,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

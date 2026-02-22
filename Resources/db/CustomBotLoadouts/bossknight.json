@@ -1,0 +1,162 @@
+﻿{
+  "chances": {
+    "equipment": {
+      "Headwear": 100,
+      "FirstPrimaryWeapon": 100,
+      "Holster": 100
+    },
+    "weaponMods": {
+      "mod_pistol_grip": 100,
+      "mod_magazine": 100,
+      "mod_reciever": 100,
+      "mod_barrel": 100,
+      "mod_muzzle": 100,
+      "mod_gas_block": 100,
+      "mod_handguard": 100,
+      "mod_foregrip_000": 100,
+      "mod_scope": 100,
+      "mod_scope_003": 100,
+      "mod_stock": 100,
+      "mod_stock_p": 100,
+      "mod_sight_rear": 100,
+      "mod_sight_front": 100
+
+    },
+    "equipmentMods": {
+
+      "mod_nvg": 15,
+      "mod_cover": 75,
+      "mod_equipment_001": 100,
+      "mod_headset": 100,
+      "mod_arms": 100
+    }
+  },
+  "inventory": {
+    "equipment": {
+      "FirstPrimaryWeapon": {
+        "68b4b52f1a1ff2a6c49ac5be": 14000
+      },
+      "Headwear": {
+        "6998e48a9d7c140756f7a049": 9696
+      },
+      "Holster": {
+        "5a7ae0c351dfba0017554310": 11500
+      }
+    },
+    
+    "mods": {
+      "5a7ae0c351dfba0017554310": {
+        "mod_barrel": [
+          "696902a4db5b91cfcaa35d62"
+        ],
+        "mod_reciever": [
+          "6968fd52be483ad558a35d5c"
+        ],
+        "mod_magazine": [
+          "5a718b548dc32e000d46d262"
+        ]
+      },
+      "6968fd52be483ad558a35d5c": {
+        "mod_sight_rear": [
+          "695e89ae12149be247446f63"
+        ],
+        "mod_sight_front": [
+          "5a6f58f68dc32e000a311390"
+        ]
+      },
+      "68b4b52f1a1ff2a6c49ac5be": {
+        "mod_pistol_grip": [
+          "68b4d2e5b309cf9e8d6bfb58"
+        ],
+        "mod_magazine": [
+          "69220e0a0114538b5d7c7176"
+        ],
+        "mod_reciever": [
+          "68b4b8dbaf267fb9019665ca"
+        ],
+        "mod_stock": [
+          "69028d3c8196cec2a486af65"
+        ]
+      },
+      "68b4b8dbaf267fb9019665ca": {
+        "mod_barrel": [
+          "697bcc72c40392898c6eba4e"
+        ],
+        "mod_handguard": [
+          "697bceffe0827153bf6eba53"
+        ],
+        "mod_scope": [
+          "69029160491eb3160262eed7"
+        ]
+      },
+      "697bcc72c40392898c6eba4e": {
+        "mod_muzzle": [
+          "5c6d710d2e22165df16b81e7"
+        ],
+        "mod_gas_block": [
+          "68b4cbb4f1e086bd79756bd0"
+        ]
+      },
+      "5c6d710d2e22165df16b81e7": {
+        "mod_muzzle": [
+          "5ea17bbc09aa976f2e7a51cd"
+        ]
+      },
+      "697bceffe0827153bf6eba53": {
+        "mod_foregrip_000": [
+          "697bd03cd161658bc16eba56"
+        ]
+      },
+      "69029160491eb3160262eed7": {
+        "mod_scope_003": [
+          "58d39b0386f77443380bf13c"
+        ]
+      },
+      "58d39b0386f77443380bf13c": {
+        "mod_scope": [
+          "58d399e486f77442e0016fe7"
+        ]
+      },
+      "69028d3c8196cec2a486af65": {
+        "mod_stock_p": [
+          "6961371b7f41c6aaf2446f91"
+        ]
+      },
+
+      "6998e48a9d7c140756f7a049": {
+        "Helmet_back": [
+          "657f8ec5f4c82973640b234c"
+        ],
+        "Helmet_top": [
+          "657f8ec5f4c82973640b234c"
+        ],
+        "mod_equipment_001": [
+          "6917bfb870f5e5d6aea8165d"
+
+        ],
+        "mod_cover": [
+
+          "6998e5bd183a239134f7a065"
+        ],
+        "mod_nvg": [
+          "5a16b8a9fcdbcb00165aa6ca",
+          "5c0558060db834001b735271"
+        ]
+      },
+      "6917bfb870f5e5d6aea8165d": {
+        "mod_arms": [
+          "6917c1976cf46fb7b4ffd866"
+        ]
+      },
+      "6917c1976cf46fb7b4ffd866": {
+        "mod_headset": [
+          "6998e54173a6181d15f7a061"
+        ]
+      }
+    },
+    "Ammo": {
+      "Caliber556x45NATO": { "59e690b686f7746c9f75e848": 1500 },
+      "Caliber9x19PARA": { "5c0d56a986f774449d5de529": 15000 }
+    }
+  }
+}

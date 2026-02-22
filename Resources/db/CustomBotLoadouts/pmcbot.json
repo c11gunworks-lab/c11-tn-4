@@ -1,7 +1,9 @@
 {
   "chances": {
     "equipment": {
-      "FirstPrimaryWeapon": 20,
+      "ArmorVest": 25,
+      "Headwear": 50,
+      "FirstPrimaryWeapon": 100,
       "Holster": 20
     },
     "weaponMods": {
@@ -18,22 +20,36 @@
       "mod_scope_003": 100,
       "mod_stock": 100,
       "mod_stock_p": 100,
-      "mod_scope.001": 100,
-      "mod_sight_front.001": 100,
-      "mod_trigger": 100,
-      "mod_hammer": 100,
-      "mod_catch": 100,
-      "mod_mount_000": 100
+      "mod_mount_000": 100,
+      "mod_sight_front": 100,
+      "mod_sight_rear": 100
+
+    },
+    "equipmentMods": {
+      "back_plate": 100,
+      "front_plate": 100,
+      "mod_equipment_000": 1,
+      "mod_nvg": 1,
+      "mod_cover": 50,
+      "mod_equipment_001": 100,
+      "mod_headset": 100,
+      "mod_arms": 100
     }
   },
   "inventory": {
     "equipment": {
       "FirstPrimaryWeapon": {
-        "68b4b52f1a1ff2a6c49ac5be": 1
+        "68b4b52f1a1ff2a6c49ac5be": 2500
+      },
+      "Headwear": {
+        "6998e4f8f156ad13a1f7a055": 7500
       },
       "Holster": {
-        "68ded60bbd53f44248ea324f": 1
+        "68ded60bbd53f44248ea324f": 11500
       }
+    },
+    "ArmorVest": {
+      "69470492ccfa86b8e1a266fc": 5475
     },
     "mods": {
       "68b4b52f1a1ff2a6c49ac5be": {
@@ -58,7 +74,7 @@
         "mod_mount": [ "6902925044465578d994ab13" ]
       },
       "6902925044465578d994ab13": {
-        "mod_tactical_001": [ "5c7fc87d2e221644f31c0298" ]
+        "mod_tactical_001": [ "690289f47f98dc39096902fd" ]
       },
       "69029160491eb3160262eed7": {
         "mod_scope_003": [ "58d39b0386f77443380bf13c" ]
@@ -67,28 +83,61 @@
         "mod_scope": [ "58d399e486f77442e0016fe7" ]
       },
       "69028d3c8196cec2a486af65": {
-        "mod_stock_p": [ "5fbcc437d724d907e2077d5c" ]
+        "mod_stock_p": [ "6961371b7f41c6aaf2446f91" ]
       },
       "68ded60bbd53f44248ea324f": {
-        "mod_barrel": [ "68e028ee33872c8c0b4e5e81" ],
-        "mod_reciever": [ "68e025fd8d83867f8fe9bc5f" ],
-        "mod_magazine": [ "68fbd1861ec54c3c42ce0ff5" ],
-        "mod_trigger": [ "68def4fe6e38d59a384f0ae1" ],
-        "mod_hammer": [ "68def250e985661ccf8b1c79" ],
-        "mod_catch": [ "68def372f78f26bc8054cab3" ],
+        "mod_barrel": [ "68dedf5072c1a7878545c9d4" ],
+        "mod_reciever": [ "68deec5afbef6b45bea1f051" ],
+        "mod_magazine": [ "68deeeb97cbd04a1abd7a74b" ],
         "mod_mount_000": [ "5a7b483fe899ef0016170d15" ]
       },
-      "68e028ee33872c8c0b4e5e81": {
-        "mod_muzzle": [ "68e029fe3948c17cabf65482" ]
+
+      "68deec5afbef6b45bea1f051": {
+        "mod_sight_rear": [
+          "68deea38e2111fb84c156ff2"
+        ],
+        "mod_sight_front": [
+          "68def18791f0b463b5c29f0c"
+        ]
       },
-      "68e025fd8d83867f8fe9bc5f": {
-        "mod_scope.001": [ "5a32aa8bc4a2826c6e06d737" ],
-        "mod_sight_front.001": [ "68def18791f0b463b5c29f0c" ]
+      "69470492ccfa86b8e1a266fc": {
+        "front_plate": [ "656fac30c6baea13cd07e10c" ],
+        "back_plate": [ "656fac30c6baea13cd07e10c" ]
+      },
+      "6998e4f8f156ad13a1f7a055": {
+        "Helmet_back": [
+          "657f8ec5f4c82973640b234c"
+        ],
+        "Helmet_top": [
+          "657f8ec5f4c82973640b234c"
+        ],
+        "mod_equipment_001": [
+          "6917bfb870f5e5d6aea8165d"
+
+        ],
+        "mod_cover": [
+
+          "6998e5d477ac37a27df7a067"
+        ],
+        "mod_nvg": [
+          "5a16b8a9fcdbcb00165aa6ca",
+          "5c0558060db834001b735271"
+        ]
+      },
+      "6917bfb870f5e5d6aea8165d": {
+        "mod_arms": [
+          "6917c1976cf46fb7b4ffd866"
+        ]
+      },
+      "6917c1976cf46fb7b4ffd866": {
+        "mod_headset": [
+          "6998e57bc11d47d1b7f7a063"
+        ]
       }
     },
     "Ammo": {
-      "Caliber556x45NATO": { "59e690b686f7746c9f75e848": 1 },
-      "Caliber9x19PARA": { "5c0d56a986f774449d5de529": 1 }
+      "Caliber556x45NATO": { "59e690b686f7746c9f75e848": 15 },
+      "Caliber9x19PARA": { "5c0d56a986f774449d5de529": 15000 }
     }
   }
 }

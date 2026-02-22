@@ -12,7 +12,7 @@ public record ModMetadata : AbstractModMetadata
     public override string ModGuid { get; init; } = "com.c11.truenorth4";
     public override string Name { get; init; } = "True North";
     public override string Author { get; init; } = "C11";
-    public override SemanticVersioning.Version Version { get; init; } = new("1.0.0");
+    public override SemanticVersioning.Version Version { get; init; } = new("2.5.0");
 
     // Allow any 4.0.x 
     public override Range SptVersion { get; init; } = new("~4.0.5");

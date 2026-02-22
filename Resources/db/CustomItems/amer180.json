@@ -9,17 +9,18 @@
         "path": "am180.bundle",
         "rcid": ""
       },
-      "BackgroundColor": "default",
+      "BackgroundColor": "black",
       "MergesWithChildren": true,
       "Width": 2,
       "Height": 1,
       "Weight": 2.6,
-      "RecoilForceUp": 30,
-      "RecoilForceBack": 90,
-      "RecoilCamera": 0.05,
+      "RecoilForceUp": 18,
+      "RecoilForceBack": 45,
+      "RecoilCamera": 0.01,
       "BaseMalfunctionChance":0.3,
       "BurstShotsCount":6,
-
+      "Convergence": 4.5,
+      "DeviationCurve": 1.0,
       "ammoCaliber": "Caliber22LR",
       "isFastReload": true,
       "weapFireType": [
@@ -28,23 +29,22 @@
       "SingleFireRate": 500,
       "CanQueueSecondShot": true,
       "bFirerate": 1200,
-      "Ergonomics": 50,
+      "Ergonomics": 65,
       "Velocity": 0,
       "bEffDist": 150,
       "bHearDist": 80,
-      "CameraSnap":2.5,
-      "DeviationCurve":1.25,
+      "CameraSnap":1.3,
       "DoubleActionAccuracyPenalty":2.0,
       "HeatFactorByShot":1.15,
-
       "isChamberLoad": true,
       "chamberAmmoCount": 1,
       "isBoltCatch": false,
       "defMagType": "695849c97bbef3c79621a200",
       "defAmmo": "69504d179eec4a16c140f8df",
       "ReloadMode": "ExternalMagazine",
-      "Foldable": false,
-      "Retractable": true,
+      "Foldable": true,
+      "FoldedSlot":"mod_stock",
+      "Retractable": false,
       "CompactHandling": false,
       "Chambers": [
         {
@@ -81,7 +81,8 @@
                 "AnimationIndex":-1,
                 "Shift": 0,
                 "Filter": [
-                 "695849c97bbef3c79621a200"
+                 "695849c97bbef3c79621a200",
+                  "69697d299ab4f546c9a35d6e"
                 ]
               }
             ]
@@ -142,7 +143,7 @@
               }
             ]
           },
-          "_required": true,
+          "_required": false,
           "_mergeSlotWithChildren": false,
           "_proto": "55d30c4c4bdc2db4468b457e"
         },
@@ -160,7 +161,7 @@
               }
             ]
           },
-          "_required": true,
+          "_required": false,
           "_mergeSlotWithChildren": false,
           "_proto": "55d30c4c4bdc2db4468b457e"
         }
@@ -217,7 +218,7 @@
         "path": "180slstock.bundle",
         "rcid": ""
       },
-      "BackgroundColor": "default",
+      "BackgroundColor": "black",
       "MergesWithChildren": true,
       "Width": 2,
       "Height": 1,
@@ -227,10 +228,8 @@
       "Accuracy":-3,
       "ExtraSizeRight":1,
       "HasShoulderContact":true,
-      "Retractable":true,
+      "Foldable":true,
       "SizeReduceRight":1,
-
-
       "Slots": [    
       ],
       "Grids": []
@@ -289,7 +288,7 @@
       "Weight": 0.35,
       "HeatFactor": 0.95,
       "ExtraSizeRight":1,
-      "BlocksCollapsible":true,
+      "BlocksFolding":true,
       "HasShoulderContact":true,
       "Retractable":false,
       "Ergonomics": 5,
@@ -350,7 +349,7 @@
         "path": "hglong.bundle",
         "rcid": ""
       },
-      "BackgroundColor": "default",
+      "BackgroundColor": "black",
       "Width": 2,
       "Height": 1,
       "Weight": 0.28,
@@ -413,7 +412,7 @@
         "path": "tommy.bundle",
         "rcid": ""
       },
-      "BackgroundColor": "default",
+      "BackgroundColor": "black",
       "Width": 1,
       "Height": 1,
       "Weight": 0.28,
@@ -467,7 +466,7 @@
     }
   },
   "6958440cedf0991bdf21a1ee": {
-    "itemTplToClone": "5a7b4900e899ef197b331a2a",
+    "itemTplToClone": "62ebba1fb658e07ef9082b5a",
     "parentId": "55818b224bdc2dde698b456f",
     "handbookParentId": "5b5f755f86f77447ec5d770e",
     "overrideProperties": {
@@ -476,7 +475,7 @@
         "path": "sightmount180.bundle",
         "rcid": ""
       },
-      "BackgroundColor": "default",
+      "BackgroundColor": "black",
       "Width": 1,
       "Height": 1,
       "Weight": 0.15,
@@ -485,7 +484,7 @@
       "Grids": [],
       "Slots": [
         {
-          "_name": "mod_scope.001",
+          "_name": "mod_scope",
           "_id": "695844668cc38f22a721a1ef",
           "_parent": "6958440cedf0991bdf21a1ee",
           "_props": {
@@ -538,7 +537,8 @@
                   "65392f611406374f82152ba5",
                   "653931da5db71d30ab1d6296",
                   "655f13e0a246670fb0373245",
-                  "67641a851b2899700609901a"
+                  "67641a851b2899700609901a",
+                  "695ffdaedd28a71ea5446f66"
                 ]
               }
             ]
@@ -748,40 +748,7 @@
             "filters": [
               {
                 "Filter": [
-                  "5b3a16655acfc40016387a2a",
-                  "5c7e5f112e221600106f4ede",
-                  "5c0fafb6d174af02a96260ba",
-                  "612e0cfc8004cc50514c2d9e",
-                  "5cf6937cd7f00c056c53fb39",
-                  "544a38634bdc2d58388b4568",
-                  "5cff9e5ed7ad1a09407397d4",
-                  "5c48a2a42e221602b66d1e07",
-                  "5f6372e2865db925d54f3869",
-                  "615d8e2f1cb55961fa0fd9a4",
-                  "56ea8180d2720bf2698b456a",
-                  "5d02676dd7ad1a049e54f6dc",
-                  "56ea6fafd2720b844b8b4593",
-                  "5943ee5a86f77413872d25ec",
-                  "609269c3b0e443224b421cc1",
-                  "5c7fb51d2e2216001219ce11",
-                  "5ea172e498dacb342978818e",
-                  "5c6d710d2e22165df16b81e7",
-                  "612e0e55a112697a4b3a66e7",
-                  "5d440625a4b9361eec4ae6c5",
-                  "5cc9b815d7f00c000e2579d6",
-                  "5a7c147ce899ef00150bd8b8",
-                  "5c7954d52e221600106f4cc7",
-                  "59bffc1f86f77435b128b872",
-                  "5a9fbb84a2750c00137fa685",
-                  "626667e87379c44d557b7550",
-                  "62669bccdb9ebb4daa44cd14",
-                  "626a74340be03179a165e30c",
-                  "6386120cd6baa055ad1e201c",
-                  "63ac5c9658d0485fc039f0b8",
-                  "6405ff6bd4578826ec3e377a",
-                  "64943b74e9998d641b0412ed",
-                  "6621455e3aceea9e2b0b01e7",
-                  "664301213dd83ddae20dda18",
+                  
                   "695845555bfd8faa2421a1f3"
                 ],
                 "Shift": 0
@@ -998,7 +965,7 @@
     "handbookParentId": "5b5f754a86f774094242f19b",
     "overrideProperties": {
       "Prefab": {
-        "path": "mag.bundle",
+        "path": "177magfixed.bundle",
         "rcid": ""
       },
       "Accuracy": -1,
@@ -1014,9 +981,9 @@
       "LoadUnloadModifier": 45,
       "MergesWithChildren": true,
       "NotShownInSlot": false,
-      "MalfunctionChance": 0.35,
+      "MalfunctionChance": 0.25,
       "Weight": 0.35,
-      "VisibleAmmoRangesString": "1-4",
+      "VisibleAmmoRangesString": "1-2",
       "Width": 2,
       "Ergonomics": -10,
       "Cartridges": [
@@ -1077,6 +1044,98 @@
           "barters": [
             {
               "count": 53000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69697d299ab4f546c9a35d6e": {
+    "itemTplToClone": "676176a162e0497044079f46",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "mag275.bundle",
+        "rcid": ""
+      },
+      "Accuracy": -1,
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "blue",
+      "CanPutIntoDuringTheRaid": true,
+      "CanFast": true,
+      "CheckOverride":1,
+      "CheckTimeModifier":45,
+      "Height": 2,
+      "ExtraSizeDown":1,
+      "magAnimationIndex":0,
+      "LoadUnloadModifier": 45,
+      "MergesWithChildren": true,
+      "NotShownInSlot": false,
+      "MalfunctionChance": 0.35,
+      "Weight": 0.45,
+      "VisibleAmmoRangesString": "1-2",
+      "Width": 2,
+      "Ergonomics": -15,
+      "Cartridges": [
+        {
+          "_id": "69697d27aaf07aac3fa35d6d",
+          "_max_count": 275,
+          "_name": "cartridges",
+          "_parent": "69697d299ab4f546c9a35d6e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "694c796b42ae52a1a940f8ba",
+                  "694efa39da82e820e540f8da",
+                  "694ef9c8bc499b141d40f8d7",
+                  "69504d179eec4a16c140f8df"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+
+      "Grids": [],
+      "Slots": []
+
+    },
+    "locales": {
+      "en": {
+        "name": "275mag",
+        "shortName": "275ag",
+        "description": "bang"
+      }
+    },
+    "fleaPriceRoubles": 73500,
+    "handbookPriceRoubles": 62500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "69697d8af48122ba46a35d6f": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 73000,
               "_tpl": "MONEY_ROUBLES"
             }
           ]

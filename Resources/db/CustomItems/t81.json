@@ -9,7 +9,7 @@
         "path": "t81.bundle",
         "rcid": ""
       },
-      "BackgroundColor": "default",
+      "BackgroundColor": "black",
       "MergesWithChildren": true,
       "Width": 4,
       "Height": 1,
@@ -98,7 +98,8 @@
                 "Shift": 0,
                 "Filter": [
                   "6930d355328696040a6d3d16",
-                  "693322bda247a70444b155d2"
+                  "693322bda247a70444b155d2",
+                  "6967ff3c0a67676e10a35d59"
                 ]
               }
             ]
@@ -214,6 +215,213 @@
       }
     ],
     "addtoSecureFilters": true,
+
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "6959a7169b6dadf5c8e933df",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Canadian Edition",
+        "_parent": "6959a7169b6dadf5c8e933e0",
+        "_items": [
+          {
+            "_id": "6959a7169b6dadf5c8e933e0",
+            "_tpl": "6930cde327aa0ba2c16d3d01",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              }
+            }
+          },
+          {
+            "_id": "693b3380bb6046f96c3aa9da",
+            "_tpl": "6930d0095c6559e2816d3d0a",
+            "parentId": "6959a7169b6dadf5c8e933e0",
+            "slotId": "mod_gas_block"
+          },
+          {
+            "_id": "693b3380bb6046f96c3aa9db",
+            "_tpl": "693322bda247a70444b155d2",
+            "parentId": "6959a7169b6dadf5c8e933e0",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "693b3380bb6046f96c3aa9dc",
+            "_tpl": "6930d46773f977e1746d3d19",
+            "parentId": "6959a7169b6dadf5c8e933e0",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "693b3380bb6046f96c3aa9dd",
+            "_tpl": "6930cfb2b708723c496d3d09",
+            "parentId": "6959a7169b6dadf5c8e933e0",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "693b3380bb6046f96c3aa9de",
+            "_tpl": "6930d291dbd8befb636d3d12",
+            "parentId": "6959a7169b6dadf5c8e933e0",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "693b3380bb6046f96c3aa9df",
+            "_tpl": "6930d2efff08b89be96d3d14",
+            "parentId": "6959a7169b6dadf5c8e933e0",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "693b3380bb6046f96c3aa9e0",
+            "_tpl": "6930d0ab3adc98bda56d3d0c",
+            "parentId": "693b3380bb6046f96c3aa9da",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "693b3380bb6046f96c3aa9e1",
+            "_tpl": "6930d1c9eb251e06e06d3d10",
+            "parentId": "693b3380bb6046f96c3aa9e0",
+            "slotId": "mod_handguard_000"
+          }
+        ],
+        "_encyclopedia": "6930cde327aa0ba2c16d3d01"
+      },
+      {
+        "_id": "6959a7169b6dadf5c8e933e4",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Brutality Edition",
+        "_parent": "6959a7169b6dadf5c8e933e5",
+        "_items": [
+          {
+            "_id": "6959a7169b6dadf5c8e933e5",
+            "_tpl": "6930cde327aa0ba2c16d3d01",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              }
+            }
+          },
+          {
+            "_id": "693b33e0bb6046f96c3ab75e",
+            "_tpl": "6930d0095c6559e2816d3d0a",
+            "parentId": "6959a7169b6dadf5c8e933e5",
+            "slotId": "mod_gas_block"
+          },
+          {
+            "_id": "693b33e0bb6046f96c3ab75f",
+            "_tpl": "6930d355328696040a6d3d16",
+            "parentId": "6959a7169b6dadf5c8e933e5",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "693b33e0bb6046f96c3ab760",
+            "_tpl": "6933214ee8e7f9e95db155cf",
+            "parentId": "6959a7169b6dadf5c8e933e5",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "693b33e0bb6046f96c3ab761",
+            "_tpl": "6930cfb2b708723c496d3d09",
+            "parentId": "6959a7169b6dadf5c8e933e5",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "693b33e0bb6046f96c3ab762",
+            "_tpl": "6932eef319a1361673b155cd",
+            "parentId": "6959a7169b6dadf5c8e933e5",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "693b33e0bb6046f96c3ab763",
+            "_tpl": "6930d2efff08b89be96d3d14",
+            "parentId": "6959a7169b6dadf5c8e933e5",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "693b33e0bb6046f96c3ab764",
+            "_tpl": "6930d0ab3adc98bda56d3d0c",
+            "parentId": "693b33e0bb6046f96c3ab75e",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "693b33e0bb6046f96c3ab765",
+            "_tpl": "5649ab884bdc2ded0b8b457f",
+            "parentId": "693b33e0bb6046f96c3ab760",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "693b33e0bb6046f96c3ab766",
+            "_tpl": "693225c799989d996ae95bf3",
+            "parentId": "693b33e0bb6046f96c3ab764",
+            "slotId": "mod_handguard_000"
+          },
+          {
+            "_id": "693b33e0bb6046f96c3ab767",
+            "_tpl": "5c1bc7752e221602b1779b34",
+            "parentId": "693b33e0bb6046f96c3ab766",
+            "slotId": "mod_foregrip"
+          },
+          {
+            "_id": "693b33e0bb6046f96c3ab768",
+            "_tpl": "6932252226dccbce54e95bf0",
+            "parentId": "693b33e0bb6046f96c3ab766",
+            "slotId": "mod_mount"
+          },
+          {
+            "_id": "693b33e0bb6046f96c3ab769",
+            "_tpl": "626becf9582c3e319310b837",
+            "parentId": "693b33e0bb6046f96c3ab766",
+            "slotId": "mod_tactical",
+            "upd": {
+              "Light": {
+                "IsActive": true,
+                "SelectedMode": 0
+              }
+            }
+          },
+          {
+            "_id": "693b33e0bb6046f96c3ab76a",
+            "_tpl": "584924ec24597768f12ae244",
+            "parentId": "693b33e0bb6046f96c3ab768",
+            "slotId": "mod_sight",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          }
+        ],
+        "_encyclopedia": "6930cde327aa0ba2c16d3d01"
+      }
+
+
+
+    ],
+    "masterySections": [
+      {
+        "Level2": 150,
+        "Level3": 200,
+        "Name": "Type 81",
+        "Templates": [
+          "6930cde327aa0ba2c16d3d01"
+        ]
+      }
+    ],
     "addtoTraders": true,
     "traders": {
       "PRAPOR": {
@@ -243,7 +451,7 @@
         "path": "t81dust.bundle",
         "rcid": ""
       },
-      "BackgroundColor": "default",
+      "BackgroundColor": "black",
       "MergesWithChildren": true,
       "Width": 2,
       "Height": 1,
@@ -384,7 +592,7 @@
         "path": "t81thg.bundle",
         "rcid": ""
       },
-      "BackgroundColor": "default",
+      "BackgroundColor": "black",
       "Width": 1,
       "Height": 1,
       "Weight": 0.28,
@@ -465,7 +673,7 @@
         "path": "t81fhg.bundle",
         "rcid": ""
       },
-      "BackgroundColor": "default",
+      "BackgroundColor": "black",
       "Width": 1,
       "Height": 1,
       "Weight": 0.15,
@@ -798,6 +1006,7 @@
       "VisibleAmmoRangesString":"1-5",
       "CanPutIntoDuringTheRaid":true,
       "ExtraSizeDown":1,
+      "magAnimationIndex":0,
 
       "Cartridges":
       [

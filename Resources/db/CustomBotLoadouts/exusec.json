@@ -1,0 +1,132 @@
+﻿{
+  "chances": {
+    "equipment": {
+      "TacticalVest": 50,
+      "Holster": 50,
+      "Headwear": 50
+    },
+    "equipmentMods": {
+      "back_plate": 75,
+      "front_plate": 100,
+      "mod_equipment_000": 10,
+      "mod_nvg": 5,
+      "mod_cover": 100,
+      "mod_equipment_001": 75,
+      "mod_headset": 100,
+      "mod_arms": 100
+
+    },
+    "weaponMods": {
+      "mod_barrel": 100,
+      "mod_reciever": 100,
+      "mod_sight_rear": 50,
+      "mod_sight_front": 100,
+      "mod_muzzle": 100,
+      "mod_magazine": 100,
+      "mod_scope": 100
+
+    }
+  },
+  "inventory": {
+    "equipment": {
+      
+      "TacticalVest": {
+        "694706dd0144198d74a266ff": 7308
+      },
+      "Headwear": {
+        "6917bd1327906df8ce6fcfff": 5500
+      },
+      "Holster": {
+        "5a7ae0c351dfba0017554310": 8000
+      }
+    },
+    "items": {
+      "TacticalVest": {
+        "697299c25cf1535be3c39338": 10000
+
+      }
+      
+      
+      
+      
+    },
+    "mods": {
+      "5a7ae0c351dfba0017554310": {
+        "mod_barrel": [
+          "697125150b1257b151e7e8d7"
+        ],
+        "mod_reciever": [
+          "6971222c398edd4505e7e8cf"
+        ],
+        "mod_magazine": [
+          "697299c25cf1535be3c39338"
+        ]
+      },
+      "6971222c398edd4505e7e8cf": {
+        "mod_sight_rear": [
+          "69712903028922b745e7e8e0"
+        ],
+        "mod_sight_front": [
+          "5a7d90eb159bd400165484f1"
+        ],
+        "mod_scope": [
+          "5a32aa8bc4a2826c6e06d737"
+        ],
+        "mod_muzzle": [
+          "697126108e1daf677ae7e8d9"
+        ]
+      },
+      "694706dd0144198d74a266ff": {
+        "Back_plate": [
+          "655746010177119f4a097ff7"
+        ],
+        
+        "Front_plate": [
+          "655746010177119f4a097ff7"
+        ]
+       
+      },
+      "6917bd1327906df8ce6fcfff": {
+        "Helmet_back": [
+          "657f8ec5f4c82973640b234c"
+        ],
+        "Helmet_top": [
+          "657f8ec5f4c82973640b234c"
+        ],
+        "mod_equipment_001": [
+          "6917bfb870f5e5d6aea8165d"
+          
+        ],
+        "mod_cover": [
+
+          "6917c61265268ecbc220f1f2",
+          "6917c5f64ae12687885bf18d",
+          "6917c54d98d815c7861d1c59",
+          "6998e5f7e34886d9bdf7a069",
+          "6998e60c71292bd226f7a06b"
+
+
+        ],
+        "mod_nvg": [
+          "5a16b8a9fcdbcb00165aa6ca",
+          "5c0558060db834001b735271"
+        ]
+      },
+      "6917bfb870f5e5d6aea8165d": {
+        "mod_arms": [
+          "6917c1976cf46fb7b4ffd866"
+        ]
+      },
+      "6917c1976cf46fb7b4ffd866": {
+        "mod_headset": [
+          "6917c23f71eb4b42ea95584b"
+        ]
+      }
+    },
+    "Ammo": {
+      "Caliber9x19PARA": {
+        "5efb0da7a29a85116f6ea05f": 1
+      }
+    }
+  }
+}

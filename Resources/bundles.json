@@ -1,6 +1,12 @@
 {
   "manifest": [
     {
+      "key": "c11_shaders.bundle",
+      "dependencyKeys": [
+
+      ]
+    },
+    {
       "key": "119tropic.bundle",
       "dependencyKeys": [
 
@@ -128,22 +134,22 @@
     {
       "key": "p30barrel.bundle",
       "dependencyKeys": [
-        "shaders",
-        "assets/systems/effects/smoke.bundle"
+        "epic_shaders.bundle"
+
       ]
     },
 
     {
       "key": "p30barrelthr.bundle",
       "dependencyKeys": [
-        "shaders",
-        "assets/systems/effects/smoke.bundle"
+        "epic_shaders.bundle"
       ]
     },
     {
       "key": "p30comp.bundle",
       "dependencyKeys": [
         "shaders",
+        "epic_shaders.bundle",
         "assets/systems/effects/smoke.bundle"
       ]
     },
@@ -151,55 +157,75 @@
     {
       "key": "p30fs.bundle",
       "dependencyKeys": [
-        "shaders"
+        "epic_shaders.bundle"
       ]
     },
-    {
-      "key": "p30hammer.bundle",
-      "dependencyKeys": [
-        "shaders"
-      ]
-    },
+    
     {
       "key": "p30mag.bundle",
       "dependencyKeys": [
-        "shaders"
+        "epic_shaders.bundle"
       ]
     },
     {
       "key": "p30regslide.bundle",
       "dependencyKeys": [
-        "shaders"
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "p30lregslide.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "p30lbarrel.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "carryhandlecamo.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
       ]
     },
     {
       "key": "p30rmr.bundle",
       "dependencyKeys": [
-        "shaders"
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "p3015rd.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "p3027rd.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "p30rmrplate.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
       ]
     },
     {
       "key": "p30rs.bundle",
       "dependencyKeys": [
-        "shaders"
+        "epic_shaders.bundle"
       ]
     },
-    {
-      "key": "p30srel.bundle",
-      "dependencyKeys": [
-        "shaders"
-      ]
-    },
-    {
-      "key": "p30trigger.bundle",
-      "dependencyKeys": [
-        "shaders"
-      ]
-    },
+    
     {
       "key": "p30stendo.bundle",
       "dependencyKeys": [
-        "shaders"
+        "epic_shaders.bundle"
       ]
     },
 
@@ -211,120 +237,180 @@
         "assets/content/weapons/additional_hands/client_assets.bundle",
         "shaders",
         "assets/systems/effects/heathaze/defaultheathaze.bundle",
-        "assets/systems/effects/smoke.bundle",
         "assets/content/weapons/weapon_root_anim_fix.bundle",
-        "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle"
+        "epic_shaders.bundle"
 
       ]
     },
-
     {
-      "key": "bcmsliced.bundle",
+      "key": "hkp30l.bundle",
       "dependencyKeys": [
-        "shaders"
+
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "shaders",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "epic_shaders.bundle"
+
       ]
     },
+    
     {
       "key": "ppshbuffer.bundle",
       "dependencyKeys": [
-        "shaders"
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "ppshchop.bundle",
       "dependencyKeys": [
-        "shaders"
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "ppshscope.bundle",
       "dependencyKeys": [
-        "shaders"
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "ppshtacstock.bundle",
       "dependencyKeys": [
-        "shaders"
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "ppshhandguard.bundle",
       "dependencyKeys": [
-        "shaders"
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "ppshthread.bundle",
       "dependencyKeys": [
-        "shaders",
+        "c11_shaders.bundle",
         "assets/systems/effects/smoke.bundle"
       ]
     },
     {
       "key": "opscoregb.bundle",
       "dependencyKeys": [
-        "shaders"
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "opscoreaor1.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "opscoreaor2.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "opscorecadpat.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "amparms.bundle",
       "dependencyKeys": [
-        "shaders"
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "comtac5mounted.bundle",
       "dependencyKeys": [
-        "shaders"
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "comtacmulticam.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "comtacaor1.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "c11bb.bundle",
       "dependencyKeys": [
-        "shaders"
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "skullmiami.bundle",
       "dependencyKeys": [
-        "shaders"
+        "c11_shaders.bundle"
       ]
     },
-    {
-      "key": "coveraor2.bundle",
-      "dependencyKeys": [
-        "shaders"
-      ]
-    },
+    
     {
       "key": "covermcb.bundle",
       "dependencyKeys": [
-        "shaders"
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "coverdts.bundle",
       "dependencyKeys": [
-        "shaders"
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "coveraor1.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "coveraor2.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "covercadpat.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "covermcalp.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },{
+      "key": "covermiami.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "covermct.bundle",
       "dependencyKeys": [
-        "shaders"
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "vegaor2.bundle",
       "dependencyKeys": [
-        "shaders"
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "raclink.bundle",
       "dependencyKeys": [
-        "shaders"
+        "c11_shaders.bundle"
       ]
     },
 
@@ -363,9 +449,10 @@
       ]
     },
     {
-      "key": "acedust.bundle",
+      "key": "ace32dust.bundle",
       "dependencyKeys": [
-        "shaders"
+        "shaders",
+        "epic_shaders.bundle"
       ]
     },
     {
@@ -399,6 +486,7 @@
         "assets/content/weapons/additional_hands/client_assets.bundle",
         "assets/content/audio/blendoptions/assets.bundle",
         "shaders",
+        "c11_shaders.bundle",
         "assets/content/prefabs/muzzleflash_base.bundle",
         "assets/systems/effects/heathaze/defaultheathaze.bundle",
         "assets/systems/effects/smoke.bundle",
@@ -412,85 +500,99 @@
     {
       "key": "t81dust.bundle",
       "dependencyKeys": [
-        "shaders"
+        "shaders",
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "t81fhg.bundle",
       "dependencyKeys": [
-        "shaders"
+        "shaders",
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "t81gas.bundle",
       "dependencyKeys": [
-        "shaders"
+        "shaders",
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "t81gl.bundle",
       "dependencyKeys": [
-        "shaders"
+        "shaders",
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "t81mag.bundle",
       "dependencyKeys": [
-        "shaders"
+        "shaders",
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "t81pg.bundle",
       "dependencyKeys": [
-        "shaders"
+        "shaders",
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "t81stock.bundle",
       "dependencyKeys": [
-        "shaders"
+        "shaders",
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "t81thg.bundle",
       "dependencyKeys": [
-        "shaders"
+        "shaders",
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "t81zmoung.bundle",
       "dependencyKeys": [
-        "shaders"
+        "shaders",
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "t81buffer.bundle",
       "dependencyKeys": [
-        "shaders"
+        "shaders",
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "t81acr.bundle",
       "dependencyKeys": [
-        "shaders"
+        "shaders",
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "t81mag5.bundle",
       "dependencyKeys": [
-        "shaders"
+        "shaders",
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "t81sigm.bundle",
       "dependencyKeys": [
-        "shaders"
+        "shaders",
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "t81zenit.bundle",
       "dependencyKeys": [
-        "shaders"
+        "shaders",
+        "c11_shaders.bundle"
       ]
     },
     {
@@ -648,6 +750,7 @@
         "assets/content/audio/blendoptions/assets.bundle",
         "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
         "shaders",
+        "c11_shaders.bundle",
         "assets/systems/effects/muzzleflash/muzzleflash.bundle",
         "assets/systems/effects/heathaze/defaultheathaze.bundle",
         "assets/systems/effects/smoke.bundle",
@@ -659,70 +762,79 @@
     {
       "key": "180fstock.bundle",
       "dependencyKeys": [
-        "shaders"
+        "shaders",
+        "c11_shaders.bundle"
 
       ]
     },
     {
       "key": "180rs.bundle",
       "dependencyKeys": [
-        "shaders"
+        "shaders",
+        "c11_shaders.bundle"
 
       ]
     },
     {
       "key": "180slstock.bundle",
       "dependencyKeys": [
-        "shaders"
+        "shaders",
+        "c11_shaders.bundle"
 
       ]
     },
     {
       "key": "am180fs.bundle",
       "dependencyKeys": [
-        "shaders"
+        "shaders",
+        "c11_shaders.bundle"
 
       ]
     },
     {
       "key": "hglong.bundle",
       "dependencyKeys": [
-        "shaders"
+        "shaders",
+        "c11_shaders.bundle"
 
       ]
     },
     {
       "key": "lbarrel.bundle",
       "dependencyKeys": [
-        "shaders"
+        "shaders",
+        "c11_shaders.bundle"
 
       ]
     },
     {
-      "key": "mag.bundle",
+      "key": "177magfixed.bundle",
       "dependencyKeys": [
-        "shaders"
-
+        "shaders",
+        "c11_shaders.bundle"
       ]
     },
     {
       "key": "sbarrel.bundle",
       "dependencyKeys": [
-        "shaders"
+        "shaders",
+        "c11_shaders.bundle"
 
       ]
     },
     {
       "key": "sightmount180.bundle",
       "dependencyKeys": [
-        "shaders"
+        "shaders",
+        "c11_shaders.bundle"
 
       ]
     },
     {
       "key": "tommy.bundle",
       "dependencyKeys": [
-        "shaders"
+        "shaders",
+        "c11_shaders.bundle"
 
       ]
     },
@@ -760,7 +872,7 @@
       ]
     },
     {
-      "key": "lmgbipod.bundle",
+      "key": "lmgbipodtest.bundle",
       "dependencyKeys": [
         "epic_shaders.bundle"
       ]
@@ -823,7 +935,7 @@
       ]
     },
     {
-      "key": "bipodgry.bundle",
+      "key": "lmgbipod.bundle",
       "dependencyKeys": [
         "epic_shaders.bundle"
       ]
@@ -883,6 +995,78 @@
       ]
     },
     {
+      "key": "jmacss8.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "acebuffer.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "acepicstock.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "acehgpic.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "30rdnormie.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "40rdnormie.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+
+    {
+      "key": "t81drum.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "34barrelstandard.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle",
+        "shaders",
+        "assets/systems/effects/particlesystems/effects.bundle"
+      ]
+    },
+    {
+      "key": "34slidereg.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+
+    {
+      "key": "34barrelthreaded.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle",
+        "shaders",
+        "assets/systems/effects/particlesystems/effects.bundle"
+      ]
+    },
+    {
+      "key": "mag275.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
       "key": "vzorremote.bundle",
       "dependencyKeys": [
         "epic_shaders.bundle",
@@ -898,6 +1082,256 @@
         "assets/content/textures/holemanager/round_spec_mask.bundle",
         "shaders"
       ]
+    },
+
+
+
+    {
+      "key": "aaslide.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "aabarrel.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle",
+        "shaders",
+        "assets/systems/effects/smoke.bundle"
+      ]
+    },
+    {
+      "key": "aa417.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle",
+        "shaders",
+        "assets/systems/effects/smoke.bundle"
+      ]
+    },
+    {
+      "key": "aafs.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "aars.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "ace32.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "shaders",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "assets/systems/effects/smoke.bundle",
+        "epic_shaders.bundle",
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle"
+      ]
+    },
+
+    {
+      "key": "ace32mlok.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+
+      ]
+    },
+    {
+      "key": "ace32picrail.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+
+      ]
+    },
+    {
+      "key": "glock17stendo.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+
+      ]
+    },
+    {
+      "key": "alfaforegrip.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+
+      ]
+    },
+    {
+      "key": "kifs.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+
+      ]
+    },
+    {
+      "key": "transpmag.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+
+      ]
+    },
+    {
+      "key": "kislide.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+
+      ]
+    },
+    {
+      "key": "kisightp.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+
+      ]
+    },
+    {
+      "key": "kirs.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+
+      ]
+    },
+    {
+      "key": "cmcgoldbarrel.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle",
+        "shaders",
+        "assets/systems/effects/smoke.bundle"
+      ]
+    },
+
+
+    {
+      "key": "ar1811.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+
+      ]
+    },
+    {
+      "key": "ar18woodhandguard.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle"
+
+      ]
+    },
+    {
+      "key": "ar18pgforegrip.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle",
+        "shaders"
+      ]
+    },
+    {
+      "key": "illpromag.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle",
+        "shaders"
+      ]
+    },
+    
+    {
+      "key": "goldcomp.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle",
+        "shaders",
+        "assets/systems/effects/smoke.bundle"
+      ]
+    },
+    {
+      "key": "g17raceframe.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "epic_shaders.bundle",
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle"
+      ]
+    },
+    {
+      "key": "u100.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "epic_shaders.bundle",
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle"
+      ]
+    },
+    {
+      "key": "u100rec.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle",
+        "shaders"
+      ]
+    },
+    {
+      "key": "u100foregrip.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle",
+        "shaders"
+      ]
+    },
+    {
+      "key": "u100stock.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle",
+        "shaders"
+      ]
+    },
+    {
+      "key": "u100boxmag.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle",
+        "shaders"
+      ]
+    },
+    {
+      "key": "u100bipod.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle",
+        "shaders"
+      ]
+    },
+    {
+      "key": "drummy.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle",
+        "shaders"
+      ]
+    },
+    {
+      "key": "u100rs.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle",
+        "shaders"
+      ]
+    },
+    {
+      "key": "10barrel.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle",
+        "shaders"
+      ]
+    },
+    {
+      "key": "13barrel.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle",
+        "shaders"
+      ]
+    },
+    {
+      "key": "20barrel.bundle",
+      "dependencyKeys": [
+        "epic_shaders.bundle",
+        "shaders"
+      ]
     }
+    
   ]
 }

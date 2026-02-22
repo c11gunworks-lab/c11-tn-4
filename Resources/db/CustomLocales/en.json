@@ -1,46 +1,42 @@
 
 
 {
-  "68b4b52f1a1ff2a6c49ac5be Name": "Armalite AR-18",
+  "68b4b52f1a1ff2a6c49ac5be Name": "Armalite AR-18 5.56x45 assault rifle",
   "68b4b52f1a1ff2a6c49ac5be ShortName": "AR-18",
-  "68b4b52f1a1ff2a6c49ac5be Description": "A piston-driven assault rifle from Armalite. Rugged, reliable, and historically controversial.",
-
-  "68b4d384b4414cdc4eae1d5d Name": "AR-18 16\" Barrel",
+  "68b4b52f1a1ff2a6c49ac5be Description": "The Armalite AR-18 was designed by Arthur Miller as a more cost-effective, stamped-steel alternative to the AR-15. While it never saw widespread adoption by major militaries, its short-stroke gas piston system became the DNA for modern rifles like the G36 and SA80. In the Norvinsk region, these are often legacy pieces brought in by western 'security consultants' who appreciate its rugged, simple nature.",
+  "68b4d384b4414cdc4eae1d5d Name": "Armalite AR-18 16 inch 5.56x45 barrel",
   "68b4d384b4414cdc4eae1d5d ShortName": "AR18 16\"",
-  "68b4d384b4414cdc4eae1d5d Description": "Standard 16-inch barrel. Balanced for accuracy and maneuverability.",
-
+  "68b4d384b4414cdc4eae1d5d Description": "A standard 16-inch chrome-lined barrel for the AR-18. It provides a reliable balance of muzzle velocity and maneuverability. Unlike the AR-15, the AR-18 barrel assembly includes the specific piston guide rod housing required for the rifle's unique cycling action.",
   "68b4d8a1262dcfd5ed45d249 Name": "AR-18 Stock Connector",
   "68b4d8a1262dcfd5ed45d249 ShortName": "AR18 Connector",
   "68b4d8a1262dcfd5ed45d249 Description": "Keeps your stock where it belongs. Simple, essential.",
 
   "68b59ce933a1b9190eaa952c Name": "AR-18 Stock",
   "68b59ce933a1b9190eaa952c ShortName": "AR18 Stock",
-  "68b59ce933a1b9190eaa952c Description": "Classic folding stock for recoil control—or for making a point.",
+  "68b59ce933a1b9190eaa952c Description": "Classic folding stock for recoil control — or for controlling the British Occupiers.",
 
   "68b59df2df773e94eca1167d Name": "AR-18 Flash Hider",
   "68b59df2df773e94eca1167d ShortName": "AR18 FH",
-  "68b59df2df773e94eca1167d Description": "Four-prong flash hider. Keeps the muzzle flash discreet.",
+  "68b59df2df773e94eca1167d Description": "A classic three-prong 'duckbill' flash suppressor. While it excels at dispersing muzzle blast in low-light conditions, it’s notoriously famous for 'ringing' like a tuning fork after every shot.",
 
   "68b4d62b7d3e0a9eb3240d1f Name": "AR-18 Rear Sight",
   "68b4d62b7d3e0a9eb3240d1f ShortName": "AR18 RS",
-  "68b4d62b7d3e0a9eb3240d1f Description": "Standard peep sight. Simple and effective.",
+  "68b4d62b7d3e0a9eb3240d1f Description": "A rugged, dual-aperture flip sight. It lacks the complex adjustment knobs of modern optics, relying instead on the shooter's ability to 'aim small, miss small' in the chaos of a Tarkov firefight.",
 
-  "68b4b8dbaf267fb9019665ca Name": "AR-18 Receiver",
-  "68b4b8dbaf267fb9019665ca ShortName": "AR18 Rec.",
-  "68b4b8dbaf267fb9019665ca Description": "Upper receiver for AR-18 rifles. The backbone of the build.",
-
+  "68b4b8dbaf267fb9019665ca Name": "Armalite AR-18 upper receiver",
+  "68b4b8dbaf267fb9019665ca ShortName": "AR-18 Upper",
+  "68b4b8dbaf267fb9019665ca Description": "A stamped steel upper receiver for the AR-18. Its square profile is iconic, housing the dual return spring guide rods that allow the rifle to use a folding stock without the need for a buffer tube.",
   "68b59fbc0594a5911fe3d6f7 Name": "AR-18 20-Round Magazine",
   "68b59fbc0594a5911fe3d6f7 ShortName": "AR18 20",
-  "68b59fbc0594a5911fe3d6f7 Description": "Not quite STANAG. Holds 20 rounds of independence.",
+  "68b59fbc0594a5911fe3d6f7 Description": "A proprietary 20-round steel magazine. While it looks similar to a STANAG, the magazine profile is unique to the AR-18 system. Holds 20 rounds of independence.",
   
   "68b4d54e551238d1960bc818 Name": "AR-18 Handguard",
   "68b4d54e551238d1960bc818 ShortName": "AR18 HG",
   "68b4d54e551238d1960bc818 Description": "Protects your hands from heat. C-clamp optional.",
 
-  "68b4cbb4f1e086bd79756bd0 Name": "AR-18 Gas Block & Front Sight",
+  "68b4cbb4f1e086bd79756bd0 Name": "Armalite AR-18 gas block with front sight",
   "68b4cbb4f1e086bd79756bd0 ShortName": "AR18 GB/FS",
-  "68b4cbb4f1e086bd79756bd0 Description": "Gas block with integrated front sight. Classic AR-18 design.",
-
+  "68b4cbb4f1e086bd79756bd0 Description": "A heavy-duty gas block with an integrated folding front post. This unit is essential for bleeding off gas to drive the short-stroke piston. Its height is specifically timed for the AR-18's proprietary iron sight radius.",
   "68b4d2e5b309cf9e8d6bfb58 Name": "AR-18 Pistol Grip",
   "68b4d2e5b309cf9e8d6bfb58 ShortName": "AR18 Grip",
   "68b4d2e5b309cf9e8d6bfb58 Description": "Ergonomic enough to hold. That’s all you need.",
@@ -69,62 +65,79 @@
   "6902925044465578d994ab13 ShortName": "SW HG Pic",
   "6902925044465578d994ab13 Description": "Picatinny rail for AR-18 handguards. Tactical upgrade.",
 
-  "68ded60bbd53f44248ea324f Name": "HK P30 Pistol",
+  "68ded60bbd53f44248ea324f Name": "Heckler & Koch P30 Pistol",
   "68ded60bbd53f44248ea324f ShortName": "HK P30",
-  "68ded60bbd53f44248ea324f Description": "Compact 9×19mm pistol from Germany. Precision meets practicality.",
+  "68ded60bbd53f44248ea324f Description": "A compact polymer-framed pistol from Heckler & Koch. Reliable, ergonomic, and German. While it may not be the 'Long' version, it is still perfectly capable of handling business if you find yourself back in the life.",
 
-  "68dedf5072c1a7878545c9d4 Name": "HK P30 Standard Barrel",
-  "68dedf5072c1a7878545c9d4 ShortName": "P30 Barrel",
-  "68dedf5072c1a7878545c9d4 Description": "Standard barrel for HK P30. Reliable and accurate.",
 
-  "68deea38e2111fb84c156ff2 Name": "HK P30 Rear Sight",
+  "68dedf5072c1a7878545c9d4 Name": "Heckler & Koch P30 9x19 3.8 inch barrel",
+  "68dedf5072c1a7878545c9d4 ShortName": "P30 3.8\"",
+  "68dedf5072c1a7878545c9d4 Description": "A cold hammer-forged 3.8-inch barrel for the standard P30. Known for extreme longevity and German precision. It provides enough velocity for modern 9mm expanding loads to perform reliably, even when the 'dinner reservation' gets messy.",
+  "68deea38e2111fb84c156ff2 Name": "HK P30 rear sight",
   "68deea38e2111fb84c156ff2 ShortName": "P30 RS",
-  "68deea38e2111fb84c156ff2 Description": "Rear sight for HK P30. Simple, precise alignment.",
+  "68deea38e2111fb84c156ff2 Description": "Standard drift-adjustable rear sight. The only thing straighter than this sight is the crease in your tactical suit.",
 
-  "68deec5afbef6b45bea1f051 Name": "HK P30 Slide",
+  "68deec5afbef6b45bea1f051 Name": "HK P30 9x19 slide",
   "68deec5afbef6b45bea1f051 ShortName": "P30 Slide",
-  "68deec5afbef6b45bea1f051 Description": "Factory slide for HK P30. Smooth cycling guaranteed.",
+  "68deec5afbef6b45bea1f051 Description": "The standard slide for the compact P30. It doesn't have the length of its big brother, but it cycles with the precision of a Swiss watch—or a Continental concierge.",
 
-  "68deeeb97cbd04a1abd7a74b Name": "HK P30 15-Round Magazine",
-  "68deeeb97cbd04a1abd7a74b ShortName": "P30 Mag",
-  "68deeeb97cbd04a1abd7a74b Description": "Standard 15-round magazine for HK P30 pistols.",
+  "68deeeb97cbd04a1abd7a74b Name": "HK P30 9x19 15-round magazine",
+  "68deeeb97cbd04a1abd7a74b ShortName": "15rd P30",
+  "68deeeb97cbd04a1abd7a74b Description": "A standard flush-fit 15-round magazine. Ideally, you only need one shot, but 15 is a good insurance policy against bad luck.",
 
-  "68def18791f0b463b5c29f0c Name": "HK P30 Front Sight",
+  "68def18791f0b463b5c29f0c Name": "HK P30 front sight",
   "68def18791f0b463b5c29f0c ShortName": "P30 FS",
-  "68def18791f0b463b5c29f0c Description": "Front sight for HK P30. Quick target acquisition.",
+  "68def18791f0b463b5c29f0c Description": "Standard front post sight. Keep your eye on this, and your problems disappear.",
 
-  "68def250e985661ccf8b1c79 Name": "HK P30 Hammer",
-  "68def250e985661ccf8b1c79 ShortName": "P30 Hammer",
-  "68def250e985661ccf8b1c79 Description": "Factory hammer for HK P30. Durable steel construction.",
+  "6984ea4cd22cdc3936de0b77 Name": "Heckler & Koch P30L 9x19 pistol",
+  "6984ea4cd22cdc3936de0b77 ShortName": "HK P30L",
+  "6984ea4cd22cdc3936de0b77 Description": "The Long Slide variant of the P30 series. Robust. Precise. The preferred implement of a man of focus, commitment, and sheer will. Ideally suited for dinner reservations.",
 
-  "68def372f78f26bc8054cab3 Name": "HK P30 Slide Catch",
-  "68def372f78f26bc8054cab3 ShortName": "P30 Catch",
-  "68def372f78f26bc8054cab3 Description": "Slide catch for HK P30. Keeps things locked down.",
 
-  "68def4fe6e38d59a384f0ae1 Name": "HK P30 Trigger",
-  "68def4fe6e38d59a384f0ae1 ShortName": "P30 Trigger",
-  "68def4fe6e38d59a384f0ae1 Description": "Factory trigger for HK P30. Crisp pull, consistent break.",
+  "68def4fe6e38d59a384f0ae1 Name": "Heckler & Koch P30L 9x19 4.4 inch barrel",
+  "68def4fe6e38d59a384f0ae1 ShortName": "P30L 4.4\"",
+  "68def4fe6e38d59a384f0ae1 Description": "The extended 4.4-inch barrel for the P30L. The extra length provides a slight boost in muzzle energy and a longer dwell time, aiding in the cycling of the heavier 'Long' slide. Preferred by those who value every millimeter of accuracy.",
+  "68def250e985661ccf8b1c79 Name": "HK P30L 9x19 slide",
+  "68def250e985661ccf8b1c79 ShortName": "P30L Slide",
+  "68def250e985661ccf8b1c79 Description": "The iconic long slide. The extra weight at the muzzle helps keep the gun flat when you are working through a nightclub full of henchmen.",
+  "68e025fd8d83867f8fe9bc5f Name": "HK P30L 9x19 RMR custom slide",
+  "68e025fd8d83867f8fe9bc5f ShortName": "P30L RMR",
+  "68e025fd8d83867f8fe9bc5f Description": "A custom milled P30L slide ready to accept RMR optics. Because sometimes even the Baba Yaga needs a little help seeing the target.",
+  "68def372f78f26bc8054cab3 Name": "HK P30 9x19 22-round magazine",
+  "68def372f78f26bc8054cab3 ShortName": "22rd P30",
+  "68def372f78f26bc8054cab3 Description": "A custom extended magazine offering 22 rounds of 9mm. Excellent for competition, or for when you need to reload in the middle of a car chase.",
 
-  "68e025fd8d83867f8fe9bc5f Name": "HK P30 RMR Slide",
-  "68e025fd8d83867f8fe9bc5f ShortName": "P30 RMR",
-  "68e025fd8d83867f8fe9bc5f Description": "Slide cut for RMR optics. Modern upgrade for HK P30.",
 
-  "68e028ee33872c8c0b4e5e81 Name": "HK P30 Threaded Barrel",
-  "68e028ee33872c8c0b4e5e81 ShortName": "P30 Threaded",
-  "68e028ee33872c8c0b4e5e81 Description": "Threaded barrel for HK P30. Suppressor-ready.",
+  "6984ee306e5601e906de0b8a Name": "HK P30 RMR mount plate",
+  "6984ee306e5601e906de0b8a ShortName": "RMR Plate",
+  "6984ee306e5601e906de0b8a Description": "A mounting interface for attaching RMR sights to the custom slide. A bridge between German steel and modern optics.",
 
-  "68e029fe3948c17cabf65482 Name": "HK P30 6-Port Compensator",
-  "68e029fe3948c17cabf65482 ShortName": "P30 Comp",
-  "68e029fe3948c17cabf65482 Description": "Six-port compensator for HK P30. Recoil management with style.",
 
-  "68fbd1861ec54c3c42ce0ff5 Name": "HK P30 20-Round Extended Magazine",
-  "68fbd1861ec54c3c42ce0ff5 ShortName": "P30 Ext Mag",
-  "68fbd1861ec54c3c42ce0ff5 Description": "Extended 20-round magazine for HK P30 pistols.",
 
-  "690a1f37bb772fac86a41ca9 Name": "PPSh Modern Receiver",
-  "690a1f37bb772fac86a41ca9 ShortName": "PPSh Rec.",
-  "690a1f37bb772fac86a41ca9 Description": "Modernized receiver for PPSh with optics and handguard mounts.",
+  "6984ed6bda64b5fa77de0b87 Name": "HK P30 9x19 27-round magazine",
+  "6984ed6bda64b5fa77de0b87 ShortName": "27rd P30",
+  "6984ed6bda64b5fa77de0b87 Description": "The 'Happy Stick'. 27 rounds of capacity. It balances terribly, but it allows you to suppress an entire hallway without reloading. Excommunicado approved.",
 
+
+
+
+
+  "68e028ee33872c8c0b4e5e81 Name": "HK P30 9x19 threaded barrel",
+  "68e028ee33872c8c0b4e5e81 ShortName": "P30 Thr",
+  "68e028ee33872c8c0b4e5e81 Description": "A match-grade barrel threaded for suppression devices. Essential for when your work requires a whisper rather than a shout.",
+
+  "68e029fe3948c17cabf65482 Name": "HK P30 custom compensator",
+  "68e029fe3948c17cabf65482 ShortName": "Wick Comp",
+  "68e029fe3948c17cabf65482 Description": "A custom 6-port compensator. It drastically reduces muzzle flip, allowing for rapid follow-up shots. Do enjoy your party.",
+
+
+  "68fbd1861ec54c3c42ce0ff5 Name": "HK P30 9x19 17-round magazine",
+  "68fbd1861ec54c3c42ce0ff5 ShortName": "17rd P30",
+  "68fbd1861ec54c3c42ce0ff5 Description": "A slightly extended magazine. When 15 rounds aren't enough to make your point, 17 might suffice.",
+
+  "690a1f37bb772fac86a41ca9 Name": "PPSh-41 \"Modernized\" upper receiver",
+  "690a1f37bb772fac86a41ca9 ShortName": "PPSh Mod.",
+  "690a1f37bb772fac86a41ca9 Description": "A local Tarkov gunsmith's answer to the 'Burp Gun's' age-old problems. This PPSh-41 receiver has been milled and welded with a Picatinny top rail and an interface for modern handguards. It turns a WWII relic into a terrifyingly fast urban room-clearer.",
   "690a205f953b984ffa348661 Name": "PPSh Handguard (Picatinny)",
   "690a205f953b984ffa348661 ShortName": "PPSh HG",
   "690a205f953b984ffa348661 Description": "Picatinny handguard adapted for PPSh builds.",
@@ -141,17 +154,16 @@
   "690a22f8b12972947a6a4723 ShortName": "PPSh BTA",
   "690a22f8b12972947a6a4723 Description": "Adapter for AR buffer tube stocks on PPSh builds.",
 
-  "690a23ad14158912787e4659 Name": "FAB Defense Stock (PPSh)",
-  "690a23ad14158912787e4659 ShortName": "FAB PPSh",
-  "690a23ad14158912787e4659 Description": "FAB Defense SKS-pattern stock adapted for PPSh.",
-
+  "690a23ad14158912787e4659 Name": "FAB Defense UAS stock for PPSh-41",
+  "690a23ad14158912787e4659 ShortName": "UAS PPSh",
+  "690a23ad14158912787e4659 Description": "An Israeli-made FAB Defense UAS folding stock, adapted via a custom shim to fit the modernized PPSh-41. It features an adjustable cheek riser, allowing for a proper eye-box when using the newly mounted optics on the modernized receiver.",
   "686830a0f33be9471feb69da Name": "LV119 Covert Multicam Tropic",
   "686830a0f33be9471feb69da ShortName": "LV119 MCT",
   "686830a0f33be9471feb69da Description": "Spiritus Systems LV119 Covert plate carrier with MK V Placard. Lightweight and low-profile.",
 
-  "690289f47f98dc39096902fd Name": "BCM Gunfighter MOD 3 Chopped",
-  "690289f47f98dc39096902fd ShortName": "BCM Chop",
-  "690289f47f98dc39096902fd Description": "BCM Gunfighter grip, modified for compact handling.",
+  "690289f47f98dc39096902fd Name": "ALFA Mod 4 RIOT Foregrip",
+  "690289f47f98dc39096902fd ShortName": "ALFA Mod 4",
+  "690289f47f98dc39096902fd Description": "ALFA Mod 4 RIOT Foregrip, for gripping the forend of a weapon, would you belive it.",
 
   "6917bd1327906df8ce6fcfff Name": "Ops-Core FAST SF Helmet (GB)",
   "6917bd1327906df8ce6fcfff ShortName": "Ops-Core GB",
@@ -163,15 +175,12 @@
 
   "6917c1976cf46fb7b4ffd866 Name": "AXL Advanced RAC Link Gen 1",
   "6917c1976cf46fb7b4ffd866 ShortName": "RAC Link",
-  "6917c1976cf46fb7b4ffd866 Description": "Adapter for mounting comms headsets to AMP arms. Lightweight Tegris construction.",
+  "6917c1976cf46fb7b4ffd866 Description": "A precision-cut Tegris adapter that allows the mounting of various headsets to Ops-Core AMP Arms. It’s a niche piece of 'tactical tailoring' that solves the problem of cross-brand comms compatibility. In Tarkov, it’s a sign of a professional who obsesses over their kit's weight and profile.",
 
   "6917c23f71eb4b42ea95584b Name": "Peltor ComTac V Headset (Coyote)",
   "6917c23f71eb4b42ea95584b ShortName": "ComTac V",
   "6917c23f71eb4b42ea95584b Description": "High-fidelity comms headset with mic. Headband removed for helmet mounting.",
 
-  "6917c4906c6dac68cc13588a Name": "Ops-Core Helmet Cover (AOR2)",
-  "6917c4906c6dac68cc13588a ShortName": "AOR2 Cover",
-  "6917c4906c6dac68cc13588a Description": "Durable helmet cover in AOR2 camo. Cable management and accessory points included.",
 
   "6917c54d98d815c7861d1c59 Name": "Ops-Core Helmet Cover (Desert Tiger Stripe)",
   "6917c54d98d815c7861d1c59 ShortName": "DTS Cover",
@@ -197,20 +206,20 @@
   "6917c6de1d18ca02f4868839 ShortName": "C11 AOR2",
 
 
-"69220d620913ac318374486b Name": "AR-18 30rd Mag",
- "69220d620913ac318374486b ShortName": "AR18 30",
+"69220d620913ac318374486b Name": "AR-18 30rd Mag Miami Tigerstripe",
+ "69220d620913ac318374486b ShortName": "AR18 30 Tiger",
   "69220d620913ac318374486b Description": "Its not a STANAG. Comes in Miami Tigerstripe",
- "69220e0a0114538b5d7c7176 Name": "AR-18 40rd Mag",
-  "69220e0a0114538b5d7c7176 ShortName": "AR18 40",
+ "69220e0a0114538b5d7c7176 Name": "AR-18 40rd Mag Irish DPM",
+  "69220e0a0114538b5d7c7176 ShortName": "AR18 40 DPM",
    "69220e0a0114538b5d7c7176 Description": "Its not a STANAG. Comes in Irish DPM" ,
 
   "6920fc2ed6d85697b6c81987 Name": "Galil ACE Rear Sight",
   "6920fc2ed6d85697b6c81987 ShortName": "ACE Rear",
   "6920fc2ed6d85697b6c81987 Description": "Adjustable rear sight for Galil ACE rifles. Simple, rugged, and easy to misplace.",
 
-  "6920fb556e317e30d954422b Name": "Galil ACE Picatinny Top Rail",
-  "6920fb556e317e30d954422b ShortName": "ACE Top Rail",
-  "6920fb556e317e30d954422b Description": "Full-length Picatinny rail for Galil ACE. Provides mounting points for optics and rear sights.",
+  "6920fb556e317e30d954422b Name": "Galil ACE Picatinny Top Rail (Short)",
+  "6920fb556e317e30d954422b ShortName": "ACE Pic Short",
+  "6920fb556e317e30d954422b Description": "Short rail for Galil ACE dust cover. Provides mounting points for optics and rear sights, but does not interface with the gas tube",
 
   "6920fadbf0d17bf37ce3ca85 Name": "Galil ACE Polymer Handguard",
   "6920fadbf0d17bf37ce3ca85 ShortName": "ACE HG",
@@ -224,10 +233,9 @@
   "6920f942d3ac2f0d40e5acda ShortName": "ACE Dust",
   "6920f942d3ac2f0d40e5acda Description": "Reinforced dust cover with Picatinny rail. Allegedly holds zero—results may vary.",
 
-  "6920f5d89049842deac34398 Name": "IWI Galil ACE",
-  "6920f5d89049842deac34398 ShortName": "Galil ACE",
-  "6920f5d89049842deac34398 Description": "Modernized Galil rifle chambered in 7.62×39mm. Rugged reliability meets modular design.",
-
+  "6920f5d89049842deac34398 Name": "IWI Galil ACE 31 7.62x39 assault rifle",
+  "6920f5d89049842deac34398 ShortName": "ACE 31",
+  "6920f5d89049842deac34398 Description": "The ACE 31 is the compact, 8.5-inch barreled evolution of the classic Galil. Chambered in 7.62x39mm, it offers massive stopping power in a package small enough for vehicle work or tight corridors. Modernized with a left-side charging handle and full-length top rail, it is a favorite among high-tier USEC contractors.",
   "6920fc9bde9ac414d66cb930 Name": "Galil ACE Stock",
   "6920fc9bde9ac414d66cb930 ShortName": "ACE Stock",
   "6920fc9bde9ac414d66cb930 Description": "Sliding polymer stock for Galil ACE rifles. Compact and practical.",
@@ -248,10 +256,9 @@
   "6928cc292075420a16ed2cfc ShortName": "SPR300 Cheek",
   "6928cc292075420a16ed2cfc Description": "Adjustable cheek rest for SPR300 rifles. Comfort meets consistency.",
 
-  "6928ccf3e483449082ed2cfe Name": "B&T SPR300 Suppressor",
-  "6928ccf3e483449082ed2cfe ShortName": "SPR300 Suppressor",
-  "6928ccf3e483449082ed2cfe Description": "Factory suppressor for SPR300. Quiet efficiency in Swiss style.",
-
+  "6928ccf3e483449082ed2cfe Name": "B&T SPR300 integrated sound suppressor",
+  "6928ccf3e483449082ed2cfe ShortName": "SPR300 SD",
+  "6928ccf3e483449082ed2cfe Description": "The heart of the SPR300 system. This Swiss-engineered suppressor is designed to shroud the barrel completely, creating a massive internal volume that makes a .300 Blackout subsonic round sound like a falling raindrop. It is the gold standard for urban sniping.",
   "6928cdf53823872ef9ed2d00 Name": "B&T .300 BLK 10-Round Magazine",
   "6928cdf53823872ef9ed2d00 ShortName": "SPR300 Mag",
   "6928cdf53823872ef9ed2d00 Description": "10-round clear polymer magazine for .300 BLK. See your remaining rounds at a glance.",
@@ -264,10 +271,9 @@
   "6928d412401cd7f6a6ed2d0c ShortName": "SPR300 Grip",
   "6928d412401cd7f6a6ed2d0c Description": "Ergonomic pistol grip for SPR300. Swiss precision in your hands.",
 
-  "6930cde327aa0ba2c16d3d01 Name": "Poly Technologies Type 81 Special Edition (Red)",
-  "6930cde327aa0ba2c16d3d01 ShortName": "Type 81",
-  "6930cde327aa0ba2c16d3d01 Description": "Modernized SKS derivative for civilian and military markets. Painted red for extra speed.",
-
+  "6930cde327aa0ba2c16d3d01 Name": "Poly Technologies Type 81 SE (Crimson Red)",
+  "6930cde327aa0ba2c16d3d01 ShortName": "T81 SE",
+  "6930cde327aa0ba2c16d3d01 Description": "A 'Special Edition' civilian variant of the Chinese Type 81, finished in a distinctive Crimson Red. These rifles often found their way into the Norvinsk region via the Canadian 'grey market' before the borders closed. While it looks like a collector's piece, it retains the legendary short-stroke piston reliability of the military original.",
   "6930cfb2b708723c496d3d09 Name": "Poly Technologies Type 81 Dust Cover",
   "6930cfb2b708723c496d3d09 ShortName": "T81 Dust",
   "6930cfb2b708723c496d3d09 Description": "Dust cover for Type 81 rifles. Keeps debris out—mostly.",
@@ -302,9 +308,11 @@
   "6933214ee8e7f9e95db155cf Name":    "Sigmaco Canada Threaded Barrel Sleeve",
   "6933214ee8e7f9e95db155cf ShortName": "T81 Thr Sleeve",
   "6933214ee8e7f9e95db155cf Description": "Add muzzle devices to your Type 81, and don't look too hard into what sort of federal institution the owner of the company currently resides in. ",
-  "693322bda247a70444b155d2 Name": "Poly Technologies Type 81 Special Edition 5-round Pinned Magazine",
-  "693322bda247a70444b155d2 ShortName": "T81 SE Pin Mag",
-  "693322bda247a70444b155d2 Description": "Canadian Standard Civilian Mag.",
+
+
+  "693322bda247a70444b155d2 Name": "Poly Technologies Type 81 5/30-round 7.62x39 magazine",
+  "693322bda247a70444b155d2 ShortName": "T81 5/30",
+  "693322bda247a70444b155d2 Description": "A standard 30-round Type 81 magazine that has been 'pinned' to only hold 5 rounds to comply with North American import laws. In the lawless streets of Tarkov, many find the pin has mysteriously 'fallen out,' restoring its full 30-round capacity—if you know which way to shake it.",
   "693224968a1d92759be95bee Name":    "C11 Gunworks Type 81 Buffer Tube Adapter",
   "693224968a1d92759be95bee ShortName": "T81 Buffer",
   "693224968a1d92759be95bee Description": "If it looks wack, and it works, its still kinda wack",
@@ -492,21 +500,233 @@
   "6960451b092ed1ff3f446f7b Name": "Sigmaco Type 81 1913 Rail Stock Adapter",
   "6960451b092ed1ff3f446f7b ShortName": "T81 1913",
   "6960451b092ed1ff3f446f7b Description": "Add a 1913 stock to your type 81 with this lovely chunk - o - metal",
+  
   "69604673cf174632a1446f81 Name": "Type 81 Ebay Special Dovetail Mount",
   "69604673cf174632a1446f81 ShortName": "T81 EBAY",
-  "69604673cf174632a1446f81 Description": "Add a dovetail mount to your Type 81 LMG, directly from ebay. Don't wreck anything mounting it!"
+  "69604673cf174632a1446f81 Description": "Add a dovetail mount to your Type 81 LMG, directly from ebay. Don't wreck anything mounting it!",
+
+  "6961371b7f41c6aaf2446f91 Name": "JMac Customs SS-8RP Padded Stock with JMac 1913 Folder",
+  "6961371b7f41c6aaf2446f91 ShortName": "JMAC SS-8RP",
+  "6961371b7f41c6aaf2446f91 Description": "(S)keleton(S)tock(8)inch(R)ise",
+
+  "69612efb852f06ddba446f85 Name": "Galil ACE Picatinny handgard",
+  "69612efb852f06ddba446f85 ShortName": "ACE HG Pic",
+  "69612efb852f06ddba446f85 Description": "The stock handguard for the Galil ACE, Gen 1, with the grip covers removed",
+
+  "69613556415ec190d1446f8b Name": "Galil Ace Gen II Buffer Tube Adapter",
+  "69613556415ec190d1446f8b ShortName": "Galil Buffer",
+  "69613556415ec190d1446f8b Description": "Buffer Tube Adapter from IWI",
+
+
+  "696136015bce2091f3446f8e Name": "KNS Galil Ace Picatinny Stock Adapter",
+  "696136015bce2091f3446f8e ShortName": "KNS Pic",
+  "696136015bce2091f3446f8e Description": "The KNS Galil-Picatinny Stock Adapter offers the shooter a lightweight folding-stock alternative to the factory Galil ACE folding stock (or brace) assembly. There are a variety of pic-mounted stock and pistol brace options available now from several manufacturers (such as Sig Sauer for their popular MCX/MPX line of firearms).",
+
+  "6967fc674a2b4f226ea35d55 Name": "AR-18 30-Round Magazine",
+  "6967fc674a2b4f226ea35d55 ShortName": "AR18 30",
+  "6967fc674a2b4f226ea35d55 Description": "Not quite STANAG. Holds 30 rounds of independence.",
+
+  "6967fc636ea2d0d46fa35d54 Name": "AR-18 40-Round Magazine",
+  "6967fc636ea2d0d46fa35d54 ShortName": "AR18 40",
+  "6967fc636ea2d0d46fa35d54 Description": "Not quite STANAG. Holds 40 rounds of independence.",
+
+  "6967ff3c0a67676e10a35d59 Name": "Poly Technologies Type 81 LMG Drum Magazine",
+  "6967ff3c0a67676e10a35d59 ShortName": "T81 LMG Drum",
+  "6967ff3c0a67676e10a35d59 Description": "75-round drum magazine for Type 81 LMG Rifles. This would make Trudeau blush.",
+
+  "69697d299ab4f546c9a35d6e Name": "AM-180 275-round Translucent .22LR pan magazine",
+  "69697d299ab4f546c9a35d6e ShortName": "AM-180 275",
+  "69697d299ab4f546c9a35d6e Description": " It takes a long time to reload, but really, are you reloading with this?",
+
+  "6971222c398edd4505e7e8cf Name": "Agency Arms Glock 17 EXA Slide",
+  "6971222c398edd4505e7e8cf ShortName": "Agency EXA",
+  "6971222c398edd4505e7e8cf Description": "A custom milled slide for the Glock 17 by Agency Arms. The EXA hybrid cut features aggressive top serrations for press checks, an enlarged top window for C-Port barrels, and side windows for weight reduction. Machined from 17-4 Stainless Steel with a Diamond Like Carbon (DLC) finish. Rumored to have been imported by a PMC that goes by the name of therealdirtydan.",
+
+
+  "6968fd52be483ad558a35d5c Name": "Glock 34 Slide",
+  "6968fd52be483ad558a35d5c ShortName": "G34",
+  "6968fd52be483ad558a35d5c Description": "Obtaining the greatest accuracy for target engagement was the decisive reason for the development of the GLOCK 34 with its extended barrel, longer slide dimensions and elongated distance between sights. This highly-accurate pistol has found widespread use as a competitive pistol for IPSC and other shooting sports, but is also a mainstay in many SWAT teams.",
+
+  "696902a4db5b91cfcaa35d62 Name": "Glock 34 Barrel",
+  "696902a4db5b91cfcaa35d62 ShortName": "G34 Barrel",
+  "696902a4db5b91cfcaa35d62 Description": "Produced from sturdy steel with a black finish, this Glock G34 Gen4 9mm barrel is manufactured at 5-3/10\" length and is an OEM factory original component. This barrel is perfect for your next workshop project as an immediate upgrade or as a replacement for a lost or damaged piece in your Gen4 G34.",
+
+  "696906f9ce381c2741a35d64 Name": "AlphaWolf Glock 34 Threaded Barrel",
+  "696906f9ce381c2741a35d64 ShortName": "G34 AW Barrel",
+  "696906f9ce381c2741a35d64 Description": "Alpha Wolf barrels establish the benchmark for absolute accuracy and combat reliability. It is the pinnacle of what every other barrel manufacturer strives to be. ",
+
+
+  "697126108e1daf677ae7e8d9 Name": "Agency Arms Glock 17 417 Single Port Compensator",
+  "697126108e1daf677ae7e8d9 ShortName": "417 Single",
+  "697126108e1daf677ae7e8d9 Description": "The 417 Single Port Compensator by Agency Arms for Gen 5 Glocks. Machined from 7075 Aluminum with a hard anodized finish. Features a single vertical venting port to mitigate muzzle rise.  Rumored to have been imported by a PMC that goes by the name of therealdirtydan.",
+
+  "69712903028922b745e7e8e0 Name": "Agency Arms Glock 17 Tritium Rear Sight",
+  "69712903028922b745e7e8e0 ShortName": "Agency Tritium R",
+  "69712903028922b745e7e8e0 Description": "A  high-visibility combat sight by Agency Arms. Machined from alloy steel with a glare-reducing serrated rear face and a standard tritium insert configuration. Designed for a distinct sight picture that provides rapid target acquisition in low-light environments.  Rumored to have been imported by a PMC that goes by the name of therealdirtydan.",
+
+  "69712816e7a4140950e7e8dd Name": "Agency Arms Glock 17 Front Sight",
+  "69712816e7a4140950e7e8dd ShortName": "Agency FS",
+  "69712816e7a4140950e7e8dd Description": "A combat sight by Agency Arms. Machined from alloy steel with a glare-reducing serrated rear face. Designed for a distinct sight picture that provides rapid target acquisition.  Rumored to have been imported by a PMC that goes by the name of therealdirtydan.",
+
+  "697125150b1257b151e7e8d7 Name": "Agency Arms Glock 17 Syndicate Match Grade Barrel",
+  "697125150b1257b151e7e8d7 ShortName": "AA Syndicate Match",
+  "697125150b1257b151e7e8d7 Description": "A Syndicate match-grade drop-in replacement barrel for the Glock 17 by Agency Arms. Machined from 416R Stainless Steel with pulled broached rifling and a 1:10 twist rate. Features a deep reverse crown and a flush-cut finish for a sleek aesthetic.  Rumored to have been imported by a PMC that goes by the name of therealdirtydan.",
+
+  "69712e4ce8805e854fe7e8e1 Name": "IWI Galil ACE 32",
+  "69712e4ce8805e854fe7e8e1 ShortName": "ACE 32",
+  "69712e4ce8805e854fe7e8e1 Description": "Modernized Galil rifle chambered in 7.62×39mm, with a 16.1 in barrel and a fixed gas block.  Does not include the bottle opener any longer.",
+  "697238de1644c6baa9c3932a Name": "IWI Galil ACE M-Lok Handguard",
+  "697238de1644c6baa9c3932a ShortName": "CE MLOK",
+  "697238de1644c6baa9c3932a Description": "Modernized Galil rifle chambered in 7.62×39mm, with a 16.1 in barrel and a fixed gas block.  Does not include the bottle opener any longer.",
+  "69723adba548ea7d12c39330 Name": "IWI Galil ACE Picatinny Mount (Long)",
+  "69723adba548ea7d12c39330 ShortName": "ACE Pic Long",
+  "69723adba548ea7d12c39330 Description": "Long rail for Galil ACE dust cover. Provides mounting points for optics and rear sights, and interfaces with the gas tube for increased accuracy and lockup",
+
+  "697299c25cf1535be3c39338 Name": " Glock 17 21-round Magazine with Agency Arms Magazine Baseplate",
+  "697299c25cf1535be3c39338 ShortName": "AA 21-rd",
+  "697299c25cf1535be3c39338 Description": "The stock Glock 17 round mag with an Agency Arms +5 baseplate",
+
+  "69726bb8d97092c26c567f48": "Glock 34",
+
+
+  "5b3b6e5d5acfc43398055011 Name": "Strike Industries Strike 80 Frame (Tan) w/ KI Internals",
+  "5b3b6e5d5acfc43398055011 ShortName": "Strike 80",
+  "5b3b6e5d5acfc43398055011 Description": "A custom polymer frame by Strike Industries based on the Glock 17 geometry. It features enhanced ergonomics, a double undercut trigger guard, and a unique accelerator cut for recoil management. This specific frame has been fitted with a Killer Innovations Velocity trigger shoe and internals.",
+
+  "5c066e4a0db834001b7353f0 Name": "Killer Innovations Velocity V1 Slide for Glock 17",
+  "5c066e4a0db834001b7353f0 ShortName": "KI Velocity",
+  "5c066e4a0db834001b7353f0 Description": "The Velocity V1 slide by Killer Innovations for the Glock 17. It features unique 'EGF' (Enhanced Grip Feature) cuts at the front and aggressive serrations for positive control in any condition. Machined from 17-4 Stainless Steel.",
+
+  "5d1c819a86f7743b355c4887 Name": "Killer Innovations Velocity Compensator for Glock 17",
+  "5d1c819a86f7743b355c4887 ShortName": "KI Comp",
+  "5d1c819a86f7743b355c4887 Description": "A bore-centric compensator from Killer Innovations. This compensator installs without set screws interfering with the barrel threads, using a proprietary locking ring system for perfect alignment with the Velocity Slide. Significantly reduces muzzle flip.",
+
+  "5e4ab6d386f774069611c792 Name": "CMC Triggers Match Precision Fluted Barrel for Glock 17",
+  "5e4ab6d386f774069611c792 ShortName": "CMC Match",
+  "5e4ab6d386f774069611c792 Description": "A drop-in match grade barrel for the Glock 17 manufactured by CMC Triggers. Machined from stress-relieved 416R stainless steel with a straight fluted profile for heat dissipation and a bead-blasted finish.",
+
+  "5a7ae1a651dfba0017554316 Name": "ETS Group Gen 2 Transparent Magazine for Glock 9x19 (21-round)",
+  "5a7ae1a651dfba0017554316 ShortName": "ETS 21rnd",
+  "5a7ae1a651dfba0017554316 Description": "A transparent polymer magazine by Elite Tactical Systems (ETS) for Glock 9mm systems. The clear body allows for immediate visual recognition of round count and ammo type. Features extreme impact resistance and creep-resistant feed lips.",
+
+  "59e6906286f7746c9f75e848 Name": "Night Fision Stealth Tritium Front Sight (Glock)",
+  "59e6906286f7746c9f75e848 ShortName": "Night Fision Front",
+  "59e6906286f7746c9f75e848 Description": "A front sight by Night Fision. They feature Swiss tritium vials housed in a specialized sleeve for maximum durability and a crisp, defined sight picture in low-light conditions.",
+
+  "6973e015a991f8f91bc3934c Name": "Night Fision Stealth Tritium Rear Sight (Glock)",
+  "6973e016fcdc3bb09ec3934d ShortName": "Night Fision Rear",
+  "6973e0169fa0f88e07c3934e Description": "A rear sight by Night Fision. They feature Swiss tritium vials housed in a specialized sleeve for maximum durability and a crisp, defined sight picture in low-light conditions.",
+
+  "62811f461d5df4475f46a333 Name": "Killer Innovations Velocity Optic Cover Plate (Black)",
+  "62811f461d5df4475f46a333 ShortName": "KI Plate",
+  "62811f461d5df4475f46a333 Description": "Billet machined cover plate for the Killer Innovations Velocity Slide. Manufactured from 6061-T6 Aluminum with a black anodized finish, this plate protects the optic cut when a red dot is not installed and continues the slide's aggressive aesthetic.",
+
+  "697bcc72c40392898c6eba4e Name": "ArmaLite AR-18 10 inch 5.56x45 barrel",
+  "697bcc72c40392898c6eba4e ShortName": "AR-18 10in",
+  "697bcc72c40392898c6eba4e Description":  "A rare, shortened 10-inch barrel for the AR-18 system. Originally designed for the experimental 'submachine gun' carbine variants tested in the mid-1960s, this barrel sacrifices muzzle velocity and range for superior ergonomics and maneuverability in close-quarters combat.",
+ 
+  "697bceffe0827153bf6eba53 Name": "ArmaLite AR-18 prototype wooden handguard",
+  "697bceffe0827153bf6eba53 ShortName": "AR-18 Wood",
+  "697bceffe0827153bf6eba53 Description": "An extremely early prototype handguard for the AR-18 platform. Unlike the production fiberglass-reinforced nylon furniture, this unit is milled from hardwood, as seen on the Serial No. 004 test units. While it offers a unique classic look, it lacks the sophisticated heat shielding of the final production models.",
+  
+  
+  "697bd03cd161658bc16eba56 Name": "ArmaLite AR-18 prototype vertical foregrip",
+  "697bd03cd161658bc16eba56 ShortName": "AR-18 VFG",
+  "697bd03cd161658bc16eba56 Description": "A standard AR-18 pistol grip that has been retrofitted to mount onto the handguard as a vertical foregrip. This improvised configuration was utilized on early short-barreled prototypes to assist with recoil control during fully automatic fire. It provides a substantial point of contact for the support hand.",
+
+
+  "697be91ca234f290026eba5b Name": "PIECE OF MIND X ILLICIT PROVISIONS MULTICAM ALPINE Magpul 30 Round Magazine",
+  "697be91ca234f290026eba5b ShortName": "POM 30rd",
+  "697be91ca234f290026eba5b Description": "Piece of Mind has teamed up with illpro again to offer another limited run of Multicam Alpine PMAGS. This time, a 30 round windowed Magpul Pmag. Limited Mini Bully Patch set included with each order.",
 
 
 
+  "6986801b76c6b6cbd5104c03 Name": "STK Ultimax 100 5.56x45 Light Machine Gun",
+  "6986801b76c6b6cbd5104c03 ShortName": "Ultimax 100",
+  "6986801b76c6b6cbd5104c03 Description": "The Ultimax 100 is a Singaporean 5.56mm light machine gun. Renowned for its 'Constant Recoil' operating system, the bolt carrier group never strikes the rear of the receiver, resulting in exceptionally low recoil and smooth operation.",
+
+  "698684546cbf41bc20104c0b Name": "STK Ultimax 100 5.56x45 receiver",
+  "698684546cbf41bc20104c0b ShortName": "U100 Rec",
+  "698684546cbf41bc20104c0b Description": "The main receiver assembly for the Ultimax 100 light machine gun. Manufactured from stamped sheet metal to reduce weight, it houses the long-stroke gas piston system and the unique constant recoil spring assembly.",
+
+  "6986854b79ff444e95104c11 Name": "STK Ultimax 100 polymer foregrip",
+  "6986854b79ff444e95104c11 ShortName": "U100 FG",
+  "6986854b79ff444e95104c11 Description": "A dedicated vertical foregrip for the Ultimax 100. While the weapon is famous for its low recoil, this grip aids in muzzle maneuverability and stability when firing from the shoulder or hip.",
+
+  "698685e38ee206f4d7104c13 Name": "STK Ultimax 100 polymer buttstock",
+  "698685e38ee206f4d7104c13 ShortName": "U100 Stock",
+  "698685e38ee206f4d7104c13 Description": "The standard issue quick-detach polymer buttstock for the Ultimax 100. It can be removed quickly to shorten the weapon for close-quarters combat or paratrooper operations, relying on the weapon's low recoil system for control without a shoulder point.",
+
+  "6986865b982d33ed14104c17 Name": "STK Ultimax 100 standard bipod",
+  "6986865b982d33ed14104c17 ShortName": "U100 Bipod",
+  "6986865b982d33ed14104c17 Description": "A lightweight, height-adjustable bipod designed for the Ultimax 100 series. Essential for sustained suppression fire roles, providing a stable platform for the 100-round drum magazine.",
+
+  "6986819aa62cef0fb1104c04 Name": "STK 100-round drum magazine for Ultimax 100 5.56x45",
+  "6986819aa62cef0fb1104c04 ShortName": "U100 100rnd",
+  "6986819aa62cef0fb1104c04 Description": "The signature 100-round polymer drum magazine for the Ultimax 100. Unlike belt-fed systems, this drum allows for rapid reloading while providing massive firepower. It is bulky, but reliable.",
+
+  "6987668597a5ba48fe104c1c Name": "STK Ultimax 100 rear sight",
+  "6987668597a5ba48fe104c1c ShortName": "U100 RS",
+  "6987668597a5ba48fe104c1c Description": "Standard adjustable aperture rear sight for the Ultimax 100. Calibrated for 5.56x45mm ball ammunition with range adjustments up to 1000 meters.",
+
+  "6987673c899d651b5c104c1e Name": "STK Ultimax 100 10 inch 5.56x45 barrel",
+  "6987673c899d651b5c104c1e ShortName": "U100 10\"",
+  "6987673c899d651b5c104c1e Description": "An extremely short 10-inch 'Commando' barrel for the Ultimax 100. Designed for special forces and VIP protection details where concealability and maneuverability inside vehicles outweigh effective range and velocity.",
+
+  "69878723bc82111ece104c22 Name": "STK Ultimax 100 13 inch 5.56x45 barrel",
+  "69878723bc82111ece104c22 ShortName": "U100 13\"",
+  "69878723bc82111ece104c22 Description": "A 13-inch 'Para' barrel for the Ultimax 100. This configuration balances compact handling with acceptable ballistics, making it a favorite for airborne and urban operations.",
+
+  "698787edae15a9a3a7104c25 Name": "STK Ultimax 100 20 inch 5.56x45 barrel",
+  "698787edae15a9a3a7104c25 ShortName": "U100 20\"",
+  "698787edae15a9a3a7104c25 Description": "The standard 20-inch heavy barrel for the Ultimax 100. Designed to maximize muzzle velocity and heat dissipation during sustained automatic fire.",
+
+  "6987a062adeeb92b41104c27 Name": "STK 30-round box magazine for Ultimax 100 5.56x45",
+  "6987a062adeeb92b41104c27 ShortName": "U100 30rnd",
+  "6987a062adeeb92b41104c27 Description": "A proprietary 30-round box magazine for the Ultimax 100 system.",
+  "6959a7169b6dadf5c8e933cb": "Irish Door Kicker",
+  "698e659765ed5353a0e36907": "Widowmaker",
 
 
+  "6998e5bd183a239134f7a065 Name": "Ops-Core FAST NGH helmet cover (AOR1)",
+  "6998e5bd183a239134f7a065 ShortName": "FAST NGH AOR1",
+  "6998e5bd183a239134f7a065 Description": "A specialized helmet cover for the FAST NGH series in the legendary AOR1 digital desert pattern. Originally issued exclusively to US Navy DEVGRU operators, finding an authentic piece in Tarkov is nearly impossible. Local legend says a small batch was brought in by a 'vacationing' Black Division consultant before the blockade. It provides excellent signature management in arid environments, though in the Norvinsk forests, it's mostly a status symbol for the extremely wealthy or lucky.",
+
+  "6917c4906c6dac68cc13588a Name": "Ops-Core FAST NGH helmet cover (AOR2)",
+  "6917c4906c6dac68cc13588a ShortName": "FAST NGH AOR2",
+  "6917c4906c6dac68cc13588a Description": "The woodland variant of the Navy's Area of Responsibility pattern. Designed for temperate and tropical jungle environments, it serves well in the overgrown suburbs of Tarkov. Often found in the kits of higher-tier USEC contractors who prefer something more specialized than standard MultiCam.",
+
+  "6998e5f7e34886d9bdf7a069 Name": "Ops-Core FAST NGH helmet cover (MultiCam Alpine)",
+  "6998e5f7e34886d9bdf7a069 ShortName": "FAST NGH Alpine",
+  "6998e5f7e34886d9bdf7a069 Description": "A specialized white-out cover for high-altitude or deep winter operations. While the Norvinsk winters are brutal, these covers are usually seen on snipers lurking in the power station hills or during rare snowfalls. It drastically reduces the helmet's silhouette against bright, frozen backgrounds.",
+
+  "6998e5d477ac37a27df7a067 Name": "Ops-Core FAST NGH helmet cover (CADPAT)",
+  "6998e5d477ac37a27df7a067 ShortName": "FAST NGH CADPAT",
+  "6998e5d477ac37a27df7a067 Description": "A helmet cover featuring the Canadian Digital Pattern. This item is an anomaly in the region; Rumor has it a shipment intended for a Canadian UNPROFOR detachment was intercepted by local Scav bosses during the early days of the chaos. Its vibrant greens are perfectly suited for the deep woods of Shoreline and Reserve. Extremely rare and highly sought after by 'drip' enthusiasts.",
+
+  "6998e60c71292bd226f7a06b Name": "Ops-Core FAST NGH helmet cover (Miami Tigerstripe)",
+  "6998e60c71292bd226f7a06b ShortName": "FAST NGH Miami",
+  "6998e60c71292bd226f7a06b Description": "A custom, non-standard 'Miami' variation of the classic Tigerstripe pattern. Likely a private purchase by a PMC with more money than sense, or a leftover from a flashy urban security detail. It offers questionable camouflage but undeniable style in the neon-lit halls of the Interchange.",
+
+  "6998e54173a6181d15f7a061 Name": "Peltor ComTac 5 tactical headset (AOR1)",
+  "6998e54173a6181d15f7a061 ShortName": "ComTac 5 AOR1",
+  "6998e54173a6181d15f7a061 Description": "The fifth generation of the ComTac series, featuring improved environmental microphones and better EMI shielding. This specific pair is finished in AOR1 and comes with the ARC rail adapters pre-installed. These were likely stripped from the gear of a high-value extraction team that didn't make it to the terminal.",
+
+  "6998e57bc11d47d1b7f7a063 Name": "Peltor ComTac 5 tactical headset (MultiCam)",
+  "6998e57bc11d47d1b7f7a063 ShortName": "ComTac 5 MC",
+  "6998e57bc11d47d1b7f7a063 Description": "Standard issue for modern special operations units. These ComTac 5s are mounted on helmet adapters to provide constant hearing protection and comms integration. A reliable piece of tech that amplifies ambient noise while suppressing the deafening cracks of 7.62x39mm fire.",
 
 
+  "6998e48a9d7c140756f7a049 Name": "Ops-Core FAST NGH ballistic helmet (AOR1)",
+  "6998e48a9d7c140756f7a049 ShortName": "FAST NGH AOR1",
+  "6998e48a9d7c140756f7a049 Description": "The Next Generation High-cut helmet from Ops-Core, finished in the iconic AOR1 pattern. Finding a genuine maritime-spec shell in this pattern suggests the previous owner was part of an elite Tier 1 element. It offers lightweight Level III-A protection and is a 'white whale' for collectors in the Norvinsk region, usually only found in the hands of the most dangerous Raiders.",
 
-
-
-
-
+  "6998e4f8f156ad13a1f7a055 Name": "Ops-Core FAST NGH ballistic helmet (CADPAT)",
+  "6998e4f8f156ad13a1f7a055 ShortName": "FAST NGH CADPAT",
+  "6998e4f8f156ad13a1f7a055 Description": "A rare CADPAT-dipped version of the FAST NGH. Canadian military gear is a rarity in the Russian federation, and this piece likely arrived via a small JTF2 advisory group that was operating in secret near the Tarkov port along side Black Division. It blends into the Russian forest better than almost any other pattern, making it a deadly asset for those who prefer the shadows.",
+  "6998e428d9c1fe43aaf7a03d Name": "Ops-Core FAST NGH ballistic helmet (AOR2)",
+  "6998e428d9c1fe43aaf7a03d ShortName": "FAST NGH AOR2",
+  "6998e428d9c1fe43aaf7a03d Description": "A high-cut Next Generation Ballistic helmet finished in the Navy's AOR2 woodland digital pattern. While AOR1 is the 'trophy' of the desert, AOR2 is the practical choice for the damp, overgrown outskirts of the Norvinsk region. This particular unit was reportedly recovered from a crashed helicopter near the Shoreline pier, likely belonging to a maritime security detail that was attempting to bypass the Tarkov blockade by sea. It offers the same Level III-A protection as the standard FAST, but the factory-applied AOR2 finish makes it significantly harder to spot in the dense brush of the Woods."
 }
 
 

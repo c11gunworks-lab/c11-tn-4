@@ -1,0 +1,1018 @@
+{
+  "6984ea4cd22cdc3936de0b77": {
+    "itemTplToClone": "6193a720f8ee7e52e42109ed",
+    "parentId": "5447b5cf4bdc2d65278b4567",
+    "handbookParentId": "5b5f792486f77447ed5636b3",
+    "overrideProperties": {
+      "Weight": 0.48,
+      "BackgroundColor": "blue",
+      "Width": 2,
+      "Height": 1,
+      "Prefab": {
+        "path": "hkp30l.bundle",
+        "rcid": ""
+      },
+     
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "MergesWithChildren": true,
+      
+      "ConflictingItems": [],
+      "CanPutIntoDuringTheRaid": true,
+      "weapClass": "pistol",
+      "weapUseType": "secondary",
+      "ammoCaliber": "Caliber9x19PARA",
+      "Durability": 100,
+      "MaxDurability": 100,
+      "durabSpawnMin": 25,
+      "durabSpawnMax": 75,
+      "isFastReload": true,
+      "weapFireType": [
+        "single"
+      ],
+      "SingleFireRate": 450,
+      "CanQueueSecondShot": true,
+      "bFirerate": 30,
+      "Ergonomics": 80,
+      "RecoilForceUp": 220,
+      "RecoilForceBack": 270,
+      "RecoilCamera": 0.05,
+      "Convergence": 2.5,
+      "Velocity": 0,
+      "bEffDist": 150,
+      "bHearDist": 180,
+      "isChamberLoad": true,
+      "chamberAmmoCount": 1,
+      "isBoltCatch": true,
+      "defMagType": "68deeeb97cbd04a1abd7a74b",
+      "defAmmo": "5c3df7d588a4501f290594e5",
+      "AdjustCollimatorsToTrajectory": false,
+      "shotgunDispersion": 10,
+      "Chambers": [
+        {
+          "_name": "patron_in_weapon",
+          "_id": "6984ea81a1f4a7487ade0b78",
+          "_mergeSlotWithChildren": false,
+          "_parent": "6984ea4cd22cdc3936de0b77",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5efb0da7a29a85116f6ea05f",
+                  "5c3df7d588a4501f290594e5",
+                  "58864a4f2459770fcc257101",
+                  "56d59d3ad2720bdb418b4577",
+                  "5c925fa22e221601da359b7b",
+                  "5a3c16fe86f77452b62de32a",
+                  "5efb0e16aeb21837e749c7ff",
+                  "5c0d56a986f774449d5de529",
+                  "64b7bbb74b75259c590fa897"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d4af244bdc2d962f8b4571",
+          "_required": false
+        }
+      ],
+      "ReloadMode": "ExternalMagazine",
+
+      "CompactHandling": true,
+      "SightingRange": 0,
+      "MinRepairDegradation": 0,
+      "MaxRepairDegradation": 0.03,
+      "IronSightRange": 25,
+      "HipAccuracyRestorationDelay": 0.2,
+      "HipAccuracyRestorationSpeed": 7,
+      "HipInnaccuracyGain": 0.16,
+      "ManualBoltCatch": false,
+      "AimSensitivity": 0.65,
+      "BaseMalfunctionChance": 0.2277,
+      "AllowJam": true,
+      "AllowFeed": true,
+      "AllowMisfire": true,
+      "AllowSlide": true,
+      "DurabilityBurnRatio": 1.15,
+      "HeatFactorGun": 1,
+      "CoolFactorGun": 4.0,
+      "CoolFactorGunMods": 0.98,
+      "HeatFactorByShot": 1.95,
+      "AllowOverheat": true,
+      "MinRepairKitDegradation": 0,
+      "MaxRepairKitDegradation": 0.025,
+      "Slots": [
+        {
+          "_id": "6984eab3d8bf06e9f7de0b79",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_barrel",
+          "_parent": "6984ea4cd22cdc3936de0b77",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68def4fe6e38d59a384f0ae1",
+"68e028ee33872c8c0b4e5e81"  
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "6984eabe23e9944e61de0b7a",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_reciever",
+          "_parent": "6984ea4cd22cdc3936de0b77",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68e025fd8d83867f8fe9bc5f",
+"68def250e985661ccf8b1c79"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "6984eac5b5b56436bdde0b7b",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_magazine",
+          "_parent": "6984ea4cd22cdc3936de0b77",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": 0,
+                "Filter": [
+                  "68deeeb97cbd04a1abd7a74b",
+                  "68fbd1861ec54c3c42ce0ff5",
+                  "6984ed6bda64b5fa77de0b87",
+                  "68def372f78f26bc8054cab3"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d30c394bdc2dae468b4577",
+          "_required": false
+        },
+        {
+          "_id": "698657a1545bf2ab86104c02",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "6984ea4cd22cdc3936de0b77",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a800961159bd4315e3a1657",
+                  "5cc9c20cd7f00c001336c65d",
+                  "5d2369418abbc306c62e0c80",
+                  "5b07dd285acfc4001754240d",
+                  "56def37dd2720bec348b456a",
+                  "5a7b483fe899ef0016170d15",
+                  "6272370ee4013c5d7e31f418",
+                  "6272379924e29f06af4d5ecb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+        
+      ]
+
+    },
+    "locales": {
+      "en": {
+        "name": "HK P30L Pistol",
+        "shortName": "HK P30L",
+        "description": "A not compact 9mm pistol from Germany. Are you back working Mr. Wick?"
+      }
+    },
+    "fleaPriceRoubles": 17000,
+    "handbookPriceRoubles": 15500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "698e659765ed5353a0e36902",
+        "_type": "Preset",
+        "_changeWeaponName": true,
+        "_name": "Mr. Wick",
+        "_parent": "698e659765ed5353a0e36903",
+        "_items": [
+          {
+            "_id": "698e659765ed5353a0e36903",
+            "_tpl": "6984ea4cd22cdc3936de0b77",
+            "upd": {
+              "StackObjectsCount": 99,
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              }
+            }
+          },
+          {
+            "_id": "698e644065ed5353a0e3114a",
+            "_tpl": "68e028ee33872c8c0b4e5e81",
+            "parentId": "698e659765ed5353a0e36903",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "698e644065ed5353a0e3114b",
+            "_tpl": "68e025fd8d83867f8fe9bc5f",
+            "parentId": "698e659765ed5353a0e36903",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "698e644065ed5353a0e3114c",
+            "_tpl": "68def372f78f26bc8054cab3",
+            "parentId": "698e659765ed5353a0e36903",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "698e644065ed5353a0e3114d",
+            "_tpl": "56def37dd2720bec348b456a",
+            "parentId": "698e659765ed5353a0e36903",
+            "slotId": "mod_mount",
+            "upd": {
+              "Light": {
+                "IsActive": true,
+                "SelectedMode": 0
+              }
+            }
+          },
+          {
+            "_id": "698e644065ed5353a0e3114e",
+            "_tpl": "68e029fe3948c17cabf65482",
+            "parentId": "698e644065ed5353a0e3114a",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "698e644065ed5353a0e3114f",
+            "_tpl": "5a32aa8bc4a2826c6e06d737",
+            "parentId": "698e644065ed5353a0e3114b",
+            "slotId": "mod_scope",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          }
+        ],
+        "_encyclopedia": "6984ea4cd22cdc3936de0b77"
+      }
+
+    ],
+    "masterySections": [
+      {
+        "Level2": 150,
+        "Level3": 200,
+        "Name": "P30",
+        "Templates": [
+          "68ded60bbd53f44248ea324f"
+        ]
+      }
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "6984eaec722c507453de0b7d": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 115,
+              "_tpl": "5696686a4bdc2da3298b456a"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68def4fe6e38d59a384f0ae1": {
+    "itemTplToClone": "6194ef39de3cdf1d2614a768",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Accuracy": 0.5,
+      "ConflictingItems": [],
+      "CoolFactor": 1.21,
+      "DurabilityBurnModificator": 1,
+      "Ergonomics": -2,
+      "HeatFactor": 1.14,
+      "Height": 1,
+      "MergesWithChildren": true,
+      "Prefab": {
+        "path": "p30lbarrel.bundle",
+        "rcid": ""
+      },
+      "Recoil": -2,
+      "ToolModdable": true,
+      "Velocity": 0.5,
+      "Weight": 0.135,
+      "Width": 1
+    },
+    "locales": {
+      "en": {
+        "name": "HK P30 Standard Barrel",
+        "shortName": "hkp30barrel",
+        "description": "Fine (ish) German Engineering. It holds bullet"
+      }
+    },
+    "fleaPriceRoubles": 16000,
+    "handbookPriceRoubles": 13500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "6984eb81ce81f1b657de0b7f": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 55,
+              "_tpl": "5696686a4bdc2da3298b456a"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68def250e985661ccf8b1c79": {
+    "itemTplToClone": "6193d382ed0429009f543e65",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Accuracy": 0,
+      "BackgroundColor": "blue",
+      "CanPutIntoDuringTheRaid": true,
+      "ConflictingItems": [],
+      "CoolFactor": 1.004,
+      "Ergonomics": -2,
+      "HeatFactor": 0.96,
+      "Height": 1,
+      "Prefab": {
+        "path": "p30lregslide.bundle",
+        "rcid": ""
+      },
+      "Recoil": -8,
+      "Velocity": 0,
+      "Weight": 0.36,
+      "Width": 2,
+      "Slots": [
+        {
+          "_id": "6984ebc831855437f7de0b81",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_rear",
+          "_parent": "68def250e985661ccf8b1c79",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68deea38e2111fb84c156ff2",
+                  "6984ee306e5601e906de0b8a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6984ebcdf6b15fbae4de0b82",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_front",
+          "_parent": "68def250e985661ccf8b1c79",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68def18791f0b463b5c29f0c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+     
+
+    },
+    "locales": {
+      "en": {
+        "name": "HK P30L Slide",
+        "shortName": "hkp30Lslide",
+        "description": "Sliiiiiide your way into excommunication"
+      }
+    },
+    "fleaPriceRoubles": 16000,
+    "handbookPriceRoubles": 14500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "6984ebdc27e7502d26de0b83": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 75,
+              "_tpl": "5696686a4bdc2da3298b456a"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68def372f78f26bc8054cab3": {
+    "itemTplToClone": "6193d3149fb0c665d5490e32",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "Accuracy": 0,
+      "BackgroundColor": "blue",
+      
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "CanFast": true,
+      "Cartridges": [
+        {
+          "_id": "6984ec48988deb0118de0b85",
+          "_max_count": 22,
+          "_name": "cartridges",
+          "_parent": "68def372f78f26bc8054cab3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5efb0da7a29a85116f6ea05f",
+                  "5c3df7d588a4501f290594e5",
+                  "58864a4f2459770fcc257101",
+                  "56d59d3ad2720bdb418b4577",
+                  "5c925fa22e221601da359b7b",
+                  "5a3c16fe86f77452b62de32a",
+                  "5efb0e16aeb21837e749c7ff",
+                  "5c0d56a986f774449d5de529",
+                  "64b7bbb74b75259c590fa897"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "CheckOverride": 1,
+      "CheckTimeModifier": 7,
+      "Ergonomics": -3,
+      "Height": 1,
+      "ItemSound": "magazine_metal",
+      "LoadUnloadModifier": -15,
+      "MergesWithChildren": true,
+     
+      "MalfunctionChance": 0.04,
+      "Prefab": {
+        "path": "p30stendo.bundle",
+        "rcid": ""
+      },
+      "ReloadMagType": "ExternalMagazine",
+      "RaidModdable": true,
+      "Weight": 0.14,
+      "VisibleAmmoRangesString": "1-15",
+      "Width": 1
+    },
+    "locales": {
+      "en": {
+        "name": "HK P30 15 Round Magazine",
+        "shortName": "hkp30mag",
+        "description": "22 rounds on tap. You're gonna need more than that."
+      }
+    },
+    "fleaPriceRoubles": 25000,
+    "handbookPriceRoubles": 22500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "6984ed5b2358a46843de0b86": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 35,
+              "_tpl": "5696686a4bdc2da3298b456a"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68e025fd8d83867f8fe9bc5f": {
+    "itemTplToClone": "6194f41f9fb0c665d5490e75",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Accuracy": 0,
+      "CanPutIntoDuringTheRaid": true,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "CoolFactor": 1.004,
+      "Ergonomics": -2,
+      "HeatFactor": 0.9,
+      "Height": 1,
+      "ToolModdable": true,
+      "Weight": 0.34,
+      "Width": 2,
+      "MergesWithChildren": true,
+      "Prefab": {
+        "path": "p30rmr.bundle",
+        "rcid": ""
+      },
+      
+      "Recoil": -2,
+      "Slots": [
+        {
+          "_id": "68e026b19560b08639ec0e78",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "68e025fd8d83867f8fe9bc5f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a32aa8bc4a2826c6e06d737"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "68deee19e08923bad0c007f5",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_front",
+          "_parent": "68e025fd8d83867f8fe9bc5f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68def18791f0b463b5c29f0c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+      
+
+    },
+    "locales": {
+      "en": {
+        "name": "HK P30 rmrslide",
+        "shortName": "rmrslide",
+        "description": "slide"
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "68e025fd1111111111111111": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 115,
+              "_tpl": "5696686a4bdc2da3298b456a"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68e028ee33872c8c0b4e5e81": {
+    "itemTplToClone": "6194efe07c6c7b169525f11b",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Accuracy": 1,
+      "ConflictingItems": [],
+      "CoolFactor": 1.21,
+      "DurabilityBurnModificator": 1,
+      "Ergonomics": 0,
+      "HeatFactor": 1.14,
+      "Height": 1,
+      "Prefab": {
+        "path": "p30barrelthr.bundle",
+        "rcid": ""
+      },
+      "Recoil": -3,
+      "Velocity": 1.0,
+      "Weight": 0.145,
+      "Width": 1,
+      "Slots": [
+        {
+          "_id": "68e0299bc9035297082a253c",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "68e028ee33872c8c0b4e5e81",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68e029fe3948c17cabf65482",
+                  "5a6b59a08dc32e000b452fb7",
+                  "5c7e8fab2e22165df16b889b",
+                  "5a33a8ebc4a282000c5a950d",
+                  "5c6165902e22160010261b28",
+                  "5a32a064c4a28200741e22de"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+      
+
+    },
+    "locales": {
+      "en": {
+        "name": "HK P30 Threaded Barrel",
+        "shortName": "hkp30threaded",
+        "description": "Standard barrel threaded for 1/2x28 devices."
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "68e028ee1111111111111111": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 75,
+              "_tpl": "5696686a4bdc2da3298b456a"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6984ee306e5601e906de0b8a": {
+    "itemTplToClone": "56ea7293d2720b8d4b8b45ba",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Accuracy": 0,
+      "ConflictingItems": [],
+      "Ergonomics": -2,
+      "Height": 1,
+      "Prefab": {
+        "path": "p30rmrplate.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.015,
+      "Width": 1,
+      "Slots": [
+        {
+          "_id": "6984ee636404151546de0b8b",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope_001",
+          "_parent": "6984ee306e5601e906de0b8a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "577d141e24597739c5255e01",
+                  "58d268fc86f774111273f8c2",
+                  "5a32aa8bc4a2826c6e06d737"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+
+
+    },
+    "locales": {
+      "en": {
+        "name": "sightmount",
+        "shortName": "sightmount",
+        "description": "sightmount"
+      }
+    },
+    "fleaPriceRoubles": 5000,
+    "handbookPriceRoubles": 2500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "6984eeb8a626d68e1dde0b8c": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 15,
+              "_tpl": "5696686a4bdc2da3298b456a"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68e029fe3948c17cabf65482": {
+    "itemTplToClone": "5a7ad0c451dfba0013379712",
+    "parentId": "550aa4bf4bdc2dd6348b456b",
+    "handbookParentId": "5b5f724c86f774093f2ecf15",
+    "overrideProperties": {
+      "Accuracy": 0,
+      "ConflictingItems": [],
+      "CoolFactor": 1,
+     
+      "DurabilityBurnModificator": 0.98,
+      "Ergonomics": -5,
+      "ExtraSizeForceAdd": true,
+      "ExtraSizeLeft": 1,
+      "HeatFactor": 0.99,
+      "Height": 1,
+      "Loudness": 35,
+      "Prefab": {
+        "path": "p30comp.bundle",
+        "rcid": ""
+      },
+      "RaidModdable": true,
+      "Recoil": -15,
+      "Velocity": 0.5,
+      "Weight": 0.1,
+      "Width": 1
+    },
+    "locales": {
+      "en": {
+        "name": "HK P30 6 Port Compensator",
+        "shortName": "6portcomp",
+        "description": "This only exists because of John Wick. It did not exist prior to. "
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "68e029fe1111111111111111": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 125,
+              "_tpl": "5696686a4bdc2da3298b456a"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6984ed6bda64b5fa77de0b87": {
+    "itemTplToClone": "63076701a987397c0816d21b",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "Accuracy": 0,
+      "BackgroundColor": "blue",
+      "CanPutIntoDuringTheRaid": true,
+      "CanFast": true,
+      "Cartridges": [
+        {
+          "_id": "6984ed70a7767774d2de0b88",
+          "_max_count": 27,
+          "_name": "cartridges",
+          "_parent": "6984ed6bda64b5fa77de0b87",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5efb0da7a29a85116f6ea05f",
+                  "5c3df7d588a4501f290594e5",
+                  "58864a4f2459770fcc257101",
+                  "56d59d3ad2720bdb418b4577",
+                  "5c925fa22e221601da359b7b",
+                  "5a3c16fe86f77452b62de32a",
+                  "5efb0e16aeb21837e749c7ff",
+                  "5c0d56a986f774449d5de529",
+                  "64b7bbb74b75259c590fa897"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "CheckOverride": 1,
+      "CheckTimeModifier": 20,
+      "Ergonomics": -9,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": true,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 1,
+      "Height": 2,
+      "ItemSound": "magazine_metal",
+      "LoadUnloadModifier": -30,
+      "MergesWithChildren": true,
+      "MalfunctionChance": 0.15,
+      "Prefab": {
+        "path": "p3027rd.bundle",
+        "rcid": ""
+      },
+      "ReloadMagType": "ExternalMagazine",
+      "RaidModdable": true,
+      
+      "Weight": 0.25,
+      "VisibleAmmoRangesString": "1-15",
+      "Width": 1
+    },
+    "fleaPriceRoubles": 35000,
+    "handbookPriceRoubles": 32500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "6984edbdddd761b000de0b89": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 55,
+              "_tpl": "5696686a4bdc2da3298b456a"
+            }
+          ]
+        }
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "HK P30 27 Round Extended Magazine",
+        "shortName": "hkp3027stendomag",
+        "description": "27 Rounds will get you somewhere, that's for sure."
+      }
+    }
+  }
+}

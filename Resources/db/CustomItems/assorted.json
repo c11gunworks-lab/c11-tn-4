@@ -1,110 +1,49 @@
 {
 
+
   "690289f47f98dc39096902fd": {
-    "itemTplToClone": "5c7fc87d2e221644f31c0298",
+    "itemTplToClone": "59f8a37386f7747af3328f06",
     "parentId": "55818af64bdc2d5b648b4570",
     "handbookParentId": "5b5f71de86f774093f2ecf13",
     "overrideProperties": {
-      "Accuracy": 0,
-      "AnimationVariantsNumber": 0,
-      "BackgroundColor": "blue",
-      "BlocksCollapsible": false,
-      "BlocksFolding": false,
-      "CanPutIntoDuringTheRaid": true,
-      "CanRequireOnRagfair": false,
-      "CanSellOnRagfair": true,
-      "CantRemoveFromSlotsDuringRaid": [],
-      "ConflictingItems": [],
-      "Description": "foregrip_all_vtac_chop",
-      "DiscardLimit": -1,
-      "DiscardingBlock": false,
-      "DoubleActionAccuracyPenaltyMult": 1,
-      "DropSoundType": "None",
-      "Durability": 100,
-      "EffectiveDistance": 0,
-      "Ergonomics": 9,
-      "ExamineExperience": 6,
-      "ExamineTime": 1,
       "ExaminedByDefault": true,
-      "ExtraSizeDown": 0,
-      "ExtraSizeForceAdd": false,
-      "ExtraSizeLeft": 0,
-      "ExtraSizeRight": 0,
-      "ExtraSizeUp": 0,
-      "ForbidMissingVitalParts": false,
-      "ForbidNonEmptyContainers": false,
-      "Grids": [],
-      "HasShoulderContact": false,
-      "Height": 1,
-      "HideEntrails": false,
-      "InsuranceDisabled": false,
-      "IsAlwaysAvailableForInsurance": false,
-      "IsAnimated": false,
-      "IsLockedafterEquip": false,
-      "IsSecretExitRequirement": false,
-      "IsSpecialSlotOnly": false,
-      "IsUnbuyable": false,
-      "IsUndiscardable": false,
-      "IsUngivable": false,
-      "IsUnremovable": false,
-      "IsUnsaleable": false,
-      "ItemSound": "mod",
-      "LootExperience": 10,
-      "Loudness": 0,
-      "MergesWithChildren": true,
-      "Name": "foregrip_all_vtac_chop",
-      "NotShownInSlot": false,
       "Prefab": {
-        "path": "bcmsliced.bundle",
+        "path": "alfaforegrip.bundle",
         "rcid": ""
       },
-      "QuestItem": false,
-      "QuestStashMaxCount": 0,
-      "RagFairCommissionModifier": 1,
-      "RaidModdable": true,
-      "Recoil": -1,
-      "RepairCost": 0,
-      "RepairSpeed": 0,
-      "ShortName": "BCM Chopped",
-      "SightingRange": 0,
-      "Slots": [],
-      "StackMaxSize": 1,
-      "StackObjectsCount": 1,
-      "ToolModdable": false,
-      "UniqueAnimationModID": 0,
-      "Unlootable": false,
-      "UnlootableFromSide": [],
-      "UnlootableFromSlot": "FirstPrimaryWeapon",
-      "UsePrefab": {
-        "path": "",
-        "rcid": ""
-      },
-      "Velocity": 0,
+      "Width": 1,
+      "Height": 1,
       "Weight": 0.05,
-      "Width": 1
+      "Ergonomics": 9,
+      "Recoil": -1,
+      "Slots": [],
+      "Grids": []
     },
     "locales": {
       "en": {
-        "Name": "BCM GUNFIGHTER MOD 3 Chopped",
-        "ShortName": "BCM Chopped",
-        "Description": "Take your favorite grip and give it da chop"
+        "Name": "alfagrip",
+        "ShortName": "alfagrip",
+        "Description": "alfagrip"
       }
     },
     "fleaPriceRoubles": 25000,
-    "handbookPriceRoubles": 25000,
+    "handbookPriceRoubles": 25500,
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoModSlots": true,
-    "modSlots": [
-      "mod_foregrip"
-    ],
+    "modSlot": ["mod_foregrip"],
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [],
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "MECHANIC": {
-        "695e8e4a15885829bb446f65": {
+      "PEACEKEEPER": {
+        "6972a2f768b6935c51c3933a": {
           "barterSettings": {
             "loyalLevel": 1,
             "unlimitedCount": true,
@@ -112,7 +51,169 @@
           },
           "barters": [
             {
-              "count": 25000,
+              "count": 27,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  
+
+  "6961371b7f41c6aaf2446f91": {
+    "itemTplToClone": "5c5db6f82e2216003a0fe914",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "jmacss8.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.45,
+      "ExtraSizeLeft": 1,
+      "Ergonomics": 5,
+      "Recoil": -29,
+      "Slots": [],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "JMAC SS8",
+        "ShortName": "JMAC SS8",
+        "Description": "JMAC SS8"
+      }
+    },
+    "fleaPriceRoubles": 25000,
+    "handbookPriceRoubles": 25500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": ["mod_stock"],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "69613b81176b0db93f446f93": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 275,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "697be91ca234f290026eba5b": {
+    "itemTplToClone": "55802d5f4bdc2dac148b458e",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "illpromag.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "violet",
+      "Width": 1,
+      "Height": 2,
+      "Weight": 0.25,
+      "ExtraSizeDown": 1,
+      "magAnimationIndex":0,
+      "CanFast":true,
+      "CanPutIntoDuringTheRaid":true,
+
+      "VisibleAmmoRangesString":"1-1;18-30",
+
+      "Slots": [],
+      "Grids": [],
+      "Cartridges": [
+        {
+          "_id": "697be29e4fabfee0d96eba59",
+          "_name": "cartridges",
+          "_parent": "697be272ffe88a778f6eba58",
+          "_max_count": 30,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59e6920f86f77411d82aa167",
+                  "59e6927d86f77411da468256",
+                  "54527a984bdc2d4e668b4567",
+                  "54527ac44bdc2d36668b4567",
+                  "59e68f6f86f7746c9f75e846",
+                  "59e6906286f7746c9f75e847",
+                  "59e690b686f7746c9f75e848",
+                  "59e6918f86f7746c9f75e849",
+                  "60194943740c5d77f6705eea",
+                  "601949593ae8f707c4608daa",
+                  "5c0d5ae286f7741e46554302",
+                  "5fbe3ffdf8b6a877a729ea82",
+                  "5fd20ff893a8961fc660a954",
+                  "619636be6db0f2477964e710",
+                  "6196364158ef8c428c287d9f",
+                  "6196365d58ef8c428c287da1",
+                  "64b8725c4b75259c590fa899"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "Name": "illpro",
+        "ShortName": "illpro",
+        "Description": "illpro"
+      }
+    },
+    "fleaPriceRoubles": 7500,
+    "handbookPriceRoubles": 2500,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "697be2cf16b87abac56eba5a": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 7500,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -120,5 +221,4 @@
       }
     }
   }
-  
 }

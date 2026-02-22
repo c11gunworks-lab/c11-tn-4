@@ -9,13 +9,12 @@
         "path": "t81lmgbeech.bundle",
         "rcid": ""
       },
-      "BackgroundColor": "default",
+      "BackgroundColor": "black",
       "MergesWithChildren": true,
       "Width": 4,
       "Height": 1,
       "ConflictingItems":[
-        "693225c799989d996ae95bf3",
-        "6930d1c9eb251e06e06d3d10"
+
       ],
       "Weight": 4.5,
       "RecoilForceUp": 110,
@@ -43,7 +42,7 @@
       "isChamberLoad": true,
       "chamberAmmoCount": 1,
       "isBoltCatch": false,
-      "defMagType": "6930d355328696040a6d3d16",
+      "defMagType": "6967ff3c0a67676e10a35d59",
       "ammoCaliber": "Caliber762x39",
       "isFastReload": true,
       "ReloadMode": "ExternalMagazine",
@@ -113,7 +112,8 @@
                 "Shift": 0,
                 "Filter": [
                   "6930d355328696040a6d3d16",
-                  "693322bda247a70444b155d2"
+                  "693322bda247a70444b155d2",
+                  "6967ff3c0a67676e10a35d59"
                 ]
               }
             ]
@@ -231,7 +231,7 @@
           "_proto": "55d30c4c4bdc2db4468b457e"
         },
         {
-          "_name": "mod_pistol_grip_akms",
+          "_name": "mod_mount_000",
           "_id": "6960472fef706408c3446f84",
           "_parent": "6959ae1d8e4dae34b821a223",
           "_props": {
@@ -267,6 +267,7 @@
           "_mergeSlotWithChildren": false,
           "_proto": "55d30c4c4bdc2db4468b457e"
         },
+       
         {
           "_name": "mod_sight_front",
           "_id": "6959ae5ba7ead13d3121a22c",
@@ -311,6 +312,122 @@
       }
     ],
     "addtoSecureFilters": false,
+    "addWeaponPreset": true,
+    "weaponPresets": [{
+      "_id": "6973f3a60928afb97c1b59f4",
+      "_type": "Preset",
+      "_changeWeaponName": false,
+      "_name": "T81 LMG Beech",
+      "_parent": "6973f3a60928afb97c1b59f5",
+      "_items": [
+        {
+          "_id": "6973f3a60928afb97c1b59f5",
+          "_tpl": "6959ae1d8e4dae34b821a223",
+          "upd": {
+            "Repairable": {
+              "Durability": 100,
+              "MaxDurability": 100
+            },
+            "FireMode": {
+              "FireMode": "single"
+            }
+          }
+        },
+        {
+          "_id": "69694f06a8a35e591c16fdb0",
+          "_tpl": "6930d0095c6559e2816d3d0a",
+          "parentId": "6973f3a60928afb97c1b59f5",
+          "slotId": "mod_gas_block"
+        },
+        {
+          "_id": "69694f06a8a35e591c16fdb1",
+          "_tpl": "6967ff3c0a67676e10a35d59",
+          "parentId": "6973f3a60928afb97c1b59f5",
+          "slotId": "mod_magazine"
+        },
+        {
+          "_id": "69694f06a8a35e591c16fdb2",
+          "_tpl": "6959aedfd709381bfe21a23e",
+          "parentId": "6973f3a60928afb97c1b59f5",
+          "slotId": "mod_muzzle"
+        },
+        {
+          "_id": "69694f06a8a35e591c16fdb3",
+          "_tpl": "6959ae648ab2d4472721a22e",
+          "parentId": "6973f3a60928afb97c1b59f5",
+          "slotId": "mod_reciever"
+        },
+        {
+          "_id": "69694f06a8a35e591c16fdb4",
+          "_tpl": "6959aeabb718f8c8e421a237",
+          "parentId": "6973f3a60928afb97c1b59f5",
+          "slotId": "mod_stock"
+        },
+        {
+          "_id": "69694f06a8a35e591c16fdb5",
+          "_tpl": "6959af89357f345cf121a240",
+          "parentId": "6973f3a60928afb97c1b59f5",
+          "slotId": "mod_pistol_grip"
+        },
+        {
+          "_id": "69694f06a8a35e591c16fdb6",
+          "_tpl": "69604673cf174632a1446f81",
+          "parentId": "6973f3a60928afb97c1b59f5",
+          "slotId": "mod_mount_000"
+        },
+        {
+          "_id": "69694f06a8a35e591c16fdb7",
+          "_tpl": "6959aec299f49d72b121a239",
+          "parentId": "6973f3a60928afb97c1b59f5",
+          "slotId": "mod_bipod"
+        },
+        {
+          "_id": "69694f06a8a35e591c16fdb8",
+          "_tpl": "6959aed9f579411c0a21a23c",
+          "parentId": "6973f3a60928afb97c1b59f5",
+          "slotId": "mod_sight_front",
+          "upd": {
+            "Sight": {
+              "ScopesCurrentCalibPointIndexes": [
+                0
+              ],
+              "ScopesSelectedModes": [
+                0
+              ],
+              "SelectedScope": 0,
+              "ScopeZoomValue": 0
+            }
+          }
+        },
+        {
+          "_id": "69694f06a8a35e591c16fdb9",
+          "_tpl": "6959ae8a8609fc1ded21a231",
+          "parentId": "69694f06a8a35e591c16fdb0",
+          "slotId": "mod_handguard"
+        },
+        {
+          "_id": "69694f06a8a35e591c16fdba",
+          "_tpl": "6959aea76bcb6afbd721a235",
+          "parentId": "69694f06a8a35e591c16fdb9",
+          "slotId": "mod_handguard_000"
+        }
+      ],
+      "_encyclopedia": "6959ae1d8e4dae34b821a223"
+    }
+
+
+
+    ],
+    "masterySections": [
+      {
+        "Level2": 150,
+        "Level3": 200,
+        "Name": "Type 81",
+        "Templates": [
+          "6930cde327aa0ba2c16d3d01"
+        ]
+      }
+    ],
     "addtoTraders": true,
     "traders": {
       "PRAPOR": {
@@ -340,7 +457,7 @@
         "path": "dusthd.bundle",
         "rcid": ""
       },
-      "BackgroundColor": "default",
+      "BackgroundColor": "black",
       "MergesWithChildren": true,
       "Width": 2,
       "Height": 1,
@@ -400,7 +517,7 @@
         "path": "thgbeech.bundle",
         "rcid": ""
       },
-      "BackgroundColor": "default",
+      "BackgroundColor": "black",
       "Width": 1,
       "Height": 1,
       "Weight": 0.28,
@@ -481,7 +598,7 @@
         "path": "lhgbeech.bundle",
         "rcid": ""
       },
-      "BackgroundColor": "default",
+      "BackgroundColor": "black",
       "Width": 1,
       "Height": 1,
       "Weight": 0.15,
@@ -599,7 +716,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "bipodgry.bundle",
+        "path": "lmgbipod.bundle",
         "rcid": ""
       },
       "Width": 2,

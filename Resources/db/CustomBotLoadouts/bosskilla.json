@@ -1,0 +1,80 @@
+﻿{
+  "chances": {
+    "equipment": {
+      "FirstPrimaryWeapon": 100
+    },
+    "weaponMods": {
+      "mod_magazine": 100,
+      "mod_reciever": 100,
+      "mod_foregrip": 75,
+      "mod_barrel": 100,
+      "mod_muzzle": 100,
+      "mod_bipod": 100,
+      "mod_stock": 100,
+      "mod_sight_rear": 100
+    }
+  },
+  "inventory": {
+    "equipment": {
+      "FirstPrimaryWeapon": {
+        "6986801b76c6b6cbd5104c03": 9500
+      }
+    },
+    "items": {
+      "TacticalVest": {
+        "6986819aa62cef0fb1104c04": 10000,
+        "6987a062adeeb92b41104c27": 20000
+
+      }
+
+
+
+
+    },
+    "mods": {
+      "6986801b76c6b6cbd5104c03": {
+        "mod_magazine": [
+          "6986819aa62cef0fb1104c04"
+     ],
+        "mod_reciever": [
+          "698684546cbf41bc20104c0b"
+        ],
+        "mod_stock": [
+          "698685e38ee206f4d7104c13"
+        ],
+        "mod_sight_rear": [
+          "6987668597a5ba48fe104c1c"
+        ]
+      },
+      "698684546cbf41bc20104c0b": {
+        "mod_foregrip": [
+          "6986854b79ff444e95104c11"
+        ],
+        "mod_barrel": [
+
+          "6987673c899d651b5c104c1e"
+        ],
+        "mod_bipod": [
+          "6986865b982d33ed14104c17"
+        ]
+      },
+      
+
+      "6987673c899d651b5c104c1e": {
+        "mod_muzzle": [
+          "5c6d710d2e22165df16b81e7"
+        ]
+      },
+      "5c6d710d2e22165df16b81e7": {
+        "mod_muzzle": [
+          "5ea17bbc09aa976f2e7a51cd"
+        ]
+      }
+    },
+    "Ammo": {
+      "Caliber556x45NATO": {
+        "59e6906286f7746c9f75e847": 5650
+      }
+    }
+  }
+}

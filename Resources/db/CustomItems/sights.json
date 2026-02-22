@@ -40,6 +40,7 @@
       "Weight": 0.35,
       "sightModType":"reflex",
       "ConflictingItems": [
+        "5a32aa8bc4a2826c6e06d737"
       ],
       "CanPutIntoDuringTheRaid":true,
       "Slots": [],
@@ -172,7 +173,14 @@
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoModSlots": true,
-    "modSlot": ["mod_scope"],
+    "modSlot": [
+      "mod_scope",
+      "mod_scope_002",
+      "mod_scope_001",
+      "mod_scope_000"
+    
+    
+    ],
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
       {

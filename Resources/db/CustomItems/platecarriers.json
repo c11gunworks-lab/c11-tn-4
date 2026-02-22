@@ -110,68 +110,16 @@
           "_required": false,
           "_mergeSlotWithChildren": true,
           "_proto": "64479fdf9731c8fadc0642c1"
-        },
-        {
-          "_name": "Left_side_plate",
-          "_id": "68683308683b0ecafed0f520",
-          "_parent": "686830a0f33be9471feb69da",
-          "_props": {
-            "filters": [
-              {
-                "locked": false,
-                "Plate": "6557458f83942d705f0c4962",
-                "Filter": [
-                  "6557458f83942d705f0c4962",
-                  "64afdb577bb3bfe8fe03fd1d",
-                  "64afd81707e2cf40e903a316"
-                ],
-                "armorColliders": [],
-                "armorPlateColliders": [
-                  "Plate_Granit_SSAPI_side_left_high"
-                ],
-                "bluntDamageReduceFromSoftArmor": false
-              }
-            ]
-          },
-          "_required": false,
-          "_mergeSlotWithChildren": true,
-          "_proto": "64479fdf9731c8fadc0642c1"
-        },
-        {
-          "_name": "Right_side_plate",
-          "_id": "686833235eaf1c8fa57410e6",
-          "_parent": "686830a0f33be9471feb69da",
-          "_props": {
-            "filters": [
-              {
-                "locked": false,
-                "Plate": "6557458f83942d705f0c4962",
-                "Filter": [
-                  "6557458f83942d705f0c4962",
-                  "64afdb577bb3bfe8fe03fd1d",
-                  "64afd81707e2cf40e903a316"
-                ],
-                "armorColliders": [],
-                "armorPlateColliders": [
-                  "Plate_Granit_SSAPI_side_right_high"
-                ],
-                "bluntDamageReduceFromSoftArmor": false
-              }
-            ]
-          },
-          "_required": false,
-          "_mergeSlotWithChildren": true,
-          "_proto": "64479fdf9731c8fadc0642c1"
         }
       ],
       "Grids": [
         {
           "_id": "46d73101fdbedb364fead4a6",
           "_name": "GridView (1)",
-          "_parent": "119-RIGLAYOUT",
+          "_parent": "686830a0f33be9471feb69da",
           "_props": {
             "cellsH": 1,
-            "cellsV": 1,
+            "cellsV": 2,
             "filters": [
               {
                 "ExcludedFilter": [
@@ -192,7 +140,7 @@
         {
           "_id": "458421bf057f22dfab2e9ec7",
           "_name": "GridView (2)",
-          "_parent": "119-RIGLAYOUT",
+          "_parent": "686830a0f33be9471feb69da",
           "_props": {
             "cellsH": 1,
             "cellsV": 2,
@@ -216,7 +164,7 @@
         {
           "_id": "a87f0b921ac174a0691b9a4c",
           "_name": "GridView (3)",
-          "_parent": "119-RIGLAYOUT",
+          "_parent": "686830a0f33be9471feb69da",
           "_props": {
             "cellsH": 1,
             "cellsV": 2,
@@ -240,7 +188,7 @@
         {
           "_id": "7ea28dfc1a5def2458042071",
           "_name": "GridView (4)",
-          "_parent": "119-RIGLAYOUT",
+          "_parent": "686830a0f33be9471feb69da",
           "_props": {
             "cellsH": 1,
             "cellsV": 2,
@@ -264,10 +212,10 @@
         {
           "_id": "11084c0eec90c823ad896e33",
           "_name": "GridView (5)",
-          "_parent": "119-RIGLAYOUT",
+          "_parent": "686830a0f33be9471feb69da",
           "_props": {
             "cellsH": 1,
-            "cellsV": 1,
+            "cellsV": 2,
             "filters": [
               {
                 "ExcludedFilter": [
@@ -340,46 +288,6 @@
       "CanPutIntoDuringTheRaid":true,
       "CanSellOnRagfair":false,
       "ConflictingItems":[
-
-        "544a5cde4bdc2d39388b456b",
-        "545cdae64bdc2d39198b4568",
-        "56e294cdd2720b603a8b4575",
-        "56e335e4d2720b6c058b456d",
-        "56e33634d2720bd8058b456b",
-        "56e33680d2720be2748b4576",
-        "59e763f286f7742ee57895da",
-        "5ab8ebf186f7742d8b372e80",
-        "5ab8ee7786f7742d8f33f0b9",
-        "5ab8f04f86f774585f4237d8",
-        "5b44c6ae86f7742d1627baea",
-        "5c0e774286f77468413cc5b2",
-        "5c0e805e86f774683f3dd637",
-        "5ca20d5986f774331e7c9602",
-        "5d5d940f86f7742797262046",
-        "5df8a4d786f77412672a1e3b",
-        "5e4abc6786f77406812bd572",
-        "5f5e45cc5021ce62144be7aa",
-        "5f5e467b0bc58666c37e7821",
-        "5f5e46b96bdad616ad46d613",
-        "6034d0230ca681766b6a0fb5",
-        "6038d614d10cbf667352dd44",
-        "6038d5d6f5c0f368103a92d8",
-        "60a272cc93ef783291411d8e",
-        "60a2828e8689911a226117f9",
-        "618bb76513f5097c8d5aa2d5",
-        "618cfae774bb2d036a049e7c",
-        "619cf0335771dd3c390269ae",
-        "61b9e1aaef9a1b5d6a79899a",
-        "628bc7fb408e2b2e9c0801b1",
-        "628e1ffc83ec92260c0f437f",
-        "62a1b7fbc30cfa1d366af586",
-        "639346cc1c8f182ad90c8972",
-        "656ddcf0f02d7bcea90bf395",
-        "656e0436d44a1bb4220303a0",
-        "656f198fb27298d6fd005466",
-        "66a9f98f3bd5a41b162030f4",
-        "66b5f22b78bbc0200425f904",
-        "66b5f247af44ca0014063c02"
         
       ],
       "ArmorZone": [],
@@ -528,320 +436,274 @@
           "_proto": "64479fdf9731c8fadc0642c1"
         }
       ],
-      "Grids": [
+      "Grids":
+      [
+  {
+    "_id": "4da643c811023b43f446f35f",
+    "_name": "GridView (1)",
+    "_parent": "FCPC-RIGLAYOUT",
+    "_props": {
+      "cellsH": 2,
+      "cellsV": 2,
+      "filters": [
         {
-          "_id": "444eea1a6cd91ff6b9f14033",
-          "_name": "GridView (1)",
-          "_parent": "FCPC-RIGLAYOUT",
-          "_props": {
-            "cellsH": 2,
-            "cellsV": 3,
-            "filters": [
-              {
-                "ExcludedFilter": [
-                  "5448bf274bdc2dfc2f8b456a"
-                ],
-                "Filter": [
-                  "54009119af1c881c07000029"
-                ]
-              }
-            ],
-            "isSortingTable": false,
-            "maxCount": 0,
-            "maxWeight": 0,
-            "minCount": 0
-          },
-          "_proto": "55d329c24bdc2d892f8b4567"
-        },
-        {
-          "_id": "2a6ed3414721000d39c3c187",
-          "_name": "GridView (2)",
-          "_parent": "FCPC-RIGLAYOUT",
-          "_props": {
-            "cellsH": 1,
-            "cellsV": 3,
-            "filters": [
-              {
-                "ExcludedFilter": [
-                  "5448bf274bdc2dfc2f8b456a"
-                ],
-                "Filter": [
-                  "54009119af1c881c07000029"
-                ]
-              }
-            ],
-            "isSortingTable": false,
-            "maxCount": 0,
-            "maxWeight": 0,
-            "minCount": 0
-          },
-          "_proto": "55d329c24bdc2d892f8b4567"
-        },
-        {
-          "_id": "c8f48d3a2eea4df91d07f0a0",
-          "_name": "GridView (3)",
-          "_parent": "FCPC-RIGLAYOUT",
-          "_props": {
-            "cellsH": 1,
-            "cellsV": 2,
-            "filters": [
-              {
-                "ExcludedFilter": [
-                  "5448bf274bdc2dfc2f8b456a"
-                ],
-                "Filter": [
-                  "54009119af1c881c07000029"
-                ]
-              }
-            ],
-            "isSortingTable": false,
-            "maxCount": 0,
-            "maxWeight": 0,
-            "minCount": 0
-          },
-          "_proto": "55d329c24bdc2d892f8b4567"
-        },
-        {
-          "_id": "2a54bec38a69dc05b03da80d",
-          "_name": "GridView (4)",
-          "_parent": "FCPC-RIGLAYOUT",
-          "_props": {
-            "cellsH": 1,
-            "cellsV": 2,
-            "filters": [
-              {
-                "ExcludedFilter": [
-                  "5448bf274bdc2dfc2f8b456a"
-                ],
-                "Filter": [
-                  "54009119af1c881c07000029"
-                ]
-              }
-            ],
-            "isSortingTable": false,
-            "maxCount": 0,
-            "maxWeight": 0,
-            "minCount": 0
-          },
-          "_proto": "55d329c24bdc2d892f8b4567"
-        },
-        {
-          "_id": "85251fc64e4f4a48837aa5c3",
-          "_name": "GridView (5)",
-          "_parent": "FCPC-RIGLAYOUT",
-          "_props": {
-            "cellsH": 1,
-            "cellsV": 2,
-            "filters": [
-              {
-                "ExcludedFilter": [
-                  "5448bf274bdc2dfc2f8b456a"
-                ],
-                "Filter": [
-                  "54009119af1c881c07000029"
-                ]
-              }
-            ],
-            "isSortingTable": false,
-            "maxCount": 0,
-            "maxWeight": 0,
-            "minCount": 0
-          },
-          "_proto": "55d329c24bdc2d892f8b4567"
-        },
-        {
-          "_id": "058849c064eddb53081a250c",
-          "_name": "GridView (6)",
-          "_parent": "FCPC-RIGLAYOUT",
-          "_props": {
-            "cellsH": 3,
-            "cellsV": 2,
-            "filters": [
-              {
-                "ExcludedFilter": [
-                  "5448bf274bdc2dfc2f8b456a"
-                ],
-                "Filter": [
-                  "54009119af1c881c07000029"
-                ]
-              }
-            ],
-            "isSortingTable": false,
-            "maxCount": 0,
-            "maxWeight": 0,
-            "minCount": 0
-          },
-          "_proto": "55d329c24bdc2d892f8b4567"
-        },
-        {
-          "_id": "3b64622088f764cef9238d3d",
-          "_name": "GridView (7)",
-          "_parent": "FCPC-RIGLAYOUT",
-          "_props": {
-            "cellsH": 1,
-            "cellsV": 2,
-            "filters": [
-              {
-                "ExcludedFilter": [
-                  "5448bf274bdc2dfc2f8b456a"
-                ],
-                "Filter": [
-                  "54009119af1c881c07000029"
-                ]
-              }
-            ],
-            "isSortingTable": false,
-            "maxCount": 0,
-            "maxWeight": 0,
-            "minCount": 0
-          },
-          "_proto": "55d329c24bdc2d892f8b4567"
-        },
-        {
-          "_id": "32df19ece87e96ad3801072b",
-          "_name": "GridView (8)",
-          "_parent": "FCPC-RIGLAYOUT",
-          "_props": {
-            "cellsH": 1,
-            "cellsV": 2,
-            "filters": [
-              {
-                "ExcludedFilter": [
-                  "5448bf274bdc2dfc2f8b456a"
-                ],
-                "Filter": [
-                  "54009119af1c881c07000029"
-                ]
-              }
-            ],
-            "isSortingTable": false,
-            "maxCount": 0,
-            "maxWeight": 0,
-            "minCount": 0
-          },
-          "_proto": "55d329c24bdc2d892f8b4567"
-        },
-        {
-          "_id": "505af1b68ea602fc784d1c3f",
-          "_name": "GridView (9)",
-          "_parent": "FCPC-RIGLAYOUT",
-          "_props": {
-            "cellsH": 1,
-            "cellsV": 2,
-            "filters": [
-              {
-                "ExcludedFilter": [
-                  "5448bf274bdc2dfc2f8b456a"
-                ],
-                "Filter": [
-                  "54009119af1c881c07000029"
-                ]
-              }
-            ],
-            "isSortingTable": false,
-            "maxCount": 0,
-            "maxWeight": 0,
-            "minCount": 0
-          },
-          "_proto": "55d329c24bdc2d892f8b4567"
-        },
-        {
-          "_id": "6259df13550a2d8aec81425c",
-          "_name": "GridView (10)",
-          "_parent": "FCPC-RIGLAYOUT",
-          "_props": {
-            "cellsH": 2,
-            "cellsV": 2,
-            "filters": [
-              {
-                "ExcludedFilter": [
-                  "5448bf274bdc2dfc2f8b456a"
-                ],
-                "Filter": [
-                  "54009119af1c881c07000029"
-                ]
-              }
-            ],
-            "isSortingTable": false,
-            "maxCount": 0,
-            "maxWeight": 0,
-            "minCount": 0
-          },
-          "_proto": "55d329c24bdc2d892f8b4567"
-        },
-        {
-          "_id": "361e9d91fd225a6a671cabb2",
-          "_name": "GridView (11)",
-          "_parent": "FCPC-RIGLAYOUT",
-          "_props": {
-            "cellsH": 3,
-            "cellsV": 3,
-            "filters": [
-              {
-                "ExcludedFilter": [
-                  "5448bf274bdc2dfc2f8b456a"
-                ],
-                "Filter": [
-                  "54009119af1c881c07000029"
-                ]
-              }
-            ],
-            "isSortingTable": false,
-            "maxCount": 0,
-            "maxWeight": 0,
-            "minCount": 0
-          },
-          "_proto": "55d329c24bdc2d892f8b4567"
-        },
-        {
-          "_id": "607bd4713e212e51b50eb819",
-          "_name": "GridView (12)",
-          "_parent": "FCPC-RIGLAYOUT",
-          "_props": {
-            "cellsH": 3,
-            "cellsV": 3,
-            "filters": [
-              {
-                "ExcludedFilter": [
-                  "5448bf274bdc2dfc2f8b456a"
-                ],
-                "Filter": [
-                  "54009119af1c881c07000029"
-                ]
-              }
-            ],
-            "isSortingTable": false,
-            "maxCount": 0,
-            "maxWeight": 0,
-            "minCount": 0
-          },
-          "_proto": "55d329c24bdc2d892f8b4567"
-        },
-        {
-          "_id": "26dc4fbbfc0f52fa759b7f9c",
-          "_name": "GridView (13)",
-          "_parent": "FCPC-RIGLAYOUT",
-          "_props": {
-            "cellsH": 2,
-            "cellsV": 1,
-            "filters": [
-              {
-                "ExcludedFilter": [
-                  "5448bf274bdc2dfc2f8b456a"
-                ],
-                "Filter": [
-                  "5448f3ac4bdc2dce718b4569"
-                ]
-              }
-            ],
-            "isSortingTable": false,
-            "maxCount": 0,
-            "maxWeight": 0,
-            "minCount": 0
-          },
-          "_proto": "55d329c24bdc2d892f8b4567"
+          "ExcludedFilter": [
+            "5448bf274bdc2dfc2f8b456a"
+          ],
+          "Filter": [
+            "54009119af1c881c07000029"
+          ]
         }
       ],
+      "isSortingTable": false,
+      "maxCount": 0,
+      "maxWeight": 0,
+      "minCount": 0
+    },
+    "_proto": "55d329c24bdc2d892f8b4567"
+  },
+  {
+    "_id": "86e54643916dc06e802beb1f",
+    "_name": "GridView (2)",
+    "_parent": "FCPC-RIGLAYOUT",
+    "_props": {
+      "cellsH": 1,
+      "cellsV": 3,
+      "filters": [
+        {
+          "ExcludedFilter": [
+            "5448bf274bdc2dfc2f8b456a"
+          ],
+          "Filter": [
+            "54009119af1c881c07000029"
+          ]
+        }
+      ],
+      "isSortingTable": false,
+      "maxCount": 0,
+      "maxWeight": 0,
+      "minCount": 0
+    },
+    "_proto": "55d329c24bdc2d892f8b4567"
+  },
+  {
+    "_id": "00cce1d3c8809018baebec29",
+    "_name": "GridView (3)",
+    "_parent": "FCPC-RIGLAYOUT",
+    "_props": {
+      "cellsH": 1,
+      "cellsV": 2,
+      "filters": [
+        {
+          "ExcludedFilter": [
+            "5448bf274bdc2dfc2f8b456a"
+          ],
+          "Filter": [
+            "54009119af1c881c07000029"
+          ]
+        }
+      ],
+      "isSortingTable": false,
+      "maxCount": 0,
+      "maxWeight": 0,
+      "minCount": 0
+    },
+    "_proto": "55d329c24bdc2d892f8b4567"
+  },
+  {
+    "_id": "4b5f1d7b5f71ead64e01e0e1",
+    "_name": "GridView (4)",
+    "_parent": "FCPC-RIGLAYOUT",
+    "_props": {
+      "cellsH": 1,
+      "cellsV": 2,
+      "filters": [
+        {
+          "ExcludedFilter": [
+            "5448bf274bdc2dfc2f8b456a"
+          ],
+          "Filter": [
+            "54009119af1c881c07000029"
+          ]
+        }
+      ],
+      "isSortingTable": false,
+      "maxCount": 0,
+      "maxWeight": 0,
+      "minCount": 0
+    },
+    "_proto": "55d329c24bdc2d892f8b4567"
+  },
+  {
+    "_id": "3f4a962e93a075bcbd841be3",
+    "_name": "GridView (5)",
+    "_parent": "FCPC-RIGLAYOUT",
+    "_props": {
+      "cellsH": 1,
+      "cellsV": 2,
+      "filters": [
+        {
+          "ExcludedFilter": [
+            "5448bf274bdc2dfc2f8b456a"
+          ],
+          "Filter": [
+            "54009119af1c881c07000029"
+          ]
+        }
+      ],
+      "isSortingTable": false,
+      "maxCount": 0,
+      "maxWeight": 0,
+      "minCount": 0
+    },
+    "_proto": "55d329c24bdc2d892f8b4567"
+  },
+  {
+    "_id": "6743580d976c07253700b284",
+    "_name": "GridView (6)",
+    "_parent": "FCPC-RIGLAYOUT",
+    "_props": {
+      "cellsH": 3,
+      "cellsV": 2,
+      "filters": [
+        {
+          "ExcludedFilter": [
+            "5448bf274bdc2dfc2f8b456a"
+          ],
+          "Filter": [
+            "54009119af1c881c07000029"
+          ]
+        }
+      ],
+      "isSortingTable": false,
+      "maxCount": 0,
+      "maxWeight": 0,
+      "minCount": 0
+    },
+    "_proto": "55d329c24bdc2d892f8b4567"
+  },
+  {
+    "_id": "fc9f18fc1af7ac549c42f16a",
+    "_name": "GridView (7)",
+    "_parent": "FCPC-RIGLAYOUT",
+    "_props": {
+      "cellsH": 1,
+      "cellsV": 2,
+      "filters": [
+        {
+          "ExcludedFilter": [
+            "5448bf274bdc2dfc2f8b456a"
+          ],
+          "Filter": [
+            "54009119af1c881c07000029"
+          ]
+        }
+      ],
+      "isSortingTable": false,
+      "maxCount": 0,
+      "maxWeight": 0,
+      "minCount": 0
+    },
+    "_proto": "55d329c24bdc2d892f8b4567"
+  },
+  {
+    "_id": "0704c3dbc40e0e519b0b3609",
+    "_name": "GridView (8)",
+    "_parent": "FCPC-RIGLAYOUT",
+    "_props": {
+      "cellsH": 1,
+      "cellsV": 2,
+      "filters": [
+        {
+          "ExcludedFilter": [
+            "5448bf274bdc2dfc2f8b456a"
+          ],
+          "Filter": [
+            "54009119af1c881c07000029"
+          ]
+        }
+      ],
+      "isSortingTable": false,
+      "maxCount": 0,
+      "maxWeight": 0,
+      "minCount": 0
+    },
+    "_proto": "55d329c24bdc2d892f8b4567"
+  },
+  {
+    "_id": "b0a1dbcb8092dcdc90607426",
+    "_name": "GridView (9)",
+    "_parent": "FCPC-RIGLAYOUT",
+    "_props": {
+      "cellsH": 1,
+      "cellsV": 2,
+      "filters": [
+        {
+          "ExcludedFilter": [
+            "5448bf274bdc2dfc2f8b456a"
+          ],
+          "Filter": [
+            "54009119af1c881c07000029"
+          ]
+        }
+      ],
+      "isSortingTable": false,
+      "maxCount": 0,
+      "maxWeight": 0,
+      "minCount": 0
+    },
+    "_proto": "55d329c24bdc2d892f8b4567"
+  },
+  {
+    "_id": "17e8cb3701b1baa4a1989361",
+    "_name": "GridView (10)",
+    "_parent": "FCPC-RIGLAYOUT",
+    "_props": {
+      "cellsH": 2,
+      "cellsV": 2,
+      "filters": [
+        {
+          "ExcludedFilter": [
+            "5448bf274bdc2dfc2f8b456a"
+          ],
+          "Filter": [
+            "54009119af1c881c07000029"
+          ]
+        }
+      ],
+      "isSortingTable": false,
+      "maxCount": 0,
+      "maxWeight": 0,
+      "minCount": 0
+    },
+    "_proto": "55d329c24bdc2d892f8b4567"
+  },
+  {
+    "_id": "bbaa5866db55998f438494c9",
+    "_name": "GridView (11)",
+    "_parent": "FCPC-RIGLAYOUT",
+    "_props": {
+      "cellsH": 2,
+      "cellsV": 1,
+      "filters": [
+        {
+          "ExcludedFilter": [
+            "5448bf274bdc2dfc2f8b456a"
+          ],
+          "Filter": [
+            "5448f3ac4bdc2dce718b4569"
+
+          ]
+        }
+      ],
+      "isSortingTable": false,
+      "maxCount": 0,
+      "maxWeight": 0,
+      "minCount": 0
+    },
+    "_proto": "55d329c24bdc2d892f8b4567"
+  }
+],
       "LayoutName": "FCPC-RIGLAYOUT"
 
     },

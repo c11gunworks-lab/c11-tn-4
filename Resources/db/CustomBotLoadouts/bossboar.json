@@ -1,0 +1,69 @@
+﻿{
+  "chances": {
+    "equipment": {
+      "FirstPrimaryWeapon": 100
+    },
+    "weaponMods": {
+      "mod_gas_block": 100,
+      "mod_handguard": 100,
+      "mod_handguard_000": 100,
+      "mod_muzzle": 100,
+      "mod_reciever": 100,
+      "mod_stock": 100,
+      "mod_pistol_grip": 100,
+      "mod_bipod": 100,
+      "mod_sight_front": 100,
+      "mod_magazine": 100
+    }
+  },
+  "inventory": {
+    "equipment": {
+      "FirstPrimaryWeapon": {
+        "69599638cd1179848621a204": 4500
+      }
+    },
+    "mods": {
+      "69599638cd1179848621a204": {
+        "mod_gas_block": [
+          "6930d0095c6559e2816d3d0a"
+        ],
+        "mod_muzzle": [
+          "6959a1d728c934517821a222"
+        ],
+        "mod_reciever": [
+          "695998fdbbb7a9ea8221a20e"
+        ],
+        "mod_stock": [
+          "695999fa946736058d21a215"
+        ],
+        "mod_pistol_grip": [
+          "69599b727e06e825d921a21b"
+        ],
+        "mod_bipod": [
+          "69599b17ea6e57427e21a218"
+        ],
+        "mod_sight_front": [
+          "69599be8356917b60121a21d"
+        ],
+        "mod_magazine": [
+          "6967ff3c0a67676e10a35d59"
+        ]
+      },
+      "6930d0095c6559e2816d3d0a": {
+        "mod_handguard": [
+          "6959993ecb9c07cd0421a210"
+        ]
+      },
+      "6959993ecb9c07cd0421a210": {
+        "mod_handguard_000": [
+          "695999901ac7ab67ee21a213"
+        ]
+      }
+    },
+    "ammo": {
+      "Caliber762x39": {
+        "59e0d99486f7744a32234762": 1500
+      }
+    }
+  }
+}

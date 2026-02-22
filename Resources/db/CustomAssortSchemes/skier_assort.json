@@ -1,6 +1,129 @@
 {
   "skier": {
     "items": [
+
+      {
+        "_id": "6959a7169b6dadf5c8e933e6",
+        "_tpl": "6920f5d89049842deac34398",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 1,
+          "UnlimitedCount": false,
+          "Repairable": {
+            "Durability": 100,
+            "MaxDurability": 100
+          },
+          "FireMode": {
+            "FireMode": "single"
+          },
+          "BuyRestrictionMax": 1
+        }
+      },
+      {
+        "_id": "6946ec4b65069e49280d96f0",
+        "_tpl": "6920fa10105fab44300e438a",
+        "parentId": "6959a7169b6dadf5c8e933e6",
+        "slotId": "mod_gas_block"
+      },
+      {
+        "_id": "6946ec4b65069e49280d96f1",
+        "_tpl": "59d6272486f77466146386ff",
+        "parentId": "6959a7169b6dadf5c8e933e6",
+        "slotId": "mod_magazine"
+      },
+      {
+        "_id": "6946ec4b65069e49280d96f2",
+        "_tpl": "8ba3e8781a976de83ca7e6e4",
+        "parentId": "6959a7169b6dadf5c8e933e6",
+        "slotId": "mod_muzzle"
+      },
+      {
+        "_id": "6946ec4b65069e49280d96f3",
+        "_tpl": "6920f942d3ac2f0d40e5acda",
+        "parentId": "6959a7169b6dadf5c8e933e6",
+        "slotId": "mod_reciever"
+      },
+      {
+        "_id": "6946ec4b65069e49280d96f4",
+        "_tpl": "6920fc9bde9ac414d66cb930",
+        "parentId": "6959a7169b6dadf5c8e933e6",
+        "slotId": "mod_stock"
+      },
+      {
+        "_id": "6946ec4b65069e49280d96f5",
+        "_tpl": "6920fadbf0d17bf37ce3ca85",
+        "parentId": "6946ec4b65069e49280d96f0",
+        "slotId": "mod_handguard"
+      },
+      {
+        "_id": "6946ec4b65069e49280d96f6",
+        "_tpl": "6920fb556e317e30d954422b",
+        "parentId": "6946ec4b65069e49280d96f3",
+        "slotId": "mod_mount_001"
+      },
+      {
+        "_id": "6946ec4b65069e49280d96f7",
+        "_tpl": "6920fc2ed6d85697b6c81987",
+        "parentId": "6946ec4b65069e49280d96f6",
+        "slotId": "mod_rear_sight",
+        "upd": {
+          "Sight": {
+            "ScopesCurrentCalibPointIndexes": [
+              0
+            ],
+            "ScopesSelectedModes": [
+              0
+            ],
+            "SelectedScope": 0,
+            "ScopeZoomValue": 0
+          }
+        }
+      },
+
+      {
+        "_id": "6959a7169b6dadf5c8e933f0",
+        "_tpl": "694c80fa9b0201378540f8bd",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 1,
+          "UnlimitedCount": false,
+          "Repairable": {
+            "Durability": 100,
+            "MaxDurability": 100
+          },
+          "FireMode": {
+            "FireMode": "single"
+          },
+          "BuyRestrictionMax": 1
+        }
+      },
+      {
+        "_id": "6959a70b9b6dadf5c8e933b5",
+        "_tpl": "694d4afc492b8a3abf40f8c5",
+        "parentId": "6959a7169b6dadf5c8e933f0",
+        "slotId": "mod_reciever.001"
+      },
+      {
+        "_id": "6959a70b9b6dadf5c8e933b6",
+        "_tpl": "694d8611a9a00cec0d40f8d5",
+        "parentId": "6959a7169b6dadf5c8e933f0",
+        "slotId": "mod_reciever"
+      },
+      {
+        "_id": "6959a70b9b6dadf5c8e933b7",
+        "_tpl": "694d576f3a480ae8db40f8d0",
+        "parentId": "6959a7169b6dadf5c8e933f0",
+        "slotId": "mod_muzzle"
+      },
+      {
+        "_id": "6959a70b9b6dadf5c8e933b8",
+        "_tpl": "694d5067acb165798440f8cd",
+        "parentId": "6959a7169b6dadf5c8e933f0",
+        "slotId": "mod_pistolgrip"
+      },
+      
       {
         "_id": "693b0bac9ced2ab5fcda5995",
         "_tpl": "68b4b52f1a1ff2a6c49ac5be",
@@ -408,6 +531,29 @@
       }
     ],
     "barter_scheme": {
+
+      "6959a7169b6dadf5c8e933f0": [
+        [
+          {
+            "count": 2,
+            "_tpl": "56742c284bdc2d98058b456d"
+          },
+          {
+            "count": 1,
+            "_tpl": "57347c1124597737fb1379e3"
+          }
+        ]
+      ],
+
+      "6959a7169b6dadf5c8e933e6": [
+        [
+          {
+            "count": 3,
+            "_tpl": "590c37d286f77443be3d7827"
+          }
+        ]
+      ],
+      
       "693b0bac9ced2ab5fcda5985": [
         [
           {
@@ -445,7 +591,11 @@
       "693b0bac9ced2ab5fcda5985": 1,
       "693b0bac9ced2ab5fcda5995": 1,
       "693b33e9bb6046f96c3ab7d3": 1,
-      "693b33e9bb6046f96c3ab7e0": 1
+      "693b33e9bb6046f96c3ab7e0": 1,
+      "6959a7169b6dadf5c8e933f0": 1,
+      "6959a7169b6dadf5c8e933e6": 2
+
+
     }
   }
 }

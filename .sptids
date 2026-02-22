@@ -1,0 +1,2576 @@
+{
+  "694c796b42ae52a1a940f8ba": {
+    "en": {
+      "Name": ".22 Long Rifle Standard Velocity",
+      "ShortName": ".22LR SV",
+      "Weight": 0.004,
+      "Width": 1,
+      "Height": 1,
+      "Type": "AMMO",
+      "Caliber": "Caliber22LR",
+      "Damage": 25,
+      "Penetration": 2,
+      "ArmorDamage": 8,
+      "Speed": 326,
+      "FragChance": 0.1
+    }
+  },
+  "69504d179eec4a16c140f8df": {
+    "en": {
+      "Name": ".22 tracer",
+      "ShortName": ".22LR tc",
+      "Weight": 0.004,
+      "Width": 1,
+      "Height": 1,
+      "Type": "AMMO",
+      "Caliber": "Caliber22LR",
+      "Damage": 25,
+      "Penetration": 2,
+      "ArmorDamage": 8,
+      "Speed": 326,
+      "FragChance": 0.1
+    }
+  },
+  "694ef9c8bc499b141d40f8d7": {
+    "en": {
+      "Name": ".22 copper hollow",
+      "ShortName": ".22LR CH",
+      "Weight": 0.003,
+      "Width": 1,
+      "Height": 1,
+      "Type": "AMMO",
+      "Caliber": "Caliber22LR",
+      "Damage": 45,
+      "Penetration": 1,
+      "ArmorDamage": 5,
+      "Speed": 500,
+      "FragChance": 0.55
+    }
+  },
+  "694efa39da82e820e540f8da": {
+    "en": {
+      "Name": ".22 RATSHOT",
+      "ShortName": ".22LR RAT",
+      "Weight": 0.004,
+      "Width": 1,
+      "Height": 1,
+      "Type": "AMMO",
+      "Caliber": "Caliber22LR",
+      "Damage": 2,
+      "Penetration": 1,
+      "ArmorDamage": 1,
+      "Speed": 305,
+      "FragChance": 0.1
+    }
+  },
+  "69712e4ce8805e854fe7e8e1": {
+    "en": {
+      "Name": "IWI Galil ACE 7.62x39 32assault rifle",
+      "ShortName": "Galil ACE32",
+      "Weight": 3.75,
+      "Width": 4,
+      "Height": 1,
+      "Type": "WEAPON",
+      "Ergonomics": 46,
+      "RecoilUp": 135,
+      "RecoilBack": 325,
+      "RPM": 680
+    }
+  },
+  "697238de1644c6baa9c3932a": {
+    "en": {
+      "Name": "Galil ACE 32mlok handgard",
+      "ShortName": "ACE 32HG",
+      "Weight": 0.28,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 17,
+      "Recoil": -1
+    }
+  },
+  "69723adba548ea7d12c39330": {
+    "en": {
+      "Name": "Galil ACE long icatinny Rail",
+      "ShortName": "ACE Rail",
+      "Weight": 0.12,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 0,
+      "Recoil": 0,
+      "Accuracy": 1
+    }
+  },
+  "69583cac7bad89e9f121a1e0": {
+    "en": {
+      "Name": "american 180",
+      "ShortName": "american 180",
+      "Weight": 2.6,
+      "Width": 2,
+      "Height": 1,
+      "Type": "WEAPON",
+      "Ergonomics": 65,
+      "RecoilUp": 18,
+      "RecoilBack": 45,
+      "RPM": 1200
+    }
+  },
+  "69584151abc7f4803221a1e8": {
+    "en": {
+      "Name": "am180 wire stock",
+      "ShortName": "am180 wire stock",
+      "Weight": 0.25,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 15,
+      "Recoil": -15,
+      "Accuracy": -3
+    }
+  },
+  "6958422e405f99550021a1ea": {
+    "en": {
+      "Name": "american180fixedstock",
+      "ShortName": "american180fixedstock",
+      "Weight": 0.35,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 5,
+      "Recoil": -27,
+      "Accuracy": 2
+    }
+  },
+  "695843696bfb3ee57c21a1ec": {
+    "en": {
+      "Name": "american180hhandguard",
+      "ShortName": "american180hhandguard",
+      "Weight": 0.28,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 2,
+      "Recoil": -6
+    }
+  },
+  "6958492171c81a769421a1ff": {
+    "en": {
+      "Name": "american180shandguard",
+      "ShortName": "american180shandguard",
+      "Weight": 0.28,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 15,
+      "Recoil": -14
+    }
+  },
+  "6958440cedf0991bdf21a1ee": {
+    "en": {
+      "Name": "american180Picatinny Rail",
+      "ShortName": "american180Picatinny",
+      "Weight": 0.15,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -1,
+      "Recoil": 0
+    }
+  },
+  "695844d86dcde47c9021a1f1": {
+    "en": {
+      "Name": "american180 rear sight",
+      "ShortName": "american180 RS",
+      "Weight": 0.05,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 0,
+      "Recoil": 0
+    }
+  },
+  "695845555bfd8faa2421a1f3": {
+    "en": {
+      "Name": "american180 f sight",
+      "ShortName": "american180 fS",
+      "Weight": 0.05,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 0,
+      "Recoil": 0
+    }
+  },
+  "69584fdca0ffe7c97b21a203": {
+    "en": {
+      "Name": "long barrel threaded",
+      "ShortName": "long barrel threaded",
+      "Weight": 0.9,
+      "Width": 3,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -12,
+      "Recoil": -5,
+      "Accuracy": 4
+    }
+  },
+  "69584763d13f0873e521a1f9": {
+    "en": {
+      "Name": "short barrel threaded",
+      "ShortName": "short barrel threaded",
+      "Weight": 0.5,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 8,
+      "Recoil": 5,
+      "Accuracy": -3
+    }
+  },
+  "695849c97bbef3c79621a200": {
+    "en": {
+      "Name": "177mag",
+      "ShortName": "177mag",
+      "Weight": 0.35,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MAGAZINE",
+      "Ergonomics": -10,
+      "CheckTimeMod": 30,
+      "LoadUnloadMod": 45
+    }
+  },
+  "69697d299ab4f546c9a35d6e": {
+    "en": {
+      "Name": "275mag",
+      "ShortName": "275ag",
+      "Weight": 0.45,
+      "Width": 2,
+      "Height": 2,
+      "Type": "MAGAZINE",
+      "Ergonomics": -15,
+      "CheckTimeMod": 45,
+      "LoadUnloadMod": 45
+    }
+  },
+  "68b4b52f1a1ff2a6c49ac5be": {
+    "en": {
+      "Name": "Armalite AR-18 assault rifle",
+      "ShortName": "AR-18",
+      "Weight": 2.8,
+      "Width": 1,
+      "Height": 1,
+      "Type": "WEAPON",
+      "Ergonomics": 52,
+      "RecoilUp": 138,
+      "RecoilBack": 280,
+      "RPM": 800
+    }
+  },
+  "68b4d384b4414cdc4eae1d5d": {
+    "en": {
+      "Name": "AR-18 16 inch barrel",
+      "ShortName": "AR-18 16\"",
+      "Weight": 0.9,
+      "Width": 3,
+      "Height": 1,
+      "Type": "MOD",
+      "Recoil": -3
+    }
+  },
+  "68b4d8a1262dcfd5ed45d249": {
+    "en": {
+      "Name": "AR-18 stock connector",
+      "ShortName": "AR-18 conn.",
+      "Weight": 0.15,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -1,
+      "Recoil": 0
+    }
+  },
+  "68b59ce933a1b9190eaa952c": {
+    "en": {
+      "Name": "AR-18 polymer stock",
+      "ShortName": "AR-18 stock",
+      "Weight": 0.45,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 8,
+      "Recoil": -38
+    }
+  },
+  "68b59df2df773e94eca1167d": {
+    "en": {
+      "Name": "AR-18 flash hider",
+      "ShortName": "AR-18 FH",
+      "Weight": 0.08,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 0,
+      "Recoil": -4
+    }
+  },
+  "68b4d62b7d3e0a9eb3240d1f": {
+    "en": {
+      "Name": "AR-18 rear sight",
+      "ShortName": "AR-18 RS",
+      "Weight": 0.05,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 0,
+      "Recoil": 0
+    }
+  },
+  "68b4b8dbaf267fb9019665ca": {
+    "en": {
+      "Name": "AR-18 receiver",
+      "ShortName": "AR-18 rec.",
+      "Weight": 0.55,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 5,
+      "Recoil": -1
+    }
+  },
+  "68b59fbc0594a5911fe3d6f7": {
+    "en": {
+      "Name": "AR-18 20rd Mag",
+      "ShortName": "AR-18 20",
+      "Weight": 0.15,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MAGAZINE",
+      "Ergonomics": 2,
+      "CheckTimeMod": 0,
+      "LoadUnloadMod": 0
+    }
+  },
+  "69220d620913ac318374486b": {
+    "en": {
+      "Name": "AR-18 30rd Mag",
+      "ShortName": "AR-18 30",
+      "Weight": 0.25,
+      "Width": 1,
+      "Height": 2,
+      "Type": "MAGAZINE",
+      "Ergonomics": 0,
+      "CheckTimeMod": 0,
+      "LoadUnloadMod": 0
+    }
+  },
+  "69220e0a0114538b5d7c7176": {
+    "en": {
+      "Name": "AR-18 40rd Mag",
+      "ShortName": "AR-18 40",
+      "Weight": 0.45,
+      "Width": 1,
+      "Height": 3,
+      "Type": "MAGAZINE",
+      "Ergonomics": -2,
+      "CheckTimeMod": 0,
+      "LoadUnloadMod": 0
+    }
+  },
+  "6967fc674a2b4f226ea35d55": {
+    "en": {
+      "Name": "AR-18 30rd Mag normie",
+      "ShortName": "AR-18 30 normie",
+      "Weight": 0.25,
+      "Width": 1,
+      "Height": 2,
+      "Type": "MAGAZINE",
+      "Ergonomics": 0,
+      "CheckTimeMod": 0,
+      "LoadUnloadMod": 0
+    }
+  },
+  "6967fc636ea2d0d46fa35d54": {
+    "en": {
+      "Name": "AR-18 40rd Mag Normie",
+      "ShortName": "AR-18 40 Normie",
+      "Weight": 0.45,
+      "Width": 1,
+      "Height": 3,
+      "Type": "MAGAZINE",
+      "Ergonomics": -2,
+      "CheckTimeMod": 0,
+      "LoadUnloadMod": 0
+    }
+  },
+  "68b4d54e551238d1960bc818": {
+    "en": {
+      "Name": "AR-18 handguard",
+      "ShortName": "AR-18 HG",
+      "Weight": 0.22,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 5,
+      "Recoil": -3,
+      "Accuracy": 0
+    }
+  },
+  "68b4cbb4f1e086bd79756bd0": {
+    "en": {
+      "Name": "AR-18 gas block with front sight",
+      "ShortName": "AR-18 GB/FS",
+      "Weight": 0.15,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 0,
+      "Recoil": 0
+    }
+  },
+  "68b4d2e5b309cf9e8d6bfb58": {
+    "en": {
+      "Name": "AR-18 pistol grip",
+      "ShortName": "AR-18 grip",
+      "Weight": 0.12,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 8,
+      "Recoil": 0
+    }
+  },
+  "69028afae182927a311c6f0b": {
+    "en": {
+      "Name": "StormWerkz AR-180b Type 04 Adapter",
+      "ShortName": "AR-18 Buff",
+      "Weight": 0.2,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -1
+    }
+  },
+  "69028d3c8196cec2a486af65": {
+    "en": {
+      "Name": "StormWerkz AR-180b Type 05 Adapter",
+      "ShortName": "AR-18 Pic",
+      "Weight": 0.18,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -1
+    }
+  },
+  "69028e2a07965ae4edb5bfe2": {
+    "en": {
+      "Name": "AR-18 short barrel",
+      "ShortName": "AR-18 Chop",
+      "Weight": 0.65,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 0,
+      "Recoil": -1
+    }
+  },
+  "690290035bcd69fa40d29bb8": {
+    "en": {
+      "Name": "StormWerkz AR-180b Scope Mount Extended",
+      "ShortName": "AR-18 SMount",
+      "Weight": 0.15,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 0
+    }
+  },
+  "69029160491eb3160262eed7": {
+    "en": {
+      "Name": "StormWerkz AR-180b Aimpoint Mount",
+      "ShortName": "AR-18 AIMP",
+      "Weight": 0.1,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 2
+    }
+  },
+  "6902925044465578d994ab13": {
+    "en": {
+      "Name": "StormWerkz AR-180b Handguard Picatinny Mount",
+      "ShortName": "AR-18 Pic",
+      "Weight": 0.08,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 0
+    }
+  },
+  "697bcc72c40392898c6eba4e": {
+    "en": {
+      "Name": "AR-18 supershort barrel",
+      "ShortName": "AR-18 super Chop",
+      "Weight": 0.45,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 9,
+      "Recoil": 4,
+      "Accuracy": -10
+    }
+  },
+  "697bceffe0827153bf6eba53": {
+    "en": {
+      "Name": "AR-18 wood handguard",
+      "ShortName": "AR-18 wood HG",
+      "Weight": 0.19,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 8,
+      "Recoil": -1,
+      "Accuracy": 0
+    }
+  },
+  "697bd03cd161658bc16eba56": {
+    "en": {
+      "Name": "AR-18 front foregrip",
+      "ShortName": "AR-18 front",
+      "Weight": 0.1,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 5,
+      "Recoil": -1
+    }
+  },
+  "690d5e70bd28bd5dc7f59ce5": {
+    "en": {
+      "Name": "Ops-Core FAST MT Super High Cut helmet (UN)",
+      "ShortName": "Ops-Core UN",
+      "Weight": 0.7,
+      "Width": 2,
+      "Height": 2,
+      "Type": "ITEM"
+    }
+  },
+  "6911576b4f0bfef624403558": {
+    "en": {
+      "Name": "AR-15 Magpul CTR Carbine stock (UN-Black)",
+      "ShortName": "CTR UN",
+      "Weight": 0.55,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Recoil": -22
+    }
+  },
+  "6911587995bf705b268e00d6": {
+    "en": {
+      "Name": "AR-15 Magpul CTR Carbine stock (UN-Blue)",
+      "ShortName": "CTR UN Blue",
+      "Weight": 0.55,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Recoil": -22
+    }
+  },
+  "691158fa357b6ed1c6c499a2": {
+    "en": {
+      "Name": "AR-15 LMT SOPMOD stock (UN-Black)",
+      "ShortName": "SOPMOD UN",
+      "Weight": 0.34,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Recoil": -20
+    }
+  },
+  "69115989098d91ae48210edd": {
+    "en": {
+      "Name": "AR-15 LMT SOPMOD stock (UN-Blue)",
+      "ShortName": "SOPMOD UN Blue",
+      "Weight": 0.34,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Recoil": -20
+    }
+  },
+  "691159fac235f3be2294951c": {
+    "en": {
+      "Name": "AR-15 Colt M4 Carbine Length handguard (UN-Blue)",
+      "ShortName": "Colt UN Blue",
+      "Weight": 0.193,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 2
+    }
+  },
+  "69115b42cbf75728b7349084": {
+    "en": {
+      "Name": "AR-15 Colt M4 Carbine Length lower handguard (UN-Blue)",
+      "ShortName": "Colt UN Blue Low",
+      "Weight": 0.129,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 7
+    }
+  },
+  "69115be6ba85d671e413cc34": {
+    "en": {
+      "Name": "AR-15 Colt M4 Fixed Stock (UN-Black)",
+      "ShortName": "Colt UN Black Fixed",
+      "Weight": 0.65,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 1,
+      "Recoil": -15
+    }
+  },
+  "69115d5ee43d0750688fdf55": {
+    "en": {
+      "Name": "AR-15 Colt M4 Fixed Stock (UN-Blue)",
+      "ShortName": "Colt UN Blue Fixed",
+      "Weight": 0.65,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 1,
+      "Recoil": -15
+    }
+  },
+  "69115d79ee9f1b63fd3afe4e": {
+    "en": {
+      "Name": "Crye Precision JPC Plate Carrier (UN-Blue)",
+      "ShortName": "Crye JPC UN",
+      "Weight": 1.9,
+      "Width": 3,
+      "Height": 3,
+      "Type": "ITEM"
+    }
+  },
+  "69449388fb63590d888f3ede": {
+    "en": {
+      "Name": "SOAR Integrated Comms",
+      "ShortName": "Soar Comms",
+      "Weight": 0.55,
+      "Width": 2,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "6944997a45eee4307e8f3ee5": {
+    "en": {
+      "Name": "m17 Gas Mask",
+      "ShortName": "M17",
+      "Weight": 0.7,
+      "Width": 2,
+      "Height": 2,
+      "Type": "ITEM"
+    }
+  },
+  "694c4312f6300922d0a26719": {
+    "en": {
+      "Name": "Halo Pilot Vest",
+      "ShortName": "Halo Pilot Vest",
+      "Weight": 7.5,
+      "Width": 3,
+      "Height": 4,
+      "Type": "ITEM"
+    }
+  },
+  "690289f47f98dc39096902fd": {
+    "en": {
+      "Name": "alfagrip",
+      "ShortName": "alfagrip",
+      "Weight": 0.05,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 9,
+      "Recoil": -1
+    }
+  },
+  "6961371b7f41c6aaf2446f91": {
+    "en": {
+      "Name": "JMAC SS8",
+      "ShortName": "JMAC SS8",
+      "Weight": 0.45,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 5,
+      "Recoil": -29
+    }
+  },
+  "697be91ca234f290026eba5b": {
+    "en": {
+      "Name": "illpro",
+      "ShortName": "illpro",
+      "Weight": 0.25,
+      "Width": 1,
+      "Height": 2,
+      "Type": "MAGAZINE",
+      "Ergonomics": 0.0,
+      "CheckTimeMod": 0,
+      "LoadUnloadMod": 0
+    }
+  },
+  "6920f5d89049842deac34398": {
+    "en": {
+      "Name": "IWI Galil ACE 7.62x39 assault rifle",
+      "ShortName": "Galil ACE",
+      "Weight": 3.25,
+      "Width": 3,
+      "Height": 1,
+      "Type": "WEAPON",
+      "Ergonomics": 68,
+      "RecoilUp": 145,
+      "RecoilBack": 360,
+      "RPM": 680
+    }
+  },
+  "6920f942d3ac2f0d40e5acda": {
+    "en": {
+      "Name": "Galil ACE dust cover",
+      "ShortName": "ACE Dust",
+      "Weight": 0.25,
+      "Width": 2,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "6920fa10105fab44300e438a": {
+    "en": {
+      "Name": "Galil ACE gas tube",
+      "ShortName": "ACE Gas",
+      "Weight": 0.35,
+      "Width": 1,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "6920fadbf0d17bf37ce3ca85": {
+    "en": {
+      "Name": "Galil ACE polymer handgard",
+      "ShortName": "ACE HG",
+      "Weight": 0.28,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 5,
+      "Recoil": 0
+    }
+  },
+  "69612efb852f06ddba446f85": {
+    "en": {
+      "Name": "Galil ACE Picatinny handgard",
+      "ShortName": "ACE HG Pic",
+      "Weight": 0.21,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 7,
+      "Recoil": 0
+    }
+  },
+  "6920fb556e317e30d954422b": {
+    "en": {
+      "Name": "Galil ACE Picatinny Rail",
+      "ShortName": "ACE Rail",
+      "Weight": 0.15,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 0,
+      "Recoil": 0
+    }
+  },
+  "6920fc2ed6d85697b6c81987": {
+    "en": {
+      "Name": "Galil ACE rear sight",
+      "ShortName": "ACE RS",
+      "Weight": 0.05,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 0,
+      "Recoil": 0
+    }
+  },
+  "6920fc9bde9ac414d66cb930": {
+    "en": {
+      "Name": "Galil ACE stock",
+      "ShortName": "ACE Stock",
+      "Weight": 0.45,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 11,
+      "Recoil": -19
+    }
+  },
+  "69613556415ec190d1446f8b": {
+    "en": {
+      "Name": "Galil Ace Gen II Buffer Tube Adapter",
+      "ShortName": "Galil Buffer",
+      "Weight": 0.2,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -1
+    }
+  },
+  "696136015bce2091f3446f8e": {
+    "en": {
+      "Name": "KNS Galil Ace Picatinny Stock Adapter",
+      "ShortName": "KNS Pic",
+      "Weight": 0.18,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -1
+    }
+  },
+  "6968fd52be483ad558a35d5c": {
+    "en": {
+      "Name": "glock 34 slide",
+      "ShortName": "glock34slide",
+      "Weight": 0.42,
+      "Width": 3,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 2,
+      "Recoil": -8,
+      "Accuracy": 4
+    }
+  },
+  "696902a4db5b91cfcaa35d62": {
+    "en": {
+      "Name": "glock34regb",
+      "ShortName": "glock34regb",
+      "Weight": 0.2,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -6,
+      "Recoil": -5,
+      "Accuracy": 10
+    }
+  },
+  "696906f9ce381c2741a35d64": {
+    "en": {
+      "Name": "glock34tb",
+      "ShortName": "glock34tb",
+      "Weight": 0.23,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -6,
+      "Recoil": -5,
+      "Accuracy": 10
+    }
+  },
+  "6971222c398edd4505e7e8cf": {
+    "en": {
+      "Name": "glock aa slide",
+      "ShortName": "glockaaslide",
+      "Weight": 0.28,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 5,
+      "Recoil": -1,
+      "Accuracy": 2
+    }
+  },
+  "697125150b1257b151e7e8d7": {
+    "en": {
+      "Name": "aabarrel",
+      "ShortName": "aabarrel",
+      "Weight": 0.115,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -3,
+      "Recoil": -1,
+      "Accuracy": 8
+    }
+  },
+  "697126108e1daf677ae7e8d9": {
+    "en": {
+      "Name": "417comp",
+      "ShortName": "417comp",
+      "Weight": 0.028,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -1,
+      "Recoil": -6,
+      "Accuracy": -1
+    }
+  },
+  "69712816e7a4140950e7e8dd": {
+    "en": {
+      "Name": "AAFrontSight",
+      "ShortName": "AAFrontSight",
+      "Weight": 0.002,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 1,
+      "Accuracy": 0
+    }
+  },
+  "69712903028922b745e7e8e0": {
+    "en": {
+      "Name": "AARSight",
+      "ShortName": "AARSight",
+      "Weight": 0.002,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 1,
+      "Accuracy": 0
+    }
+  },
+  "697299c25cf1535be3c39338": {
+    "en": {
+      "Name": "glok stendo",
+      "ShortName": "glonk",
+      "Weight": 0.156,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MAGAZINE",
+      "Ergonomics": 0.0,
+      "CheckTimeMod": -15,
+      "LoadUnloadMod": 0
+    }
+  },
+  "6917bd1327906df8ce6fcfff": {
+    "en": {
+      "Name": "Ops-Core FAST SF Next Generation Helmet (GB)",
+      "ShortName": "Ops-Core GB",
+      "Weight": 0.56,
+      "Width": 2,
+      "Height": 2,
+      "Type": "ITEM"
+    }
+  },
+  "6998e428d9c1fe43aaf7a03d": {
+    "en": {
+      "Name": "Ops-Core FAST SF Next Generation Helmet (AOR2)",
+      "ShortName": "Ops-Core AOR2",
+      "Weight": 0.56,
+      "Width": 2,
+      "Height": 2,
+      "Type": "ITEM"
+    }
+  },
+  "6998e48a9d7c140756f7a049": {
+    "en": {
+      "Name": "Ops-Core FAST SF Next Generation Helmet (aor1)",
+      "ShortName": "Ops-Core aor1",
+      "Weight": 0.56,
+      "Width": 2,
+      "Height": 2,
+      "Type": "ITEM"
+    }
+  },
+  "6998e4f8f156ad13a1f7a055": {
+    "en": {
+      "Name": "Ops-Core FAST SF Next Generation Helmet (cadpat)",
+      "ShortName": "Ops-Core cadpat",
+      "Weight": 0.56,
+      "Width": 2,
+      "Height": 2,
+      "Type": "ITEM"
+    }
+  },
+  "6917bfb870f5e5d6aea8165d": {
+    "en": {
+      "Name": "Ops-Core Amp Arms",
+      "ShortName": "Amp Arms",
+      "Weight": 0.15,
+      "Width": 2,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "693c59557af373b906645b54": {
+    "en": {
+      "Name": "Unity Tactical Amps Adapter",
+      "ShortName": "UNITY adapter",
+      "Weight": 0.05,
+      "Width": 1,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "6917c1976cf46fb7b4ffd866": {
+    "en": {
+      "Name": "AXL Advanced RAC Link Gen 1",
+      "ShortName": "RAC Link",
+      "Weight": 0.05,
+      "Width": 1,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "6917c23f71eb4b42ea95584b": {
+    "en": {
+      "Name": "Peltor ComTac V headset (Coyote Mount)",
+      "ShortName": "Comtac Mount",
+      "Weight": 0.35,
+      "Width": 2,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "6998e54173a6181d15f7a061": {
+    "en": {
+      "Name": "Peltor ComTac V headset (AOR1 Mount)",
+      "ShortName": "Comtac Mount",
+      "Weight": 0.35,
+      "Width": 2,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "6998e57bc11d47d1b7f7a063": {
+    "en": {
+      "Name": "Peltor ComTac V headset (multicam Mount)",
+      "ShortName": "Comtac Mount",
+      "Weight": 0.35,
+      "Width": 1,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "6917c4906c6dac68cc13588a": {
+    "en": {
+      "Name": "Ops-Core helmet cover (AOR2)",
+      "ShortName": "AOR2 Cover",
+      "Weight": 0.15,
+      "Width": 1,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "6998e5bd183a239134f7a065": {
+    "en": {
+      "Name": "Ops-Core helmet cover (AOR1)",
+      "ShortName": "AOR2 Cover",
+      "Weight": 0.15,
+      "Width": 1,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "6998e5d477ac37a27df7a067": {
+    "en": {
+      "Name": "Ops-Core helmet cover (cadpat)",
+      "ShortName": "AOR2 Cover",
+      "Weight": 0.15,
+      "Width": 1,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "6998e5f7e34886d9bdf7a069": {
+    "en": {
+      "Name": "Ops-Core helmet cover (mcalp",
+      "ShortName": "AOR2 Cover",
+      "Weight": 0.15,
+      "Width": 1,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "6998e60c71292bd226f7a06b": {
+    "en": {
+      "Name": "Ops-Core helmet cover (AOR2)",
+      "ShortName": "AOR2 Cover",
+      "Weight": 0.15,
+      "Width": 1,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "6917c54d98d815c7861d1c59": {
+    "en": {
+      "Name": "Ops-Core helmet cover (Desert Tiger Stripe)",
+      "ShortName": "DTS Cover",
+      "Weight": 0.15,
+      "Width": 1,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "6917c5f64ae12687885bf18d": {
+    "en": {
+      "Name": "Ops-Core helmet cover (Multicam Black)",
+      "ShortName": "MCB Cover",
+      "Weight": 0.15,
+      "Width": 1,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "6917c61265268ecbc220f1f2": {
+    "en": {
+      "Name": "Ops-Core helmet cover (Multicam Tropic)",
+      "ShortName": "MCT Cover",
+      "Weight": 0.15,
+      "Width": 1,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "6917c633200042156b8bdb52": {
+    "en": {
+      "Name": "C11 Blackbeard Patch",
+      "ShortName": "C11 BB",
+      "Weight": 0.05,
+      "Width": 1,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "6917c69f14af1f6aff139dbd": {
+    "en": {
+      "Name": "C11 No Kings (Miami)",
+      "ShortName": "C11 NK",
+      "Weight": 0.05,
+      "Width": 1,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "6917c6de1d18ca02f4868839": {
+    "en": {
+      "Name": "C11 Vegvisvir Patch (AOR2)",
+      "ShortName": "C11 AOR2",
+      "Weight": 0.05,
+      "Width": 1,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "693b4869442747eceb61d959": {
+    "en": {
+      "Name": "ODST Helmet",
+      "ShortName": "ODST",
+      "Weight": 1.0,
+      "Width": 2,
+      "Height": 2,
+      "Type": "ITEM"
+    }
+  },
+  "693b4bedda33c6085861d95b": {
+    "en": {
+      "Name": "Scout Helmet",
+      "ShortName": "Scout",
+      "Weight": 1.0,
+      "Width": 2,
+      "Height": 2,
+      "Type": "ITEM"
+    }
+  },
+  "693b4c2ce49469667461d95d": {
+    "en": {
+      "Name": "cvc",
+      "ShortName": "cvc",
+      "Weight": 1.3,
+      "Width": 2,
+      "Height": 2,
+      "Type": "ITEM"
+    }
+  },
+  "69449136e91c3bc5498f3ed6": {
+    "en": {
+      "Name": "SOAR Helmet",
+      "ShortName": "Soar Helmet",
+      "Weight": 2.5,
+      "Width": 2,
+      "Height": 2,
+      "Type": "ITEM"
+    }
+  },
+  "694498e215081f9c668f3ee3": {
+    "en": {
+      "Name": "Halo Infinite Pilot Helmet",
+      "ShortName": "Halo Pilot Helmet",
+      "Weight": 1.0,
+      "Width": 2,
+      "Height": 2,
+      "Type": "ITEM"
+    }
+  },
+  "694c3e5a1c3251e1b3a26704": {
+    "en": {
+      "Name": "Fox Moto Helmet",
+      "ShortName": "Fox moto",
+      "Weight": 1.4,
+      "Width": 2,
+      "Height": 2,
+      "Type": "ITEM"
+    }
+  },
+  "694c3edd9535ca8179a26706": {
+    "en": {
+      "Name": "vikingmesh",
+      "ShortName": "vikingmesh",
+      "Weight": 3.3,
+      "Width": 2,
+      "Height": 2,
+      "Type": "ITEM"
+    }
+  },
+  "696bbce16fd6033c605557a1": {
+    "en": {
+      "Name": "rohirrim",
+      "ShortName": "rohirrim",
+      "Weight": 2.9,
+      "Width": 2,
+      "Height": 2,
+      "Type": "ITEM"
+    }
+  },
+  "696bbe447ddca411705557ad": {
+    "en": {
+      "Name": "Storm Trooper Scout",
+      "ShortName": "Scout",
+      "Weight": 1.0,
+      "Width": 2,
+      "Height": 2,
+      "Type": "ITEM"
+    }
+  },
+  "696bbee9ddbe9652ca5557b1": {
+    "en": {
+      "Name": "mando",
+      "ShortName": "mando",
+      "Weight": 4.0,
+      "Width": 2,
+      "Height": 2,
+      "Type": "ITEM"
+    }
+  },
+  "68ded60bbd53f44248ea324f": {
+    "en": {
+      "Name": "HK P30 Pistol",
+      "ShortName": "HK P30",
+      "Weight": 0.45,
+      "Width": 2,
+      "Height": 1,
+      "Type": "WEAPON",
+      "Ergonomics": 88,
+      "RecoilUp": 250,
+      "RecoilBack": 280,
+      "RPM": 30
+    }
+  },
+  "68dedf5072c1a7878545c9d4": {
+    "en": {
+      "Name": "HK P30 Standard Barrel",
+      "ShortName": "hkp30barrel",
+      "Weight": 0.113,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 0,
+      "Recoil": 0,
+      "Accuracy": 0
+    }
+  },
+  "68deea38e2111fb84c156ff2": {
+    "en": {
+      "Name": "HK P30 Rear Sight",
+      "ShortName": "hkp30rs",
+      "Weight": 0.002,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 0,
+      "Recoil": 0,
+      "Accuracy": 0
+    }
+  },
+  "68deec5afbef6b45bea1f051": {
+    "en": {
+      "Name": "HK P30 Slide",
+      "ShortName": "hkp30slide",
+      "Weight": 0.3,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 3,
+      "Recoil": -4,
+      "Accuracy": 0
+    }
+  },
+  "68deeeb97cbd04a1abd7a74b": {
+    "en": {
+      "Name": "HK P30 15 Round Magazine",
+      "ShortName": "hkp30mag",
+      "Weight": 0.093,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MAGAZINE",
+      "Ergonomics": 0,
+      "CheckTimeMod": -5,
+      "LoadUnloadMod": 0
+    }
+  },
+  "68def18791f0b463b5c29f0c": {
+    "en": {
+      "Name": "HK P30 Front Sight",
+      "ShortName": "hkp30fs",
+      "Weight": 0.002,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 0,
+      "Recoil": 0,
+      "Accuracy": 0
+    }
+  },
+  "68fbd1861ec54c3c42ce0ff5": {
+    "en": {
+      "Name": "HK P30 17 Round Extended Magazine",
+      "ShortName": "hkp17stendomag",
+      "Weight": 0.12,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MAGAZINE",
+      "Ergonomics": 0,
+      "CheckTimeMod": -3,
+      "LoadUnloadMod": 1
+    }
+  },
+  "6984ea4cd22cdc3936de0b77": {
+    "en": {
+      "Name": "HK P30L Pistol",
+      "ShortName": "HK P30L",
+      "Weight": 0.48,
+      "Width": 2,
+      "Height": 1,
+      "Type": "WEAPON",
+      "Ergonomics": 80,
+      "RecoilUp": 220,
+      "RecoilBack": 270,
+      "RPM": 30
+    }
+  },
+  "68def4fe6e38d59a384f0ae1": {
+    "en": {
+      "Name": "HK P30 Standard Barrel",
+      "ShortName": "hkp30barrel",
+      "Weight": 0.135,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -2,
+      "Recoil": -2,
+      "Accuracy": 0.5
+    }
+  },
+  "68def250e985661ccf8b1c79": {
+    "en": {
+      "Name": "HK P30L Slide",
+      "ShortName": "hkp30Lslide",
+      "Weight": 0.36,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -2,
+      "Recoil": -8,
+      "Accuracy": 0
+    }
+  },
+  "68def372f78f26bc8054cab3": {
+    "en": {
+      "Name": "HK P30 15 Round Magazine",
+      "ShortName": "hkp30mag",
+      "Weight": 0.14,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MAGAZINE",
+      "Ergonomics": -3,
+      "CheckTimeMod": 7,
+      "LoadUnloadMod": -15
+    }
+  },
+  "68e025fd8d83867f8fe9bc5f": {
+    "en": {
+      "Name": "HK P30 rmrslide",
+      "ShortName": "rmrslide",
+      "Weight": 0.34,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -2,
+      "Recoil": -2,
+      "Accuracy": 0
+    }
+  },
+  "68e028ee33872c8c0b4e5e81": {
+    "en": {
+      "Name": "HK P30 Threaded Barrel",
+      "ShortName": "hkp30threaded",
+      "Weight": 0.145,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 0,
+      "Recoil": -3,
+      "Accuracy": 1
+    }
+  },
+  "6984ee306e5601e906de0b8a": {
+    "en": {
+      "Name": "sightmount",
+      "ShortName": "sightmount",
+      "Weight": 0.015,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -2,
+      "Accuracy": 0
+    }
+  },
+  "68e029fe3948c17cabf65482": {
+    "en": {
+      "Name": "HK P30 6 Port Compensator",
+      "ShortName": "6portcomp",
+      "Weight": 0.1,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -5,
+      "Recoil": -15,
+      "Accuracy": 0
+    }
+  },
+  "6984ed6bda64b5fa77de0b87": {
+    "en": {
+      "Name": "HK P30 27 Round Extended Magazine",
+      "ShortName": "hkp3027stendomag",
+      "Weight": 0.25,
+      "Width": 1,
+      "Height": 2,
+      "Type": "MAGAZINE",
+      "Ergonomics": -9,
+      "CheckTimeMod": 20,
+      "LoadUnloadMod": -30
+    }
+  },
+  "5b3b6e5d5acfc43398055011": {
+    "en": {
+      "Name": "SIGLOCK",
+      "ShortName": "SIGLOCK",
+      "Weight": 0.215,
+      "Width": 1,
+      "Height": 1,
+      "Type": "WEAPON",
+      "Ergonomics": 95,
+      "RecoilUp": 300,
+      "RecoilBack": 255,
+      "RPM": "Default"
+    }
+  },
+  "5e4ab6d386f774069611c792": {
+    "en": {
+      "Name": "cmcgold",
+      "ShortName": "cmcgold",
+      "Weight": 0.165,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -1,
+      "Recoil": -9,
+      "Accuracy": 7
+    }
+  },
+  "5c066e4a0db834001b7353f0": {
+    "en": {
+      "Name": "kislide",
+      "ShortName": "kislide",
+      "Weight": 0.2,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 10,
+      "Recoil": -4,
+      "Accuracy": 0
+    }
+  },
+  "5a7ae1a651dfba0017554316": {
+    "en": {
+      "Name": "ETS",
+      "ShortName": "ETS",
+      "Weight": 0.1,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MAGAZINE",
+      "Ergonomics": -2,
+      "CheckTimeMod": -85,
+      "LoadUnloadMod": -15
+    }
+  },
+  "5d1c819a86f7743b355c4887": {
+    "en": {
+      "Name": "gold",
+      "ShortName": "9gold",
+      "Weight": 0.045,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -2,
+      "Recoil": -7,
+      "Accuracy": 0
+    }
+  },
+  "59e6906286f7746c9f75e848": {
+    "en": {
+      "Name": "AAFrontSight",
+      "ShortName": "AAFrontSight",
+      "Weight": 0.002,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 2,
+      "Accuracy": 0
+    }
+  },
+  "6973e015a991f8f91bc3934c": {
+    "en": {
+      "Name": "AARSight",
+      "ShortName": "AARSight",
+      "Weight": 0.002,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 2,
+      "Accuracy": 0
+    }
+  },
+  "62811f461d5df4475f46a333": {
+    "en": {
+      "Name": "kioptic",
+      "ShortName": "kioptic",
+      "Weight": 0.002,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 2,
+      "Accuracy": 0
+    }
+  },
+  "686830a0f33be9471feb69da": {
+    "en": {
+      "Name": "LV119 Covert Multicam Tropic",
+      "ShortName": "LV119 MCT",
+      "Weight": 0.85,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -2
+    }
+  },
+  "6946e6eb235d271463a266f5": {
+    "en": {
+      "Name": "Ferro Concepts FCPC V5 Breacher (AOR2)",
+      "ShortName": "FCPCV5 AOR2",
+      "Weight": 4.85,
+      "Width": 4,
+      "Height": 3,
+      "Type": "ITEM"
+    }
+  },
+  "69470492ccfa86b8e1a266fc": {
+    "en": {
+      "Name": "Ferro Concepts Slickster (Multicam)",
+      "ShortName": "Slickster MC",
+      "Weight": 1.5,
+      "Width": 3,
+      "Height": 3,
+      "Type": "ITEM"
+    }
+  },
+  "694706dd0144198d74a266ff": {
+    "en": {
+      "Name": "Ferro Concepts Slickster KTAR(Multicam)",
+      "ShortName": "Slickster KTAR MC",
+      "Weight": 2.0,
+      "Width": 3,
+      "Height": 3,
+      "Type": "ITEM"
+    }
+  },
+  "690a1f37bb772fac86a41ca9": {
+    "en": {
+      "Name": "PPSh modern receiver",
+      "ShortName": "PPSh rec.",
+      "Weight": 0.85,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 5,
+      "Recoil": -3,
+      "Accuracy": 0
+    }
+  },
+  "690a205f953b984ffa348661": {
+    "en": {
+      "Name": "PPSh handguard (Pic)",
+      "ShortName": "PPSh HG",
+      "Weight": 0.32,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 5,
+      "Recoil": -2,
+      "Accuracy": 0
+    }
+  },
+  "690a2214b583a83165ecac90": {
+    "en": {
+      "Name": "PPSh top sight rail",
+      "ShortName": "PPSh rail",
+      "Weight": 0.12,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 0,
+      "Recoil": 0,
+      "Accuracy": 0
+    }
+  },
+  "690a228693b29bcfa1c3b919": {
+    "en": {
+      "Name": "PPSh threaded barrel",
+      "ShortName": "PPSh thr.",
+      "Weight": 0.38,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 4,
+      "Recoil": -2,
+      "Accuracy": 0
+    }
+  },
+  "690a22f8b12972947a6a4723": {
+    "en": {
+      "Name": "PPSh buffer-tube adapter",
+      "ShortName": "PPSh BTA",
+      "Weight": 0.18,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 3,
+      "Recoil": 0,
+      "Accuracy": 0
+    }
+  },
+  "690a23ad14158912787e4659": {
+    "en": {
+      "Name": "FAB Defense stock (PPSh)",
+      "ShortName": "FAB PPSh",
+      "Weight": 0.52,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 10,
+      "Recoil": -4,
+      "Accuracy": 0
+    }
+  },
+  "694c80fa9b0201378540f8bd": {
+    "en": {
+      "Name": "ruger 2245",
+      "ShortName": "2245",
+      "Weight": 0.25,
+      "Width": 2,
+      "Height": 1,
+      "Type": "WEAPON",
+      "Ergonomics": 78,
+      "RecoilUp": 25,
+      "RecoilBack": 29,
+      "RPM": 30
+    }
+  },
+  "694d4afc492b8a3abf40f8c5": {
+    "en": {
+      "Name": "rugerslide",
+      "ShortName": "rugerslide",
+      "Weight": 0.3,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 3,
+      "Recoil": -4
+    }
+  },
+  "694d4ff2984bc5d85740f8cc": {
+    "en": {
+      "Name": "2245mag",
+      "ShortName": "2245mag",
+      "Weight": 0.05,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MAGAZINE",
+      "Ergonomics": 1,
+      "CheckTimeMod": -15,
+      "LoadUnloadMod": 5
+    }
+  },
+  "694d5067acb165798440f8cd": {
+    "en": {
+      "Name": "rugerwoodgrip",
+      "ShortName": "rugerwoodgrip",
+      "Weight": 0.017,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 9,
+      "Recoil": 0,
+      "Accuracy": 0
+    }
+  },
+  "694d7332a9f57254a140f8d2": {
+    "en": {
+      "Name": "rugerpolgrip",
+      "ShortName": "rugerpolgrip",
+      "Weight": 0.017,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 12,
+      "Recoil": 0,
+      "Accuracy": 0
+    }
+  },
+  "694d576f3a480ae8db40f8d0": {
+    "en": {
+      "Name": "rugerthreadprot",
+      "ShortName": "rugerthreadprot",
+      "Weight": 0.01,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 1,
+      "Recoil": 0,
+      "Accuracy": 0
+    }
+  },
+  "694d8611a9a00cec0d40f8d5": {
+    "en": {
+      "Name": "rugerbolt",
+      "ShortName": "rugerbolt",
+      "Weight": 0.15,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 5,
+      "Recoil": 0,
+      "Accuracy": 0
+    }
+  },
+  "695e89ae12149be247446f63": {
+    "en": {
+      "Name": "micro ",
+      "ShortName": "micro",
+      "Weight": 0.35,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 0
+    }
+  },
+  "695ffdaedd28a71ea5446f66": {
+    "en": {
+      "Name": "vzor4  ",
+      "ShortName": "vzor4",
+      "Weight": 0.275,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -1
+    }
+  },
+  "696000ef0493e34c01446f6a": {
+    "en": {
+      "Name": "vzor4 remote  ",
+      "ShortName": "vzor4 remote",
+      "Weight": 0.05,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 1
+    }
+  },
+  "6928b6bf523e7af9a6ed2cec": {
+    "en": {
+      "Name": "B&T SPR300",
+      "ShortName": "SPR300",
+      "Weight": 1.7,
+      "Width": 3,
+      "Height": 1,
+      "Type": "WEAPON",
+      "Ergonomics": 61,
+      "RecoilUp": 95,
+      "RecoilBack": 185,
+      "RPM": 30
+    }
+  },
+  "6928c96c09ac8dd00eed2cf6": {
+    "en": {
+      "Name": "B&T SPR300 9.8\" Barrel",
+      "ShortName": "SPR300 9.8",
+      "Weight": 0.65,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -1,
+      "Recoil": -4
+    }
+  },
+  "6928cb010ae5910a0fed2cf9": {
+    "en": {
+      "Name": "B&T SPR300 Precision Stock",
+      "ShortName": "SPR300 Stock",
+      "Weight": 0.3,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 10,
+      "Recoil": -25
+    }
+  },
+  "6928cc292075420a16ed2cfc": {
+    "en": {
+      "Name": "B&T SPR300 Cheek Rest",
+      "ShortName": "SPR300 Cheek",
+      "Weight": 0.15,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 9,
+      "Recoil": -10
+    }
+  },
+  "6928ccf3e483449082ed2cfe": {
+    "en": {
+      "Name": "B&T SPR300 Suppressor",
+      "ShortName": "SPR300 Suppressor",
+      "Weight": 1.2,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -2,
+      "Recoil": -14
+    }
+  },
+  "6928cdf53823872ef9ed2d00": {
+    "en": {
+      "Name": "B&T .300blk 10-round mag",
+      "ShortName": "B&T Clear 10rd",
+      "Weight": 0.1,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MAGAZINE",
+      "Ergonomics": 5,
+      "CheckTimeMod": -15,
+      "LoadUnloadMod": 0
+    }
+  },
+  "6928d0d51fddbf01dbed2d05": {
+    "en": {
+      "Name": "B&T SPR300 Rail Assembly",
+      "ShortName": "SPR300 Rails",
+      "Weight": 0.5,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 7,
+      "Recoil": -4
+    }
+  },
+  "6928d412401cd7f6a6ed2d0c": {
+    "en": {
+      "Name": "B&T SPR300 Pistol Grip",
+      "ShortName": "SPR300 PGrip",
+      "Weight": 0.15,
+      "Width": 1,
+      "Height": 2,
+      "Type": "MOD",
+      "Ergonomics": 6
+    }
+  },
+  "6930cde327aa0ba2c16d3d01": {
+    "en": {
+      "Name": "Poly Technologies Type 81 Special Edition (Red)",
+      "ShortName": "Type 81",
+      "Weight": 3.95,
+      "Width": 4,
+      "Height": 1,
+      "Type": "WEAPON",
+      "Ergonomics": 50,
+      "RecoilUp": 125,
+      "RecoilBack": 270,
+      "RPM": 40
+    }
+  },
+  "6930cfb2b708723c496d3d09": {
+    "en": {
+      "Name": "Poly Technologies Type 81 Dust Cover",
+      "ShortName": "T81 Dust",
+      "Weight": 0.65,
+      "Width": 2,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "6930d0095c6559e2816d3d0a": {
+    "en": {
+      "Name": "Poly Technologies Type 81 Gas Piston",
+      "ShortName": "T81 Gas",
+      "Weight": 0.35,
+      "Width": 1,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "6930d0ab3adc98bda56d3d0c": {
+    "en": {
+      "Name": "Poly Technologies Type 81 Upper Gas Tube Cover",
+      "ShortName": "T81 Gas Cover",
+      "Weight": 0.28,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 4,
+      "Recoil": -2
+    }
+  },
+  "6930d1c9eb251e06e06d3d10": {
+    "en": {
+      "Name": "Poly Technologies Type 81 Lower Handguard",
+      "ShortName": "T81 Handguard",
+      "Weight": 0.15,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 1,
+      "Recoil": -2
+    }
+  },
+  "6930d291dbd8befb636d3d12": {
+    "en": {
+      "Name": "Poly Technologies Type 81 Special Edition Stock",
+      "ShortName": "T81 SE Stock",
+      "Weight": 0.45,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 9,
+      "Recoil": -25
+    }
+  },
+  "6932eef319a1361673b155cd": {
+    "en": {
+      "Name": "C11 Gunworks Type 81 ACR Stock Adapter",
+      "ShortName": "C11 T81 ACR",
+      "Weight": 1.1,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 19,
+      "Recoil": -25
+    }
+  },
+  "6930d2efff08b89be96d3d14": {
+    "en": {
+      "Name": "Poly Technologies Type 81 Special Edition Pistol Grip",
+      "ShortName": "T81 SE Grip",
+      "Weight": 0.45,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 4,
+      "Recoil": -7
+    }
+  },
+  "6930d355328696040a6d3d16": {
+    "en": {
+      "Name": "Poly Technologies Type 81 Special Edition Magazine 30-rounder",
+      "ShortName": "T81 SE 30 Mag",
+      "Weight": 1.0,
+      "Width": 1,
+      "Height": 2,
+      "Type": "MAGAZINE",
+      "Ergonomics": 0.0,
+      "CheckTimeMod": 0,
+      "LoadUnloadMod": 0
+    }
+  },
+  "693322bda247a70444b155d2": {
+    "en": {
+      "Name": "Poly Technologies Type 81 Special Edition 5-round Pinned Magazine",
+      "ShortName": "T81 SE Pin Mag",
+      "Weight": 1.0,
+      "Width": 1,
+      "Height": 2,
+      "Type": "MAGAZINE",
+      "Ergonomics": 0.0,
+      "CheckTimeMod": 0,
+      "LoadUnloadMod": 0
+    }
+  },
+  "6930d46773f977e1746d3d19": {
+    "en": {
+      "Name": "Poly Technologies Type 81 Grenade Launcher Sleeve",
+      "ShortName": "T81 GL Sleeve",
+      "Weight": 0.3,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -2,
+      "Recoil": 0
+    }
+  },
+  "6933214ee8e7f9e95db155cf": {
+    "en": {
+      "Name": "Sigmaco Canada Threaded Barrel Sleeve",
+      "ShortName": "T81 Thr Sleeve",
+      "Weight": 0.3,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -1,
+      "Recoil": 0
+    }
+  },
+  "693224968a1d92759be95bee": {
+    "en": {
+      "Name": "C11 Gunworks Type 81 Buffer Tube Adapter",
+      "ShortName": "T81 Buffer",
+      "Weight": 0.5,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -1,
+      "Recoil": 0
+    }
+  },
+  "6932252226dccbce54e95bf0": {
+    "en": {
+      "Name": "C11 Gunworks Type 81 Zenitco Sight Adapter",
+      "ShortName": "T81 Zenit Sight",
+      "Weight": 0.5,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -1
+    }
+  },
+  "693225c799989d996ae95bf3": {
+    "en": {
+      "Name": "C11 Gunworks Type 81 Zenitco B-10 Handguard",
+      "ShortName": "T81 Zenit HG",
+      "Weight": 0.15,
+      "Width": 2,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "69604054ad6ba86d79446f6f": {
+    "en": {
+      "Name": "Magpul zhuk",
+      "ShortName": "Magpul zhuk",
+      "Weight": 0.35,
+      "Width": 2,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "6960434f897946d918446f76": {
+    "en": {
+      "Name": "Magpul MOE",
+      "ShortName": "Magpul MOE",
+      "Weight": 0.35,
+      "Width": 2,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "6960451b092ed1ff3f446f7b": {
+    "en": {
+      "Name": "Sigmaco Type 81 1913 Rail Stock Adapter",
+      "ShortName": "T81 1913",
+      "Weight": 0.15,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 0,
+      "Recoil": 0
+    }
+  },
+  "69604673cf174632a1446f81": {
+    "en": {
+      "Name": "dovetail",
+      "ShortName": "T81 dove",
+      "Weight": 0.05,
+      "Width": 1,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "69599638cd1179848621a204": {
+    "en": {
+      "Name": "Poly Technologies Type 81 LMG (camo)",
+      "ShortName": "Type 81 LMG Camo",
+      "Weight": 4.5,
+      "Width": 4,
+      "Height": 1,
+      "Type": "WEAPON",
+      "Ergonomics": 40,
+      "RecoilUp": 110,
+      "RecoilBack": 275,
+      "RPM": 720
+    }
+  },
+  "695998fdbbb7a9ea8221a20e": {
+    "en": {
+      "Name": "Poly Technologies Type 81 Dust Cover Camo",
+      "ShortName": "T81 Dust Camo",
+      "Weight": 0.65,
+      "Width": 2,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "6959993ecb9c07cd0421a210": {
+    "en": {
+      "Name": "Poly Technologies Type 81 Upper Gas Tube Cover Camo",
+      "ShortName": "T81 Gas Cover Camo",
+      "Weight": 0.28,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 4,
+      "Recoil": -2
+    }
+  },
+  "695999901ac7ab67ee21a213": {
+    "en": {
+      "Name": "Poly Technologies Type 81 LMG Camo Lower Handguard",
+      "ShortName": "T81 Handguard LMG Camo",
+      "Weight": 0.15,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 1,
+      "Recoil": -2
+    }
+  },
+  "695999fa946736058d21a215": {
+    "en": {
+      "Name": "Poly Technologies Type 81 LMG Camo Stock",
+      "ShortName": "T81 LMG Camo Stock",
+      "Weight": 0.65,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 15,
+      "Recoil": -25
+    }
+  },
+  "69599b17ea6e57427e21a218": {
+    "en": {
+      "Name": "lmg bpipod",
+      "ShortName": "lmg bbipod",
+      "Weight": 0.9,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -6,
+      "Recoil": 0
+    }
+  },
+  "69599b727e06e825d921a21b": {
+    "en": {
+      "Name": "Poly Technologies Type 81 camo grip",
+      "ShortName": "T81 camo Grip",
+      "Weight": 0.45,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 4,
+      "Recoil": -7
+    }
+  },
+  "69599be8356917b60121a21d": {
+    "en": {
+      "Name": "Poly Technologies Type 81 lmg sight",
+      "ShortName": "T81 lmg sight",
+      "Weight": 0.1,
+      "Width": 1,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "6959a1d728c934517821a222": {
+    "en": {
+      "Name": "Poly Technologies Type 81 lmg muzzle protector camo",
+      "ShortName": "T81 lmg prot camo",
+      "Weight": 0.01,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 1,
+      "Recoil": 0,
+      "Accuracy": 0
+    }
+  },
+  "6967ff3c0a67676e10a35d59": {
+    "en": {
+      "Name": "Poly Technologies Type 81 SLMG",
+      "ShortName": "T81 SE 75 Mag",
+      "Weight": 2.3,
+      "Width": 2,
+      "Height": 2,
+      "Type": "MAGAZINE",
+      "Ergonomics": -22,
+      "CheckTimeMod": 0,
+      "LoadUnloadMod": 99
+    }
+  },
+  "6985167dfe2708752bde0b8e": {
+    "en": {
+      "Name": "LMGHANDLE",
+      "ShortName": "LMGHANDLE",
+      "Weight": 0.12,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Recoil": 0
+    }
+  },
+  "6959ae1d8e4dae34b821a223": {
+    "en": {
+      "Name": "Poly Technologies Type 81 LMG (camo)",
+      "ShortName": "Type 81 LMG Camo",
+      "Weight": 4.5,
+      "Width": 4,
+      "Height": 1,
+      "Type": "WEAPON",
+      "Ergonomics": 40,
+      "RecoilUp": 110,
+      "RecoilBack": 275,
+      "RPM": 720
+    }
+  },
+  "6959ae648ab2d4472721a22e": {
+    "en": {
+      "Name": "Poly Technologies Type 81 Dust Cover Camo",
+      "ShortName": "T81 Dust Camo",
+      "Weight": 0.65,
+      "Width": 2,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "6959ae8a8609fc1ded21a231": {
+    "en": {
+      "Name": "Poly Technologies Type 81 Upper Gas Tube Cover Camo",
+      "ShortName": "T81 Gas Cover Camo",
+      "Weight": 0.28,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 4,
+      "Recoil": -2
+    }
+  },
+  "6959aea76bcb6afbd721a235": {
+    "en": {
+      "Name": "Poly Technologies Type 81 LMG Camo Lower Handguard",
+      "ShortName": "T81 Handguard LMG Camo",
+      "Weight": 0.15,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 1,
+      "Recoil": -2
+    }
+  },
+  "6959aeabb718f8c8e421a237": {
+    "en": {
+      "Name": "Poly Technologies Type 81 LMG Camo Stock",
+      "ShortName": "T81 LMG Camo Stock",
+      "Weight": 0.65,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 15,
+      "Recoil": -25
+    }
+  },
+  "6959aec299f49d72b121a239": {
+    "en": {
+      "Name": "lmg bpipod",
+      "ShortName": "lmg bbipod",
+      "Weight": 0.9,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -6,
+      "Recoil": 0
+    }
+  },
+  "6959af89357f345cf121a240": {
+    "en": {
+      "Name": "Poly Technologies Type 81 camo grip",
+      "ShortName": "T81 camo Grip",
+      "Weight": 0.45,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 4,
+      "Recoil": -7
+    }
+  },
+  "6959aed9f579411c0a21a23c": {
+    "en": {
+      "Name": "Poly Technologies Type 81 lmg sight",
+      "ShortName": "T81 lmg sight",
+      "Weight": 0.1,
+      "Width": 1,
+      "Height": 1,
+      "Type": "ITEM"
+    }
+  },
+  "6959aedfd709381bfe21a23e": {
+    "en": {
+      "Name": "Poly Technologies Type 81 lmg muzzle protector camo",
+      "ShortName": "T81 lmg prot camo",
+      "Weight": 0.01,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 1,
+      "Recoil": 0,
+      "Accuracy": 0
+    }
+  },
+  "6986801b76c6b6cbd5104c03": {
+    "en": {
+      "Name": "STK Ultimax 100 5.56x45 Light Machine Gun",
+      "ShortName": "Ultimax 100",
+      "Weight": 3.5,
+      "Width": 2,
+      "Height": 1,
+      "Type": "WEAPON",
+      "Ergonomics": 35,
+      "RecoilUp": 40,
+      "RecoilBack": 120,
+      "RPM": 600
+    }
+  },
+  "698684546cbf41bc20104c0b": {
+    "en": {
+      "Name": "u100rec",
+      "ShortName": "u100rec",
+      "Weight": 2.0,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 3,
+      "Recoil": -2,
+      "Accuracy": 0
+    }
+  },
+  "6986854b79ff444e95104c11": {
+    "en": {
+      "Name": "u100fg",
+      "ShortName": "u100fg",
+      "Weight": 0.35,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 5,
+      "Recoil": -5
+    }
+  },
+  "698685e38ee206f4d7104c13": {
+    "en": {
+      "Name": "u100stock",
+      "ShortName": "u100stock",
+      "Weight": 0.65,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 17,
+      "Recoil": -15
+    }
+  },
+  "6986865b982d33ed14104c17": {
+    "en": {
+      "Name": "u100 bpipod",
+      "ShortName": "u100 bbipod",
+      "Weight": 0.9,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -6,
+      "Recoil": -1
+    }
+  },
+  "6986819aa62cef0fb1104c04": {
+    "en": {
+      "Name": "u100drummy",
+      "ShortName": "u100drummy",
+      "Weight": 1.3,
+      "Width": 2,
+      "Height": 2,
+      "Type": "MAGAZINE",
+      "Ergonomics": -21,
+      "CheckTimeMod": 0,
+      "LoadUnloadMod": 45
+    }
+  },
+  "6987668597a5ba48fe104c1c": {
+    "en": {
+      "Name": "u100rs",
+      "ShortName": "u100rs",
+      "Weight": 0.002,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": 2,
+      "Accuracy": 0
+    }
+  },
+  "6987673c899d651b5c104c1e": {
+    "en": {
+      "Name": "u100 supershort barrel",
+      "ShortName": "u100 super Chop",
+      "Weight": 0.45,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -5,
+      "Recoil": 4,
+      "Accuracy": -10
+    }
+  },
+  "69878723bc82111ece104c22": {
+    "en": {
+      "Name": "u100 short barrel",
+      "ShortName": "u100  Chop",
+      "Weight": 0.85,
+      "Width": 3,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -5,
+      "Recoil": 0,
+      "Accuracy": 0
+    }
+  },
+  "698787edae15a9a3a7104c25": {
+    "en": {
+      "Name": "u100 long barrel",
+      "ShortName": "u100  no Chop",
+      "Weight": 1.05,
+      "Width": 4,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -18,
+      "Recoil": -7,
+      "Accuracy": 2
+    }
+  },
+  "6987a062adeeb92b41104c27": {
+    "en": {
+      "Name": "u100mag",
+      "ShortName": "u100mag",
+      "Weight": 0.25,
+      "Width": 1,
+      "Height": 2,
+      "Type": "MAGAZINE",
+      "Ergonomics": 0,
+      "CheckTimeMod": 0,
+      "LoadUnloadMod": 0
+    }
+  },
+  "69319dbec4c13fc4823f299e": {
+    "en": {
+      "Name": "LASER PRODUCTS Flashlight Mount",
+      "ShortName": "SAS Mount",
+      "Weight": 0.65,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -11,
+      "Recoil": -5,
+      "Accuracy": -3
+    }
+  },
+  "6931ac76994f765b133f29a2": {
+    "en": {
+      "Name": "LASER PRODUCTS Flashlight",
+      "ShortName": "SAS Flashlight",
+      "Weight": 1.65,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -1,
+      "Recoil": -1
+    }
+  },
+  "694f212e2f28c2124b40f8dc": {
+    "en": {
+      "Name": "elysium ",
+      "ShortName": "elysium",
+      "Weight": 1.5,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -4
+    }
+  },
+  "695d56301954a8d5a1446f57": {
+    "en": {
+      "Name": "accarizer  ",
+      "ShortName": "accarizer",
+      "Weight": 0.75,
+      "Width": 2,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -2
+    }
+  },
+  "695d6236499f37e727446f60": {
+    "en": {
+      "Name": "cnote",
+      "ShortName": "cnote",
+      "Weight": 0.35,
+      "Width": 1,
+      "Height": 1,
+      "Type": "MOD",
+      "Ergonomics": -1,
+      "Recoil": 0,
+      "Accuracy": 0
+    }
+  }
+}

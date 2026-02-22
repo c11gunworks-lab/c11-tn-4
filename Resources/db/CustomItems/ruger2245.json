@@ -4,8 +4,8 @@
     "parentId": "5447b5cf4bdc2d65278b4567",
     "handbookParentId": "5b5f792486f77447ed5636b3",
     "overrideProperties": {
-      "Weight": 0.65,
-      "BackgroundColor": "blue",
+      "Weight": 0.25,
+      "BackgroundColor": "black",
       "Width": 2,
       "Height": 1,
       "StackMaxSize": 1,
@@ -40,7 +40,7 @@
       "bFirerate": 30,
       "Ergonomics": 78,
       "RecoilForceUp": 25,
-      "RecoilForceBack": 40,
+      "RecoilForceBack": 29,
       "RecoilCamera": 0.01,
       "Convergence": 0.7,
       "Velocity": 0,
@@ -51,7 +51,6 @@
       "isBoltCatch": true,
       "defMagType": "694d4ff2984bc5d85740f8cc",
       "defAmmo": "694c796b42ae52a1a940f8ba",
-
       "Chambers": [
         {
           "_name": "patron_in_weapon",
@@ -100,8 +99,6 @@
       "AllowOverheat": true,
       "MinRepairKitDegradation": 0,
       "MaxRepairKitDegradation": 0.025,
-
-      
       "Grids": [],
       "Slots": [
         {
@@ -232,7 +229,6 @@
         }
        
       ]
-      
     },
     "locales": {
       "en": {
@@ -241,8 +237,8 @@
         "description": "bang"
       }
     },
-    "fleaPriceRoubles": 24500,
-    "handbookPriceRoubles": 19750,
+    "fleaPriceRoubles": 10000,
+    "handbookPriceRoubles": 6500,
     "addtoBots": false,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
@@ -265,7 +261,7 @@
           },
           "barters": [
             {
-              "count": 40000,
+              "count": 12000,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -285,7 +281,6 @@
       },
       "CanPutIntoDuringTheRaid": true,
       "BackgroundColor": "blue",
-
       "CanSellOnRagfair": true,
       "CoolFactor": 1.004,
       "Ergonomics": 3,
@@ -294,9 +289,8 @@
       "MergesWithChildren": true,
       "Recoil": -4,
       "ToolModdable": true,
-
       "Velocity": 0,
-      "Weight": 0.28,
+      "Weight": 0.3,
       "Width": 2,
       "Grids": [],
       "Slots": [
@@ -374,8 +368,8 @@
         "description": "slide"
       }
     },
-    "fleaPriceRoubles": 16500,
-    "handbookPriceRoubles": 12500,
+    "fleaPriceRoubles": 6500,
+    "handbookPriceRoubles": 5500,
     "addtoBots": false,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
@@ -398,7 +392,7 @@
           },
           "barters": [
             {
-              "count": 20000,
+              "count": 6500,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -443,7 +437,7 @@
         }
       ],
 
-      "Ergonomics": 2,
+      "Ergonomics": 1,
       "Grids": [],
       "Height": 1,
       "LoadUnloadModifier": 5,
@@ -461,8 +455,8 @@
         "description": "bang"
       }
     },
-    "fleaPriceRoubles": 3500,
-    "handbookPriceRoubles": 2500,
+    "fleaPriceRoubles": 1700,
+    "handbookPriceRoubles": 1350,
     "addtoBots": false,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
@@ -485,7 +479,7 @@
           },
           "barters": [
             {
-              "count": 3000,
+              "count": 1650,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -694,7 +688,7 @@
       "Ergonomics": 5,
       "Height": 1,
       "Recoil": 0,
-      "Weight": 0.51,
+      "Weight": 0.15,
       "Width": 1,
       "Grids": [],
       "Slots": []

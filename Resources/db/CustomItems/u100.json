@@ -1,0 +1,1239 @@
+﻿{
+  "6986801b76c6b6cbd5104c03": {
+    "itemTplToClone": "5beed0f50db834001c062b12",
+    "parentId": "5447bed64bdc2d97278b4568",
+    "handbookParentId": "5b5f79a486f77409407a7f94",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "u100.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "black",
+      "MergesWithChildren": true,
+      "Width": 2,
+      "Height": 1,
+      "ConflictingItems":[
+
+      ],
+      "Weight": 3.5,
+      "RecoilForceUp": 40,
+      "RecoilForceBack": 120,
+      "RecoilCamera": 0.035,
+      "Convergence": 3.5,
+      "DeviationCurve":2.5,
+      "DeviationMax":15,
+      "SightingRange":250,
+      "SingleFireRate": 450,
+      "CameraSnap":2.0,
+      "RecoilStableIndexShot":1,
+      "RecolDispersion":15,
+      "CoolFactorGun":2.8,
+      "DurabilityBurnRatio":0.9,
+      "BaseMalfunctionChance":0.05,
+      "CoolFactorGunMods":1.0,
+      "HeatFactorByShot":0.85,
+      "HeatFactorGun":0.8,
+      "CanQueueSecondShot": true,
+      "bFirerate": 600,
+      "Ergonomics": 35,
+      "Velocity": 0,
+      "bEffDist": 750,
+      "bHearDist": 80,
+      "isChamberLoad": true,
+      "chamberAmmoCount": 1,
+      "isBoltCatch": false,
+      "defMagType": "6987a062adeeb92b41104c27",
+      "ammoCaliber": "Caliber556x45NATO",
+      "isFastReload": true,
+      "ReloadMode": "ExternalMagazine",
+      "Foldable": false,
+      "Retractable": false,
+      "CompactHandling": true,
+      "weapFireType": [
+        "single",
+        "fullauto"
+      ],
+      "defAmmo": "54527a984bdc2d4e668b4567",
+      "Chambers": [
+        {
+          "_name": "patron_in_weapon",
+          "_id": "698681e38025ee27aa104c05",
+          "_parent": "6986801b76c6b6cbd5104c03",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59e6920f86f77411d82aa167",
+                  "59e6927d86f77411da468256",
+                  "54527a984bdc2d4e668b4567",
+                  "54527ac44bdc2d36668b4567",
+                  "59e68f6f86f7746c9f75e846",
+                  "59e6906286f7746c9f75e847",
+                  "59e690b686f7746c9f75e848",
+                  "59e6918f86f7746c9f75e849",
+                  "60194943740c5d77f6705eea",
+                  "601949593ae8f707c4608daa",
+                  "5c0d5ae286f7741e46554302"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d4af244bdc2d962f8b4571"
+        }
+      ],
+
+      "Slots": [
+        
+        {
+          "_name": "mod_magazine",
+          "_id": "6986824d9ae3a4d7a5104c06",
+          "_parent": "6986801b76c6b6cbd5104c03",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex":-1,
+                "Shift": 0,
+                "Filter": [
+                  "6986819aa62cef0fb1104c04",
+                  "6987a062adeeb92b41104c27"
+
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        
+        {
+          "_name": "mod_reciever",
+          "_id": "69868275dfe903407f104c07",
+          "_parent": "6986801b76c6b6cbd5104c03",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                 "698684546cbf41bc20104c0b"
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_stock",
+          "_id": "6986827db527e9a980104c08",
+          "_parent": "6986801b76c6b6cbd5104c03",
+          "_props": {
+            "filters": [
+              {
+                "shift": 0,
+                "Filter": [
+"698685e38ee206f4d7104c13"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_id": "698684bb434aa0d1e2104c0c",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_rear",
+          "_parent": "6986801b76c6b6cbd5104c03",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6987668597a5ba48fe104c1c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "Grids": []
+
+
+    },
+    "locales": {
+      "en": {
+        "name": "STK Ultimax 100 5.56x45 Light Machine Gun",
+        "shortName": "Ultimax 100",
+        "description": "The Ultimax 100 is a Singaporean 5.56mm light machine gun. Renowned for its 'Constant Recoil' operating system, the bolt carrier group never strikes the rear of the receiver, resulting in exceptionally low recoil and smooth operation."
+      }
+    },
+    "fleaPriceRoubles": 295000,
+    "handbookPriceRoubles": 297500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "StaticLootContainers": [
+      {
+
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "698e659765ed5353a0e368fd",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "U100",
+        "_parent": "698e659765ed5353a0e368fe",
+        "_items": [
+          {
+            "_id": "698e659765ed5353a0e368fe",
+            "_tpl": "6986801b76c6b6cbd5104c03",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              }
+            }
+          },
+          {
+            "_id": "698e63e965ed5353a0e30035",
+            "_tpl": "6987a062adeeb92b41104c27",
+            "parentId": "698e659765ed5353a0e368fe",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "698e63e965ed5353a0e30036",
+            "_tpl": "698684546cbf41bc20104c0b",
+            "parentId": "698e659765ed5353a0e368fe",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "698e63e965ed5353a0e30037",
+            "_tpl": "698685e38ee206f4d7104c13",
+            "parentId": "698e659765ed5353a0e368fe",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "698e63e965ed5353a0e30038",
+            "_tpl": "6987668597a5ba48fe104c1c",
+            "parentId": "698e659765ed5353a0e368fe",
+            "slotId": "mod_sight_rear",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "698e63e965ed5353a0e30039",
+            "_tpl": "6986854b79ff444e95104c11",
+            "parentId": "698e63e965ed5353a0e30036",
+            "slotId": "mod_foregrip"
+          },
+          {
+            "_id": "698e63e965ed5353a0e3003a",
+            "_tpl": "698787edae15a9a3a7104c25",
+            "parentId": "698e63e965ed5353a0e30036",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "698e63e965ed5353a0e3003b",
+            "_tpl": "6986865b982d33ed14104c17",
+            "parentId": "698e63e965ed5353a0e30036",
+            "slotId": "mod_bipod"
+          },
+          {
+            "_id": "698e63e965ed5353a0e3003c",
+            "_tpl": "544a38634bdc2d58388b4568",
+            "parentId": "698e63e965ed5353a0e3003a",
+            "slotId": "mod_muzzle"
+          }
+        ],
+        "_encyclopedia": "6986801b76c6b6cbd5104c03"
+      }
+
+
+
+    ],
+   
+    "masterySections": [
+      {
+        "Level2": 150,
+        "Level3": 200,
+        "Name": "Ultimax 100",
+        "Templates": [
+          "6986801b76c6b6cbd5104c03"
+        ]
+      }
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "6986837de81982c640104c0a": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 92500,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+
+  "698684546cbf41bc20104c0b": {
+    "itemTplToClone": "5beec91a0db834001961942d",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "u100rec.bundle",
+        "rcid": ""
+      },
+      "ExtraSizeUp":1,
+      "Accuracy": 0,
+      "Ergonomics": 3,
+      "HeatFactor": 0.93,
+      "Recoil": -2,
+      "Slots": [
+
+        
+        {
+          "_id": "698684d9f6cb37aa20104c0d",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "698684546cbf41bc20104c0b",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+"6986854b79ff444e95104c11"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6986851d1ee0dca6c9104c0f",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_barrel",
+          "_parent": "698684546cbf41bc20104c0b",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+"698787edae15a9a3a7104c25",
+                  "69878723bc82111ece104c22",
+                  "6987673c899d651b5c104c1e"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "698684ea32ec032e84104c0e",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_bipod",
+          "_parent": "698684546cbf41bc20104c0b",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6986865b982d33ed14104c17"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+
+      ],
+      "Velocity": 0,
+      "Weight": 2.0,
+      "Width": 2,
+      "ExaminedByDefault": true
+    },
+    "locales": {
+      "en": {
+        "name": "u100rec",
+        "shortName": "u100rec",
+        "description": "u100rec"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+    ],
+    "fleaPriceRoubles": 43790,
+    "handbookPriceRoubles": 42000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+   
+    "traders": {
+      "PEACEKEEPER": {
+        "6986853914a26f89e4104c10": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 500,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
+  },
+
+
+  "6986854b79ff444e95104c11": {
+    "itemTplToClone": "5a7dbfc1159bd40016548fde",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "u100foregrip.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "black",
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.35,
+      "Ergonomics": 5,
+      "Recoil": -5,
+      "ConflictingItems":[
+        
+      ],
+      "Grids": [],
+      "Slots": [
+
+      ]
+    },
+    "locales": {
+      "en": {
+        "Name": "u100fg",
+        "ShortName": "u100fg",
+        "Description": "u100fg"
+      }
+    },
+    "fleaPriceRoubles": 9500,
+    "handbookPriceRoubles": 7500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "698686523b6629db28104c15": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 150,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "698685e38ee206f4d7104c13": {
+    "itemTplToClone": "6513f1798cb24472490ee331",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "u100stock.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.65,
+      "ExtraSizeLeft": 1,
+      "ExtraSizeUp": 0,
+      "ExtraSizeDown": 0,
+      "Ergonomics": 17,
+      "Recoil": -15,
+      "Slots": [],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "u100stock",
+        "ShortName": "u100stock",
+        "Description": "u100stock"
+      }
+    },
+    "fleaPriceRoubles": 35000,
+    "handbookPriceRoubles": 35500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "69868657e090e344e0104c16": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 37500,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6986865b982d33ed14104c17": {
+    "itemTplToClone": "6464d870bb2c580352070cc4",
+    "parentId": "55818afb4bdc2dde698b456d",
+    "handbookParentId": "5b5f71c186f77409407a7ec0",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "u100bipod.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.9,
+      "Ergonomics": -6,
+      "Recoil": -1,
+      "YawLimitProneBipod": {
+        "x": -15,
+        "y": 15,
+        "z": 0
+      },
+      "PitchLimitProneBipod":{
+        "x": -4,
+        "y": 6,
+        "z": 0
+      },
+      "BipodCameraSnapMultiplier":0.96,
+      "BipodOutOfStaminaBreathMultiplier":0.1,
+      "BipodRecoilMultiplier":0.25,
+      "BipodReturnHandSpeedMultiplier":1,
+
+      "Slots": [],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "u100 bpipod",
+        "ShortName": "u100 bbipod",
+        "Description": "It work"
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 15500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "69868674608543b3bd104c18": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 50,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "6986819aa62cef0fb1104c04": {
+    "itemTplToClone": "6761765f1f08ed5e8800b7a6",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "drummy.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 2,
+      "Weight": 1.3,
+      "magAnimationIndex":5,
+      "BlocksFolding":false,
+      "CanSellOnRagfair":false,
+      "CanFast":true,
+      "CanHit":false,
+      "VisibleAmmoRangesString":"1-3",
+      "CanPutIntoDuringTheRaid":true,
+      "ExtraSizeDown":1,
+      "Ergonomics": -21,
+      "MalfunctionChance":0.25,
+      "LoadUnloadModifier": 45,
+      "Recoil":-2,
+      "Cartridges":
+      [
+        {
+          "_id": "698766465c554f8f07104c19",
+          "_max_count": 100,
+          "_name": "cartridges",
+          "_parent": "6987664b35ea8f7d4b104c1a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59e6920f86f77411d82aa167",
+                  "59e6927d86f77411da468256",
+                  "54527a984bdc2d4e668b4567",
+                  "54527ac44bdc2d36668b4567",
+                  "59e68f6f86f7746c9f75e846",
+                  "59e6906286f7746c9f75e847",
+                  "59e690b686f7746c9f75e848",
+                  "59e6918f86f7746c9f75e849",
+                  "60194943740c5d77f6705eea",
+                  "601949593ae8f707c4608daa",
+                  "5c0d5ae286f7741e46554302",
+                  "5fbe3ffdf8b6a877a729ea82",
+                  "5fd20ff893a8961fc660a954",
+                  "619636be6db0f2477964e710",
+                  "6196364158ef8c428c287d9f",
+                  "6196365d58ef8c428c287da1",
+                  "64b8725c4b75259c590fa899"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "Slots": [],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "u100drummy",
+        "ShortName": "u100drummy",
+        "Description": "u100drummy"
+      }
+    },
+    "fleaPriceRoubles": 45000,
+    "handbookPriceRoubles": 32500,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "698766756cc3e79662104c1b": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 250,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6987668597a5ba48fe104c1c": {
+    "itemTplToClone": "61817865d3a39d50044c13a4",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Accuracy": 0,
+      "CanPutIntoDuringTheRaid": true,
+      "Ergonomics": 2,
+      "SightingRange":250,
+      "Height": 1,
+      "Prefab": {
+        "path": "u100rs.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.002,
+      "Width": 1
+    },
+    "locales": {
+      "en": {
+        "name": "u100rs",
+        "shortName": "u100rs",
+        "description": "u100rs"
+      }
+    },
+    "fleaPriceRoubles": 25000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "modSlot": [
+  
+    ],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "698766c232236461b1104c1d": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 20,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+
+  "6987673c899d651b5c104c1e": {
+    "itemTplToClone": "55d35ee94bdc2d61338b4568",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "10barrel.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "black",
+      "Width": 2,
+      "Height": 1,
+      "Accuracy":-10,
+      "DeviationCurve":1.8,
+      "DeviationMax":27,
+      "Weight": 0.45,
+      "Ergonomics": -5,
+      "Recoil": 4,
+      "ExtraSizeLeft":0,
+      "Velocity":-15.48,
+
+      "ConflictingItems":[
+      ],
+
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "6987872950d4ab4982104c23",
+          "_parent": "6987673c899d651b5c104c1e",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "68b59df2df773e94eca1167d",
+                  "5b3a16655acfc40016387a2a",
+                  "5c7e5f112e221600106f4ede",
+                  "5c0fafb6d174af02a96260ba",
+                  "612e0cfc8004cc50514c2d9e",
+                  "5cf6937cd7f00c056c53fb39",
+                  "544a38634bdc2d58388b4568",
+                  "5cff9e5ed7ad1a09407397d4",
+                  "5c48a2a42e221602b66d1e07",
+                  "5f6372e2865db925d54f3869",
+                  "615d8e2f1cb55961fa0fd9a4",
+                  "56ea8180d2720bf2698b456a",
+                  "5d02676dd7ad1a049e54f6dc",
+                  "56ea6fafd2720b844b8b4593",
+                  "5943ee5a86f77413872d25ec",
+                  "609269c3b0e443224b421cc1",
+                  "5c7fb51d2e2216001219ce11",
+                  "5ea172e498dacb342978818e",
+                  "5c6d710d2e22165df16b81e7",
+                  "612e0e55a112697a4b3a66e7",
+                  "5d440625a4b9361eec4ae6c5",
+                  "5cc9b815d7f00c000e2579d6",
+                  "5a7c147ce899ef00150bd8b8",
+                  "5c7954d52e221600106f4cc7",
+                  "59bffc1f86f77435b128b872",
+                  "5a9fbb84a2750c00137fa685",
+                  "626667e87379c44d557b7550",
+                  "62669bccdb9ebb4daa44cd14",
+                  "626a74340be03179a165e30c",
+                  "6386120cd6baa055ad1e201c",
+                  "63ac5c9658d0485fc039f0b8",
+                  "6405ff6bd4578826ec3e377a",
+                  "64943b74e9998d641b0412ed",
+                  "6621455e3aceea9e2b0b01e7",
+                  "664301213dd83ddae20dda18"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "u100 supershort barrel",
+        "ShortName": "u100 super Chop",
+        "Description": "Someone, u100cut dis"
+      }
+    },
+    "fleaPriceRoubles": 45000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "698786f9f2fc7459f6104c1f": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 255,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69878723bc82111ece104c22": {
+    "itemTplToClone": "55d3632e4bdc2d972f8b4569",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "13barrel.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "black",
+      "Width": 3,
+      "Height": 1,
+      "Accuracy":0,
+      "Weight": 0.85,
+      "Ergonomics": -5,
+      "Recoil": 0,
+      "Velocity":-6.48,
+      "ExtraSizeLeft":1,
+      "ConflictingItems":[
+      ],
+
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "6987872111055156fb104c21",
+          "_parent": "69878723bc82111ece104c22",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "68b59df2df773e94eca1167d",
+                  "5b3a16655acfc40016387a2a",
+                  "5c7e5f112e221600106f4ede",
+                  "5c0fafb6d174af02a96260ba",
+                  "612e0cfc8004cc50514c2d9e",
+                  "5cf6937cd7f00c056c53fb39",
+                  "544a38634bdc2d58388b4568",
+                  "5cff9e5ed7ad1a09407397d4",
+                  "5c48a2a42e221602b66d1e07",
+                  "5f6372e2865db925d54f3869",
+                  "615d8e2f1cb55961fa0fd9a4",
+                  "56ea8180d2720bf2698b456a",
+                  "5d02676dd7ad1a049e54f6dc",
+                  "56ea6fafd2720b844b8b4593",
+                  "5943ee5a86f77413872d25ec",
+                  "609269c3b0e443224b421cc1",
+                  "5c7fb51d2e2216001219ce11",
+                  "5ea172e498dacb342978818e",
+                  "5c6d710d2e22165df16b81e7",
+                  "612e0e55a112697a4b3a66e7",
+                  "5d440625a4b9361eec4ae6c5",
+                  "5cc9b815d7f00c000e2579d6",
+                  "5a7c147ce899ef00150bd8b8",
+                  "5c7954d52e221600106f4cc7",
+                  "59bffc1f86f77435b128b872",
+                  "5a9fbb84a2750c00137fa685",
+                  "626667e87379c44d557b7550",
+                  "62669bccdb9ebb4daa44cd14",
+                  "626a74340be03179a165e30c",
+                  "6386120cd6baa055ad1e201c",
+                  "63ac5c9658d0485fc039f0b8",
+                  "6405ff6bd4578826ec3e377a",
+                  "64943b74e9998d641b0412ed",
+                  "6621455e3aceea9e2b0b01e7",
+                  "664301213dd83ddae20dda18"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "u100 short barrel",
+        "ShortName": "u100  Chop",
+        "Description": "Someone, u100cut dis"
+      }
+    },
+    "fleaPriceRoubles": 40000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "69878712f6eef67f0c104c20": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 200,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "698787edae15a9a3a7104c25": {
+    "itemTplToClone": "5d440b9fa4b93601354d480c",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "20barrel.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "black",
+      "Width": 4,
+      "Height": 1,
+      "Accuracy":2,
+      "Weight": 1.05,
+      "Ergonomics": -18,
+      "Recoil": -7,
+      "Velocity":2.48,
+      "ExtraSizeLeft":1,
+      "ConflictingItems":[
+      ],
+
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "698787f0166b3cdf17104c26",
+          "_parent": "698787edae15a9a3a7104c25",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "68b59df2df773e94eca1167d",
+                  "5b3a16655acfc40016387a2a",
+                  "5c7e5f112e221600106f4ede",
+                  "5c0fafb6d174af02a96260ba",
+                  "612e0cfc8004cc50514c2d9e",
+                  "5cf6937cd7f00c056c53fb39",
+                  "544a38634bdc2d58388b4568",
+                  "5cff9e5ed7ad1a09407397d4",
+                  "5c48a2a42e221602b66d1e07",
+                  "5f6372e2865db925d54f3869",
+                  "615d8e2f1cb55961fa0fd9a4",
+                  "56ea8180d2720bf2698b456a",
+                  "5d02676dd7ad1a049e54f6dc",
+                  "56ea6fafd2720b844b8b4593",
+                  "5943ee5a86f77413872d25ec",
+                  "609269c3b0e443224b421cc1",
+                  "5c7fb51d2e2216001219ce11",
+                  "5ea172e498dacb342978818e",
+                  "5c6d710d2e22165df16b81e7",
+                  "612e0e55a112697a4b3a66e7",
+                  "5d440625a4b9361eec4ae6c5",
+                  "5cc9b815d7f00c000e2579d6",
+                  "5a7c147ce899ef00150bd8b8",
+                  "5c7954d52e221600106f4cc7",
+                  "59bffc1f86f77435b128b872",
+                  "5a9fbb84a2750c00137fa685",
+                  "626667e87379c44d557b7550",
+                  "62669bccdb9ebb4daa44cd14",
+                  "626a74340be03179a165e30c",
+                  "6386120cd6baa055ad1e201c",
+                  "63ac5c9658d0485fc039f0b8",
+                  "6405ff6bd4578826ec3e377a",
+                  "64943b74e9998d641b0412ed",
+                  "6621455e3aceea9e2b0b01e7",
+                  "664301213dd83ddae20dda18"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "u100 long barrel",
+        "ShortName": "u100  no Chop",
+        "Description": "Someone, no cut"
+      }
+    },
+    "fleaPriceRoubles": 36000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "698787d0587647f47c104c24": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 150,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6987a062adeeb92b41104c27": {
+    "itemTplToClone": "55d4887d4bdc2d962f8b4570",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "u100boxmag.bundle",
+        "rcid": ""
+      },
+      "Width": 1,
+      "Height": 2,
+      "Weight": 0.25,
+      "ExtraSizeDown": 1,
+      "magAnimationIndex":0,
+      "CanFast":true,
+      "CanPutIntoDuringTheRaid":true,
+      "VisibleAmmoRangesString":"1-3",
+      "Ergonomics": 0,
+      "Slots": [],
+      "Grids": [],
+      "Cartridges": [
+        {
+          "_id": "6987a07314cadaeb2f104c28",
+          "_name": "cartridges",
+          "_parent": "6987a062adeeb92b41104c27",
+          "_max_count": 30,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59e6920f86f77411d82aa167",
+                  "59e6927d86f77411da468256",
+                  "54527a984bdc2d4e668b4567",
+                  "54527ac44bdc2d36668b4567",
+                  "59e68f6f86f7746c9f75e846",
+                  "59e6906286f7746c9f75e847",
+                  "59e690b686f7746c9f75e848",
+                  "59e6918f86f7746c9f75e849",
+                  "60194943740c5d77f6705eea",
+                  "601949593ae8f707c4608daa",
+                  "5c0d5ae286f7741e46554302",
+                  "5fbe3ffdf8b6a877a729ea82",
+                  "5fd20ff893a8961fc660a954",
+                  "619636be6db0f2477964e710",
+                  "6196364158ef8c428c287d9f",
+                  "6196365d58ef8c428c287da1",
+                  "64b8725c4b75259c590fa899"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "Name": "u100mag",
+        "ShortName": "u100mag",
+        "Description": "Its not a STANAG. "
+      }
+    },
+    "fleaPriceRoubles": 7500,
+    "handbookPriceRoubles": 2500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "PEACEKEEPER": {
+        "6987a096c386677810104c29": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 25,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+
+  }
+}

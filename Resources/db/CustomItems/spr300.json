@@ -9,13 +9,13 @@
         "path": "bt300.bundle",
         "rcid": ""
       },
-      "BackgroundColor": "default",
+      "BackgroundColor": "black",
       "MergesWithChildren": true,
       "Width": 3,
       "Height": 1,
       "Weight": 1.7,
       "CenterOfImpact":0.005,
-      "Ergonomics":50,
+      "Ergonomics":61,
       "RecoilForceBack":185,
       "RecoilForceUp":95,
       "bEffDist": 300,
@@ -24,7 +24,6 @@
       "BoltAction": true,
       "bHearDist": 270,
       "CanSellOnRagfair":false,
-
       "defAmmo":"5fbe3ffdf8b6a877a729ea82",
       "defMagType":"55d4887d4bdc2d962f8b4570",
       "chamberAmmoCount": 1,
@@ -296,8 +295,8 @@
         "Description": "The SPR300 is a 300 BLK bolt action rifle with a 9.8-inch barrel, designed for accuracy, with a folding stock, adjustable trigger, and a sound suppressor "
       }
     },
-    "fleaPriceRoubles": 175000,
-    "handbookPriceRoubles": 165000,
+    "fleaPriceRoubles": 125000,
+    "handbookPriceRoubles": 118000,
     "addtoBots": false,
     "addtoSpecialSlots": false,
 
@@ -310,7 +309,136 @@
         "Probability": 1
       }
     ],
-    "addtoSecureFilters": true,
+    "addtoSecureFilters": false,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "6959a7169b6dadf5c8e933c1",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "SPR300 Rifle",
+        "_parent": "6959a7169b6dadf5c8e933c2",
+        "_items": [
+          {
+            "_id": "6959a7169b6dadf5c8e933c2",
+            "_tpl": "6928b6bf523e7af9a6ed2cec",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              },
+              "Foldable": {
+                "Folded": false
+              }
+            }
+          },
+          {
+            "_id": "693b09919ced2ab5fcd9e1a0",
+            "_tpl": "6928d412401cd7f6a6ed2d0c",
+            "parentId": "6959a7169b6dadf5c8e933c2",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "693b09919ced2ab5fcd9e1a1",
+            "_tpl": "6928cdf53823872ef9ed2d00",
+            "parentId": "6959a7169b6dadf5c8e933c2",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "693b09919ced2ab5fcd9e1a2",
+            "_tpl": "6928cb010ae5910a0fed2cf9",
+            "parentId": "6959a7169b6dadf5c8e933c2",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "693b09919ced2ab5fcd9e1a3",
+            "_tpl": "6928c96c09ac8dd00eed2cf6",
+            "parentId": "6959a7169b6dadf5c8e933c2",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "693b09919ced2ab5fcd9e1a4",
+            "_tpl": "6928d0d51fddbf01dbed2d05",
+            "parentId": "6959a7169b6dadf5c8e933c2",
+            "slotId": "mod_tactical"
+          },
+          {
+            "_id": "693b09919ced2ab5fcd9e1a5",
+            "_tpl": "6928cc292075420a16ed2cfc",
+            "parentId": "693b09919ced2ab5fcd9e1a2",
+            "slotId": "mod_riser"
+          },
+          {
+            "_id": "693b09919ced2ab5fcd9e1a6",
+            "_tpl": "6928ccf3e483449082ed2cfe",
+            "parentId": "693b09919ced2ab5fcd9e1a3",
+            "slotId": "mod_muzzle"
+          }
+        ],
+        "_encyclopedia": "6928b6bf523e7af9a6ed2cec"
+      },
+
+      {
+        "_id": "6959a7169b6dadf5c8e933bc",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "SPR300 Pistol",
+        "_parent": "6959a7169b6dadf5c8e933bd",
+        "_items": [
+          {
+            "_id": "6959a7169b6dadf5c8e933bd",
+            "_tpl": "6928b6bf523e7af9a6ed2cec",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              },
+              "Foldable": {
+                "Folded": false
+              }
+            }
+          },
+          {
+            "_id": "693b09839ced2ab5fcd9d435",
+            "_tpl": "6928d412401cd7f6a6ed2d0c",
+            "parentId": "6959a7169b6dadf5c8e933bd",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "693b09839ced2ab5fcd9d436",
+            "_tpl": "6928cdf53823872ef9ed2d00",
+            "parentId": "6959a7169b6dadf5c8e933bd",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "693b09839ced2ab5fcd9d437",
+            "_tpl": "6928c96c09ac8dd00eed2cf6",
+            "parentId": "6959a7169b6dadf5c8e933bd",
+            "slotId": "mod_barrel"
+          }
+        ],
+        "_encyclopedia": "6928b6bf523e7af9a6ed2cec"
+      }
+
+
+
+    ],
+    "masterySections": [
+      {
+        "Level2": 150,
+        "Level3": 200,
+        "Name": "SPR300",
+        "Templates": [
+          "6928b6bf523e7af9a6ed2cec"
+        ]
+      }
+    ],
     "addtoTraders": true,
 
     "traders": {
@@ -323,7 +451,7 @@
           },
           "barters": [
             {
-              "count": 185000,
+              "count": 115000,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -412,7 +540,7 @@
           },
           "barters": [
             {
-              "count": 60000,
+              "count": 45000,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -458,8 +586,8 @@
         "ShortName": "SPR300 Stock",
         "Description": "Small enough to be packable, but still stabilizes the gun phenomenally." }
     },
-    "fleaPriceRoubles": 45000,
-    "handbookPriceRoubles": 44677,
+    "fleaPriceRoubles": 35000,
+    "handbookPriceRoubles": 24677,
     "addtoBots": false,
     "addtoSpecialSlots": false,
 
@@ -485,7 +613,7 @@
           },
           "barters": [
             {
-              "count": 55000,
+              "count": 37000,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -563,11 +691,9 @@
       "Recoil": -14,
       "ExtraSizeLeft":1,
       "CanSellOnRagfair":false,
-
       "HeatFactor":1.10,
       "Loudness":-72,
       "muzzleModType":"silencer",
-
       "MergesWithChildren":true,
       "Grids": [],
       "Slots": []
@@ -576,8 +702,8 @@
     { "Name":    "B&T SPR300 Suppressor",
       "ShortName": "SPR300 Suppressor",
       "Description": "Long and quiet, just like a hotdog." } },
-    "fleaPriceRoubles": 85000,
-    "handbookPriceRoubles": 75000,
+    "fleaPriceRoubles": 75000,
+    "handbookPriceRoubles": 65000,
     "addtoBots": false,
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
@@ -601,7 +727,7 @@
           },
           "barters": [
             {
-              "count": 95000,
+              "count": 78000,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -630,8 +756,7 @@
       "Recoil": -4,
       "VisibleAmmoRangesString":"1-10",
       "magAnimationIndex":6,
-      "Cartridges":
-      [
+      "Cartridges": [
         {
           "_id": "6928ce70afe5572114ed2d01",
           "_max_count": 10,
@@ -672,8 +797,8 @@
       "Name": "B&T .300blk 10-round mag",
       "ShortName": "B&T Clear 10rd",
       "Description": "A 10 round Stanag pattern magazine, made of clear plastic so that you can see how much fun you have left for the day" } },
-    "fleaPriceRoubles": 11000,
-    "handbookPriceRoubles": 9500,
+    "fleaPriceRoubles": 9000,
+    "handbookPriceRoubles": 7500,
     "addtoBots": true,
     "addtoSpecialSlots": false,
 
@@ -700,7 +825,7 @@
           },
           "barters": [
             {
-              "count": 12500,
+              "count": 8500,
               "_tpl": "MONEY_ROUBLES"
             }
           ]

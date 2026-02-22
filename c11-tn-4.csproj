@@ -41,7 +41,6 @@
   <!-- Folder structure for Visual Studio organization -->
   <ItemGroup>
     <Folder Include="Resources\bundles\" />
-    <Folder Include="Resources\db\" />
   </ItemGroup>
 
   <!-- 2. DEPLOYMENT TARGET -->
