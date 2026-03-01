@@ -304,7 +304,8 @@
     "parentId": "5a341c4086f77401f2541505",
     "handbookParentId": "5b47574386f77428ca22b330",
     "overrideProperties": {
-      "ExaminedByDefault": true,
+      "ExaminedByDefault": false,
+      "CanRequireOnRagfair":false,
       "Prefab": {
         "path": "opscoreaor2.bundle",
         "rcid": ""
@@ -574,7 +575,8 @@
     "parentId": "5a341c4086f77401f2541505",
     "handbookParentId": "5b47574386f77428ca22b330",
     "overrideProperties": {
-      "ExaminedByDefault": true,
+      "ExaminedByDefault": false,
+      "CanRequireOnRagfair":false,
       "Prefab": {
         "path": "opscoreaor1.bundle",
         "rcid": ""
@@ -843,7 +845,8 @@
     "parentId": "5a341c4086f77401f2541505",
     "handbookParentId": "5b47574386f77428ca22b330",
     "overrideProperties": {
-      "ExaminedByDefault": true,
+      "ExaminedByDefault": false,
+      "CanRequireOnRagfair":false,
       "Prefab": {
         "path": "opscorecadpat.bundle",
         "rcid": ""
@@ -1158,9 +1161,13 @@
     "addtoStaticLootContainers": true,
 
     "StaticLootContainers": [
+           {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV", 
-        "Probability": 2 
+      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+      "probability": 150
       }
     ],
     "addtoSecureFilters": true,
@@ -1234,9 +1241,13 @@
     "addtoStaticLootContainers": true,
 
     "StaticLootContainers": [
+           {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 2
+      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+      "probability": 150
       }
     ],
     "addtoSecureFilters": true,
@@ -1311,9 +1322,13 @@
     "addtoStaticLootContainers": true,
 
     "StaticLootContainers": [
+           {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV", 
-        "Probability": 2 
+      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+      "probability": 150
       }
     ],
     "addtoSecureFilters": true,
@@ -1367,9 +1382,13 @@
     "addtoStaticLootContainers": true,
 
     "StaticLootContainers": [
+           {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV", 
-        "Probability": 2 
+      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+      "probability": 150
       }
     ],
     "addtoSecureFilters": true,
@@ -1398,7 +1417,8 @@
     "parentId": "5645bcb74bdc2ded0b8b4578",
     "handbookParentId": "5b5f6f3c86f774094242ef87",
     "overrideProperties": {
-      "ExaminedByDefault": true,
+      "ExaminedByDefault": false,
+      "CanRequireOnRagfair":false,
       "Prefab": { "path": "comtacaor1.bundle", "rcid": "" },
       "BackgroundColor": "violet",
       "Width": 2, "Height": 1, "Weight": 0.35,
@@ -1423,9 +1443,13 @@
     "addtoStaticLootContainers": true,
 
     "StaticLootContainers": [
+           {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 2
+      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+      "probability": 150
       }
     ],
     "addtoSecureFilters": true,
@@ -1479,9 +1503,13 @@
     "addtoStaticLootContainers": true,
 
     "StaticLootContainers": [
+           {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 2
+      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+      "probability": 150
       }
     ],
     "addtoSecureFilters": true,
@@ -1541,9 +1569,13 @@
     "addtoStaticLootContainers": true,
 
     "StaticLootContainers": [
+           {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV", 
-        "Probability": 2 
+      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+      "probability": 150
       }
     ],
     "addtoSecureFilters": true,
@@ -1575,7 +1607,8 @@
     "parentId": "5a341c4086f77401f2541505",
     "handbookParentId": "5b47574386f77428ca22b330",
     "overrideProperties": {
-      "ExaminedByDefault": true,
+      "ExaminedByDefault": false,
+      "CanRequireOnRagfair":false,
       "Prefab": { "path": "coveraor1.bundle", "rcid": "" },
       "BackgroundColor": "violet",
       "ConflictingItems": ["6917c69f14af1f6aff139dbd",
@@ -1605,9 +1638,13 @@
     "addtoStaticLootContainers": true,
 
     "StaticLootContainers": [
+           {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 2
+      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+      "probability": 150
       }
     ],
     "addtoSecureFilters": true,
@@ -1637,7 +1674,8 @@
     "parentId": "5a341c4086f77401f2541505",
     "handbookParentId": "5b47574386f77428ca22b330",
     "overrideProperties": {
-      "ExaminedByDefault": true,
+      "ExaminedByDefault": false,
+      "CanRequireOnRagfair":false,
       "ConflictingItems": ["6917c69f14af1f6aff139dbd",
         "6917c6de1d18ca02f4868839",
         "6917c633200042156b8bdb52"
@@ -1667,16 +1705,20 @@
     "addtoStaticLootContainers": true,
 
     "StaticLootContainers": [
+           {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 2
+      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+      "probability": 150
       }
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
 
     "traders": {
-      "RAGMAN": {
+      "TRUDY": {
         "6998e5e54ae7484370f7a068": {
           "barterSettings": {
             "loyalLevel": 3,
@@ -1685,8 +1727,8 @@
           },
           "barters": [
             {
-              "count": 12500,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 55,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -1730,9 +1772,13 @@
     "addtoStaticLootContainers": true,
 
     "StaticLootContainers": [
+           {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 2
+      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+      "probability": 150
       }
     ],
     "addtoSecureFilters": true,
@@ -1792,9 +1838,13 @@
     "addtoStaticLootContainers": true,
 
     "StaticLootContainers": [
+           {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 2
+      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+      "probability": 150
       }
     ],
     "addtoSecureFilters": true,
@@ -1856,9 +1906,13 @@
     "addtoStaticLootContainers": true,
 
     "StaticLootContainers": [
+           {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV", 
-        "Probability": 2 
+      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+      "probability": 150
       }
     ],
     "addtoSecureFilters": true,
@@ -1918,9 +1972,13 @@
     "addtoStaticLootContainers": true,
 
     "StaticLootContainers": [
+           {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV", 
-        "Probability": 2 
+      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+      "probability": 150
       }
     ],
     "addtoSecureFilters": true,
@@ -1981,9 +2039,13 @@
     "addtoStaticLootContainers": true,
 
     "StaticLootContainers": [
+           {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV", 
-        "Probability": 2 
+      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+      "probability": 150
       }
     ],
     "addtoSecureFilters": true,
@@ -2040,9 +2102,13 @@
     "addtoStaticLootContainers": true,
 
     "StaticLootContainers": [
+           {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV", 
-        "Probability": 2 
+      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+      "probability": 150
       }
     ],
     "addtoSecureFilters": true,
@@ -2099,9 +2165,13 @@
     "addtoStaticLootContainers": true,
 
     "StaticLootContainers": [
+           {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV", 
-        "Probability": 2 
+      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+      "probability": 150
       }
     ],
     "addtoSecureFilters": true,
@@ -2158,9 +2228,13 @@
     "addtoStaticLootContainers": true,
 
     "StaticLootContainers": [
+           {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV", 
-        "Probability": 2 
+      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+      "probability": 150
       }
     ],
     "addtoSecureFilters": true,

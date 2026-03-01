@@ -5,7 +5,7 @@ using SPTarkov.Server.Core.Models.Common;
 using SPTarkov.Server.Core.Models.Eft.Common.Tables;
 using SPTarkov.Server.Core.Services;
 
-namespace c11blacklister.Resources.Utilities;
+namespace c11_tn_4.Utilities;
 // Shoutout EpicRangeTime for letting me use his code, and CJ and Drakia for creating said code
 
 [Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 3)]

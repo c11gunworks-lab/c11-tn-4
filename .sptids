@@ -2280,6 +2280,14 @@
       "RPM": 720
     }
   },
+    "699f89c757994beece5cf7e1": {
+      "en": {
+        "Name": "Juicy Trudy",
+        "ShortName": "Trudy",
+        "Type": "TRADER"
+        
+      }
+    },
   "6959ae648ab2d4472721a22e": {
     "en": {
       "Name": "Poly Technologies Type 81 Dust Cover Camo",

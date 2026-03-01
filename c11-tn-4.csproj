@@ -35,12 +35,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="WTT-ServerCommonLib" Version="2.0.6" />
+    <PackageReference Include="WTT-ServerCommonLib" Version="2.0.15" />
   </ItemGroup>
 
   <!-- Folder structure for Visual Studio organization -->
   <ItemGroup>
     <Folder Include="Resources\bundles\" />
+    <Folder Include="Resources\db\trudy\" />
   </ItemGroup>
 
   <!-- 2. DEPLOYMENT TARGET -->
@@ -94,6 +95,7 @@
         )
       )
     " />
+   
 
     <Message Importance="high" Text="[DeployMod] Deployment Complete." />
   </Target>

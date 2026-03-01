@@ -209,9 +209,13 @@
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
+           {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 150
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 2
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+      "probability": 250
       }
     ],
     "addtoSecureFilters": true,
@@ -424,7 +428,7 @@
     ],
     "addtoTraders": true,
     "traders": {
-      "PRAPOR": {
+      "TRUDY": {
         "6930cfa508316815076d3d08": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -433,8 +437,8 @@
           },
           "barters": [
             {
-              "count": 22500,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 225,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -475,15 +479,19 @@
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
+           {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 150
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 1
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability": 250
       }
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "PRAPOR": {
+      "TRUDY": {
         "6920fa076fbf92f2428e4d96": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -492,8 +500,8 @@
           },
           "barters": [
             {
-              "count": 6500,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 65,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -556,15 +564,19 @@
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
+           {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 150
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 2
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability": 250
       }
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "PRAPOR": {
+      "TRUDY": {
         "6920fad142c29716ee18da74": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -573,8 +585,8 @@
           },
           "barters": [
             {
-              "count": 6500,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 65,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -638,15 +650,19 @@
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
+            {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 150
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 5
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability": 250
       }
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "PRAPOR": {
+      "TRUDY": {
         "6930d1447434bf89d06d3d0e": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -655,8 +671,8 @@
           },
           "barters": [
             {
-              "count": 8000,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 80,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -697,15 +713,19 @@
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
+            {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 150
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 5
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability": 250
       }
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "PRAPOR": {
+      "TRUDY": {
         "6920fc2561e98f72d568b7b3": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -714,8 +734,8 @@
           },
           "barters": [
             {
-              "count": 9500,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 95,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -756,15 +776,19 @@
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
+            {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 150
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 5
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability": 250
       }
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "PRAPOR": {
+      "TRUDY": {
         "6930d2cd864ccbfdfa6d3d13": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -773,8 +797,8 @@
           },
           "barters": [
             {
-              "count": 27500,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 275,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -814,15 +838,19 @@
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
+            {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 150
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 5
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability": 250
       }
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "PRAPOR": {
+      "TRUDY": {
         "6932efc8e78eb21bc6b155ce": {
           "barterSettings": {
             "loyalLevel": 3,
@@ -831,8 +859,8 @@
           },
           "barters": [
             {
-              "count": 47500,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 475,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -875,15 +903,19 @@
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
+            {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 150
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 5
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability": 250
       }
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "PRAPOR": {
+      "TRUDY": {
         "6930d34583f4012bc96d3d15": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -892,8 +924,8 @@
           },
           "barters": [
             {
-              "count": 7500,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 75,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -963,15 +995,19 @@
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
+            {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 150
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 5
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability": 250
       }
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "PRAPOR": {
+      "TRUDY": {
         "6930d44474028b03656d3d18": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -980,8 +1016,8 @@
           },
           "barters": [
             {
-              "count": 17500,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 175,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -1052,15 +1088,19 @@
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
+            {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 150
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 5
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability": 250
       }
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "PRAPOR": {
+      "TRUDY": {
         "6933234168d8a859ddb155d4": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -1069,8 +1109,8 @@
           },
           "barters": [
             {
-              "count": 7500,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 75,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -1104,16 +1144,20 @@
     "addtoStaticLootContainers": true,
 
     "StaticLootContainers": [
+           {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 150
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 1
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability": 250
       }
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
 
     "traders": {
-      "PRAPOR": {
+      "TRUDY": {
         "6930ed35c46fe1f8e3c33497": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -1122,8 +1166,8 @@
           },
           "barters": [
             {
-              "count": 6000,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 60,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -1182,16 +1226,20 @@
     "addtoStaticLootContainers": true,
 
     "StaticLootContainers": [
+           {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 150
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 1
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability": 250
       }
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
 
     "traders": {
-      "PRAPOR": {
+      "TRUDY": {
         "6933227146e02396a3b155d1": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -1200,8 +1248,8 @@
           },
           "barters": [
             {
-              "count": 16000,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 160,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -1270,16 +1318,20 @@
     "addtoStaticLootContainers": true,
 
     "StaticLootContainers": [
+           {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 150
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 1
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability": 250
       }
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
 
     "traders": {
-      "PRAPOR": {
+      "TRUDY": {
         "693224f5ecebe55e8fe95bef": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -1288,8 +1340,8 @@
           },
           "barters": [
             {
-              "count": 16000,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 160,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -1361,16 +1413,20 @@
     "addtoStaticLootContainers": true,
 
     "StaticLootContainers": [
+           {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 150
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 1
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability": 250
       }
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
 
     "traders": {
-      "PRAPOR": {
+      "TRUDY": {
         "6933298d51e9454b96b155d5": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -1379,8 +1435,8 @@
           },
           "barters": [
             {
-              "count": 26000,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 260,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -1527,16 +1583,20 @@
     "addtoStaticLootContainers": true,
 
     "StaticLootContainers": [
+           {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 150
+      },
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 1
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability": 250
       }
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
 
     "traders": {
-      "PRAPOR": {
+      "TRUDY": {
         "693225a575c3104668e95bf2": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -1545,8 +1605,8 @@
           },
           "barters": [
             {
-              "count": 36000,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 360,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }

@@ -36,7 +36,11 @@
     "StaticLootContainers": [
       {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 5
+        "Probability": 150
+      },
+      {
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability":250
       }
     ],
     "addtoSecureFilters": true,
@@ -97,7 +101,11 @@
     "StaticLootContainers": [
       {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 5
+        "Probability": 150
+      },
+      {
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability":250
       }
     ],
     "addtoSecureFilters": true,
@@ -198,13 +206,19 @@
     "StaticLootContainers": [
       {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 5
+        "Probability": 150
+      },
+      {
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability": 250
       }
+      
+
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "MECHANIC": {
+      "TRUDY": {
         "697be2cf16b87abac56eba5a": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -213,8 +227,8 @@
           },
           "barters": [
             {
-              "count": 7500,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 15,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }

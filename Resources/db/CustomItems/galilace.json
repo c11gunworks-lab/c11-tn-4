@@ -209,8 +209,8 @@
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 2
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "Probability": 250
       }
     ],
     "addtoSecureFilters": true,
@@ -388,7 +388,11 @@
     "StaticLootContainers": [
       {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 1
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability":250
       }
     ],
     "addtoSecureFilters": true,
@@ -513,7 +517,11 @@
     "StaticLootContainers": [
       {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 2
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability":250
       }
     ],
     "addtoSecureFilters": true,
@@ -569,9 +577,13 @@
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
-      {
+           {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 5
+        "Probability": 150
+      },
+      {
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability":250
       }
     ],
     "addtoSecureFilters": true,
@@ -759,9 +771,13 @@
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
-      {
+           {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 5
+        "Probability": 150
+      },
+      {
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability":250
       }
     ],
     "addtoSecureFilters": true,
@@ -920,9 +936,13 @@
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
-      {
+           {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 5
+        "Probability": 150
+      },
+      {
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability":250
       }
     ],
     "addtoSecureFilters": true,
@@ -978,9 +998,13 @@
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
-      {
+           {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 5
+        "Probability": 150
+      },
+      {
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability":250
       }
     ],
     "addtoSecureFilters": true,
@@ -1036,9 +1060,13 @@
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
-      {
+           {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 5
+        "Probability": 150
+      },
+      {
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability":250
       }
     ],
     "addtoSecureFilters": true,
@@ -1131,7 +1159,11 @@
     "StaticLootContainers": [
       {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 15
+        "Probability": 150
+      },
+      {
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability":250
       }
     ],
     "addtoSecureFilters": true,
@@ -1213,7 +1245,11 @@
     "StaticLootContainers": [
       {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 15
+        "Probability": 150
+      },
+      {
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability":250
       }
     ],
     "addtoSecureFilters": true,

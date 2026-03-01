@@ -464,8 +464,8 @@
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 5
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
       }
     ],
     "addtoSecureFilters": true,
@@ -525,8 +525,8 @@
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 5
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
       }
     ],
     "addtoSecureFilters": false,
@@ -594,12 +594,9 @@
     "addtoBots": false,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
-    "addtoStaticLootContainers": true,
+    "addtoStaticLootContainers": false,
     "StaticLootContainers": [
-      {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 5
-      }
+      
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
@@ -627,7 +624,8 @@
     "parentId": "5448bc234bdc2d3c308b4569",
     "handbookParentId": "5b5f754a86f774094242f19b",
     "overrideProperties": {
-      "ExaminedByDefault": true,
+      "ExaminedByDefault": false,
+      "CanRequireOnRagfair":false,
       "Prefab": {
         "path": "drummy.bundle",
         "rcid": ""
@@ -697,12 +695,9 @@
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
-    "addtoStaticLootContainers": true,
+    "addtoStaticLootContainers": false,
     "StaticLootContainers": [
-      {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 5
-      }
+     
     ],
     "addtoSecureFilters": false,
     "addtoTraders": true,
@@ -759,8 +754,12 @@
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 15
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "Probability": 150
+      },
+      {
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability": 250
       }
     ],
     "addtoSecureFilters": true,
@@ -790,7 +789,8 @@
     "parentId": "555ef6e44bdc2de9068b457e",
     "handbookParentId": "5b5f75c686f774094242f19f",
     "overrideProperties": {
-      "ExaminedByDefault": true,
+      "ExaminedByDefault": false,
+      "CanRequireOnRagfair":false,
       "Prefab": {
         "path": "10barrel.bundle",
         "rcid": ""
@@ -878,14 +878,11 @@
     "addtoBots": false,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
-    "addtoStaticLootContainers": true,
+    "addtoStaticLootContainers": false,
     "StaticLootContainers": [
-      {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 15
-      }
+     
     ],
-    "addtoSecureFilters": true,
+    "addtoSecureFilters": false,
     "addtoTraders": true,
     "traders": {
       "PEACEKEEPER": {
@@ -910,7 +907,8 @@
     "parentId": "555ef6e44bdc2de9068b457e",
     "handbookParentId": "5b5f75c686f774094242f19f",
     "overrideProperties": {
-      "ExaminedByDefault": true,
+      "ExaminedByDefault": false,
+      "CanRequireOnRagfair":false,
       "Prefab": {
         "path": "13barrel.bundle",
         "rcid": ""
@@ -998,9 +996,10 @@
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 15
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "Probability": 50
       }
+     
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
@@ -1116,8 +1115,12 @@
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 15
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "Probability": 150
+      },
+      {
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability": 250
       }
     ],
     "addtoSecureFilters": true,
@@ -1212,8 +1215,13 @@
     "StaticLootContainers": [
       {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 5
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
       }
+
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,

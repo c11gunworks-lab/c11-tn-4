@@ -437,17 +437,17 @@
     ],
     "addtoTraders": true,
     "traders": {
-      "PRAPOR": {
+      "TRUDY": {
         "695998f9590b9964e921a20d": {
           "barterSettings": {
-            "loyalLevel": 3,
+            "loyalLevel": 4,
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },
           "barters": [
             {
-              "count": 922500,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 9225,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -487,7 +487,7 @@
     "addtoBots": false,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
-    "addtoStaticLootContainers": true,
+    "addtoStaticLootContainers": false,
     "StaticLootContainers": [
       {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
@@ -497,17 +497,17 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "PRAPOR": {
+      "TRUDY": {
         "6959991bba98f0f17821a20f": {
           "barterSettings": {
-            "loyalLevel": 2,
+            "loyalLevel": 4,
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },
           "barters": [
             {
-              "count": 8500,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 85,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -570,7 +570,7 @@
     "addtoBots": false,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
-    "addtoStaticLootContainers": true,
+    "addtoStaticLootContainers": false,
     "StaticLootContainers": [
       {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
@@ -580,17 +580,17 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "PRAPOR": {
+      "TRUDY": {
         "6959997ba42feec65221a212": {
           "barterSettings": {
-            "loyalLevel": 2,
+            "loyalLevel": 4,
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },
           "barters": [
             {
-              "count": 13000,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 130,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -631,7 +631,7 @@
     "handbookPriceRoubles": 7500,
     "addtoBots": false,
     "addtoSpecialSlots": false,
-    "addtoStaticLootContainers": true,
+    "addtoStaticLootContainers": false,
     "StaticLootContainers": [
       {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
@@ -641,17 +641,17 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "PRAPOR": {
+      "TRUDY": {
         "695999f18a7b530a2821a214": {
           "barterSettings": {
-            "loyalLevel": 2,
+            "loyalLevel": 4,
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },
           "barters": [
             {
-              "count": 11500,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 115,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -693,7 +693,7 @@
     "addtoBots": false,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
-    "addtoStaticLootContainers": true,
+    "addtoStaticLootContainers": false,
     "StaticLootContainers": [
       {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
@@ -703,17 +703,17 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "PRAPOR": {
+      "TRUDY": {
         "69599a6529124fc64421a216": {
           "barterSettings": {
-            "loyalLevel": 2,
+            "loyalLevel": 4,
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },
           "barters": [
             {
-              "count": 37500,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 375,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -766,7 +766,7 @@
     "addtoBots": false,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
-    "addtoStaticLootContainers": true,
+    "addtoStaticLootContainers": false,
     "StaticLootContainers": [
       {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
@@ -776,17 +776,17 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "PRAPOR": {
+      "TRUDY": {
         "69599b2c28173bb6ac21a21a": {
           "barterSettings": {
-            "loyalLevel": 3,
+            "loyalLevel": 4,
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },
           "barters": [
             {
-              "count": 27500,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 275,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -828,7 +828,7 @@
     "addtoBots": false,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
-    "addtoStaticLootContainers": true,
+    "addtoStaticLootContainers": false,
     "StaticLootContainers": [
       {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
@@ -838,17 +838,17 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "PRAPOR": {
+      "TRUDY": {
         "69599bb25ac09107e021a21c": {
           "barterSettings": {
-            "loyalLevel": 1,
+            "loyalLevel": 4,
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },
           "barters": [
             {
-              "count": 8500,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 85,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -890,7 +890,7 @@
     "addtoBots": false,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
-    "addtoStaticLootContainers": true,
+    "addtoStaticLootContainers": false,
     "StaticLootContainers": [
       {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
@@ -900,17 +900,17 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "PRAPOR": {
+      "TRUDY": {
         "69599c20a73e06448a21a21e": {
           "barterSettings": {
-            "loyalLevel": 2,
+            "loyalLevel": 4,
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },
           "barters": [
             {
-              "count": 1500,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 15,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -979,7 +979,7 @@
     "handbookPriceRoubles": 2000,
     "addtoBots": false,
     "addtoSpecialSlots": false,
-    "addtoStaticLootContainers": true,
+    "addtoStaticLootContainers": false,
 
     "StaticLootContainers": [
       {
@@ -991,17 +991,17 @@
     "addtoTraders": true,
 
     "traders": {
-      "PRAPOR": {
+      "TRUDY": {
         "69599cc6662f566c0321a21f": {
           "barterSettings": {
-            "loyalLevel": 1,
+            "loyalLevel": 4,
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },
           "barters": [
             {
-              "count": 2000,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 20,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -1075,7 +1075,7 @@
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
-    "addtoStaticLootContainers": true,
+    "addtoStaticLootContainers": false,
     "StaticLootContainers": [
       {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
@@ -1085,17 +1085,17 @@
     "addtoSecureFilters": false,
     "addtoTraders": true,
     "traders": {
-      "PRAPOR": {
+      "TRUDY": {
         "696800167baeb8bcc4a35d5b": {
           "barterSettings": {
-            "loyalLevel": 1,
+            "loyalLevel": 4,
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },
           "barters": [
             {
-              "count": 17500,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 175,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -1147,7 +1147,7 @@
     "addtoBots": false,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
-    "addtoStaticLootContainers": true,
+    "addtoStaticLootContainers": false,
     "StaticLootContainers": [
       {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
@@ -1157,17 +1157,17 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "PRAPOR": {
+      "TRUDY": {
         "6985176fd25b84d426de0b90": {
           "barterSettings": {
-            "loyalLevel": 2,
+            "loyalLevel": 4,
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },
           "barters": [
             {
-              "count": 5500,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 55,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }

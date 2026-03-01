@@ -244,15 +244,19 @@
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
-      {
+          {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 15
+        "Probability": 150
+      },
+      {
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability": 250
       }
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "SKIER": {
+      "TRUDY": {
         "694c843974f04af89d40f8c3": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -261,7 +265,7 @@
           },
           "barters": [
             {
-              "count": 12000,
+              "count": 12,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -375,15 +379,19 @@
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
-      {
+          {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 15
+        "Probability": 150
+      },
+      {
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability": 250
       }
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "SKIER": {
+      "TRUDY": {
         "694d4eb0d50091010b40f8c7": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -392,7 +400,7 @@
           },
           "barters": [
             {
-              "count": 6500,
+              "count": 6,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -462,15 +470,19 @@
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
-      {
+          {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 15
+        "Probability": 150
+      },
+      {
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability": 250
       }
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "SKIER": {
+      "TRUDY": {
         "694d4f9189876571af40f8ca": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -479,7 +491,7 @@
           },
           "barters": [
             {
-              "count": 1650,
+              "count": 2,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -522,15 +534,19 @@
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
-      {
+          {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 15
+        "Probability": 150
+      },
+      {
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability": 250
       }
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "SKIER": {
+      "TRUDY": {
         "694d51ca874c20a17f40f8ce": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -539,7 +555,7 @@
           },
           "barters": [
             {
-              "count": 8000,
+              "count": 8,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -582,15 +598,19 @@
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
-      {
+          {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 15
+        "Probability": 150
+      },
+      {
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability": 250
       }
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "SKIER": {
+      "TRUDY": {
         "694d7352421e0f3f8140f8d3": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -599,7 +619,7 @@
           },
           "barters": [
             {
-              "count": 3500,
+              "count": 4,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -649,15 +669,19 @@
     ],
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
-      {
+          {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 15
+        "Probability": 150
+      },
+      {
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability": 250
       }
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "SKIER": {
+      "TRUDY": {
         "694d5771531e57433140f8d1": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -666,7 +690,7 @@
           },
           "barters": [
             {
-              "count": 1500,
+              "count": 2,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -708,15 +732,19 @@
     
     "addtoStaticLootContainers": true,
     "StaticLootContainers": [
-      {
+          {
         "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 15
+        "Probability": 150
+      },
+      {
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability": 250
       }
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "SKIER": {
+      "TRUDY": {
         "694d86556befcbeb9840f8d6": {
           "barterSettings": {
             "loyalLevel": 1,
@@ -725,7 +753,7 @@
           },
           "barters": [
             {
-              "count": 1500,
+              "count": 2,
               "_tpl": "MONEY_ROUBLES"
             }
           ]

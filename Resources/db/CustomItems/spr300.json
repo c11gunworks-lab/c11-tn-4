@@ -301,13 +301,10 @@
     "addtoSpecialSlots": false,
 
     "addtoModSlots": false,
-    "addtoStaticLootContainers": true,
+        "addtoStaticLootContainers": false,
 
     "StaticLootContainers": [
-      {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 1
-      }
+     
     ],
     "addtoSecureFilters": false,
     "addWeaponPreset": true,
@@ -442,7 +439,7 @@
     "addtoTraders": true,
 
     "traders": {
-      "jaeger": {
+      "TRUDY": {
         "6928c81aae6ed6b222ed2cf5": {
           "barterSettings": {
             "loyalLevel": 4,
@@ -451,8 +448,8 @@
           },
           "barters": [
             {
-              "count": 115000,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 1150,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -519,19 +516,16 @@
     "addtoSpecialSlots": false,
 
     "addtoModSlots": false,
-    "addtoStaticLootContainers": true,
+        "addtoStaticLootContainers": false,
 
     "StaticLootContainers": [
-      {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 1
-      }
+     
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
 
     "traders": {
-      "jaeger": {
+      "TRUDY": {
         "6928caf34511d75ac6ed2cf8": {
           "barterSettings": {
             "loyalLevel": 4,
@@ -540,8 +534,8 @@
           },
           "barters": [
             {
-              "count": 45000,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 450,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -592,19 +586,16 @@
     "addtoSpecialSlots": false,
 
     "addtoModSlots": false,
-    "addtoStaticLootContainers": true,
+        "addtoStaticLootContainers": false,
 
     "StaticLootContainers": [
-      {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 1
-      }
+     
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
 
     "traders": {
-      "jaeger": {
+      "TRUDY": {
         "6928cbf71707e6385eed2cfa": {
           "barterSettings": {
             "loyalLevel": 4,
@@ -613,8 +604,8 @@
           },
           "barters": [
             {
-              "count": 37000,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 370,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -646,19 +637,16 @@
     "addtoSpecialSlots": false,
 
     "addtoModSlots": false,
-    "addtoStaticLootContainers": true,
+        "addtoStaticLootContainers": false,
 
     "StaticLootContainers": [
-      {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 1
-      }
+     
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
 
     "traders": {
-      "jaeger": {
+      "TRUDY": {
         "6928ccaf533a52f687ed2cfd": {
           "barterSettings": {
             "loyalLevel": 4,
@@ -667,8 +655,8 @@
           },
           "barters": [
             {
-              "count": 12000,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 120,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -706,19 +694,16 @@
     "handbookPriceRoubles": 65000,
     "addtoBots": false,
     "addtoSpecialSlots": false,
-    "addtoStaticLootContainers": true,
+        "addtoStaticLootContainers": false,
 
     "StaticLootContainers": [
-      {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 1
-      }
+     
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
 
     "traders": {
-      "jaeger": {
+      "TRUDY": {
         "6928cddc4e1b739c30ed2cff": {
           "barterSettings": {
             "loyalLevel": 4,
@@ -727,8 +712,8 @@
           },
           "barters": [
             {
-              "count": 78000,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 780,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -816,7 +801,7 @@
     "addtoTraders": true,
 
     "traders": {
-      "jaeger": {
+      "TRUDY": {
         "6928cf92eda1df24b6ed2d02": {
           "barterSettings": {
             "loyalLevel": 3,
@@ -825,8 +810,8 @@
           },
           "barters": [
             {
-              "count": 8500,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 85,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -1019,19 +1004,16 @@
     "addtoSpecialSlots": false,
 
     "addtoModSlots": false,
-    "addtoStaticLootContainers": true,
+        "addtoStaticLootContainers": false,
 
     "StaticLootContainers": [
-      {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 1
-      }
+     
     ],
     "addtoSecureFilters": true,
     "addtoTraders": true,
 
     "traders": {
-      "jaeger": {
+      "TRUDY": {
         "6928d24d96680d1d64ed2d0a": {
           "barterSettings": {
             "loyalLevel": 4,
@@ -1040,8 +1022,8 @@
           },
           "barters": [
             {
-              "count": 27500,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 275,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -1093,7 +1075,7 @@
     "addtoTraders": true,
 
     "traders": {
-      "jaeger": {
+      "TRUDY": {
         "6956a8daadf53c606353eccf": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -1102,8 +1084,8 @@
           },
           "barters": [
             {
-              "count": 8500,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 85,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }

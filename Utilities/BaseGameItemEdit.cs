@@ -5,7 +5,7 @@ using SPTarkov.Server.Core.Models.Eft.Common.Tables;
 using SPTarkov.Server.Core.Models.Utils;
 using SPTarkov.Server.Core.Services;
 
-namespace c11itemedit.Resources.Utilities;
+namespace c11_tn_4.Utilities;
 
 [Injectable(typePriority: OnLoadOrder.PostDBModLoader + 3)]
 public class BaseGameItemEdits(
