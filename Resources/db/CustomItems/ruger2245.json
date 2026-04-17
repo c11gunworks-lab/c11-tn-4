@@ -64,7 +64,11 @@
                   "694c796b42ae52a1a940f8ba",
                   "694efa39da82e820e540f8da",
                   "694ef9c8bc499b141d40f8d7",
-                  "69504d179eec4a16c140f8df"
+                  "69504d179eec4a16c140f8df",
+                  "42fb193ffb1315101b1d0441",
+                  "2b6a06054693ed3fa9c47542",
+                  "b972903f30708cd41c8265ba",
+                  "e8e8cdc108d343708aa07b2d"
                 ]
               }
             ]
@@ -146,6 +150,7 @@
             "filters": [
               {
                 "Filter": [
+                  "69a9dfa0e55d527115eee872",
                   "5b3a16655acfc40016387a2a",
                   "5c7e5f112e221600106f4ede",
                   "5c0fafb6d174af02a96260ba",
@@ -266,7 +271,7 @@
           "barters": [
             {
               "count": 12,
-              "_tpl": "MONEY_ROUBLES"
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -401,7 +406,7 @@
           "barters": [
             {
               "count": 6,
-              "_tpl": "MONEY_ROUBLES"
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -418,6 +423,8 @@
         "path": "ruger10rd.bundle",
         "rcid": ""
       },
+      "ExaminedByDefault": true,
+
       "AnimationVariantsNumber": 0,
       "BackgroundColor": "blue",
       "CanPutIntoDuringTheRaid": true,
@@ -436,7 +443,11 @@
 "694c796b42ae52a1a940f8ba",
                   "694efa39da82e820e540f8da",
                   "694ef9c8bc499b141d40f8d7",
-                  "69504d179eec4a16c140f8df"
+                  "69504d179eec4a16c140f8df",
+                  "42fb193ffb1315101b1d0441",
+                  "2b6a06054693ed3fa9c47542",
+                  "b972903f30708cd41c8265ba",
+                  "e8e8cdc108d343708aa07b2d"
                 ]
               }
             ]
@@ -492,7 +503,7 @@
           "barters": [
             {
               "count": 2,
-              "_tpl": "MONEY_ROUBLES"
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -556,7 +567,7 @@
           "barters": [
             {
               "count": 8,
-              "_tpl": "MONEY_ROUBLES"
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -620,7 +631,7 @@
           "barters": [
             {
               "count": 4,
-              "_tpl": "MONEY_ROUBLES"
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -691,7 +702,7 @@
           "barters": [
             {
               "count": 2,
-              "_tpl": "MONEY_ROUBLES"
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -754,7 +765,7 @@
           "barters": [
             {
               "count": 2,
-              "_tpl": "MONEY_ROUBLES"
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }

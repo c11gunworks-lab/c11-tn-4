@@ -8,8 +8,7 @@ using SPTarkov.Server.Core.Servers;
 using SPTarkov.Server.Core.Utils;
 using System.Reflection;
 using Path = System.IO.Path;
-using System.Text.Json;             
-using System.Text.Json.Serialization;
+
 using c11_tn_4.Utilities;
 
 namespace c11_tn_4.Traders;
@@ -37,7 +36,7 @@ public class Trudy(
         // A relative path to the trader icon to show
         var traderImagePath = Path.Combine(pathToMod, "db/trudy/trudy.png");
 
-        // The base json containing trader settings we will add to the server
+        // The base JSON containing trader settings we will add to the server
         var traderBase = modHelper.GetJsonDataFromFile<TraderBase>(pathToMod, "db/trudy/base.json");
 
         // Create a helper class and use it to register our traders image/icon + set its stock refresh time
@@ -54,7 +53,7 @@ public class Trudy(
         // 3: The Loyalty level, what rep level is required to buy the item from trader
         traderHelper.AddTraderWithEmptyAssortToDb(traderBase);
 
-        // Add localisation text for our trader to the database so it shows to people playing in different languages
+        // Add localization text for our trader to the database so it shows to people playing in different languages
         traderHelper.AddTraderToLocales(traderBase, "Trudy", "An obsessively polite westerner with suspiciously pristine hair, poorly disguised behind a pair of thick-rimmed glasses and a clearly synthetic mustache. His business in the Norvinsk region involves liquidating massive shipments of freshly prohibited civilian firearms");
 
         // Get the assort data from JSON

@@ -1,0 +1,214 @@
+﻿{
+  "69a9dfa0e55d527115eee872": {
+    "itemTplToClone": "5d3ef698a4b9361182109872",
+    "parentId": "550aa4cd4bdc2dd8348b456c",
+    "handbookParentId": "5b5f731a86f774093e6cb4f9",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "dam22.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "blue",
+      "Accuracy":3,
+      "ExtraSizeForceAdd":true,
+      "ExtraSizeLeft":1,
+      "HeatFactor":1.15,
+
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.187,
+      "Ergonomics": -2,
+      "Recoil": -1,
+      "Loudness":-25,
+      "Velocity":1.75,
+      "muzzleModType":"silencer",
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "Name": "DAM22",
+        "ShortName": "DAM22",
+        "Description": "DAM22"
+      }
+    },
+    "fleaPriceRoubles": 12000,
+    "handbookPriceRoubles": 5000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69a9e050d8cdee7456eee873": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 62,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69a9e0fb79fe0b0af4eee874": {
+    "itemTplToClone": "5a9fbb84a2750c00137fa685",
+    "parentId": "550aa4cd4bdc2dd8348b456c",
+    "handbookParentId": "5b5f731a86f774093e6cb4f9",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mfmdblk.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "violet",
+      "Accuracy":3,
+      "ExtraSizeForceAdd":true,
+      "ExtraSizeLeft":0,
+      "HeatFactor":0.97,
+      "DurabilityBurnModificator":0.95,
+
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.187,
+      "Ergonomics": -5,
+      "Recoil": -45,
+      "Loudness":-35,
+      "Velocity":2.00,
+      "muzzleModType":"silencer",
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "Name": "mfmdblk",
+        "ShortName": "mfmdblk",
+        "Description": "mfmdblk"
+      }
+    },
+    "fleaPriceRoubles": 82000,
+    "handbookPriceRoubles": 75000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69a9e18c72f65b9e84eee875": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 180,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69a9e1a0170829d138eee876": {
+    "itemTplToClone": "5a9fbb84a2750c00137fa685",
+    "parentId": "550aa4cd4bdc2dd8348b456c",
+    "handbookParentId": "5b5f731a86f774093e6cb4f9",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mfmdfde.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "violet",
+      "Accuracy":3,
+      "ExtraSizeForceAdd":true,
+      "ExtraSizeLeft":0,
+      "HeatFactor":0.97,
+      "DurabilityBurnModificator":0.95,
+
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.187,
+      "Ergonomics": -5,
+      "Recoil": -45,
+      "Loudness":-35,
+      "Velocity":2.00,
+      "muzzleModType":"silencer",
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "Name": "mfmdfde",
+        "ShortName": "mfmdfde",
+        "Description": "mfmdfde"
+      }
+    },
+    "fleaPriceRoubles": 87000,
+    "handbookPriceRoubles": 75000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69a9e1b58f9ad4f62aeee877": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 200,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

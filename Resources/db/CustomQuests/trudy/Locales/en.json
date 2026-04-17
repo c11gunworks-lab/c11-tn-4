@@ -1,0 +1,51 @@
+﻿{
+  "69b30ec8e0f88a8ea828ae3e name": "Oh, Canada?",
+  "69b30ec8e0f88a8ea828ae3e description": "Mercenary. We have a... unique situation. A former head of state, or so he claims, has arrived in the region. He is trying very hard to blend in with the local scavengers, though his haircut costs more than my armored vehicles. We have a history from my UN days. He wants to meet you, but insists you prove your 'patriotism' to his homeland first. Humor him, yes? You'll find what you need in the woods. Search high and hidden, low and deep, and in the lumberjacks transport.",
+  "69b30ec8e0f88a8ea828ae3e successMessageText": "Ah, you survived his little scavenger hunt. Good. He is waiting for you now. Try not to laugh at his accent.",
+  "69b30ec8e0f88a8ea828ae3e acceptPlayerMessage": "He provided a list of... cultural artifacts. Bring them to him. And take this, he said it represents his 'middle-class values'. Whatever that means.",
+  "69b31bfc12843f300728ae42": "Find Timmies Cup",
+  "69b31c0756bbad643828ae43": "Handover Timmies Cup",
+  "69b31c83ac97ada45828ae44": "Find $10 Bill",
+  "69b31c852fe822573028ae45": "Handover $10 Bill",
+  "69b31c8f306b5a217c28ae46": "Find Great One Statue",
+  "69b31c90a3a3c6064028ae47": "Handover Great One Statue",
+
+  "69b17a80d1cca0000ce9244e name": "Unpinned",
+  "69b17a80d1cca0000ce9244e description": "We need to invest in the local community by, uh, permanently relocating those hosers driving down the property value, eh? Just give 'er with that Type-81. Oh, and grab me a screw-gun from the hardware store. We're building back better!",
+  "69b17a80d1cca0000ce9244e successMessageText": "Right on, bud! You really showed them the strength of our diversity... of firepower! Just, uh, don't tell the RCMP about this little modification, eh? It's strictly off the official ledger.",
+  "69b17a80d1cca0000ce9244e acceptPlayerMessage": "Howdy there, fellow... roughneck! Justin—er, Juicy Trudy here. Listen bud, I see you're being held back by that five-round pinned mag. It's a real bummer for the hard-working middle-class PMC, eh? Tell you what, if you go out and distribute some aggressive politeness to the local riff-raff, and fetch me a power drill, I'll unpin that bad boy for ya. Fer sure, buddy!",
+  "69b1810eea9f5d7496e92451": "Get 10 Kills with the Pinned Type-81 Mag",
+  "69b18134f8e0503b76e92452": "Hand over an Electric Drill",
+  "69b18177edd3ea5e15e92454": "Hand over 5 pinned Type-81 Mags",
+
+  "69b18f020d3977c5dfe92464 name": "Tough Skull",
+  "69b18f020d3977c5dfe92464 description": "Head on down to the ol' Canadian Tire—figuratively speaking, of course, given the geopolitical climate—and get me some snips and Poxeram. Also, liberate a couple of those high-cut helmets from the fellas out there. We're doing a grassroots tactical initiative!",
+  "69b18f020d3977c5dfe92464 successMessageText": "Beauty! These look just like the ones my... uh, my security detail used to wear! Now, there's absolutely no warranty on these, bud. If you take a round to the dome, well, that's just an unacceptable outcome we'll have to accept, eh?",
+  "69b18f020d3977c5dfe92464 acceptPlayerMessage": "Hey guy! So, I was crushin' a two-four of Pilsner and watching some DIY videos, and I realized we can absolutely empower the tactical sector by making our own high-cut helmets! I'll need you to source some... unsanctioned examples from the locals. And fetch me some metal snips and epoxy so we can sustainably manufacture these babies in-house. Oh frig yeah, buddy!",
+  "69b190a6fb9c53c838e92469": "Kill 5 Enemies Wearing High-Cut Helmets",
+  "69b19254610daa4a18e9246a": "Hand over 2 High-Cut Helmets",
+  "69b193c5d743bea528e92473": "Hand over Metal Cutting Scissors",
+  "69b1941e16ba7c08c3e92474": "Hand over 2 Low-Cut Helmets",
+  "69b1950cf2eb379c66e92476": "Hand over a tube of Poxeram",
+
+  "69b1965b7c6ca240fce92477 name": "Fully Automatic Communism",
+  "69b1965b7c6ca240fce92477 description": "We're balancing the environment and the economy by recycling some heavy ordnance! Find my lost shipping container on the beach by the Lighthouse, and show those other PMCs what a real Albertan boy can do when he's properly motivated by a 30-rounder, eh!",
+  "69b1965b7c6ca240fce92477 successMessageText": "Freakin' rights, bud! You hauled that in faster than a rig pulling out of Fort Mac! Here's the good stuff. Just remember: when you're dumping mags, you're speaking for all of us!",
+  "69b1965b7c6ca240fce92477 acceptPlayerMessage": "Look here, bud. I know we promised a freeze on certain... assault-style items, but out here in the bush, a guy's gotta give 'er with full auto, eh? My, uh, completely transparent and ethically sourced shipment washed up by the lighthouse. Go slap a beacon on it so my rig pigs can haul it in. Oh, and drop 15 PMCs to prove you're committed to our robust tactical agenda.",
+  "69b19750e977acd78be9247a": "Kill 15 PMC's with the Type-81 and the 30rd Mag",
+  "69b19c4966edd68ff2e9247d": "Plant a Beacon on the Shipment of Weapons",
+
+
+  "69bf157bd21e3a7be025e83e name": "Long Gun Registry",
+  "69bf157bd21e3a7be025e83e description": "I’ve always said we need a registry for these things, mostly so I can admire the wood grain! We’re looking at some classic Albertan favorites—the Vz. 58. It's the bread and butter of the rural lifestyle. Let's get these 'non-restricted' beauties documented and into your hands, eh",
+  "69bf157bd21e3a7be025e83e successMessageText": "Beauty! The registry is officially complete. You’ve got your Vz. 58s. It’s about preserving our heritage while ensuring we have enough 'persuasion' to keep the peace. Skookum as fuck, bud!",
+  "69bf157bd21e3a7be025e83e acceptPlayerMessage": "Oh hey der, I’ve got a soft spot for these Czech 'Not-an-AKs.' Real blue-collar hardware. Go out to the Woods and show me you can handle a semi-auto. If you can track down some of that classic 'Beaver Barf' wooden furniture, I’ll let you buy as many as you want. Friggin' rights!",
+  "69bf1592a345dd230325e841": "Kill 15 PMC's with 7.62x39 weapons",
+  
+  "69bf1b90b9b142fb0625e857 name": "Short-Term Interest Rates",
+  "69bf1b90b9b142fb0625e857 description": "Bud, the economy is tightening, and so is our barrel length! We’re going short and loud—it’s an aggressive restructuring of the tactical market. This is a high-stakes investment, and the interest rates are gonna be painful, eh? Go eliminate 15 Raiders on Reserve with the VZ.58, and bring me a KS-23 stock so I have something to work with.",
+  "69bf1b90b9b142fb0625e857 successMessageText": "Holy man, you actually did it! You’re a real roughneck, aren't ya? Here’s your 7 inch barrels and the wire stock. Now you can flashbang both yourself and your enemies. Absolutely beauty work!",
+  "69bf1b90b9b142fb0625e857 acceptPlayerMessage": "Look here ya fuckin' hoser. You want the shorty Vz. 58? The one that barks like a sled dog? I need you to go to Reserve and take out those Raiders. They’ve been hoarding the little chodes, and those wire stocks too! It’s an unacceptable monopoly, and we’re here to 'redistribute' that gear. This is gonna be tougher than a $2 steak, bud. Give 'er!",
+  "69bf1fdb7a23925b6d25e878": "Kill 15 Raiders at Reserve with the VZ.58",
+  "69bf2004244506a3b225e879": "Hand over KS-23 Wire Stock"
+}

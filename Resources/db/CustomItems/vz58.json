@@ -1,0 +1,3096 @@
+﻿{
+
+
+  "69a9bd241c35419872eee854": {
+    "itemTplToClone": "59d6088586f774275f37482f",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "BackgroundColor": "black",
+      "BaseMalfunctionChance": 0.12,
+      "CanQueueSecondShot": true,
+      "CameraSnap":3.5,
+      "CameraToWeaponAngleSpeedRange":{
+        "x": 0.1,
+        "y": 0.2,
+        "z": 0
+      },
+      "Chambers": [
+        {
+          "_name": "patron_in_weapon",
+          "_id": "69a9cd99fd0a6cdb14eee855",
+          "_parent": "69a9bd241c35419872eee854",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59e0d99486f7744a32234762",
+                  "59e4d3d286f774176a36250a",
+                  "5656d7c34bdc2d9d198b4587",
+                  "59e4cf5286f7741778269d8a",
+                  "59e4d24686f7741776641ac7",
+                  "601aa3d2b2bcb34913271e6d",
+                  "64b7af5a8532cf95ee0a0dbd",
+                  "64b7af434b75259c590fa893",
+                  "64b7af734b75259c590fa895"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d4af244bdc2d962f8b4571"
+        }
+      ],
+      "CompactHandling": true,
+      "Convergence": 1.4,
+      "CoolFactorGun":3.258,
+      "CoolFactorGunMods":0.9503,
+      "DeviationCurve":2.00,
+      "DoubleActionAccuracyPenalty":1.15,
+      "DeviationMax":18,
+      "DurabilityBurnRatio": 1.08,
+      "Ergonomics": 42,
+      "ExaminedByDefault": true,
+      "Foldable": true,
+      "FoldedSlot":"mod_stock",
+      "HeatFactorByShot":1.24,
+      "HeatFactorGun":0.9306,
+      "Grids": [],
+      "Height": 1,
+      "MergesWithChildren": true,
+      "Prefab": {
+        "path": "vz58main.bundle",
+        "rcid": ""
+      },
+      "RecoilCamera": 0.04,
+      "RecoilForceBack": 360,
+      "RecoilForceUp": 135,
+      "ReloadMode": "ExternalMagazine",
+      "Retractable": false,
+      "SightingRange": 250,
+      "SingleFireRate": 450,
+      "Slots": [
+        {
+          "_name": "mod_gas_block",
+          "_id": "69a9d64280b3a8f844eee856",
+          "_parent": "69a9bd241c35419872eee854",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "69a9d77e4fbaa455f0eee860",
+                  "69bae79dde9df8f87bfa1bc6"
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_magazine",
+          "_id": "69a9d64c3ea64d8218eee857",
+          "_parent": "69a9bd241c35419872eee854",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Shift": 0,
+                "Filter": [
+                  "69a9d99ddbac50eab8eee869",
+                  "69a9dbdcdbaad6de81eee871"
+                 
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_id": "69a9d65e034870eccceee858",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "69a9bd241c35419872eee854",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69a9d9fa1ba85d4e13eee86c",
+                  "69bc242eafe21c19b7fa1bcb",
+                  "69bdda3023f8c5e2416920cd"
+                  
+                  
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69a9d8f0b47de708faeee866",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_bayonet",
+          "_parent": "69a9bd241c35419872eee854",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69a9da5c989b7745d0eee86e"
+
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_name": "mod_reciever",
+          "_id": "69a9d6695fc1373037eee859",
+          "_parent": "69a9bd241c35419872eee854",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "69a9d7364e93c2f8a7eee85e"
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_stock",
+          "_id": "69a9d67896f4528155eee85a",
+          "_parent": "69a9bd241c35419872eee854",
+          "_props": {
+            "filters": [
+              {
+                "shift": 0,
+                "Filter": [
+                  "69aa0e555c15e9d675eee897"
+
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_stock_000",
+          "_id": "69aa0c023821211ed5eee887",
+          "_parent": "69a9bd241c35419872eee854",
+          "_props": {
+            "filters": [
+              {
+                "shift": 0,
+                "Filter": [
+                  "69aa0ca9415e4bd496eee889",
+                  "69a9d86b8c86b26c6eeee865",
+                  "69bc29b28f485315c2fa1bd3",
+                  "69bc298c7ccc1024cffa1bd1",
+                  "69bc291d37403daf02fa1bce"
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_pistol_grip",
+          "_id": "69a9d68bc8a25b9e71eee85b",
+          "_parent": "69a9bd241c35419872eee854",
+          "_props": {
+            "filters": [
+              {
+                "shift": 0,
+                "Filter": [
+                  "69a9d93604db219c1deee867"
+
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "69a9d69566a6afbe70eee85c",
+          "_parent": "69a9bd241c35419872eee854",
+          "_props": {
+            "filters": [
+              {
+                "shift": 0,
+                "Filter": [
+                  "5947db3f86f77447880cf76f",
+                  "6113d6c3290d254f5e6b27db",
+                  "57486e672459770abd687134",
+                  "618a5d5852ecee1505530b2a",
+                  "5c82342f2e221644f31c060e",
+                  "576fd4ec2459777f0b518431",
+                  "5c82343a2e221644f31c0611",
+                  "5cf638cbd7f00c06595bc936",
+                  "5a7c74b3e899ef0014332c29",
+                  "591ee00d86f774592f7b841e",
+                  "5d0a29ead7ad1a0026013f27",
+                  "618a75c9a3884f56c957ca1b",
+                  "57acb6222459771ec34b5cb0",
+                  "5c61a40d2e2216001403158d",
+                  "5c90c3622e221601da359851",
+                  "638db77630c4240f9e06f8b6",
+                  "63d114019e35b334d82302f7",
+                  "6544d4187c5457729210d277",
+                  "65f1b1176dbd6c5ba2082eed"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Velocity": 2,
+      "Weight": 3.5,
+      "Width": 3,
+      "ammoCaliber": "Caliber762x39",
+      "bEffDist": 450,
+      "bFirerate": 800,
+      "bHearDist": 80,
+      "chamberAmmoCount": 1,
+      "defAmmo": "5656d7c34bdc2d9d198b4587",
+      "defMagType": "69a9d99ddbac50eab8eee869",
+      "isBoltCatch": false,
+      "isChamberLoad": true,
+      "isFastReload": true,
+      "weapFireType": [
+        "single",
+        "fullauto"
+      ]
+    },
+    "locales": {
+      "en": {
+        "Name": "vz58",
+        "ShortName": "vz58",
+        "Description": "vz58"
+      }
+    },
+    "fleaPriceRoubles": 45000,
+    "handbookPriceRoubles": 38000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "Probability": 250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [
+     
+
+
+    ],
+    "masterySections": [
+      {
+        "Level2": 150,
+        "Level3": 200,
+        "Name": "VZ58",
+        "Templates": [
+          "69a9bd241c35419872eee854"
+        ]
+      }
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69a9d72a3112ac9f7aeee85d": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 385,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69aa0d470be3626d9aeee88b": {
+    "itemTplToClone": "5ac66d2e5acfc43b321d4b53",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "BackgroundColor": "black",
+      "BaseMalfunctionChance": 0.15,
+      "CanQueueSecondShot": true,
+      "CameraSnap":4.5,
+      "CameraToWeaponAngleSpeedRange":{
+        "x": 0.1,
+        "y": 0.2,
+        "z": 0
+      },
+      "Chambers": [
+        {
+          "_name": "patron_in_weapon",
+          "_id": "69aa0d66dc032758e5eee88c",
+          "_parent": "69aa0d470be3626d9aeee88b",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59e0d99486f7744a32234762",
+                  "59e4d3d286f774176a36250a",
+                  "5656d7c34bdc2d9d198b4587",
+                  "59e4cf5286f7741778269d8a",
+                  "59e4d24686f7741776641ac7",
+                  "601aa3d2b2bcb34913271e6d",
+                  "64b7af5a8532cf95ee0a0dbd",
+                  "64b7af434b75259c590fa893",
+                  "64b7af734b75259c590fa895"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d4af244bdc2d962f8b4571"
+        }
+      ],
+      "CompactHandling": true,
+      "Convergence": 1.4,
+      "CoolFactorGun":2.258,
+      "CoolFactorGunMods":0.9503,
+      "DeviationCurve":2.00,
+      "DoubleActionAccuracyPenalty":1.15,
+      "DeviationMax":21,
+      "DurabilityBurnRatio": 1.08,
+      "Ergonomics": 65,
+      "ExaminedByDefault": true,
+      "Foldable": true,
+      "FoldedSlot":"mod_stock",
+      "HeatFactorByShot":1.24,
+      "HeatFactorGun":0.9306,
+      "Grids": [],
+      "Height": 1,
+      "MergesWithChildren": true,
+      "Prefab": {
+        "path": "vz58short.bundle",
+        "rcid": ""
+      },
+      "RecoilCamera": 0.08,
+      "RecoilForceBack": 380,
+      "RecoilForceUp": 165,
+      "ReloadMode": "ExternalMagazine",
+      "Retractable": false,
+      "SightingRange": 150,
+      "SingleFireRate": 450,
+      "Slots": [
+        {
+          "_name": "mod_gas_block",
+          "_id": "69aa0db9188fe701b0eee88d",
+          "_parent": "69aa0d470be3626d9aeee88b",
+          "_props": {
+            "filters": [
+             
+              {
+                "Shift": 0,
+                "Filter": [
+                  "69aa0ed9742a904a11eee899"
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_magazine",
+          "_id": "69aa0dbf02199a27f2eee88e",
+          "_parent": "69aa0d470be3626d9aeee88b",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Shift": 0,
+                "Filter": [
+                  "69a9d99ddbac50eab8eee869",
+                  "69a9dbdcdbaad6de81eee871"
+
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_id": "69aa0dc4a7dd1a023eeee88f",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "69aa0d470be3626d9aeee88b",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69a9d9fa1ba85d4e13eee86c",
+                  "69bc242eafe21c19b7fa1bcb",
+                  "69bdda3023f8c5e2416920cd"
+
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+       
+        {
+          "_name": "mod_reciever",
+          "_id": "69aa0dcd2875714873eee891",
+          "_parent": "69aa0d470be3626d9aeee88b",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "69a9d7364e93c2f8a7eee85e"
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_stock",
+          "_id": "69aa0dd13fcccc0d18eee892",
+          "_parent": "69aa0d470be3626d9aeee88b",
+          "_props": {
+            "filters": [
+              {
+                "shift": 0,
+                "Filter": [
+                  "69aa0e555c15e9d675eee897"
+
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_stock_000",
+          "_id": "69aa0dd74ddd39e0e2eee893",
+          "_parent": "69aa0d470be3626d9aeee88b",
+          "_props": {
+            "filters": [
+              {
+                "shift": 0,
+                "Filter": [
+                  "69a9d86b8c86b26c6eeee865",
+
+                  "69aa0ca9415e4bd496eee889",
+                  "69bc29b28f485315c2fa1bd3",
+                  "69bc298c7ccc1024cffa1bd1",
+                  "69bc291d37403daf02fa1bce"
+
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_pistol_grip",
+          "_id": "69aa0ddb3c4ac2d29beee894",
+          "_parent": "69aa0d470be3626d9aeee88b",
+          "_props": {
+            "filters": [
+              {
+                "shift": 0,
+                "Filter": [
+                  "69a9d93604db219c1deee867"
+
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "69aa0ddfcb54476b78eee895",
+          "_parent": "69aa0d470be3626d9aeee88b",
+          "_props": {
+            "filters": [
+              {
+                "shift": 0,
+                "Filter": [
+                  "5947db3f86f77447880cf76f",
+                  "6113d6c3290d254f5e6b27db",
+                  "57486e672459770abd687134",
+                  "618a5d5852ecee1505530b2a",
+                  "5c82342f2e221644f31c060e",
+                  "576fd4ec2459777f0b518431",
+                  "5c82343a2e221644f31c0611",
+                  "5cf638cbd7f00c06595bc936",
+                  "5a7c74b3e899ef0014332c29",
+                  "591ee00d86f774592f7b841e",
+                  "5d0a29ead7ad1a0026013f27",
+                  "618a75c9a3884f56c957ca1b",
+                  "57acb6222459771ec34b5cb0",
+                  "5c61a40d2e2216001403158d",
+                  "5c90c3622e221601da359851",
+                  "638db77630c4240f9e06f8b6",
+                  "63d114019e35b334d82302f7",
+                  "6544d4187c5457729210d277",
+                  "65f1b1176dbd6c5ba2082eed"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Velocity": 2,
+      "Weight": 2.5,
+      "Width": 2,
+      "ammoCaliber": "Caliber762x39",
+      "bEffDist": 450,
+      "bFirerate": 800,
+      "bHearDist": 80,
+      "chamberAmmoCount": 1,
+      "defAmmo": "5656d7c34bdc2d9d198b4587",
+      "defMagType": "69a9d99ddbac50eab8eee869",
+      "isBoltCatch": false,
+      "isChamberLoad": true,
+      "isFastReload": true,
+      "weapFireType": [
+        "single",
+        "fullauto"
+      ]
+    },
+    "locales": {
+      "en": {
+        "Name": "vz58short",
+        "ShortName": "vz58short",
+        "Description": "vz58short"
+      }
+    },
+    "fleaPriceRoubles": 65000,
+    "handbookPriceRoubles": 58000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "Probability": 150
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [
+
+
+
+    ],
+    "masterySections": [
+      {
+        "Level2": 150,
+        "Level3": 200,
+        "Name": "VZ58",
+        "Templates": [
+          "69a9bd241c35419872eee854"
+        ]
+      }
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69aa0d283a6231e055eee88a": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 585,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69a9d7364e93c2f8a7eee85e": {
+    "itemTplToClone": "5649af094bdc2df8348b4586",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "vzdust.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "black",
+      "MergesWithChildren": true,
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.45,
+      "HeatFactor": 1.02,
+      "Slots": [
+        
+      ],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "vzdust",
+        "ShortName": "vzdust",
+        "Description": "vzdust"
+      }
+    },
+    "fleaPriceRoubles": 5000,
+    "handbookPriceRoubles": 2000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability":250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69a9d76413fed5d523eee85f": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 65,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69a9d77e4fbaa455f0eee860": {
+    "itemTplToClone": "59ccfdba86f7747f2109a587",
+    "parentId": "56ea9461d2720b67698b456f",
+    "handbookParentId": "5b5f760586f774093e6cb509",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "vzupperhandguard.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "blue",
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.36,
+      "HeatFactor": 1.01,
+      "Slots": [
+        {
+          "_name": "mod_handguard",
+          "_id": "69a9d7da59f6c615c3eee861",
+          "_parent": "69a9d77e4fbaa455f0eee860",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "69a9d80bdcbd9088b7eee863",
+                  "69bc2ed044a7c4a09dfa1bd6"
+
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+       
+      ],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "vzupperhg",
+        "ShortName": "vzupperhg",
+        "Description": "vzupperhg"
+      }
+    },
+    "fleaPriceRoubles": 4500,
+    "handbookPriceRoubles": 5500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability":250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69a9d7fed8d76fc71feee862": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 16,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69bae79dde9df8f87bfa1bc6": {
+    "itemTplToClone": "59ccfdba86f7747f2109a587",
+    "parentId": "56ea9461d2720b67698b456f",
+    "handbookParentId": "5b5f760586f774093e6cb509",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "vzultimak.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "blue",
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.46,
+      "HeatFactor": 0.97,
+      "Slots": [
+        {
+          "_name": "mod_handguard",
+          "_id": "69bae7a28a57ec760bfa1bc7",
+          "_parent": "69bae79dde9df8f87bfa1bc6",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "69a9d80bdcbd9088b7eee863",
+                  "69bc2ed044a7c4a09dfa1bd6"
+
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_scope",
+          "_id": "69bc18a5b487dfb8d2fa1bc9",
+          "_parent": "69bae79dde9df8f87bfa1bc6",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "558022b54bdc2dac148b458d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "615d8d878004cc50514c3233",
+                  "577d128124597739d65d0e56",
+                  "58d2664f86f7747fec5834f6",
+                  "5649a2464bdc2d91118b45a8",
+                  "61714b2467085e45ef140b2c",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "64785e7c19d732620e045e15",
+                  "655f13e0a246670fb0373245",
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5c06595c0db834001a66af6c",
+                  "5a7b483fe899ef0016170d15",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065",
+                  "695ffdaedd28a71ea5446f66"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+
+      ],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "vzrailedgas",
+        "ShortName": "vzrailedgas",
+        "Description": "vzrailedgas"
+      }
+    },
+    "fleaPriceRoubles": 14500,
+    "handbookPriceRoubles": 5500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability":250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69bae7d093b061eefbfa1bc8": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 46,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69aa0ed9742a904a11eee899": {
+    "itemTplToClone": "59ccfdba86f7747f2109a587",
+    "parentId": "56ea9461d2720b67698b456f",
+    "handbookParentId": "5b5f760586f774093e6cb509",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "shorthandguardtop.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "blue",
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.06,
+      "HeatFactor": 1.1,
+      "Slots": [
+        {
+          "_name": "mod_handguard_001",
+          "_id": "69aa0edcea6622d706eee89a",
+          "_parent": "69aa0ed9742a904a11eee899",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "69aa0f6a5e64671cf1eee89c"
+
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+
+      ],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "vzupperhgshort",
+        "ShortName": "vzupperhgshort",
+        "Description": "vzupperhgshort"
+      }
+    },
+    "fleaPriceRoubles": 4500,
+    "handbookPriceRoubles": 5500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability":250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69aa0ec8d9e911070beee898": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 26,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69a9d80bdcbd9088b7eee863": {
+    "itemTplToClone": "59d64f2f86f77417193ef8b3",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "vzlowerhandguard.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "black",
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.35,
+      "Ergonomics": 5,
+      "Recoil": 0,
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "Name": "vzlgh",
+        "ShortName": "vzlgh",
+        "Description": "vzlgh"
+      }
+    },
+    "fleaPriceRoubles": 4500,
+    "handbookPriceRoubles": 3000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability":250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69a9d85cbb95901fc3eee864": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 25,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69aa0f6a5e64671cf1eee89c": {
+    "itemTplToClone": "59d64f2f86f77417193ef8b3",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "shorthandguardlower.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "black",
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.05,
+      "Ergonomics": 7,
+      "Recoil": 1,
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "Name": "vzlshortgh",
+        "ShortName": "vzlshortgh",
+        "Description": "vzlshortgh"
+      }
+    },
+    "fleaPriceRoubles": 4500,
+    "handbookPriceRoubles": 3000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability":250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69aa0f53a9ab959e3ceee89b": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 35,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69a9d86b8c86b26c6eeee865": {
+    "itemTplToClone": "59d6514b86f774171a068a08",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "vzwoodstock.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "ConflictingItems":[
+        "69aa0e555c15e9d675eee897"
+      ],
+      "Height": 1,
+      "Weight": 0.45,
+      "Foldable":false,
+      "ExtraSizeLeft": 1,
+      "Ergonomics": 4,
+      "Recoil": -23,
+      "Slots": [],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "vzwoodstock",
+        "ShortName": "vzwoodstock",
+        "Description": "vzwoodstock"
+      }
+    },
+    "fleaPriceRoubles": 9500,
+    "handbookPriceRoubles": 8000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability":250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "6920fccdc11b220255a5bd32": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 55,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69aa0e555c15e9d675eee897": {
+    "itemTplToClone": "5e848dc4e4dbc5266a4ec63d",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "vzfoldingstock.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.25,
+      "Foldable":true,
+      "ExtraSizeLeft": 1,
+      "Ergonomics": 15,
+      "Recoil": -8,
+      "Slots": [],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "vzmetalstock",
+        "ShortName": "vzmetalstock",
+        "Description": "vzmetalstock"
+      }
+    },
+    "fleaPriceRoubles": 9500,
+    "handbookPriceRoubles": 8000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability":250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69aa0e254fbe2a16d5eee896": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 72,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69a9da5c989b7745d0eee86e": {
+    "itemTplToClone": "5d123a3cd7ad1a004e476058",
+    "parentId": "5a74651486f7744e73386dd1",
+    "handbookParentId": "5b5f74cc86f77447ec5d770a",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "vzbayonet.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 1,
+      "Weight": 1.05,
+      "ExtraSizeLeft": 1,
+      "Ergonomics": -4,
+      "Recoil": -16,
+      "Slots": [],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "vzbayuo",
+        "ShortName": "vzbayo",
+        "Description": "vzbayo"
+      }
+    },
+    "fleaPriceRoubles": 19500,
+    "handbookPriceRoubles": 18000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability":250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69a9dabdb483862e02eee86f": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 155,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69a9d93604db219c1deee867": {
+    "itemTplToClone": "5649ad3f4bdc2df8348b4585",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true, "CanRequireOnRagfair":false,
+
+      "Prefab": {
+        "path": "vzpistolgrip.bundle",
+        "rcid": ""
+      },
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.45,
+      "ExtraSizeDown": 1,
+      "ExtraSizeForceAdd":false,
+      "ExtraSizeUp":0,
+      "Ergonomics": 7,
+      "Recoil": -1,
+      "Slots": [],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "vzwoodpg",
+        "ShortName": "vzwoodpg",
+        "Description": "vzwoodpg"
+      }
+    },
+    "fleaPriceRoubles": 6000,
+    "handbookPriceRoubles": 6500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability":250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69a9d97be10e91dc07eee868": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 15,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69a9d99ddbac50eab8eee869": {
+    "itemTplToClone": "59d625f086f774661516605d",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "vzmag30.bundle",
+        "rcid": ""
+      },
+      "Width": 1,
+      "Height": 2,
+      "Weight": 1.0,
+      "CanFast":true,
+      "CanHit":true,
+      "VisibleAmmoRangesString":"1-4",
+      "CanPutIntoDuringTheRaid":true,
+      "ExtraSizeDown":1,
+
+      "Cartridges":
+      [
+        {
+          "_id": "69a9d9b746a6be2b5aeee86a",
+          "_max_count": 30,
+          "_name": "cartridges",
+          "_parent": "69a9d99ddbac50eab8eee869",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59e0d99486f7744a32234762",
+                  "59e4d3d286f774176a36250a",
+                  "5656d7c34bdc2d9d198b4587",
+                  "59e4cf5286f7741778269d8a",
+                  "59e4d24686f7741776641ac7",
+                  "601aa3d2b2bcb34913271e6d",
+                  "64b7af734b75259c590fa895",
+                  "64b7af434b75259c590fa893",
+                  "64b7af5a8532cf95ee0a0dbd"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "Slots": [],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "vz30mag",
+        "ShortName": "vz30mag",
+        "Description": "vz30mag"
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69a9d9ceb278f7816deee86b": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 55,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69a9dbdcdbaad6de81eee871": {
+    "itemTplToClone": "59e5d83b86f7745aed03d262",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "vzmag30.bundle",
+        "rcid": ""
+      },
+      "Width": 1,
+      "Height": 2,
+      "Weight": 1.0,
+      "CanFast":true,
+      "CanHit":true,
+      "VisibleAmmoRangesString":"1-4",
+      "CanPutIntoDuringTheRaid":true,
+      "ExtraSizeDown":1,
+      "magAnimationIndex":0,
+
+      "Cartridges":
+      [
+        {
+          "_id": "69a9dbdb63205e8668eee870",
+          "_max_count": 5,
+          "_name": "cartridges",
+          "_parent": "69a9dbdcdbaad6de81eee871",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59e0d99486f7744a32234762",
+                  "59e4d3d286f774176a36250a",
+                  "5656d7c34bdc2d9d198b4587",
+                  "59e4cf5286f7741778269d8a",
+                  "59e4d24686f7741776641ac7",
+                  "601aa3d2b2bcb34913271e6d",
+                  "64b7af734b75259c590fa895",
+                  "64b7af434b75259c590fa893",
+                  "64b7af5a8532cf95ee0a0dbd"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "Slots": [],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "VZ58 5-round Pinned Magazine",
+        "ShortName": "VZ Pin Mag",
+        "Description": "Canadian Standard Civilian Mag."
+      }
+    },
+    "fleaPriceRoubles": 5000,
+    "handbookPriceRoubles": 2500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69a9ec05879fb6a25eeee886": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 25,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69a9d9fa1ba85d4e13eee86c": {
+    "itemTplToClone": "5bbdb8bdd4351e4502011460",
+    "parentId": "550aa4bf4bdc2dd6348b456b",
+    "handbookParentId": "5b5f724c86f774093f2ecf15",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+
+      "Prefab": {
+        "path": "vzmuzzle.bundle",
+        "rcid": ""
+      },
+      "Accuracy": 0,
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "blue",
+      "BlocksCollapsible": false,
+      "BlocksFolding": false,
+      "CanPutIntoDuringTheRaid": true,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ConflictingItems": [],
+      "CoolFactor": 1,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "DropSoundType": "None",
+      "Durability": 100,
+      "DurabilityBurnModificator": 1,
+      "EffectiveDistance": 0,
+      "Ergonomics": 1,
+      "ExamineExperience": 5,
+      "ExamineTime": 1,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Grids": [],
+      "HasShoulderContact": false,
+      "HeatFactor": 1,
+      "Height": 1,
+      "ItemSound": "mod",
+      "LootExperience": 10,
+      "Loudness": 0,
+      "MergesWithChildren": true,
+      "RaidModdable": true,
+      "Recoil": 0,
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "SightingRange": 0,
+      "Slots": [],
+      "ToolModdable": false,
+      "UniqueAnimationModID": 0,
+      "Velocity": 0,
+      "Weight": 0.01,
+      "Width": 1,
+      "muzzleModType": "conpensator"
+    },
+    "locales": { "en":
+    { "Name":    "vzmuzzle",
+      "ShortName": "vzmuzzle",
+      "Description": "it work" } },
+    "fleaPriceRoubles": 3000,
+    "handbookPriceRoubles": 2000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability":250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+
+    "traders": {
+      "TRUDY": {
+        "69a9da266f1e6aaeb9eee86d": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 2,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69bc242eafe21c19b7fa1bcb": {
+    "itemTplToClone": "5a0abb6e1526d8000a025282",
+    "parentId": "550aa4dd4bdc2dc9348b4569",
+    "handbookParentId": "5b5f72f786f77447ec5d7702",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+
+      "Prefab": {
+        "path": "vz58threaded.bundle",
+        "rcid": ""
+      },
+      "Accuracy": 0,
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "blue",
+      "BlocksCollapsible": false,
+      "BlocksFolding": false,
+      "CanPutIntoDuringTheRaid": true,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ConflictingItems": [],
+      "CoolFactor": 1,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "DropSoundType": "None",
+      "Durability": 100,
+      "DurabilityBurnModificator": 1,
+      "EffectiveDistance": 0,
+      "Ergonomics": 1,
+      "ExamineExperience": 5,
+      "ExamineTime": 1,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Grids": [],
+      "HasShoulderContact": false,
+      "HeatFactor": 1,
+      "Height": 1,
+      "ItemSound": "mod",
+      "LootExperience": 10,
+      "Loudness": 0,
+      "MergesWithChildren": true,
+      "RaidModdable": true,
+      "Recoil": 0,
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "SightingRange": 0,
+      "Slots": [
+        {
+          "_id": "69bc246cc855787f14fa1bcc",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "69bc242eafe21c19b7fa1bcb",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ac72e7d5acfc40016339a02",
+                  "5ac72e895acfc43b321d4bd5",
+                  "5f633f791b231926f2329f13",
+                  "5a9ea27ca2750c00137fa672",
+                  "5cc9ad73d7f00c000e2579d4",
+                  "5649ab884bdc2ded0b8b457f",
+                  "59bffc1f86f77435b128b872",
+                  "5e208b9842457a4a7a33d074",
+                  "5a0d63621526d8dba31fe3bf",
+                  "59fb257e86f7742981561852",
+                  "5a9fbacda2750c00141e080f"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "ToolModdable": false,
+      "UniqueAnimationModID": 0,
+      "Velocity": 0,
+      "Weight": 0.01,
+      "Width": 1,
+      "muzzleModType": "conpensator"
+    },
+    "locales": { "en":
+    { "Name":    "vzthreadmuzzle",
+      "ShortName": "vzthreadmuzzle",
+      "Description": "it work" } },
+    "fleaPriceRoubles": 7000,
+    "handbookPriceRoubles": 2000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability":250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+
+    "traders": {
+      "TRUDY": {
+        "69bc2425e0ac96106efa1bca": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 25,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69bdda3023f8c5e2416920cd": {
+    "itemTplToClone": "615d8e9867085e45ef1409c6",
+    "parentId": "550aa4dd4bdc2dc9348b4569",
+    "handbookParentId": "5b5f72f786f77447ec5d7702",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+
+      "Prefab": {
+        "path": "vz58threaded_308.bundle",
+        "rcid": ""
+      },
+      "Accuracy": 0,
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "blue",
+      "BlocksCollapsible": false,
+      "BlocksFolding": false,
+      "CanPutIntoDuringTheRaid": true,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ConflictingItems": [],
+      "CoolFactor": 1,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "DropSoundType": "None",
+      "Durability": 100,
+      "DurabilityBurnModificator": 1,
+      "EffectiveDistance": 0,
+      "Ergonomics": 1,
+      "ExamineExperience": 5,
+      "ExamineTime": 1,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Grids": [],
+      "HasShoulderContact": false,
+      "HeatFactor": 1,
+      "Height": 1,
+      "ItemSound": "mod",
+      "LootExperience": 10,
+      "Loudness": 0,
+      "MergesWithChildren": true,
+      "RaidModdable": true,
+      "Recoil": 0,
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "SightingRange": 0,
+      "Slots": [
+        {
+          "_id": "69bdda5e8b13e414346920ce",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle_001",
+          "_parent": "69bdda3023f8c5e2416920cd",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "618178aa1cb55961fa0fdc80",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5a34fe59c4a282000b1521a2",
+                  "6642f63667f5cb56a00662eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "ToolModdable": false,
+      "UniqueAnimationModID": 0,
+      "Velocity": 0,
+      "Weight": 0.01,
+      "Width": 1,
+      "muzzleModType": "conpensator"
+    },
+    "locales": { "en":
+    { "Name":    "vzthreadmuzzle",
+      "ShortName": "vzthreadmuzzle",
+      "Description": "it work" } },
+    "fleaPriceRoubles": 7000,
+    "handbookPriceRoubles": 2000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability":250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+
+    "traders": {
+      "TRUDY": {
+        "69bc2425e0ac96106efa1bca": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 25,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69bc3161361fdfcdd2fa1bda": {
+    "itemTplToClone": "5e21ca18e4d47f0da15e77dd",
+    "parentId": "550aa4dd4bdc2dc9348b4569",
+    "handbookParentId": "5b5f72f786f77447ec5d7702",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+
+      "Prefab": {
+        "path": "vz58threaded_ar.bundle",
+        "rcid": ""
+      },
+      "Accuracy": 0,
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "blue",
+      "BlocksCollapsible": false,
+      "BlocksFolding": false,
+      "CanPutIntoDuringTheRaid": true,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ConflictingItems": [],
+      "CoolFactor": 1,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "DropSoundType": "None",
+      "Durability": 100,
+      "DurabilityBurnModificator": 1,
+      "EffectiveDistance": 0,
+      "Ergonomics": 1,
+      "ExamineExperience": 5,
+      "ExamineTime": 1,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Grids": [],
+      "HasShoulderContact": false,
+      "HeatFactor": 1,
+      "Height": 1,
+      "ItemSound": "mod",
+      "LootExperience": 10,
+      "Loudness": 0,
+      "MergesWithChildren": true,
+      "RaidModdable": true,
+      "Recoil": 0,
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "SightingRange": 0,
+      "Slots": [
+        {
+          "_id": "69bc318cee5e598410fa1bdb",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle_001",
+          "_parent": "69bc3161361fdfcdd2fa1bda",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c7e5f112e221600106f4ede",
+                  "5c0fafb6d174af02a96260ba",
+                  "612e0cfc8004cc50514c2d9e",
+                  "5cf6937cd7f00c056c53fb39",
+                  "544a38634bdc2d58388b4568",
+                  "5cff9e5ed7ad1a09407397d4",
+                  "5c48a2a42e221602b66d1e07",
+                  "5f6372e2865db925d54f3869",
+                  "615d8e2f1cb55961fa0fd9a4",
+                  "56ea8180d2720bf2698b456a",
+                  "5d02676dd7ad1a049e54f6dc",
+                  "56ea6fafd2720b844b8b4593",
+                  "5943ee5a86f77413872d25ec",
+                  "609269c3b0e443224b421cc1",
+                  "5c7fb51d2e2216001219ce11",
+                  "5ea172e498dacb342978818e",
+                  "5c6d710d2e22165df16b81e7",
+                  "612e0e55a112697a4b3a66e7",
+                  "5d440625a4b9361eec4ae6c5",
+                  "5cc9b815d7f00c000e2579d6",
+                  "5a7c147ce899ef00150bd8b8",
+                  "5c7954d52e221600106f4cc7",
+                  "59bffc1f86f77435b128b872",
+                  "5a9fbb84a2750c00137fa685",
+                  "626a74340be03179a165e30c",
+                  "626667e87379c44d557b7550",
+                  "62669bccdb9ebb4daa44cd14",
+                  "63ac5c9658d0485fc039f0b8",
+                  "6386120cd6baa055ad1e201c",
+                  "6405ff6bd4578826ec3e377a",
+                  "64943b74e9998d641b0412ed",
+                  "6621455e3aceea9e2b0b01e7",
+                  "664301213dd83ddae20dda18"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "ToolModdable": false,
+      "UniqueAnimationModID": 0,
+      "Velocity": 0,
+      "Weight": 0.01,
+      "Width": 1,
+      "muzzleModType": "conpensator"
+    },
+    "locales": { "en":
+    { "Name":    "vzthreadmuzzle556",
+      "ShortName": "vzthreadmuzzle556",
+      "Description": "it work" } },
+    "fleaPriceRoubles": 7000,
+    "handbookPriceRoubles": 2000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability":250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+
+    "traders": {
+      "TRUDY": {
+        "69bc319eea0691622dfa1bdc": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 29,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69aa0ca9415e4bd496eee889": {
+    "itemTplToClone": "628a6678ccaab13006640e49",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "vzstockfold.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "black",
+      "Width": 1,
+      "Height": 1,
+      "ConflictingItems":[
+        "69a9d86b8c86b26c6eeee865"
+      ],
+      "Weight": 0.2,
+      "Ergonomics": 0,
+      "Slots": [
+           
+      ],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "VZ58foldingstockadapter",
+        "ShortName": "VZ58foldingstockadapter",
+        "Description": "VZ58foldingstockadapter"
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69aa0c3a0ada5b7116eee888": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 7,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69b568b7b69816e00a28ae51": {
+    "itemTplToClone": "5ac66cb05acfc40198510a10",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "BackgroundColor": "black",
+      "BaseMalfunctionChance": 0.12,
+      "CanQueueSecondShot": true,
+      "CameraSnap":2.5,
+      "CameraToWeaponAngleSpeedRange":{
+        "x": 0.1,
+        "y": 0.2,
+        "z": 0
+      },
+      "Chambers": [
+        {
+          "_name": "patron_in_weapon",
+          "_id": "69b568d8584f783d8a28ae52",
+          "_parent": "69b568b7b69816e00a28ae51",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+
+                  "59e6920f86f77411d82aa167",
+                  "59e6927d86f77411da468256",
+                  "54527a984bdc2d4e668b4567",
+                  "54527ac44bdc2d36668b4567",
+                  "59e68f6f86f7746c9f75e846",
+                  "59e6906286f7746c9f75e847",
+                  "59e690b686f7746c9f75e848",
+                  "59e6918f86f7746c9f75e849",
+                  "60194943740c5d77f6705eea",
+                  "601949593ae8f707c4608daa",
+                  "5c0d5ae286f7741e46554302"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d4af244bdc2d962f8b4571"
+        }
+      ],
+      "CompactHandling": true,
+      "Convergence": 1.4,
+      "CoolFactorGun":3.258,
+      "CoolFactorGunMods":0.9503,
+      "DeviationCurve":2.00,
+      "DoubleActionAccuracyPenalty":1.15,
+      "DeviationMax":18,
+      "DurabilityBurnRatio": 1.08,
+      "Ergonomics": 42,
+      "ExaminedByDefault": true,
+      "Foldable": true,
+      "FoldedSlot":"mod_stock",
+      "HeatFactorByShot":1.24,
+      "HeatFactorGun":0.9306,
+      "Grids": [],
+      "Height": 1,
+      "MergesWithChildren": true,
+      "Prefab": {
+        "path": "vz58556.bundle",
+        "rcid": ""
+      },
+      "RecoilCamera": 0.03,
+      "RecoilForceBack": 320,
+      "RecoilForceUp": 121,
+      "ReloadMode": "ExternalMagazine",
+      "Retractable": false,
+      "SightingRange": 350,
+      "SingleFireRate": 450,
+      "Slots": [
+        {
+          "_name": "mod_gas_block",
+          "_id": "69b5691c3d5681968428ae53",
+          "_parent": "69b568b7b69816e00a28ae51",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "69a9d77e4fbaa455f0eee860",
+                  "69bae79dde9df8f87bfa1bc6"
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_magazine",
+          "_id": "69b569226a38b2263b28ae54",
+          "_parent": "69b568b7b69816e00a28ae51",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Shift": 0,
+                "Filter": [
+                  "69b56a182f1ace21b528ae60",
+                  "69b5698b5422bd822228ae5d"
+
+
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_id": "69b5692aff0646922028ae55",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "69b568b7b69816e00a28ae51",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69a9d9fa1ba85d4e13eee86c",
+                  "69bc3161361fdfcdd2fa1bda"
+
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69b569361560f0cfbb28ae56",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_bayonet",
+          "_parent": "69b568b7b69816e00a28ae51",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69a9da5c989b7745d0eee86e"
+
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_name": "mod_reciever",
+          "_id": "69b5693c556f30774f28ae57",
+          "_parent": "69b568b7b69816e00a28ae51",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "69a9d7364e93c2f8a7eee85e"
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_stock",
+          "_id": "69b5694528ab23c3a828ae59",
+          "_parent": "69b568b7b69816e00a28ae51",
+          "_props": {
+            "filters": [
+              {
+                "shift": 0,
+                "Filter": [
+
+                  "69aa0ca9415e4bd496eee889"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_stock_000",
+          "_id": "69b56949f3acabb2b228ae5a",
+          "_parent": "69b568b7b69816e00a28ae51",
+          "_props": {
+            "filters": [
+              {
+                "shift": 0,
+                "Filter": [
+                  "69bc29b28f485315c2fa1bd3",
+                  "69bc298c7ccc1024cffa1bd1",
+                  "69bc291d37403daf02fa1bce",
+                  "69a9d86b8c86b26c6eeee865",
+                  "69aa0e555c15e9d675eee897"
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_pistol_grip",
+          "_id": "69b5694def325a97d028ae5b",
+          "_parent": "69b568b7b69816e00a28ae51",
+          "_props": {
+            "filters": [
+              {
+                "shift": 0,
+                "Filter": [
+                  "69a9d93604db219c1deee867"
+
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "69b569511a565cb43a28ae5c",
+          "_parent": "69b568b7b69816e00a28ae51",
+          "_props": {
+            "filters": [
+              {
+                "shift": 0,
+                "Filter": [
+                  "5947db3f86f77447880cf76f",
+                  "6113d6c3290d254f5e6b27db",
+                  "57486e672459770abd687134",
+                  "618a5d5852ecee1505530b2a",
+                  "5c82342f2e221644f31c060e",
+                  "576fd4ec2459777f0b518431",
+                  "5c82343a2e221644f31c0611",
+                  "5cf638cbd7f00c06595bc936",
+                  "5a7c74b3e899ef0014332c29",
+                  "591ee00d86f774592f7b841e",
+                  "5d0a29ead7ad1a0026013f27",
+                  "618a75c9a3884f56c957ca1b",
+                  "57acb6222459771ec34b5cb0",
+                  "5c61a40d2e2216001403158d",
+                  "5c90c3622e221601da359851",
+                  "638db77630c4240f9e06f8b6",
+                  "63d114019e35b334d82302f7",
+                  "6544d4187c5457729210d277",
+                  "65f1b1176dbd6c5ba2082eed"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Velocity": 6,
+      "Weight": 3.2,
+      "Width": 3,
+      "ammoCaliber": "Caliber556x45NATO",
+      "bEffDist": 550,
+      "bFirerate": 800,
+      "bHearDist": 80,
+      "chamberAmmoCount": 1,
+      "defAmmo": "54527a984bdc2d4e668b4567",
+      "defMagType": "69a9d99ddbac50eab8eee869",
+      "isBoltCatch": false,
+      "isChamberLoad": true,
+      "isFastReload": true,
+      "weapFireType": [
+        "single",
+        "fullauto"
+      ]
+    },
+    "locales": {
+      "en": {
+        "Name": "vz58_556",
+        "ShortName": "vz58_556",
+        "Description": "vz58_556"
+      }
+    },
+    "fleaPriceRoubles": 45000,
+    "handbookPriceRoubles": 38000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "Probability": 250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [
+
+
+
+    ],
+    "masterySections": [
+      {
+        "Level2": 150,
+        "Level3": 200,
+        "Name": "VZ58",
+        "Templates": [
+          "69a9bd241c35419872eee854"
+        ]
+      }
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69b56875f95e01a35a28ae50": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 385,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69b5698b5422bd822228ae5d": {
+    "itemTplToClone": "5c0548ae0db834001966a3c2",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "556mag.bundle",
+        "rcid": ""
+      },
+      "Width": 1,
+      "Height": 2,
+      "Weight": 1.0,
+      "CanFast":true,
+      "CanHit":true,
+      "VisibleAmmoRangesString":"1-31",
+      "CanPutIntoDuringTheRaid":true,
+      "ExtraSizeDown":1,
+      "magAnimationIndex":2,
+
+
+      "Cartridges":
+      [
+        {
+          "_id": "69b569e53f87db743f28ae5e",
+          "_max_count": 31,
+          "_name": "cartridges",
+          "_parent": "69b5698b5422bd822228ae5d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+
+                  "59e6920f86f77411d82aa167",
+                  "59e6927d86f77411da468256",
+                  "54527a984bdc2d4e668b4567",
+                  "54527ac44bdc2d36668b4567",
+                  "59e68f6f86f7746c9f75e846",
+                  "59e6906286f7746c9f75e847",
+                  "59e690b686f7746c9f75e848",
+                  "59e6918f86f7746c9f75e849",
+                  "60194943740c5d77f6705eea",
+                  "601949593ae8f707c4608daa",
+                  "5c0d5ae286f7741e46554302"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "Slots": [],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "vz55630mag",
+        "ShortName": "vz55630mag",
+        "Description": "vz55630mag"
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69b56a0e2e9edbc4f628ae5f": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 55,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69b56a182f1ace21b528ae60": {
+    "itemTplToClone": "5c0548ae0db834001966a3c2",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "556mag.bundle",
+        "rcid": ""
+      },
+      "Width": 1,
+      "Height": 2,
+      "Weight": 1.0,
+      "CanFast":true,
+      "CanHit":true,
+      "VisibleAmmoRangesString":"1-5",
+      "CanPutIntoDuringTheRaid":true,
+      "ExtraSizeDown":1,
+      "magAnimationIndex":2,
+
+      "Cartridges":
+      [
+        {
+          "_id": "69b56a5e2b8a6d77ee28ae61",
+          "_max_count": 5,
+          "_name": "cartridges",
+          "_parent": "69b56a182f1ace21b528ae60",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+
+
+                  "59e6920f86f77411d82aa167",
+                  "59e6927d86f77411da468256",
+                  "54527a984bdc2d4e668b4567",
+                  "54527ac44bdc2d36668b4567",
+                  "59e68f6f86f7746c9f75e846",
+                  "59e6906286f7746c9f75e847",
+                  "59e690b686f7746c9f75e848",
+                  "59e6918f86f7746c9f75e849",
+                  "60194943740c5d77f6705eea",
+                  "601949593ae8f707c4608daa",
+                  "5c0d5ae286f7741e46554302"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "Slots": [],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "VZ58 556 5-round Pinned Magazine",
+        "ShortName": "VZ Pin 556 Mag",
+        "Description": "Canadian Standard Civilian Mag."
+      }
+    },
+    "fleaPriceRoubles": 5000,
+    "handbookPriceRoubles": 2500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69b56a895dfb75d04f28ae62": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 25,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69bc291d37403daf02fa1bce": {
+    "itemTplToClone": "628a6678ccaab13006640e49",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "vz58buffer.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "black",
+      "Width": 1,
+      "Height": 1,
+      "ConflictingItems":[
+        "69aa0e555c15e9d675eee897"
+      ],
+      "Weight": 0.2,
+      "Ergonomics": -1,
+      "Slots": [
+        {
+          "_name": "mod_stock_001",
+          "_id": "69bc2921858b1d6644fa1bcf",
+          "_parent": "69bc291d37403daf02fa1bce",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57ade1442459771557167e15",
+                  "5a33ca0fc4a282000d72292f",
+                  "5649be884bdc2d79388b4577",
+                  "5d120a10d7ad1a4e1026ba85",
+                  "5b0800175acfc400153aebd4",
+                  "5bb20e58d4351e00320205d7",
+                  "5947e98b86f774778f1448bc",
+                  "5947eab886f77475961d96c5",
+                  "5ef1ba28c64c5d0dfc0571a5",
+                  "602e3f1254072b51b239f713",
+                  "5c793fb92e221644f31bfb64",
+                  "5c793fc42e221600114ca25d",
+                  "627254cc9c563e6e442c398f",
+                  "591aef7986f774139d495f03",
+                  "591af10186f774139d495f0e",
+                  "606587e18900dc2d9a55b65f",
+                  "5c0faeddd174af02a962601f",
+                  "638de3603a1a4031d8260b8c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "vz58buffer",
+        "ShortName": "vz58buffer",
+        "Description": "Buffer Tube Adapter from someone"
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability":250
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69bc28f89f01141778fa1bcd": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 55,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69bc298c7ccc1024cffa1bd1": {
+    "itemTplToClone": "66ffc246a81a4f85e70d4d06",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "vz58_1913.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "black",
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.18,
+      "Ergonomics": -1,
+      "ConflictingItems":[
+        "69aa0e555c15e9d675eee897"
+      ],
+      "Slots": [
+        {
+          "_name": "mod_stock",
+          "_id": "69bc2991625dec520bfa1bd2",
+          "_parent": "69bc298c7ccc1024cffa1bd1",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "58ac1bf086f77420ed183f9f",
+                  "5894a13e86f7742405482982",
+                  "5fbcc429900b1d5091531dd7",
+                  "5fbcc437d724d907e2077d5c",
+                  "5c5db6ee2e221600113fba54",
+                  "5c5db6f82e2216003a0fe914",
+                  "6529348224cbe3c74a05e5c4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "vz58 Picatinny Stock Adapter",
+        "ShortName": "vz Pic",
+        "Description": "Picatinny Mount Adapter from KNS Precision"
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability":250
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69bc3396f9a84b4624fa1bdd": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 78,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69bc29b28f485315c2fa1bd3": {
+    "itemTplToClone": "66ffc246a81a4f85e70d4d06",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "vz58zhuk.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "black",
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.18,
+      "ConflictingItems":[
+        "69aa0e555c15e9d675eee897"
+      ],
+      "Ergonomics": -1,
+      "Slots": [
+        {
+          "_name": "mod_stock_002",
+          "_id": "69bc29b7a6f8cdaf5cfa1bd4",
+          "_parent": "69bc29b28f485315c2fa1bd3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+"5b0e794b5acfc47a877359b2"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "vz58 zhuk Stock Adapter",
+        "ShortName": "vz zhuk",
+        "Description": "Picatinny Mount Adapter from person"
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability":250
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69bc2972ce8d8dc98dfa1bd0": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 78,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69bc2ed044a7c4a09dfa1bd6": {
+    "itemTplToClone": "5c9a07572e221644f31c4b32",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "vz58zhuk_hg.bundle", "rcid": "" },
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.35,
+      "MergesWithChildren":true,
+      "Grids": [],
+      "Slots": [
+        {
+          "_id": "69bc2ed70442b73c94fa1bd7",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "69bc2ed044a7c4a09dfa1bd6",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57cffb66245977632f391a99",
+                  "57cffcd624597763133760c5",
+                  "57cffcdd24597763f5110006",
+                  "57cffce524597763b31685d8",
+                  "5b7be4895acfc400170e2dd5",
+                  "651a8bf3a8520e48047bf708",
+                  "651a8e529829226ceb67c319",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69bc2eda797edd8bb9fa1bd8",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_000",
+          "_parent": "69bc2ed044a7c4a09dfa1bd6",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69bc2edd62c23fc87efa1bd9",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_001",
+          "_parent": "69bc2ed044a7c4a09dfa1bd6",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en":
+      {
+        "Name":    "Magpul zhukvz",
+        "ShortName": "Magpul zhukvz",
+        "Description": "Magpul zhukvz "
+      }
+    },
+    "fleaPriceRoubles": 48000,
+    "handbookPriceRoubles": 47000,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "TRUDY": {
+        "69bc2eb950c4a87637fa1bd5": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 160,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

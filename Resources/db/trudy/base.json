@@ -57,7 +57,7 @@
   "location": "Shoreline",
   "loyaltyLevels":[
     {
-      "buy_price_coef": 40,
+      "buy_price_coef": 50,
       "exchange_price_coef": 0,
       "heal_price_coef": 0,
       "insurance_price_coef": 0,
@@ -67,33 +67,33 @@
       "repair_price_coef": 0
     },
     {
-      "buy_price_coef": 44,
-      "exchange_price_coef": 0,
-      "heal_price_coef": 0,
-      "insurance_price_coef": 0,
-      "minLevel": 15,
-      "minSalesSum": 1000000,
-      "minStanding": 0.2,
-      "repair_price_coef": 0
-    },
-    {
       "buy_price_coef": 48,
       "exchange_price_coef": 0,
       "heal_price_coef": 0,
       "insurance_price_coef": 0,
-      "minLevel": 25,
-      "minSalesSum": 2500000,
-      "minStanding": 0.4,
+      "minLevel": 15,
+      "minSalesSum": 5500,
+      "minStanding": 0.15,
       "repair_price_coef": 0
     },
     {
-      "buy_price_coef": 50,
+      "buy_price_coef": 45,
+      "exchange_price_coef": 0,
+      "heal_price_coef": 0,
+      "insurance_price_coef": 0,
+      "minLevel": 25,
+      "minSalesSum": 9500,
+      "minStanding": 0.30,
+      "repair_price_coef": 0
+    },
+    {
+      "buy_price_coef": 42,
       "exchange_price_coef": 0,
       "heal_price_coef": 0,
       "insurance_price_coef": 0,
       "minLevel": 35,
-      "minSalesSum": 5000000,
-      "minStanding": 0.65,
+      "minSalesSum": 12500,
+      "minStanding": 0.50,
       "repair_price_coef": 0
     }
   ],
@@ -121,5 +121,5 @@
     "category": [],
     "id_list": []
   },
-  "unlockedByDefault": true
+  "unlockedByDefault": false
 }

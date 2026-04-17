@@ -426,7 +426,7 @@
         ]
       }
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "6930cfa508316815076d3d08": {
@@ -492,7 +492,7 @@
     "addtoTraders": true,
     "traders": {
       "TRUDY": {
-        "6920fa076fbf92f2428e4d96": {
+        "69df99702d1cb78426f0dbf1": {
           "barterSettings": {
             "loyalLevel": 1,
             "unlimitedCount": true,
@@ -988,7 +988,7 @@
         "Description": "The pin fell out, oh no."
       }
     },
-    "fleaPriceRoubles": 15000,
+    "fleaPriceRoubles": 45000,
     "handbookPriceRoubles": 12500,
     "addtoBots": false,
     "addtoSpecialSlots": false,
@@ -1004,7 +1004,7 @@
       "probability": 250
       }
     ],
-    "addtoSecureFilters": true,
+    "addtoSecureFilters": false,
     "addtoTraders": true,
     "traders": {
       "TRUDY": {
@@ -1016,7 +1016,7 @@
           },
           "barters": [
             {
-              "count": 175,
+              "count": 45,
               "_tpl": "MONEY_EUROS"
             }
           ]
@@ -1109,7 +1109,7 @@
           },
           "barters": [
             {
-              "count": 75,
+              "count": 15,
               "_tpl": "MONEY_EUROS"
             }
           ]

@@ -178,7 +178,6 @@
     "modSlot": [],
     "fleaPriceRoubles": 33900,
     "handbookPriceRoubles": 4100,
-    "addtoTraders": true,
     
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -296,6 +295,8 @@
         "_encyclopedia": "5b3b6e5d5acfc43398055011"
       }
     ],
+    "addtoTraders": false,
+
     "traders": {
       "MECHANIC": {
         "6973da8bc88068b644c3933d": {

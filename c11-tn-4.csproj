@@ -24,24 +24,27 @@
 
   <!-- 1. DEFINE ITEMS TO COPY -->
   <ItemGroup>
-    <!-- 
-      Captures all JSON files recursively inside Resources\db 
-      (CustomItems, CustomLocales, CustomBotLoadouts, etc.)
-    -->
+    <!-- Captures all JSON files recursively inside Resources\db -->
     <DbFiles Include="Resources\db\**\*.json" />
     
     <!-- Captures bundles.json from Resources -->
     <BundlesJson Include="Resources\bundles.json" />
+
+    <!-- === ADDED: Captures all PNG files inside CustomSlotImages === -->
+    <SlotImages Include="Resources\db\CustomSlotImages\**\*.png" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="WTT-ServerCommonLib" Version="2.0.15" />
+    <PackageReference Include="WTT-ServerCommonLib" Version="2.0.18" />
   </ItemGroup>
 
   <!-- Folder structure for Visual Studio organization -->
   <ItemGroup>
     <Folder Include="Resources\bundles\" />
+    <Folder Include="Resources\db\CustomLootspawns\" />
+    <Folder Include="Resources\db\CustomQuests\trudy\Images\" />
     <Folder Include="Resources\db\trudy\" />
+    <Folder Include="Resources\db\CustomSlotImages\" />
   </ItemGroup>
 
   <!-- 2. DEPLOYMENT TARGET -->
@@ -62,13 +65,17 @@
           SkipUnchangedFiles="false" />
 
     <!-- C. Copy DB folder (maintaining folder structure) -->
-    <!-- 
-       %(RecursiveDir) captures the path after "Resources\db\".
-       e.g. "CustomItems\file.json" puts file.json into "mod\db\CustomItems\"
-    -->
     <Message Importance="high" Text="[DeployMod] Copying DB files..." />
     <Copy SourceFiles="@(DbFiles)" 
           DestinationFolder="$(SptModsDir)\db\%(RecursiveDir)" 
+          OverwriteReadOnlyFiles="true" 
+          SkipUnchangedFiles="false" />
+
+    <!-- === ADDED: Copy CustomSlotImages PNGs === -->
+    <!-- %(RecursiveDir) ensures any subfolders inside CustomSlotImages are maintained -->
+    <Message Importance="high" Text="[DeployMod] Copying Custom Slot Images..." />
+    <Copy SourceFiles="@(SlotImages)" 
+          DestinationFolder="$(SptModsDir)\db\CustomSlotImages\%(RecursiveDir)" 
           OverwriteReadOnlyFiles="true" 
           SkipUnchangedFiles="false" />
 
@@ -77,26 +84,26 @@
     
     <!-- Copy bundles recursively -->
     <Exec Command="xcopy &quot;$(ResourcesDir)\bundles&quot; &quot;$(SptModsDir)\bundles&quot; /E /I /Y" />
-
-    <!-- Flatten: move all files from subfolders to root of bundles -->
+    
+    <!-- Flatten: move all files from subfolders to root of bundles, IGNORING "textures" folders -->
     <Exec Command="
       for /r &quot;$(SptModsDir)\bundles&quot; %%F in (*) do (
         if /I not &quot;%%~dpF&quot;==&quot;$(SptModsDir)\bundles\&quot; (
-          move /Y &quot;%%F&quot; &quot;$(SptModsDir)\bundles&quot;
+          echo &quot;%%~dpF&quot; | find /i &quot;\textures\&quot; &gt;nul
+          if errorlevel 1 (
+            move /Y &quot;%%F&quot; &quot;$(SptModsDir)\bundles&quot;
+          )
         )
       )
     " />
 
-    <!-- Remove empty subfolders in bundles -->
+    <!-- Remove empty subfolders (Processed Bottom-Up to ensure nested empty folders are removed) -->
     <Exec Command="
-      for /d /r &quot;$(SptModsDir)\bundles&quot; %%D in (*) do (
-        if exist &quot;%%D&quot; (
-          dir /b &quot;%%D&quot; &gt;nul 2&gt;&amp;1 || rmdir /s /q &quot;%%D&quot;
-        )
+      for /f &quot;usebackq delims=&quot; %%d in (`dir /ad /b /s &quot;$(SptModsDir)\bundles&quot; ^| sort /r`) do (
+        rd &quot;%%d&quot; 2&gt;nul
       )
     " />
    
-
     <Message Importance="high" Text="[DeployMod] Deployment Complete." />
   </Target>
 

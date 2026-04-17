@@ -432,7 +432,7 @@
         ]
       }
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "6959ae607ae988d0cc21a22d": {

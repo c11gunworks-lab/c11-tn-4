@@ -79,12 +79,7 @@
         "parentId": "698e63e965ed5353a0e3003a",
         "slotId": "mod_muzzle"
       },
-      {
-        "_id": "693b0b6f9ced2ab5fcda4c1b",
-        "_tpl": "68e029fe3948c17cabf65482",
-        "parentId": "698e63e965ed5353a0e3003c",
-        "slotId": "mod_muzzle"
-      },
+     
 
       {
         "_id": "693b0bac9ced2ab5fcda59bd",
@@ -248,14 +243,7 @@
           }
         ]
       ],
-      "693b0b6f9ced2ab5fcda4c1b": [
-        [
-          {
-            "count": 3,
-            "_tpl": "5d235a5986f77443f6329bc6"
-          }
-        ]
-      ],
+     
       "693b0bac9ced2ab5fcda59bd": [
         [
           {
@@ -268,7 +256,6 @@
     "loyal_level_items": {
       "693b0bac9ced2ab5fcda59bd": 1,
       "698e659765ed5353a0e368ff": 1,
-      "693b0b6f9ced2ab5fcda4c1b": 1,
       "698e659765ed5353a0e368fa": 3
 
     }

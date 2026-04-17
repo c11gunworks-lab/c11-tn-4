@@ -436,7 +436,7 @@
         ]
       }
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {
@@ -1040,7 +1040,7 @@
       "Prefab": { "path": "sprgrip.bundle", "rcid": "" },
       "BackgroundColor": "blue",
       "Width": 1,
-      "Height": 2,
+      "Height": 1,
       "Weight": 0.15,
       "Ergonomics": 6,
       "ExtraSizeDown":1,

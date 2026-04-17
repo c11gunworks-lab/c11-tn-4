@@ -1,0 +1,127 @@
+﻿{
+  "woods": [
+    {
+      "locationId": "(-348.6964 -8.288493 132.1761)",
+      "probability": 1,
+      "template": {
+        "Id": "10dollar [98925e89-6f36-42ee-b0da-1bbd256afaa3]",
+        "IsContainer": false,
+        "useGravity": false,
+        "randomRotation": false,
+        "Position": {
+          "x": -348.6964,
+          "y": -8.288493,
+          "z": 132.1761
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "IsAlwaysSpawn": true,
+        "Root": "69e15ec4197212d777ff183c",
+        "Items": [
+          {
+            "_id": "69e15ec7d0c583f666ff183d",
+            "_tpl": "69a9e443e43d97b015eee87a",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ]
+      },
+      "itemDistribution": [
+        {
+          "composedKey": {
+            "key": "69a9e443e43d97b015eee87a"
+          },
+          "relativeProbability": 1
+        }
+      ]
+    },
+    {
+      "locationId": "(-163.5329 45.99403 -235.7167)",
+      "probability": 1,
+      "template": {
+        "Id": "tims [ac8d6ef6-b22a-4525-9bf7-0c8bbd91aa4f]",
+        "IsContainer": false,
+        "useGravity": false,
+        "randomRotation": false,
+        "Position": {
+          "x": -163.5329,
+          "y": 45.99403,
+          "z": -235.7167
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "IsAlwaysSpawn": true,
+        "Root": "69e15f3caebaeb4b38ff183e",
+        "Items": [
+          {
+            "_id": "69e15f3d9464c2016bff183f",
+            "_tpl": "69b31cd348ff54eac228ae49",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ]
+      },
+      "itemDistribution": [
+        {
+          "composedKey": {
+            "key": "69b31cd348ff54eac228ae49"
+          },
+          "relativeProbability": 1
+        }
+      ]
+    },
+    {
+      "locationId": "(35.30838 26.52285 -379.8527)",
+      "probability": 1,
+      "template": {
+        "Id": "greatone [e36ce25d-4d4a-4ba2-9216-68324840e980]",
+        "IsContainer": false,
+        "useGravity": false,
+        "randomRotation": false,
+        "Position": {
+          "x": 35.30838,
+          "y": 26.52285,
+          "z": -379.8527
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "IsAlwaysSpawn": true,
+        "Root": "69e15f72ea728725f5ff1840",
+        "Items": [
+          {
+            "_id": "69e15f73bfdf544b26ff1841",
+            "_tpl": "69a9e4992e1165c50ceee880",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ]
+      },
+      "itemDistribution": [
+        {
+          "composedKey": {
+            "key": "69a9e4992e1165c50ceee880"
+          },
+          "relativeProbability": 1
+        }
+      ]
+    }
+  ]
+}

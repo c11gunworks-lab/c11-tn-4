@@ -1,0 +1,2522 @@
+{
+  "6a1b2c3d4e5f6a7b8c9d0e20": {
+    "itemTplToClone": "5df8ce05b11454561e39243b",
+    "parentId": "5447b6194bdc2d67278b4567",
+    "handbookParentId": "5b5f791486f774093f2ed3be",
+    "overrideProperties": {
+      "AdjustCollimatorsToTrajectory": false,
+      "AimPlane": 0.22,
+      "AimSensitivity": 0.65,
+      "AllowFeed": true,
+      "AllowJam": true,
+      "AllowMisfire": true,
+      "AllowOverheat": true,
+      "AllowSlide": true,
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "black",
+      "BaseMalfunctionChance": 0.22,
+      "BoltAction": false,
+      "BurstShotsCount": 3,
+      "CameraSnap": 3.5,
+      "CameraToWeaponAngleSpeedRange": {
+        "x": 0.1,
+        "y": 0.2,
+        "z": 0
+      },
+      "CameraToWeaponAngleStep": 0.1,
+      "CanPutIntoDuringTheRaid": true,
+      "CanQueueSecondShot": true,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "CanUnloadAmmoByPlayer": true,
+      "CantRemoveFromSlotsDuringRaid":[],
+      "CenterOfImpact": 0,
+      "Chambers":[
+        {
+          "_id": "6a1b2c3d4e5f6a7b8c9d0e21",
+          "_mergeSlotWithChildren": false,
+          "_name": "patron_in_weapon",
+          "_parent": "6a1b2c3d4e5f6a7b8c9d0e20",
+          "_props": {
+            "filters": [
+              {
+                "Filter":[
+                  "5a6086ea4f39f99cd479502f",
+                  "5a608bf24f39f98ffc77720e",
+                  "58dd3ad986f77403051cba8f",
+                  "5e023e53d4353e3302577c4c",
+                  "5efb0c1bd79ff02a1f5e68d9",
+                  "5e023e6e34d52a55c3304f71",
+                  "5e023e88277cce2b522ff2b1",
+                  "6768c25aa7b238f14a08d3f6"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d4af244bdc2d962f8b4571",
+          "_required": false
+        }
+      ],
+      "CompactHandling": true,
+      "ConflictingItems":[],
+      "CoolFactorGun": 2.592,
+      "CoolFactorGunMods": 1,
+      "Description": "weapon_aero_m5_762x51",
+      "DeviationCurve": 1.1,
+      "DeviationMax": 30,
+      "DiscardLimit": -1,
+      "DoubleActionAccuracyPenalty": 1.5,
+      "DropSoundType": "Rifle",
+      "Durability": 100,
+      "DurabilityBurnRatio": 1.2,
+      "Ergonomics": 45,
+      "ExamineExperience": 8,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Foldable": false,
+      "FoldedSlot": "",
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids":[],
+      "HeatFactorByShot": 2.5,
+      "HeatFactorGun": 1,
+      "Height": 1,
+      "HideEntrails": false,
+      "HipAccuracyRestorationDelay": 0.2,
+      "HipAccuracyRestorationSpeed": 7,
+      "HipInnaccuracyGain": 0.16,
+      "InsuranceDisabled": false,
+      "IronSightRange": 100,
+      "ItemSound": "weap_dmr",
+      "LootExperience": 5,
+      "ManualBoltCatch": false,
+      "MaxDurability": 100,
+      "MaxRepairDegradation": 0.03,
+      "MaxRepairKitDegradation": 0.025,
+      "MergesWithChildren": true,
+      "MinRepairDegradation": 0,
+      "MinRepairKitDegradation": 0,
+      "MountCameraSnapMultiplier": 3,
+      "MountHorizontalRecoilMultiplier": 0.6,
+      "MountReturnSpeedHandMultiplier": 1,
+      "MountVerticalRecoilMultiplier": 0.85,
+      "MountingHorizontalOutOfBreathMultiplier": 0.4,
+      "MountingPosition": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "MountingVerticalOutOfBreathMultiplier": 0.8,
+      "MustBoltBeOpennedForExternalReload": false,
+      "MustBoltBeOpennedForInternalReload": false,
+      "Name": "weapon_aero_m5_762x51",
+      "NoFiremodeOnBoltcatch": false,
+      "NotShownInSlot": false,
+      "PostRecoilHorizontalRangeHandRotation": {
+        "x": -1,
+        "y": 1,
+        "z": 0
+      },
+      "PostRecoilVerticalRangeHandRotation": {
+        "x": -1.3,
+        "y": 0,
+        "z": 0
+      },
+      "Prefab": {
+        "path": "aero-m5-lower.bundle",
+        "rcid": ""
+      },
+      "ProgressRecoilAngleOnStable": {
+        "x": 0,
+        "y": 28,
+        "z": 0
+      },
+      "RagFairCommissionModifier": 1,
+      "RecoilAngle": 90,
+      "RecoilCamera": 0.05,
+      "RecoilCategoryMultiplierHandRotation": 0.21,
+      "RecoilCenter": {
+        "x": 0,
+        "y": -0.3,
+        "z": 0
+      },
+      "RecoilDampingHandRotation": 0.86,
+      "RecoilForceBack": 365,
+      "RecoilForceUp": 160,
+      "RecoilPosZMult": 1,
+      "RecoilReturnPathDampingHandRotation": 0.4,
+      "RecoilReturnPathOffsetHandRotation": 0.01,
+      "RecoilReturnSpeedHandRotation": 2.8,
+      "RecoilStableAngleIncreaseStep": 2.5,
+      "RecoilStableIndexShot": 4,
+      "RecolDispersion": 11,
+      "ReloadMode": "ExternalMagazine",
+      "RepairComplexity": 0,
+      "RepairCost": 180,
+      "RepairSpeed": 15,
+      "ResetAfterShot": false,
+      "Retractable": false,
+      "RotationCenter": {
+        "x": 0,
+        "y": -0.1,
+        "z": 0
+      },
+      "RotationCenterNoStock": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "ShortName": "weapon_aero_m5_762x51",
+      "ShotsGroupSettings":[
+        {
+          "EndShotIndex": 99,
+          "ShotRecoilPositionStrength": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "ShotRecoilRadianRange": {
+            "x": -20,
+            "y": 20,
+            "z": 0
+          },
+          "ShotRecoilRotationStrength": {
+            "x": 0,
+            "y": 2,
+            "z": 0
+          },
+          "StartShotIndex": 4
+        }
+      ],
+      "SightingRange": 100,
+      "SingleFireRate": 450,
+      "SizeReduceRight": 0,
+      "Slots":[
+        {
+          "_id": "6a1b2c3d4e5f6a7b8c9d0e22",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_pistol_grip",
+          "_parent": "6a1b2c3d4e5f6a7b8c9d0e20",
+          "_props": {
+            "filters":[
+              {
+                "Filter":[
+                  "55d4b9964bdc2d1d4e8b456e",
+                  "571659bb2459771fb2755a12",
+                  "602e71bd53a60014f9705bfa",
+                  "6113c3586c780c1e710c90bc",
+                  "6113cc78d3a39d50044c065a",
+                  "6113cce3d92c473c770200c7",
+                  "5cc9bcaed7f00c011c04e179",
+                  "5bb20e18d4351e00320205d5",
+                  "5bb20e0ed4351e3bac1212dc",
+                  "6193dcd0f8ee7e52e4210a28",
+                  "5d025cc1d7ad1a53845279ef",
+                  "5c6d7b3d2e221600114c9b7d",
+                  "57c55efc2459772d2c6271e7",
+                  "57af48872459771f0b2ebf11",
+                  "57c55f092459772d291a8463",
+                  "57c55f112459772d28133310",
+                  "57c55f172459772d27602381",
+                  "5a339805c4a2826c6e06d73d",
+                  "55802f5d4bdc2dac148b458f",
+                  "5d15cf3bd7ad1a67e71518b2",
+                  "59db3a1d86f77429e05b4e92",
+                  "5fbcbd6c187fea44d52eda14",
+                  "59db3acc86f7742a2c4ab912",
+                  "59db3b0886f77429d72fb895",
+                  "615d8faecabb9b7ad90f4d5d",
+                  "5b07db875acfc40dc528a5f6",
+                  "63f5feead259b42f0b4d6d0f",
+                  "652911675ae2ae97b80fdf3c",
+                  "69e240e5d1701dbc14ff185d"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "6a1b2c3d4e5f6a7b8c9d0e23",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_magazine",
+          "_parent": "6a1b2c3d4e5f6a7b8c9d0e20",
+          "_props": {
+            "filters":[
+              {
+                "AnimationIndex": -1,
+                "Filter":[
+                  "5df8f535bb49d91fb446d6b0",
+                  "5df8f541c41b2312ea3335e3",
+                  "5a3501acc4a282000d72293a",
+                  "65293c38fc460e50a509cb25",
+                  "65293c7a17e14363030ad308",
+                  "6761770e48fa5c377e06fc3c",
+                  "69e239f2a9e8af1931ff1856",
+                  "69e24048770bbffb64ff185a"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d30c394bdc2dae468b4577",
+          "_required": false
+        },
+        {
+          "_id": "6a1b2c3d4e5f6a7b8c9d0e24",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_stock",
+          "_parent": "6a1b2c3d4e5f6a7b8c9d0e20",
+          "_props": {
+            "filters":[
+              {
+                "Filter":[
+                  "5649be884bdc2d79388b4577",
+                  "5d120a10d7ad1a4e1026ba85",
+                  "5b0800175acfc400153aebd4",
+                  "602e3f1254072b51b239f713",
+                  "5c793fb92e221644f31bfb64",
+                  "5c793fc42e221600114ca25d",
+                  "638de3603a1a4031d8260b8c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "6a1b2c3d4e5f6a7b8c9d0e25",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_reciever",
+          "_parent": "6a1b2c3d4e5f6a7b8c9d0e20",
+          "_props": {
+            "filters": [
+              {
+                "Filter":[
+                  "69e23553ebf64594eaff184a",
+                  "69e2596c1fad487eefff1872"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "6a1b2c3d4e5f6a7b8c9d0e26",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_charge",
+          "_parent": "6a1b2c3d4e5f6a7b8c9d0e20",
+          "_props": {
+            "filters":[
+              {
+                "Filter":[
+                  "5df8e085bb49d91fb446d6a8",
+                  "5df8e053bb49d91fb446d6a6",
+                  "69e2578f9e2f3658f4ff1863",
+                  "69e258159d49bea7aaff1867"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        }
+      ],
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "TacticalReloadFixation": 0.95,
+      "TacticalReloadStiffnes": {
+        "x": 0.95,
+        "y": 0.33,
+        "z": 0.95
+      },
+      "Velocity": 0,
+      "WeaponRecoilSettings": {
+        "Enable": true,
+        "Values":[
+          {
+            "Enable": true,
+            "Process": {
+              "ComponentType": "Y",
+              "CurveAimingValueMultiply": 0.34,
+              "CurveTimeMultiply": 2,
+              "CurveValueMultiply": 0.76,
+              "TransformationCurve": {
+                "Keys":[
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0,
+                    "value": 0
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0.1,
+                    "value": 2
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0.3,
+                    "value": -0.75
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 1,
+                    "value": 0
+                  }
+                ]
+              }
+            },
+            "Target": "HandsRotation"
+          },
+          {
+            "Enable": true,
+            "Process": {
+              "ComponentType": "Y",
+              "CurveAimingValueMultiply": 0,
+              "CurveTimeMultiply": 2,
+              "CurveValueMultiply": 0.001,
+              "TransformationCurve": {
+                "Keys":[
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0,
+                    "value": 0
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0.1,
+                    "value": 2
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0.3,
+                    "value": -0.75
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 1,
+                    "value": 0
+                  }
+                ]
+              }
+            },
+            "Target": "HandsPosition"
+          },
+          {
+            "Enable": true,
+            "Process": {
+              "ComponentType": "Z",
+              "CurveAimingValueMultiply": 0.15,
+              "CurveTimeMultiply": 1,
+              "CurveValueMultiply": 0.2,
+              "TransformationCurve": {
+                "Keys":[
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0,
+                    "value": 0
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0.1,
+                    "value": 2
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0.3,
+                    "value": -0.75
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 1,
+                    "value": 0
+                  }
+                ]
+              }
+            },
+            "Target": "CameraRotation"
+          }
+        ]
+      },
+      "Weight": 0.497,
+      "Width": 1,
+      "ammoCaliber": "Caliber762x51",
+      "bEffDist": 900,
+      "bFirerate": 700,
+      "bHearDist": 80,
+      "blockLeftStance": false,
+      "chamberAmmoCount": 1,
+      "defAmmo": "5e023e53d4353e3302577c4c",
+      "defMagType": "5a3501acc4a282000d72293a",
+      "durabSpawnMax": 75,
+      "durabSpawnMin": 25,
+      "isBoltCatch": true,
+      "isChamberLoad": true,
+      "isFastReload": true,
+      "shotgunDispersion": 0,
+      "weapClass": "marksmanRifle",
+      "weapFireType":[
+        "single"
+      ],
+      "weapUseType": "primary"
+    },
+    "locales": {
+      "en": {
+        "Name": "Aero Precision M5 7.62x51 lower receiver",
+        "ShortName": "Aero M5",
+        "Description": "The Aero Precision M5 lower receiver is a commercial AR-10/DPMS pattern receiver milled from 7075-T6 aluminum. Widely known for its reliability and availability on the civilian market, it serves as a highly modular base for custom marksman builds."
+      }
+    },
+    "fleaPriceRoubles": 45000,
+    "handbookPriceRoubles": 42000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers":[
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "Probability": 250
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "masterySections":[
+      {
+        "Level2": 150,
+        "Level3": 200,
+        "Name": "AeroM5",
+        "Templates":[
+          "6a1b2c3d4e5f6a7b8c9d0e20"
+        ]
+      }
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "6a1b2c3d4e5f6a7b8c9d0e27": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters":[
+            {
+              "count": 45000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69e25b7dda6365b5b8ff187b": {
+    "itemTplToClone": "5df8ce05b11454561e39243b",
+    "parentId": "5447b6194bdc2d67278b4567",
+    "handbookParentId": "5b5f791486f774093f2ed3be",
+    "overrideProperties": {
+      "AdjustCollimatorsToTrajectory": false,
+      "AimPlane": 0.22,
+      "AimSensitivity": 0.65,
+      "AllowFeed": true,
+      "AllowJam": true,
+      "AllowMisfire": true,
+      "AllowOverheat": true,
+      "AllowSlide": true,
+      "RarityPvE":"Superrare",
+      "CanRequireOnRagfair":false,
+      "CanSellOnRagfair":false,
+      "ExaminedByDefault":false,
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "black",
+      "BaseMalfunctionChance": 0.22,
+      "BoltAction": false,
+      "BurstShotsCount": 3,
+      "CameraSnap": 3.5,
+      "CameraToWeaponAngleSpeedRange": {
+        "x": 0.1,
+        "y": 0.2,
+        "z": 0
+      },
+      "CameraToWeaponAngleStep": 0.1,
+      "CanPutIntoDuringTheRaid": true,
+      "CanQueueSecondShot": true,
+      "CanUnloadAmmoByPlayer": true,
+      "CantRemoveFromSlotsDuringRaid":[],
+      "CenterOfImpact": 0,
+      "Chambers":[
+        {
+          "_id": "6a1b2c3d4e5f6a7b8c9d0e21",
+          "_mergeSlotWithChildren": false,
+          "_name": "patron_in_weapon",
+          "_parent": "6a1b2c3d4e5f6a7b8c9d0e20",
+          "_props": {
+            "filters":[
+              {
+                "Filter":[
+                  "5a6086ea4f39f99cd479502f",
+                  "5a608bf24f39f98ffc77720e",
+                  "58dd3ad986f77403051cba8f",
+                  "5e023e53d4353e3302577c4c",
+                  "5efb0c1bd79ff02a1f5e68d9",
+                  "5e023e6e34d52a55c3304f71",
+                  "5e023e88277cce2b522ff2b1",
+                  "6768c25aa7b238f14a08d3f6"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d4af244bdc2d962f8b4571",
+          "_required": false
+        }
+      ],
+      "CompactHandling": true,
+      "ConflictingItems":[],
+      "CoolFactorGun": 2.592,
+      "CoolFactorGunMods": 1,
+      "Description": "weapon_aero_m5_762x51",
+      "DeviationCurve": 1.1,
+      "DeviationMax": 30,
+      "DiscardLimit": -1,
+      "DoubleActionAccuracyPenalty": 1.5,
+      "DropSoundType": "Rifle",
+      "Durability": 100,
+      "DurabilityBurnRatio": 1.2,
+      "Ergonomics": 45,
+      "ExamineExperience": 8,
+      "ExamineTime": 1,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Foldable": false,
+      "FoldedSlot": "",
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids":[],
+      "HeatFactorByShot": 2.5,
+      "HeatFactorGun": 1,
+      "Height": 1,
+      "HideEntrails": false,
+      "HipAccuracyRestorationDelay": 0.2,
+      "HipAccuracyRestorationSpeed": 7,
+      "HipInnaccuracyGain": 0.16,
+      "InsuranceDisabled": false,
+      "IronSightRange": 100,
+      "ItemSound": "weap_dmr",
+      "LootExperience": 5,
+      "ManualBoltCatch": false,
+      "MaxDurability": 100,
+      "MaxRepairDegradation": 0.03,
+      "MaxRepairKitDegradation": 0.025,
+      "MergesWithChildren": true,
+      "MinRepairDegradation": 0,
+      "MinRepairKitDegradation": 0,
+      "MountCameraSnapMultiplier": 3,
+      "MountHorizontalRecoilMultiplier": 0.6,
+      "MountReturnSpeedHandMultiplier": 1,
+      "MountVerticalRecoilMultiplier": 0.85,
+      "MountingHorizontalOutOfBreathMultiplier": 0.4,
+      "MountingPosition": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "MountingVerticalOutOfBreathMultiplier": 0.8,
+      "MustBoltBeOpennedForExternalReload": false,
+      "MustBoltBeOpennedForInternalReload": false,
+      "Name": "weapon_aero_m5_762x51",
+      "NoFiremodeOnBoltcatch": false,
+      "NotShownInSlot": false,
+      "PostRecoilHorizontalRangeHandRotation": {
+        "x": -1,
+        "y": 1,
+        "z": 0
+      },
+      "PostRecoilVerticalRangeHandRotation": {
+        "x": -1.3,
+        "y": 0,
+        "z": 0
+      },
+      "Prefab": {
+        "path": "aero-m5-lower-camo.bundle",
+        "rcid": ""
+      },
+      "ProgressRecoilAngleOnStable": {
+        "x": 0,
+        "y": 28,
+        "z": 0
+      },
+      "RagFairCommissionModifier": 1,
+      "RecoilAngle": 90,
+      "RecoilCamera": 0.05,
+      "RecoilCategoryMultiplierHandRotation": 0.21,
+      "RecoilCenter": {
+        "x": 0,
+        "y": -0.3,
+        "z": 0
+      },
+      "RecoilDampingHandRotation": 0.86,
+      "RecoilForceBack": 365,
+      "RecoilForceUp": 160,
+      "RecoilPosZMult": 1,
+      "RecoilReturnPathDampingHandRotation": 0.4,
+      "RecoilReturnPathOffsetHandRotation": 0.01,
+      "RecoilReturnSpeedHandRotation": 2.8,
+      "RecoilStableAngleIncreaseStep": 2.5,
+      "RecoilStableIndexShot": 4,
+      "RecolDispersion": 11,
+      "ReloadMode": "ExternalMagazine",
+      "RepairComplexity": 0,
+      "RepairCost": 180,
+      "RepairSpeed": 15,
+      "ResetAfterShot": false,
+      "Retractable": false,
+      "RotationCenter": {
+        "x": 0,
+        "y": -0.1,
+        "z": 0
+      },
+      "RotationCenterNoStock": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "ShortName": "weapon_aero_m5_762x51",
+      "ShotsGroupSettings":[
+        {
+          "EndShotIndex": 99,
+          "ShotRecoilPositionStrength": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "ShotRecoilRadianRange": {
+            "x": -20,
+            "y": 20,
+            "z": 0
+          },
+          "ShotRecoilRotationStrength": {
+            "x": 0,
+            "y": 2,
+            "z": 0
+          },
+          "StartShotIndex": 4
+        }
+      ],
+      "SightingRange": 100,
+      "SingleFireRate": 450,
+      "SizeReduceRight": 0,
+      "Slots":[
+        {
+          "_id": "69e25b9ba43c4e1a4fff187c",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_pistol_grip",
+          "_parent": "69e25b7dda6365b5b8ff187b",
+          "_props": {
+            "filters":[
+              {
+                "Filter":[
+                  "55d4b9964bdc2d1d4e8b456e",
+                  "571659bb2459771fb2755a12",
+                  "602e71bd53a60014f9705bfa",
+                  "6113c3586c780c1e710c90bc",
+                  "6113cc78d3a39d50044c065a",
+                  "6113cce3d92c473c770200c7",
+                  "5cc9bcaed7f00c011c04e179",
+                  "5bb20e18d4351e00320205d5",
+                  "5bb20e0ed4351e3bac1212dc",
+                  "6193dcd0f8ee7e52e4210a28",
+                  "5d025cc1d7ad1a53845279ef",
+                  "5c6d7b3d2e221600114c9b7d",
+                  "57c55efc2459772d2c6271e7",
+                  "57af48872459771f0b2ebf11",
+                  "57c55f092459772d291a8463",
+                  "57c55f112459772d28133310",
+                  "57c55f172459772d27602381",
+                  "5a339805c4a2826c6e06d73d",
+                  "55802f5d4bdc2dac148b458f",
+                  "5d15cf3bd7ad1a67e71518b2",
+                  "59db3a1d86f77429e05b4e92",
+                  "5fbcbd6c187fea44d52eda14",
+                  "59db3acc86f7742a2c4ab912",
+                  "59db3b0886f77429d72fb895",
+                  "615d8faecabb9b7ad90f4d5d",
+                  "5b07db875acfc40dc528a5f6",
+                  "63f5feead259b42f0b4d6d0f",
+                  "652911675ae2ae97b80fdf3c",
+                  "69e240e5d1701dbc14ff185d"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "69e25ba4ec6f43c8caff187d",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_magazine",
+          "_parent": "69e25b7dda6365b5b8ff187b",
+          "_props": {
+            "filters":[
+              {
+                "AnimationIndex": -1,
+                "Filter":[
+                  "5df8f535bb49d91fb446d6b0",
+                  "5df8f541c41b2312ea3335e3",
+                  "5a3501acc4a282000d72293a",
+                  "65293c38fc460e50a509cb25",
+                  "65293c7a17e14363030ad308",
+                  "6761770e48fa5c377e06fc3c",
+                  "69e239f2a9e8af1931ff1856",
+                  "69e24048770bbffb64ff185a"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d30c394bdc2dae468b4577",
+          "_required": false
+        },
+        {
+          "_id": "69e25baa97d440ee38ff187e",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_stock",
+          "_parent": "69e25b7dda6365b5b8ff187b",
+          "_props": {
+            "filters": [
+              {
+                "Filter":[
+                  "5649be884bdc2d79388b4577",
+                  "5d120a10d7ad1a4e1026ba85",
+                  "5b0800175acfc400153aebd4",
+                  "602e3f1254072b51b239f713",
+                  "5c793fb92e221644f31bfb64",
+                  "5c793fc42e221600114ca25d",
+                  "638de3603a1a4031d8260b8c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "69e25badbcb42b8b7aff187f",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_reciever",
+          "_parent": "69e25b7dda6365b5b8ff187b",
+          "_props": {
+            "filters": [
+              {
+                "Filter":[
+                  "69e23553ebf64594eaff184a",
+                  "69e2596c1fad487eefff1872"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "69e25bb1faacadf695ff1880",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_charge",
+          "_parent": "69e25b7dda6365b5b8ff187b",
+          "_props": {
+            "filters":[
+              {
+                "Filter":[
+                  "5df8e085bb49d91fb446d6a8",
+                  "5df8e053bb49d91fb446d6a6",
+                  "69e2578f9e2f3658f4ff1863",
+                  "69e258159d49bea7aaff1867"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        }
+      ],
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "TacticalReloadFixation": 0.95,
+      "TacticalReloadStiffnes": {
+        "x": 0.95,
+        "y": 0.33,
+        "z": 0.95
+      },
+      "Velocity": 0,
+      "WeaponRecoilSettings": {
+        "Enable": true,
+        "Values":[
+          {
+            "Enable": true,
+            "Process": {
+              "ComponentType": "Y",
+              "CurveAimingValueMultiply": 0.34,
+              "CurveTimeMultiply": 2,
+              "CurveValueMultiply": 0.76,
+              "TransformationCurve": {
+                "Keys":[
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0,
+                    "value": 0
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0.1,
+                    "value": 2
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0.3,
+                    "value": -0.75
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 1,
+                    "value": 0
+                  }
+                ]
+              }
+            },
+            "Target": "HandsRotation"
+          },
+          {
+            "Enable": true,
+            "Process": {
+              "ComponentType": "Y",
+              "CurveAimingValueMultiply": 0,
+              "CurveTimeMultiply": 2,
+              "CurveValueMultiply": 0.001,
+              "TransformationCurve": {
+                "Keys":[
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0,
+                    "value": 0
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0.1,
+                    "value": 2
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0.3,
+                    "value": -0.75
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 1,
+                    "value": 0
+                  }
+                ]
+              }
+            },
+            "Target": "HandsPosition"
+          },
+          {
+            "Enable": true,
+            "Process": {
+              "ComponentType": "Z",
+              "CurveAimingValueMultiply": 0.15,
+              "CurveTimeMultiply": 1,
+              "CurveValueMultiply": 0.2,
+              "TransformationCurve": {
+                "Keys":[
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0,
+                    "value": 0
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0.1,
+                    "value": 2
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0.3,
+                    "value": -0.75
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 1,
+                    "value": 0
+                  }
+                ]
+              }
+            },
+            "Target": "CameraRotation"
+          }
+        ]
+      },
+      "Weight": 0.497,
+      "Width": 1,
+      "ammoCaliber": "Caliber762x51",
+      "bEffDist": 900,
+      "bFirerate": 700,
+      "bHearDist": 80,
+      "blockLeftStance": false,
+      "chamberAmmoCount": 1,
+      "defAmmo": "5e023e53d4353e3302577c4c",
+      "defMagType": "5a3501acc4a282000d72293a",
+      "durabSpawnMax": 75,
+      "durabSpawnMin": 25,
+      "isBoltCatch": true,
+      "isChamberLoad": true,
+      "isFastReload": true,
+      "shotgunDispersion": 0,
+      "weapClass": "marksmanRifle",
+      "weapFireType": [
+        "single"
+      ],
+      "weapUseType": "primary"
+    },
+    "locales": {
+      "en": {
+        "Name": "Aero Precision M5 7.62x51 lower receiver (Tan Camo)",
+        "ShortName": "Aero M5 Camo",
+        "Description": "The Aero Precision M5 lower receiver is a commercial AR-10/DPMS pattern receiver milled from 7075-T6 aluminum. Widely known for its reliability and availability on the civilian market, it serves as a highly modular base for custom marksman builds. This one has been sprayed tan camo"
+      }
+    },
+    "fleaPriceRoubles": 45000,
+    "handbookPriceRoubles": 42000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers":[
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "Probability": 250
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "masterySections":[
+      {
+        "Level2": 150,
+        "Level3": 200,
+        "Name": "AeroM5",
+        "Templates":[
+          "6a1b2c3d4e5f6a7b8c9d0e20"
+        ]
+      }
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "69e25bdced7dc94d36ff1881": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters":[
+            {
+              "count": 45000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "69e23553ebf64594eaff184a": {
+    "itemTplToClone": "5df8e4080b92095fd441e594",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Accuracy": 0,
+      "BackgroundColor": "blue",
+      "CoolFactor": 1.067,
+      "Description": "A commercial AR-10 flat-top upper receiver milled from 7075-T6 aluminum by Aero Precision. Features a forward assist, dust cover, and M4 feed ramps.",
+      "DurabilityBurnModificator": 1,
+      "Ergonomics": 3,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "HeatFactor": 0.9347,
+      "Height": 1,
+      "ItemSound": "mod",
+      "Loudness": 0,
+      "MergesWithChildren": true,
+      "Name": "Aero Precision M5 Upper Receiver",
+      "Prefab": {
+        "path": "m5upper.bundle",
+        "rcid": ""
+      },
+      "RaidModdable": true,
+      "Recoil": 0,
+      "ShortName": "Aero M5 Upper",
+      "Weight": 0.38,
+      "Width": 2,
+      "Slots":[
+        {
+          "_id": "69e23769b8b61ce9e8ff184b",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope_000",
+          "_parent": "69e23553ebf64594eaff184a",
+          "_props": {
+            "filters":[
+              {
+                "Filter":[
+                  "57ac965c24597706be5f975c", "57aca93d2459771f2c7e26db", "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567", "5d2dc3e548f035404a1a4798", "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5", "591c4efa86f7741030027726", "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f", "558022b54bdc2dac148b458d", "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d", "58491f3324597764bc48fa02", "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124", "6165ac8c290d254f5e6b2f6c", "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba", "5c0505e00db834001b735073", "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6", "59f9d81586f7744c7506ee62", "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf", "5dfe6104585a0c3e995c7b82", "544a3d0a4bdc2d1b388b4567",
+                  "5d1b5e94d7ad1a2b865a96b0", "609bab8b455afd752b2e6138", "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa", "5c7d55f52e221644f31bff6a", "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e", "615d8d878004cc50514c3233", "5b2389515acfc4771e1be0c0",
+                  "577d128124597739d65d0e56", "618b9643526131765025ab35", "618bab21526131765025ab3f",
+                  "5c86592b2e2216000e69e77c", "5a37ca54c4a282000d72296a", "5d0a29fed7ad1a002769ad08",
+                  "5c064c400db834001d23f468", "58d2664f86f7747fec5834f6", "57c69dd424597774c03b7bbc",
+                  "5b3b99265acfc4704b4a1afb", "5aa66a9be5b5b0214e506e89", "5aa66c72e5b5b00016327c93",
+                  "5c1cdd302e221602b3137250", "61714b2467085e45ef140b2c", "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109", "5b31163c5acfc400153b71cb", "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511", "59db7eed86f77461f8380365", "5a1ead28fcdbcb001912fa9f",
+                  "5dff77c759400025ea5150cf", "626bb8532c923541184624b4", "62811f461d5df4475f46a332",
+                  "63fc449f5bd61c6cf3784a88", "6477772ea8a38bb2050ed4db", "6478641c19d732620e045e17",
+                  "64785e7c19d732620e045e15", "65392f611406374f82152ba5", "653931da5db71d30ab1d6296",
+                  "655f13e0a246670fb0373245", "6567e751a715f85433025998", "6761759e7ee06333f108bf86",
+                  "67641a851b2899700609901a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69e2376b64a71c747bff184c",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_barrel",
+          "_parent": "69e23553ebf64594eaff184a",
+          "_props": {
+            "filters": [
+              {
+                "Filter":[
+                  "5df917564a9f347bc92edca3",
+                  "5dfa397fb11454561e39246c",
+                  "69e237d415d999736dff1850"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "69e23771a48317d410ff184d",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_handguard",
+          "_parent": "69e23553ebf64594eaff184a",
+          "_props": {
+            "filters": [
+              {
+                "Filter":[
+                  "6065881d1246154cad35d637",
+                  "6065880c132d4d12c81fd8da",
+                  "5df916dfbb49d91fb446d6b9",
+                  "5f6336bbda967c74a42e9932",
+                  "5d00ede1d7ad1a0940739a76",
+                  "5d00ef6dd7ad1a0940739b16",
+                  "5a329052c4a28200741e22d3",
+                  "69e2392804c7ff61f2ff1854",
+                  "69e258a0c588f36f04ff1869"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "69e2379c0f6f6f6516ff184e",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_rear",
+          "_parent": "69e23553ebf64594eaff184a",
+          "_props": {
+            "filters":[
+              {
+                "Filter":[
+                  "5bb20e49d4351e3bac1212de", "5ba26b17d4351e00367f9bdd", "5dfa3d7ac41b2312ea33362a",
+                  "5c1780312e221602b66cc189", "5bc09a18d4351e003562b68e", "5c18b9192e2216398b5a8104",
+                  "5894a81786f77427140b8347", "55d5f46a4bdc2d1b198b4567", "5ae30bad5acfc400185c2dc4",
+                  "5fc0fa957283c4046c58147e", "5fb6564947ce63734e3fa1da", "61817865d3a39d50044c13a4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "Name": "Aero Precision M5 Upper Receiver",
+        "ShortName": "Aero M5 Upper",
+        "Description": "A commercial AR-10 flat-top upper receiver milled from 7075-T6 aluminum by Aero Precision. Features a forward assist, dust cover, and M4 feed ramps."
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers":[
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "69e237ced0093a2914ff184f": {
+          "barterSettings": { "loyalLevel": 2, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters":[ { "count": 22000, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+  "69e2596c1fad487eefff1872": {
+    "itemTplToClone": "5df8e4080b92095fd441e594",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Accuracy": 0,
+      "BackgroundColor": "blue",
+      "CoolFactor": 1.067,
+      "Description": "A commercial AR-10 flat-top upper receiver milled from 7075-T6 aluminum by Aero Precision. Features a forward assist, dust cover, and M4 feed ramps.",
+      "DurabilityBurnModificator": 1,
+      "Ergonomics": 3,
+      "RarityPvE":"Superrare",
+      "CanRequireOnRagfair":false,
+      "CanSellOnRagfair":false,
+      "ExaminedByDefault":false,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "HeatFactor": 0.9347,
+      "Height": 1,
+      "ItemSound": "mod",
+      "Loudness": 0,
+      "MergesWithChildren": true,
+      "Name": "Aero Precision M5 Upper Receiver",
+      "Prefab": {
+        "path": "m5uppercamo.bundle",
+        "rcid": ""
+      },
+      "RaidModdable": true,
+      "Recoil": 0,
+      "ShortName": "Aero M5 Upper",
+      "Weight": 0.38,
+      "Width": 2,
+      "Slots":[
+        {
+          "_id": "69e2597dd5e9afd7a8ff1873",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope_000",
+          "_parent": "69e2596c1fad487eefff1872",
+          "_props": {
+            "filters":[
+              {
+                "Filter":[
+                  "57ac965c24597706be5f975c", "57aca93d2459771f2c7e26db", "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567", "5d2dc3e548f035404a1a4798", "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5", "591c4efa86f7741030027726", "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f", "558022b54bdc2dac148b458d", "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d", "58491f3324597764bc48fa02", "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124", "6165ac8c290d254f5e6b2f6c", "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba", "5c0505e00db834001b735073", "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6", "59f9d81586f7744c7506ee62", "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf", "5dfe6104585a0c3e995c7b82", "544a3d0a4bdc2d1b388b4567",
+                  "5d1b5e94d7ad1a2b865a96b0", "609bab8b455afd752b2e6138", "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa", "5c7d55f52e221644f31bff6a", "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e", "615d8d878004cc50514c3233", "5b2389515acfc4771e1be0c0",
+                  "577d128124597739d65d0e56", "618b9643526131765025ab35", "618bab21526131765025ab3f",
+                  "5c86592b2e2216000e69e77c", "5a37ca54c4a282000d72296a", "5d0a29fed7ad1a002769ad08",
+                  "5c064c400db834001d23f468", "58d2664f86f7747fec5834f6", "57c69dd424597774c03b7bbc",
+                  "5b3b99265acfc4704b4a1afb", "5aa66a9be5b5b0214e506e89", "5aa66c72e5b5b00016327c93",
+                  "5c1cdd302e221602b3137250", "61714b2467085e45ef140b2c", "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109", "5b31163c5acfc400153b71cb", "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511", "59db7eed86f77461f8380365", "5a1ead28fcdbcb001912fa9f",
+                  "5dff77c759400025ea5150cf", "626bb8532c923541184624b4", "62811f461d5df4475f46a332",
+                  "63fc449f5bd61c6cf3784a88", "6477772ea8a38bb2050ed4db", "6478641c19d732620e045e17",
+                  "64785e7c19d732620e045e15", "65392f611406374f82152ba5", "653931da5db71d30ab1d6296",
+                  "655f13e0a246670fb0373245", "6567e751a715f85433025998", "6761759e7ee06333f108bf86",
+                  "67641a851b2899700609901a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69e259823bd0e06932ff1874",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_barrel",
+          "_parent": "69e2596c1fad487eefff1872",
+          "_props": {
+            "filters": [
+              {
+                "Filter":[
+                  "5df917564a9f347bc92edca3",
+                  "5dfa397fb11454561e39246c",
+                  "69e237d415d999736dff1850"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "69e2598525063e6953ff1875",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_handguard",
+          "_parent": "69e2596c1fad487eefff1872",
+          "_props": {
+            "filters": [
+              {
+                "Filter":[
+                  "6065881d1246154cad35d637",
+                  "6065880c132d4d12c81fd8da",
+                  "5df916dfbb49d91fb446d6b9",
+                  "5f6336bbda967c74a42e9932",
+                  "5d00ede1d7ad1a0940739a76",
+                  "5d00ef6dd7ad1a0940739b16",
+                  "5a329052c4a28200741e22d3",
+                  "69e2392804c7ff61f2ff1854",
+                  "69e258a0c588f36f04ff1869"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "69e25988ef851e5c35ff1876",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_rear",
+          "_parent": "69e2596c1fad487eefff1872",
+          "_props": {
+            "filters": [
+              {
+                "Filter":[
+                  "5bb20e49d4351e3bac1212de", "5ba26b17d4351e00367f9bdd", "5dfa3d7ac41b2312ea33362a",
+                  "5c1780312e221602b66cc189", "5bc09a18d4351e003562b68e", "5c18b9192e2216398b5a8104",
+                  "5894a81786f77427140b8347", "55d5f46a4bdc2d1b198b4567", "5ae30bad5acfc400185c2dc4",
+                  "5fc0fa957283c4046c58147e", "5fb6564947ce63734e3fa1da", "61817865d3a39d50044c13a4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "Name": "Aero Precision M5 Upper Receiver (Tan Camo)",
+        "ShortName": "Aero M5 Upper (Camo)",
+        "Description": "A commercial AR-10 flat-top upper receiver milled from 7075-T6 aluminum by Aero Precision. Features a forward assist, dust cover, and M4 feed ramps. This one is sprayed with a tan camo"
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers":[
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "69e259cfd0093a2914ff187a": {
+          "barterSettings": { "loyalLevel": 2, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters":[ { "count": 22000, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+
+  "69e237d415d999736dff1850": {
+    "itemTplToClone": "5df917564a9f347bc92edca3",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Accuracy": 0,
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "blue",
+      "CanPutIntoDuringTheRaid": true,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "CenterOfImpact": 0.045,
+      "ConflictingItems":[],
+      "CoolFactor": 0.98,
+      "Description": "A 13.5-inch precision barrel manufactured by Criterion Barrels for the AR-10/SR-25 platform. Excellent for maneuverable marksman rifles.",
+      "DeviationCurve": 1.1,
+      "DeviationMax": 30,
+      "DiscardLimit": -1,
+      "DurabilityBurnModificator": 1,
+      "EffectiveDistance": 0,
+      "Ergonomics": -8,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 2,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "HeatFactor": 0.93,
+      "Height": 1,
+      "Loudness": 0,
+      "MergesWithChildren": true,
+      "Velocity": -12.5,
+      "Weight": 0.93,
+      "Width": 3,
+      "Name": "Criterion 13.5\" .308 AR-10 Barrel",
+      "Prefab": {
+        "path": "ar10_135_barrel.bundle",
+        "rcid": ""
+      },
+      "RaidModdable": false,
+      "Recoil": -3,
+      "ShortName": "13.5\" Criterion",
+      "ShotgunDispersion": 1,
+      "SightingRange": 0,
+      "Slots":[
+        {
+          "_id": "69e238c7634df8f2a3ff1851",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "69e237d415d999736dff1850",
+          "_props": {
+            "filters": [
+              {
+                "Filter":[
+                  "612e0d3767085e45ef14057f", "5b7d693d5acfc43bca706a3d", "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1", "5d1f819086f7744b355c219b", "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63", "5dfa3cd1b33c0951220c079b", "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2", "5c878e9d2e2216000f201903", "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460", "5cdd7693d7f00c0010373aa5", "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf", "612e0e3c290d254f5e6b291d", "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7", "5fbc22ccf24b94483f726483", "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca", "5fbe7618d6fa9c00c571bb6c", "628a66b41d5e41750e314f34",
+                  "6642f63667f5cb56a00662eb",
+                  "69e2558872ca7a7ea2ff1861",
+                  "69e257c4b83e29afacff1864"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69e238c82881527db7ff1852",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_gas_block",
+          "_parent": "69e237d415d999736dff1850",
+          "_props": {
+            "filters": [
+              {
+                "Filter":[
+                  "6065dc8a132d4d12c81fd8e3",
+                  "5a34fbadc4a28200741e230a",
+                  "5dfa3d45dfc58d14537c20b0"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "Name": "Criterion 13.5\" .308 AR-10 Barrel",
+        "ShortName": "13.5\" Criterion",
+        "Description": "A 13.5-inch precision barrel manufactured by Criterion Barrels for the AR-10/SR-25 platform. Excellent for maneuverable marksman rifles."
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers":[
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "69e238fe79b681e12aff1853": {
+          "barterSettings": { "loyalLevel": 2, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters":[ { "count": 32000, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+  "69e25b190ec5b5b2e3ff1878": {
+    "itemTplToClone": "5df917564a9f347bc92edca3",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Accuracy": 0,
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "blue",
+      "CanPutIntoDuringTheRaid": true,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ExaminedByDefault": false,
+      "CenterOfImpact": 0.045,
+      "ConflictingItems":[],
+      "CoolFactor": 0.98,
+      "Description": "A 13.5-inch precision barrel manufactured by Criterion Barrels for the AR-10/SR-25 platform. Excellent for maneuverable marksman rifles.",
+      "DeviationCurve": 1.1,
+      "DeviationMax": 30,
+      "DiscardLimit": -1,
+      "DurabilityBurnModificator": 1,
+      "EffectiveDistance": 0,
+      "Ergonomics": -8,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 2,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "HeatFactor": 0.93,
+      "Height": 1,
+      "Loudness": 0,
+      "MergesWithChildren": true,
+      "Velocity": -12.5,
+      "Weight": 0.93,
+      "Width": 3,
+      "Name": "Criterion 13.5\" .308 AR-10 Barrel",
+      "Prefab": {
+        "path": "ar10_135_barrel_camo.bundle",
+        "rcid": ""
+      },
+      "RaidModdable": false,
+      "Recoil": -3,
+      "ShortName": "13.5\" Criterion",
+      "ShotgunDispersion": 1,
+      "SightingRange": 0,
+      "Slots":[
+        {
+          "_id": "69e25b4440259b179aff1879",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "69e25b190ec5b5b2e3ff1878",
+          "_props": {
+            "filters": [
+              {
+                "Filter":[
+                  "612e0d3767085e45ef14057f", "5b7d693d5acfc43bca706a3d", "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1", "5d1f819086f7744b355c219b", "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63", "5dfa3cd1b33c0951220c079b", "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2", "5c878e9d2e2216000f201903", "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460", "5cdd7693d7f00c0010373aa5", "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf", "612e0e3c290d254f5e6b291d", "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7", "5fbc22ccf24b94483f726483", "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca", "5fbe7618d6fa9c00c571bb6c", "628a66b41d5e41750e314f34",
+                  "6642f63667f5cb56a00662eb",
+                  "69e2558872ca7a7ea2ff1861",
+                  "69e257c4b83e29afacff1864"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69e25b4afc187bc8a1ff187a",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_gas_block",
+          "_parent": "69e25b190ec5b5b2e3ff1878",
+          "_props": {
+            "filters": [
+              {
+                "Filter":[
+                  "6065dc8a132d4d12c81fd8e3",
+                  "5a34fbadc4a28200741e230a",
+                  "5dfa3d45dfc58d14537c20b0"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "Name": "Criterion 13.5\" .308 AR-10 Barrel (Tan Camo)",
+        "ShortName": "13.5\" Criterion Camo",
+        "Description": "A 13.5-inch precision barrel manufactured by Criterion Barrels for the AR-10/SR-25 platform. Excellent for maneuverable marksman rifles. This one is sprayed with a tan camo"
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers":[
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoModSlots": true,
+    "modSlot":[
+      "mod_barrel"
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "69e25afafdbd770f6cff1877": {
+          "barterSettings": { "loyalLevel": 3, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters":[ { "count": 32000, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+
+  "69e2392804c7ff61f2ff1854": {
+    "itemTplToClone": "6065881d1246154cad35d637",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "BackgroundColor": "blue",
+      "CanPutIntoDuringTheRaid": true,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems":[
+        "5a34fbadc4a28200741e230a",
+        "5ae30e795acfc408fb139a0b",
+        "56ea8d2fd2720b7c698b4570"
+      ],
+      "CoolFactor": 1.108,
+      "Description": "The Troy Alpha Rail is a lightweight, low-profile modular handguard for AR-10 rifles. Known for aggressive circular cooling holes and a built-in top rail.",
+      "Ergonomics": 9,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 2,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "HeatFactor": 0.962,
+      "Height": 1,
+      "Weight": 0.39,
+      "Width": 3,
+      "Name": "Troy Industries 15\" 308 Alpha Rail",
+      "Prefab": {
+        "path": "ar10_troy_hg.bundle",
+        "rcid": ""
+      },
+      "Recoil": -2,
+      "ShortName": "Troy Alpha 15\"",
+      "Slots":[
+        {
+          "_id": "6065881d1246154cad35d639",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_000",
+          "_parent": "69e2392804c7ff61f2ff1854",
+          "_props": {
+            "filters":[
+              {
+                "Filter":[
+                  "5b4736a986f774040571e998"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6065881d1246154cad35d63a",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_001",
+          "_parent": "69e2392804c7ff61f2ff1854",
+          "_props": {
+            "filters":[
+              {
+                "Filter":[
+                  "5b4736a986f774040571e998"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6065881d1246154cad35d63b",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_003",
+          "_parent": "69e2392804c7ff61f2ff1854",
+          "_props": {
+            "filters":[
+              {
+                "Filter":[
+                  "5b4736a986f774040571e998"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6065881d1246154cad35d63c",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical_000",
+          "_parent": "69e2392804c7ff61f2ff1854",
+          "_props": {
+            "filters":[
+              {
+                "Filter":[
+                  "5b4736b986f77405cb415c10"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6065881d1246154cad35d63e",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_front",
+          "_parent": "69e2392804c7ff61f2ff1854",
+          "_props": {
+            "filters":[
+              {
+                "Filter":[
+                  "5ba26b01d4351e0085325a51", "5dfa3d950dee1b22f862eae0", "5c17804b2e2216152006c02f",
+                  "5fb6567747ce63734e3fa1dc", "5bc09a30d4351e00367fb7c8", "5c18b90d2e2216152142466b",
+                  "5fc0fa362770a0045c59c677", "5894a73486f77426d259076c", "55d4af3a4bdc2d972f8b456f",
+                  "5a7b483fe899ef0016170d15",
+                  "626becf9582c3e319310b837"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6093bae3b0e443224b421cde",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "69e2392804c7ff61f2ff1854",
+          "_props": {
+            "filters":[
+              {
+                "Filter":[
+                  "5649a2464bdc2d91118b45a8",
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "Name": "Troy Industries 15\" 308 Alpha Rail",
+        "ShortName": "Troy Alpha 15\"",
+        "Description": "The Troy Alpha Rail is a lightweight, low-profile modular handguard for AR-10 rifles. Known for aggressive circular cooling holes and a built-in top rail."
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers":[
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoModSlots": true,
+    "modSlot":[
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "69e239ec4fd6fe87c2ff1855": {
+          "barterSettings": { "loyalLevel": 3, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters":[ { "count": 24000, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+
+  "69e258a0c588f36f04ff1869": {
+    "itemTplToClone": "6065881d1246154cad35d637",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "BackgroundColor": "blue",
+      "CanPutIntoDuringTheRaid": true,
+      "RarityPvE":"Superrare",
+      "CanRequireOnRagfair":false,
+      "CanSellOnRagfair":false,
+      "ExaminedByDefault":false,
+      "ConflictingItems":[
+        "5a34fbadc4a28200741e230a",
+        "5ae30e795acfc408fb139a0b",
+        "56ea8d2fd2720b7c698b4570"
+      ],
+      "CoolFactor": 1.108,
+      "Ergonomics": 9,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 2,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "HeatFactor": 0.962,
+      "Height": 1,
+      "Weight": 0.39,
+      "Width": 3,
+      "Name": "Troy Industries 15\" 308 Alpha Rail",
+      "Prefab": {
+        "path": "ar10_troy_hg_camo.bundle",
+        "rcid": ""
+      },
+      "Recoil": -2,
+      "ShortName": "Troy Alpha 15\"",
+      "Slots":[
+        {
+          "_id": "69e258afef50e8d516ff186a",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_000",
+          "_parent": "69e258a0c588f36f04ff1869",
+          "_props": {
+            "filters":[
+              {
+                "Filter":[
+                  "5b4736a986f774040571e998"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69e258b25427a6dedfff186b",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_001",
+          "_parent": "69e258a0c588f36f04ff1869",
+          "_props": {
+            "filters":[
+              {
+                "Filter":[
+                  "5b4736a986f774040571e998"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69e258b55eb3b348f9ff186c",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_003",
+          "_parent": "69e258a0c588f36f04ff1869",
+          "_props": {
+            "filters":[
+              {
+                "Filter":[
+                  "5b4736a986f774040571e998"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69e258b90141804cfcff186d",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical_000",
+          "_parent": "69e258a0c588f36f04ff1869",
+          "_props": {
+            "filters":[
+              {
+                "Filter":[
+                  "5b4736b986f77405cb415c10"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69e258bd5cc5f40f99ff186e",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_front",
+          "_parent": "69e258a0c588f36f04ff1869",
+          "_props": {
+            "filters":[
+              {
+                "Filter":[
+                  "5ba26b01d4351e0085325a51", "5dfa3d950dee1b22f862eae0", "5c17804b2e2216152006c02f",
+                  "5fb6567747ce63734e3fa1dc", "5bc09a30d4351e00367fb7c8", "5c18b90d2e2216152142466b",
+                  "5fc0fa362770a0045c59c677", "5894a73486f77426d259076c", "55d4af3a4bdc2d972f8b456f",
+                  "5a7b483fe899ef0016170d15",
+                  "626becf9582c3e319310b837"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69e258c1fa64baae74ff186f",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "69e258a0c588f36f04ff1869",
+          "_props": {
+            "filters":[
+              {
+                "Filter":[
+                  "5649a2464bdc2d91118b45a8",
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "Name": "Troy Industries 15\" 308 Alpha Rail (Tan Camo)",
+        "ShortName": "Troy Alpha 15\" Camo",
+        "Description": "The Troy Alpha Rail is a lightweight, low-profile modular handguard for AR-10 rifles. Known for aggressive circular cooling holes and a built-in top rail. This one is sprayed tan camo"
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers":[
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoModSlots": true,
+    "modSlot":[
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "69e258df78e6271ebdff1870": {
+          "barterSettings": { "loyalLevel": 4, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters":[ { "count": 24000, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+  "69e239f2a9e8af1931ff1856": {
+    "itemTplToClone": "6761770e48fa5c377e06fc3c",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "Weight": 1.36,
+      "Width": 2,
+      "Height": 2,
+      "Ergonomics": -30,
+      "ExtraSizeDown":1,
+      "ExaminedByDefault":false,
+      "MalfunctionChance":0.22,
+      "RarityPvE":"Superrare",
+      "CanRequireOnRagfair":false,
+      "CanSellOnRagfair":false,
+      "Recoil":0,
+      "ReloadMagType":"ExternalMagazine",
+      "LoadUnloadModifier": -40,
+      "CheckTimeModifier": 40,
+      "Prefab": { "path": "ar10_cmag.bundle", "rcid": "" },
+      "VisibleAmmoRangesString":"1-3",
+      "Cartridges":[
+        {
+          "_id": "69e23caa6d79a7bd6aff1859",
+          "_max_count": 100,
+          "_name": "cartridges",
+          "_parent": "69e239f2a9e8af1931ff1856",
+          "_props": {
+            "filters": [
+              {
+                "Filter":[
+                  "5a6086ea4f39f99cd479502f",
+                  "5a608bf24f39f98ffc77720e",
+                  "58dd3ad986f77403051cba8f",
+                  "5e023e53d4353e3302577c4c",
+                  "5efb0c1bd79ff02a1f5e68d9",
+                  "5e023e6e34d52a55c3304f71",
+                  "5e023e88277cce2b522ff2b1",
+                  "6529243824cbe3c74a05e5c1",
+                  "6529302b8c26af6326029fb7",
+                  "6768c25aa7b238f14a08d3f6"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "Name": "Beta C-Mag 100-round 7.62x51 magazine",
+        "ShortName": "C-Mag 100",
+        "Description": "A heavy 100-round twin-drum magazine manufactured by The Beta Company, designed for AR-10 and SR-25 platforms."
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers":[
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "69e23a8d9663fcc8a9ff1857": {
+          "barterSettings": { "loyalLevel": 4, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters":[ { "count": 85000, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+
+  "69e24048770bbffb64ff185a": {
+    "itemTplToClone": "5a3501acc4a282000d72293a",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "Weight": 0.16,
+      "Width": 1,
+      "Height": 2,
+      "Ergonomics": -3,
+      "ExtraSizeDown":1,
+      "ExaminedByDefault":false,
+      "CanRequireOnRagfair":false,
+      "CanSellOnRagfair":false,
+      "MalfunctionChance": 0.02,
+      "Recoil":0,
+      "ReloadMagType":"ExternalMagazine",
+      "LoadUnloadModifier": 0,
+      "CheckTimeModifier": 0,
+      "Prefab": { "path": "ar10_pmag_camo.bundle", "rcid": "" },
+      "VisibleAmmoRangesString":"1-3",
+      "Cartridges":[
+        {
+          "_id": "69e2404d38ceaf0aefff185b",
+          "_max_count": 20,
+          "_name": "cartridges",
+          "_parent": "69e24048770bbffb64ff185a",
+          "_props": {
+            "filters": [
+              {
+                "Filter":[
+                  "5a6086ea4f39f99cd479502f",
+                  "5a608bf24f39f98ffc77720e",
+                  "58dd3ad986f77403051cba8f",
+                  "5e023e53d4353e3302577c4c",
+                  "5efb0c1bd79ff02a1f5e68d9",
+                  "5e023e6e34d52a55c3304f71",
+                  "5e023e88277cce2b522ff2b1",
+                  "6529243824cbe3c74a05e5c1",
+                  "6529302b8c26af6326029fb7",
+                  "6768c25aa7b238f14a08d3f6"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "Name": "Magpul PMAG 20 LR/SR GEN M3 (Tan Camo)",
+        "ShortName": "PMAG 20 (Camo)",
+        "Description": "A 20-round polymer magazine from Magpul for 7.62 NATO platforms. This one has been custom sprayed with a tan camouflage pattern."
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers":[
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoModSlots": true,
+    "modSlot":[
+      "mod_magazine"
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "69e2406b3d22880fbdff185c": {
+          "barterSettings": { "loyalLevel": 4, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters":[ { "count": 4500, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+  "69e240e5d1701dbc14ff185d": {
+    "itemTplToClone": "57af48872459771f0b2ebf11",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "Weight": 0.08,
+      "Ergonomics": 9,
+      "ExtraSizeDown":1,
+      "RarityPvE":"Superrare",
+      "CanRequireOnRagfair":false,
+      "CanSellOnRagfair":false,
+      "ExaminedByDefault":false,
+      "Prefab": { "path": "hogue_grip_camo.bundle", "rcid": "" }
+    },
+    "locales": {
+      "en": {
+        "Name": "Hogue OverMolded AR pistol grip (Tan Camo)",
+        "ShortName": "Hogue (Camo)",
+        "Description": "A fiberglass rubber-overmolded anti-slip pistol grip for AR systems, manufactured by Hogue. Sprayed tan camouflage version."
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers":[
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip"
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "69e24179d87c27bb6fff185e": {
+          "barterSettings": { "loyalLevel": 4, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters":[ { "count": 3500, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+
+  "69e2578f9e2f3658f4ff1863": {
+    "itemTplToClone": "5df8e053bb49d91fb446d6a6",
+    "parentId": "55818a6f4bdc2db9688b456b",
+    "handbookParentId": "5b5f751486f77447ec5d770c",
+    "overrideProperties": {
+      "Weight": 0.044,
+      "Ergonomics": 5,
+      "Prefab": { "path": "m5_charging.bundle", "rcid": "" }
+    },
+    "locales": {
+      "en": {
+        "Name": "Aero Precision AR10 Breach Ambi Charging Handle",
+        "ShortName": "Breach 308",
+        "Description": "The BREACH charging handle is a rugged, ambidextrous upgrade for AR-10 rifles. Features enlarged levers for fast manipulation."
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers":[
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_charge"
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "69e254b2f63a06ce43ff185f": {
+          "barterSettings": { "loyalLevel": 2, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters":[ { "count": 8500, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+  "69e258159d49bea7aaff1867": {
+    "itemTplToClone": "5df8e053bb49d91fb446d6a6",
+    "parentId": "55818a6f4bdc2db9688b456b",
+    "handbookParentId": "5b5f751486f77447ec5d770c",
+    "overrideProperties": {
+      "Weight": 0.044,
+      "Ergonomics": 5,
+      "RarityPvE":"Superrare",
+      "CanRequireOnRagfair":false,
+      "CanSellOnRagfair":false,
+      "ExaminedByDefault":false,
+      "Prefab": { "path": "m5_charging_camo.bundle", "rcid": "" }
+    },
+    "locales": {
+      "en": {
+        "Name": "Aero Precision AR10 Breach Ambi Charging Handle (Tan Camo)",
+        "ShortName": "Breach 308 Camo",
+        "Description": "The BREACH charging handle is a rugged, ambidextrous upgrade for AR-10 rifles. Features enlarged levers for fast manipulation. This one has been custom sprayed with a tan camouflage pattern."
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers":[
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_charge"
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "69e2581326cce849b0ff1866": {
+          "barterSettings": { "loyalLevel": 2, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters":[ { "count": 8500, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+
+
+  "69e2592cde11021fc0ff1871": {
+    "itemTplToClone": "58d2946386f774496974c37e",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "Ergonomics": 9,
+      "Recoil": -22,
+      "Weight":0.36,
+      "Height":1,
+      "Width":2,
+      "RarityPvE":"Superrare",
+      "CanRequireOnRagfair":false,
+      "CanSellOnRagfair":false,
+      "ExaminedByDefault":false,
+      "Prefab": { "path": "magpul_sls_camo.bundle", "rcid": "" }
+    },
+    "locales": {
+      "en": {
+        "Name": "Magpul MOE SL-S Carbine stock (Tan Camo)",
+        "ShortName": "MOE SL-S Camo",
+        "Description": "The MOE SL-S provides the same advantages of our MOE SL® but adds two waterproof storage compartments for extra batteries, small parts, or gear. The storage tubes are located to help enhance cheek weld while maintaining its slim profile, maneuverability and fast handling. You’ll get fast adjustments to LOP in a stock that’s optimized to work efficiently with modern gear and slings."
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers":[
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoModSlots": true,
+    "modSlot":[
+      "mod_stock",
+      "mod_stock_000"
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "69e2558572f0c9a149ff1860": {
+          "barterSettings": { "loyalLevel": 3, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters":[ { "count": 11000, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+
+  "69e2558872ca7a7ea2ff1861": {
+    "itemTplToClone": "5fbe7618d6fa9c00c571bb6c",
+    "parentId": "550aa4cd4bdc2dd8348b456c",
+    "handbookParentId": "5b5f731a86f774093e6cb4f9",
+    "overrideProperties": {
+      "Weight": 0.66,
+      "Ergonomics": -22,
+      "Recoil": -14,
+      "Loudness": -35,
+      "Velocity":1.2,
+      "Width":2,
+      "HeatFactor":1.10,
+      "Height":1,
+      "ExtraSizeLeft":1,
+      
+      "Prefab": { "path": "saker_762.bundle", "rcid": "" }
+    },
+    "locales": {
+      "en": {
+        "Name": "SilencerCo Saker ASR 762 Sound Suppressor",
+        "ShortName": "Saker 762",
+        "Description": "The SilencerCo Saker ASR 762 is a heavy-duty, highly durable suppressor designed for rigorous military and law enforcement use on .30 caliber systems."
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers":[
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoModSlots": true,
+    "modSlot":[
+      "mod_muzzle"
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "69e25719a4212435f9ff1862": {
+          "barterSettings": { "loyalLevel": 3, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters":[ { "count": 65000, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+  "69e257c4b83e29afacff1864": {
+    "itemTplToClone": "5fbe7618d6fa9c00c571bb6c",
+    "parentId": "550aa4cd4bdc2dd8348b456c",
+    "handbookParentId": "5b5f731a86f774093e6cb4f9",
+    "overrideProperties": {
+      "Weight": 0.66,
+      "Ergonomics": -22,
+      "Recoil": -14,
+      "Loudness": -35,
+      "Velocity":1.2,
+      "Width":2,
+      "HeatFactor":1.10,
+      "Height":1,
+      "ExtraSizeLeft":1,
+      "CanRequireOnRagfair":false,
+      "CanSellOnRagfair":false,
+      "ExaminedByDefault":false,
+      "Prefab": { "path": "saker_762_camo.bundle", "rcid": "" }
+    },
+    "locales": {
+      "en": {
+        "Name": "SilencerCo Saker ASR 762 Sound Suppressor (Tan Camo)",
+        "ShortName": "Saker 762 Camo",
+        "Description": "The SilencerCo Saker ASR 762 is a heavy-duty, highly durable suppressor designed for rigorous military and law enforcement use on .30 caliber systems. This one is painted"
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers":[
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "69e257c6c239661684ff1865": {
+          "barterSettings": { "loyalLevel": 4, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters":[ { "count": 65000, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  }
+}

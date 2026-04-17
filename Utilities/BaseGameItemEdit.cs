@@ -1,5 +1,6 @@
 ﻿using SPTarkov.DI.Annotations;
 using SPTarkov.Server.Core.DI;
+using Microsoft.Extensions.Logging;
 using SPTarkov.Server.Core.Models.Common;
 using SPTarkov.Server.Core.Models.Eft.Common.Tables;
 using SPTarkov.Server.Core.Models.Utils;
@@ -9,7 +10,7 @@ namespace c11_tn_4.Utilities;
 
 [Injectable(typePriority: OnLoadOrder.PostDBModLoader + 3)]
 public class BaseGameItemEdits(
-    ISptLogger<BaseGameItemEdits> logger,
+    ILogger<BaseGameItemEdits> log,
     DatabaseService databaseService
 ):IOnLoad
 {

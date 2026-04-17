@@ -435,7 +435,7 @@
         ]
       }
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "695998f9590b9964e921a20d": {
@@ -923,7 +923,7 @@
     "parentId": "550aa4bf4bdc2dd6348b456b",
     "handbookParentId": "5b5f724c86f774093f2ecf15",
     "overrideProperties": {
-      "ExaminedByDefault": false, "CanRequireOnRagfair":false,
+      "ExaminedByDefault": false,
 
       "Prefab": { "path": "threadpcamo.bundle", "rcid": "" },
   "Accuracy": 0,

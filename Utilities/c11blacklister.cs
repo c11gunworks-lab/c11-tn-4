@@ -9,8 +9,8 @@ namespace c11_tn_4.Utilities;
 // Shoutout EpicRangeTime for letting me use his code, and CJ and Drakia for creating said code
 
 [Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 3)]
-public class GlockSlideLogic(
-    ILogger<GlockSlideLogic> logger,
+public class C11Blacklister(
+    ILogger<C11Blacklister> logger,
     DatabaseService databaseService
 ) : IOnLoad
 {
@@ -25,14 +25,14 @@ public class GlockSlideLogic(
         var items = databaseService.GetItems();
 
 
-        // =====================================================================
-        // SECTION 2: VZOR4 REMOTE LOGIC
-        // =====================================================================
 
-        // 1. DEFINE YOUR IDs
+        //VZOR4 REMOTE LOGIC
+
+
+        // DEFINE  IDs
         MongoId vzorRemoteSwitchId = "696000ef0493e34c01446f6a"; 
 
-        // 2. WHITELIST: Handguards allowed to use this remote
+        //WHITELIST: Handguards allowed to use this remote
         var allowedHandguards = new HashSet<string>()
         {
             "ALLOWED_HANDGUARD_ID_1", // <--- REPLACE WITH REAL IDs
@@ -40,14 +40,14 @@ public class GlockSlideLogic(
             "ALLOWED_HANDGUARD_ID_3"
         };
 
-        // 3. CATEGORY: We scan all "Foregrips/Handguards"
+        // CATEGORY: scan all "Foregrips/Handguards"
         var handguardCategory = new List<string>()
         {
-            "55818a104bdc2db9688b4569" // Base Class: Foregrip (Used for almost all handguards)
+            "55818a104bdc2db9688b4569" 
         };
 
-        // 4. GENERATE CONFLICTS
-        // We find the Remote Switch item, then blacklist EVERY handguard NOT in the list above.
+        //GENERATE CONFLICTS
+        //Find the Remote Switch item, then blacklist every handguard not in the list above.
         if (items.TryGetValue(vzorRemoteSwitchId, out var remoteItem) && remoteItem.Properties != null)
         {
             var remoteConflicts = new HashSet<MongoId>(remoteItem.Properties.ConflictingItems ?? new HashSet<MongoId>());
@@ -56,13 +56,13 @@ public class GlockSlideLogic(
             {
                 var item = kvp.Value;
 
-                // Is this item a Handguard?
+ 
                 if (IsChildOfAny(item, handguardCategory, items))
                 {
-                    // Is it NOT in our allowed list?
+
                     if (!allowedHandguards.Contains(item.Id.ToString()))
                     {
-                        // Ban it (The remote cannot be installed if this handguard is on the gun)
+
                         remoteConflicts.Add(item.Id);
                     }
                 }
@@ -73,7 +73,7 @@ public class GlockSlideLogic(
         }
         else
         {
-            // Helpful warning if you forgot to put the ID in
+            
             if (vzorRemoteSwitchId != "696000ef0493e34c01446f6a")
             {
                 logger.LogError($"[C11] Could not find Vzor Remote Switch with ID: {vzorRemoteSwitchId}");
@@ -81,7 +81,7 @@ public class GlockSlideLogic(
         }
     }
 
-    // --- Helpers ---
+    // Helpers
     private bool IsChildOfAny(TemplateItem item, List<string> parentIds, Dictionary<MongoId, TemplateItem> allItems)
     {
         foreach (var parentId in parentIds)

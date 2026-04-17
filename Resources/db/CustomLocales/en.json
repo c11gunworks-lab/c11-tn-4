@@ -157,9 +157,9 @@
   "690a23ad14158912787e4659 Name": "FAB Defense UAS stock for PPSh-41",
   "690a23ad14158912787e4659 ShortName": "UAS PPSh",
   "690a23ad14158912787e4659 Description": "An Israeli-made FAB Defense UAS folding stock, adapted via a custom shim to fit the modernized PPSh-41. It features an adjustable cheek riser, allowing for a proper eye-box when using the newly mounted optics on the modernized receiver.",
-  "686830a0f33be9471feb69da Name": "LV119 Covert Multicam Tropic",
-  "686830a0f33be9471feb69da ShortName": "LV119 MCT",
-  "686830a0f33be9471feb69da Description": "Spiritus Systems LV119 Covert plate carrier with MK V Placard. Lightweight and low-profile.",
+  "686830a0f33be9471feb69da Name": "LV119 Covert - Big Meow Edition (Ranger Green)",
+  "686830a0f33be9471feb69da ShortName": "LV119 Meow",
+  "686830a0f33be9471feb69da Description": "Spiritus Systems LV119 Covert plate carrier with MK V Placard. Lightweight and low-profile. \n THE CAT DEMANDS BLOOD",
 
   "690289f47f98dc39096902fd Name": "ALFA Mod 4 RIOT Foregrip",
   "690289f47f98dc39096902fd ShortName": "ALFA Mod 4",
@@ -204,6 +204,7 @@
 
   "6917c6de1d18ca02f4868839 Name": "C11 Vegvisir Patch (AOR2)",
   "6917c6de1d18ca02f4868839 ShortName": "C11 AOR2",
+  "6917c6de1d18ca02f4868839 Description": "At Dawn's First Light.... Run For Your Life.",
 
 
 "69220d620913ac318374486b Name": "AR-18 30rd Mag Miami Tigerstripe",
@@ -489,13 +490,13 @@
   "696000ef0493e34c01446f6a ShortName": "Vzor-4 Switch",
   "696000ef0493e34c01446f6a Description": "The ZenitCo Vzor-4 Switch for turning things on and off. Like in I.T. ",
   
-   "69604054ad6ba86d79446f6f Name": "Type 81 Magpul Zhukov-U handguard (Multicam Black)",
+   "69604054ad6ba86d79446f6f Name": "Type 81 Magpul Zhukov-U handguard (CADPAT MT)",
   "69604054ad6ba86d79446f6f ShortName": "T81 Zhukov-U MCB",
-  "69604054ad6ba86d79446f6f Description": "The Type 81 Magpul Zhukov-U handguard is installed on the Type 81 compatible weapon systems. Equipped with licensed M-LOK mounts for installation of additional devices or rails. Multicam Black version.",
+  "69604054ad6ba86d79446f6f Description": "The Type 81 Magpul Zhukov-U handguard is installed on the Type 81 compatible weapon systems. Equipped with licensed M-LOK mounts for installation of additional devices or rails. \n CADPAT Multi Terrain version.",
 
-  "6960434f897946d918446f76 Name": "Type 81 Magpul MOE AKM handguard (Multicam Rubble)",
+  "6960434f897946d918446f76 Name": "Type 81 Magpul MOE AKM handguard (CADPAT TW)",
   "6960434f897946d918446f76 ShortName": "T81 MOE MCB",
-  "6960434f897946d918446f76 Description": "The Type 81 Magpul MOE AKM handguard is installed on the Type 81 and compatible weapon systems. It comes equipped with licensed M-LOK mounts for the installation of additional devices or rails. Multicam Rubble version.",
+  "6960434f897946d918446f76 Description": "The Type 81 Magpul MOE AKM handguard is installed on the Type 81 and compatible weapon systems. It comes equipped with licensed M-LOK mounts for the installation of additional devices or rails. \n CADPAT Temparate Woodland version.",
 
   "6960451b092ed1ff3f446f7b Name": "Sigmaco Type 81 1913 Rail Stock Adapter",
   "6960451b092ed1ff3f446f7b ShortName": "T81 1913",
@@ -708,13 +709,13 @@
   "6998e60c71292bd226f7a06b ShortName": "FAST NGH Miami",
   "6998e60c71292bd226f7a06b Description": "A custom, non-standard 'Miami' variation of the classic Tigerstripe pattern. Likely a private purchase by a PMC with more money than sense, or a leftover from a flashy urban security detail. It offers questionable camouflage but undeniable style in the neon-lit halls of the Interchange.",
 
-  "6998e54173a6181d15f7a061 Name": "Peltor ComTac 5 tactical headset (AOR1)",
-  "6998e54173a6181d15f7a061 ShortName": "ComTac 5 AOR1",
+  "6998e54173a6181d15f7a061 Name": "Peltor ComTac V tactical headset (AOR1)",
+  "6998e54173a6181d15f7a061 ShortName": "ComTac V AOR1",
   "6998e54173a6181d15f7a061 Description": "The fifth generation of the ComTac series, featuring improved environmental microphones and better EMI shielding. This specific pair is finished in AOR1 and comes with the ARC rail adapters pre-installed. These were likely stripped from the gear of a high-value extraction team that didn't make it to the terminal.",
 
-  "6998e57bc11d47d1b7f7a063 Name": "Peltor ComTac 5 tactical headset (MultiCam)",
-  "6998e57bc11d47d1b7f7a063 ShortName": "ComTac 5 MC",
-  "6998e57bc11d47d1b7f7a063 Description": "Standard issue for modern special operations units. These ComTac 5s are mounted on helmet adapters to provide constant hearing protection and comms integration. A reliable piece of tech that amplifies ambient noise while suppressing the deafening cracks of 7.62x39mm fire.",
+  "6998e57bc11d47d1b7f7a063 Name": "Peltor ComTac V tactical headset (MultiCam)",
+  "6998e57bc11d47d1b7f7a063 ShortName": "ComTac V MC",
+  "6998e57bc11d47d1b7f7a063 Description": "Standard issue for modern special operations units. These ComTac Vs are mounted on helmet adapters to provide constant hearing protection and comms integration. A reliable piece of tech that amplifies ambient noise while suppressing the deafening cracks of 7.62x39mm fire.",
 
 
   "6998e48a9d7c140756f7a049 Name": "Ops-Core FAST NGH ballistic helmet (AOR1)",
@@ -726,7 +727,210 @@
   "6998e4f8f156ad13a1f7a055 Description": "A rare CADPAT-dipped version of the FAST NGH. Canadian military gear is a rarity in the Russian federation, and this piece likely arrived via a small JTF2 advisory group that was operating in secret near the Tarkov port along side Black Division. It blends into the Russian forest better than almost any other pattern, making it a deadly asset for those who prefer the shadows.",
   "6998e428d9c1fe43aaf7a03d Name": "Ops-Core FAST NGH ballistic helmet (AOR2)",
   "6998e428d9c1fe43aaf7a03d ShortName": "FAST NGH AOR2",
-  "6998e428d9c1fe43aaf7a03d Description": "A high-cut Next Generation Ballistic helmet finished in the Navy's AOR2 woodland digital pattern. While AOR1 is the 'trophy' of the desert, AOR2 is the practical choice for the damp, overgrown outskirts of the Norvinsk region. This particular unit was reportedly recovered from a crashed helicopter near the Shoreline pier, likely belonging to a maritime security detail that was attempting to bypass the Tarkov blockade by sea. It offers the same Level III-A protection as the standard FAST, but the factory-applied AOR2 finish makes it significantly harder to spot in the dense brush of the Woods."
+  "6998e428d9c1fe43aaf7a03d Description": "A high-cut Next Generation Ballistic helmet finished in the Navy's AOR2 woodland digital pattern. While AOR1 is the 'trophy' of the desert, AOR2 is the practical choice for the damp, overgrown outskirts of the Norvinsk region. This particular unit was reportedly recovered from a crashed helicopter near the Shoreline pier, likely belonging to a maritime security detail that was attempting to bypass the Tarkov blockade by sea. It offers the same Level III-A protection as the standard FAST, but the factory-applied AOR2 finish makes it significantly harder to spot in the dense brush of the Woods.",
+
+
+  "69a9e29372c1dad0b5eee878 Name": "Die-cast Avro Arrow Model",
+  "69a9e29372c1dad0b5eee878 ShortName": "Avro Model",
+  "69a9e29372c1dad0b5eee878 Description": "A beautifully crafted scale model of the legendary CF-105 Avro Arrow. Looking at this supersonic beauty just makes you want to crack open a two-four of Molson and complain about Diefenbaker cancelling the program back in '59. A true piece of Canadian aviation history, perfect for displaying on the mantelpiece above the chesterfield.",
+
+  "69a9e443e43d97b015eee87a Name": "Commemorative Polymer $10 Bill Model",
+  "69a9e443e43d97b015eee87a ShortName": "10 Dollar Bill",
+  "69a9e443e43d97b015eee87a Description": "A display model of a Canadian ten-dollar bill. It's got that nice smooth polymer feel, and you could probably use it to scrape the frost off your windshield in a pinch. It doesn't buy as many Timbits as it used to thanks to inflation, but it's an absolute beauty of a banknote.",
+
+  "69a9e463e2e8611ea1eee87c Name": "Carved Wooden Bison Model",
+  "69a9e463e2e8611ea1eee87c ShortName": "Bison Model",
+  "69a9e463e2e8611ea1eee87c Description": "A hand-carved wooden model of a majestic prairie bison. These absolute units used to roam the plains by the millions. Just looking at this little guy makes you want to pack up the camper and drive through Wood Buffalo National Park. Just remember: don't try to pet the real ones, eh?",
+
+  "69a9e483c1af313110eee87e Name": "Stuffed Canada Goose",
+  "69a9e483c1af313110eee87e ShortName": "Cobra Chicken",
+  "69a9e483c1af313110eee87e Description": "A taxidermied Canada Goose, affectionately known as the 'Cobra Chicken'. This pure manifestation of avian rage is usually found holding up traffic, covering sidewalks in green paste, or terrorizing pedestrians near the local pond. Keep your distance, buddy, or you'll be sorry.",
+
+  "69a9e4992e1165c50ceee880 Name": "'The Great One' Bronze Statue",
+  "69a9e4992e1165c50ceee880 ShortName": "#99 Statue",
+  "69a9e4992e1165c50ceee880 Description": "A miniature bronze statue of #99, the greatest hockey player to ever lace up a pair of skates. Whether he was setting up plays behind the net or lifting the Cup, The Great One is absolute Canadian royalty. You'd better put this up on the top shelf where mom hides the peanut butter.",
+
+  "69a9e4b0051564f259eee882 Name": "Ford Escape RCMP Cruiser Die-cast Model",
+  "69a9e4b0051564f259eee882 ShortName": "Oppression-mobile",
+  "69a9e4b0051564f259eee882 Description": "A die-cast model of a Royal Canadian Mounted Police cruiser, complete with the iconic crest on the door and the lightbar. It brings back fond memories of getting pulled over for doing 120 on the Trans-Canada Highway and getting a polite but firm warning from a guy wearing a funny hat.",
+
+  "69a9e4d574ee0c5acbeee884 Name": "Bauer Hockey Skate, Right",
+  "69a9e4d574ee0c5acbeee884 ShortName": "BauerSkate",
+  "69a9e4d574ee0c5acbeee884 Description": "A Bauer hockey skate, somehow only the right one. If you close your eyes, it smells faintly of freezing ODRs, old locker rooms, and Olympic Gold's. An essential piece of decor for any true hoser's basement sanctuary.",
+
+  "69a9dfa0e55d527115eee872 Name": "Dead Air Mask 22 Sound Suppressor",
+  "69a9dfa0e55d527115eee872 ShortName": "DAM .22lr",
+  "69a9dfa0e55d527115eee872 Description": "The Dead Air Mask 22 is a compact powerhouse delivering top-tier performance, robust construction, and remarkable versatility. Constructed with a titanium tube and stainless steel baffles, it's designed to handle a wide spectrum of calibers without barrel restrictions, from .22LR to 5.7x28.\n\nMeasuring just 5.1 inches in length, the Dead Air Mask combines optimal sound suppression with a full auto rating, eliminating the notorious first-round pop. The .22 caliber suppressor is user-serviceable allowing users to clean their suppressor with ease.",
+
+  "69a9e0fb79fe0b0af4eee874 Name": "MFMD-5.56-1.3-MD-1/2X28Suppressor (Black)",
+  "69a9e0fb79fe0b0af4eee874 ShortName": "MFMD Blk",
+  "69a9e0fb79fe0b0af4eee874 Description": "he MFMD-MD is a hearing safe suppressor without the use of the additional SD or SDX- \n\nBuilt for 5.56/.223 rifles with 1/2×28 threads. This is the MD (Muzzle Device) only.\n\nRequires 1.3\" OTB (over-the-barrel) clearance—measure from the barrel shoulder to the first obstruction. If you don’t have the clearance, it doesn’t fit. Simple.\n\nInstalls via direct thread, using the included shims and tool. No adapters.",
+
+  "69a9e1a0170829d138eee876 Name": "MFMD-5.56-1.3-MD-1/2X28 Suppressor (FDE)",
+  "69a9e1a0170829d138eee876 ShortName": "MFMD FDE",
+  "69a9e1a0170829d138eee876 Description": "The MFMD-MD is a hearing safe suppressor without the use of the additional SD or SDX- \n\nBuilt for 5.56/.223 rifles with 1/2×28 threads. This is the MD (Muzzle Device) only.\n\nRequires 1.3\" OTB (over-the-barrel) clearance—measure from the barrel shoulder to the first obstruction. If you don’t have the clearance, it doesn’t fit. Simple.\n\nInstalls via direct thread, using the included shims and tool. No adapters.",
+
+  "69a9bd241c35419872eee854 Name": "Sa vz. 58 7.62x39 assault rifle",
+  "69a9bd241c35419872eee854 ShortName": "vz. 58",
+  "69a9bd241c35419872eee854 Description": "The vz. 58 is a 7.62x39mm assault rifle designed and manufactured in Czechoslovakia. While it externally resembles the AK-47, it uses a completely different short-stroke gas piston operating system, is striker-fired, and shares no parts with Kalashnikov rifles. Known for its lightweight milled receiver and extreme reliability.",
+
+  "69a9d7364e93c2f8a7eee85e Name": "vz. 58 Dust Cover",
+  "69a9d7364e93c2f8a7eee85e ShortName": "vz. 58 cover",
+  "69a9d7364e93c2f8a7eee85e Description": "The standard stamped steel dust cover for the vz. 58 assault rifle. Protects the internal striker mechanism and bolt carrier from dirt and debris.",
+
+  "69a9d77e4fbaa455f0eee860 Name": "vz. 58 Wooden Upper Handguard",
+  "69a9d77e4fbaa455f0eee860 ShortName": "vz. 58 UHG",
+  "69a9d77e4fbaa455f0eee860 Description": "The standard upper handguard piece for the vz. 58, covering the gas piston tube to protect the user's hand from the heat of the barrel.",
+
+  "69a9d80bdcbd9088b7eee863 Name": "vz. 58 Wooden Lower Handguard",
+  "69a9d80bdcbd9088b7eee863 ShortName": "vz. 58 LHG",
+  "69a9d80bdcbd9088b7eee863 Description": "The standard lower handguard for the vz. 58 assault rifle, providing a gripping surface for the shooter's support hand.",
+
+
+  "69aa0ed9742a904a11eee899 Name": "vz. 58 Short Upper Handguard",
+  "69aa0ed9742a904a11eee899 ShortName": "vz. 58 SUHG",
+  "69aa0ed9742a904a11eee899 Description": "The Short upper handguard piece for the vz. 58, covering the gas piston tube to protect the user's hand from the heat of the barrel.",
+
+  "69aa0f6a5e64671cf1eee89c Name": "vz. 58 Short Lower Handguard",
+  "69aa0f6a5e64671cf1eee89c ShortName": "vz. 58 SLHG",
+  "69aa0f6a5e64671cf1eee89c Description": "The Short lower handguard for the vz. 58 assault rifle, providing a gripping surface for the shooter's support hand.",
+
+  "69a9d86b8c86b26c6eeee865 Name": "vz. 58 Wooden 'Beaver Barf' stock",
+  "69a9d86b8c86b26c6eeee865 ShortName": "vz. 58 stock",
+  "69a9d86b8c86b26c6eeee865 Description": "The fixed stock for the vz. 58 rifle. Manufactured from a wood-impregnated plastic compound that is affectionately referred to as 'beaver barf' by firearms enthusiasts. It offers decent ergonomics and high durability.",
+
+  "69a9da5c989b7745d0eee86e Name": "vz. 58  Bayonet",
+  "69a9da5c989b7745d0eee86e ShortName": "vz. 58 bayo",
+  "69a9da5c989b7745d0eee86e Description": "The standard issue knife bayonet designed to be mounted on the vz. 58 assault rifle. It features a unique attachment mechanism where the blade slides backwards onto the lug.",
+
+  "69a9d93604db219c1deee867 Name": "vz. 58 Wooden Pistol Grip",
+  "69a9d93604db219c1deee867 ShortName": "vz. 58 grip",
+  "69a9d93604db219c1deee867 Description": "The standard pistol grip for the vz. 58, made from the same iconic 'beaver barf' wood-chip and resin composite as the original stocks and handguards.",
+
+  "69a9d99ddbac50eab8eee869 Name": "vz. 58 30-round 7.62x39 magazine",
+  "69a9d99ddbac50eab8eee869 ShortName": "vz. 58 30-rd",
+  "69a9d99ddbac50eab8eee869 Description": "A lightweight aluminum 30-round magazine designed exclusively for the vz. 58. Unlike AK magazines, it features a built-in follower mechanism to lock the rifle's action open when empty.",
+
+  "69a9dbdcdbaad6de81eee871 Name": "vz. 58 5-round pinned magazine",
+  "69a9dbdcdbaad6de81eee871 ShortName": "vz. 58 5-rd",
+  "69a9dbdcdbaad6de81eee871 Description": "A standard 30-round vz. 58 aluminum magazine that has been permanently pinned with a rivet to only accept 5 rounds. Designed strictly to comply with the soul-crushing Canadian civilian firearms regulations. Have fun reloading every two and a half seconds, eh?",
+
+  "69a9d9fa1ba85d4e13eee86c Name": "vz. 58 Muzzle Protector",
+  "69a9d9fa1ba85d4e13eee86c ShortName": "vz. 58 Prot",
+  "69a9d9fa1ba85d4e13eee86c Description": "A simple thread-on muzzle device for the vz. 58 rifle, helping to protect the threads.",
+
+
+  "69aa0d470be3626d9aeee88b Name": "Sa vz. 58 7.62x39 7 Inch assault rifle",
+  "69aa0d470be3626d9aeee88b ShortName": "vz. 58 Short",
+  "69aa0d470be3626d9aeee88b Description": "The vz. 58 7 Inch is a 7.62x39mm assault rifle designed and manufactured in Czechoslovakia. While it externally resembles the AK-47, it uses a completely different short-stroke gas piston operating system, is striker-fired, and shares no parts with Kalashnikov rifles. Known for its lightweight milled receiver and extreme reliability. This one has a 7 inch barrel",
+
+  "69aa0ca9415e4bd496eee889 Name": "vz. 58 Folding Stock Adapter",
+  "69aa0ca9415e4bd496eee889 ShortName": "vz. 58 Adapter Wire",
+  "69aa0ca9415e4bd496eee889 Description": "adapt and overcome",
+
+  "69aa0e555c15e9d675eee897 Name": "vz. 58 Wire Fiolding Stock",
+  "69aa0e555c15e9d675eee897 ShortName": "vz. 58 Wire",
+  "69aa0e555c15e9d675eee897 Description": "coat hanger shit",
+
+  "69b568b7b69816e00a28ae51 Name": "Sa vz. 58 5.56x45 16 Inch assault rifle",
+  "69b568b7b69816e00a28ae51 ShortName": "vz. 58 5.56",
+  "69b568b7b69816e00a28ae51 Description": "This vz. 58  is in 5.56x45mm and is an assault rifle designed and manufactured in Czechoslovakia. While it externally resembles the AK-47, it uses a completely different short-stroke gas piston operating system, is striker-fired, and shares no parts with Kalashnikov rifles. Known for its lightweight milled receiver and extreme reliability.",
+
+  "69b5698b5422bd822228ae5d Name": "CSA vz. 58 5.56x45mm Transparent Magazine (31 rounds)",
+  "69b5698b5422bd822228ae5d ShortName": "CSA 5.56 30rd",
+  "69b5698b5422bd822228ae5d Description": "This is the Czech Small Arms (CSA) 30 round .223 & 5.56x45mm magazine for the SA vz 58 rifle.\n    Tough polycarbonate body with finger ribs for easy grip\n    Available in black or translucent smoke for easy round count\n    No tilt follower\n    Chrome steel springs\n    Fully strippable for cleaning",
+
+
+  "69b56a182f1ace21b528ae60 Name": "CSA vz. 58 5.56x45mm Transparent Magazine Pinned (5 rounds)",
+  "69b56a182f1ace21b528ae60 ShortName": "CSA 5.56 5rd",
+  "69b56a182f1ace21b528ae60 Description": "This is the Czech Small Arms (CSA) 5 round (Pinned) .223 & 5.56x45mm magazine for the SA vz 58 rifle.\n   Tough polycarbonate body with finger ribs for easy grip\n    Available in black or translucent smoke for easy round count\n    No tilt follower\n    Chrome steel springs\n    Fully strippable for cleaning",
+
+  "69b31cd348ff54eac228ae49 Name": "Tim Hortons Coffee Cup",
+  "69b31cd348ff54eac228ae49 ShortName": "Double Double",
+  "69b31cd348ff54eac228ae49 Description": "Ooooh, Fuck Yeah Bud. Roll up the rim is back baby!",
+  
+  "69b5c78205424d948b96044a Name": "Norinco SKS-D 7.62x39",
+  "69b5c78205424d948b96044a ShortName": "SKS-D",
+  "69b5c78205424d948b96044a Description": "The SKS-D is a Chinese-manufactured variant of the SKS rifle, designed to accept detachable AK-47 magazines, typically featuring a specialized stock and modified magazine release. Imported to North America in the 1990s, these rifles are valued for using standard magazines but can be magazine-picky, with prices now high due to collectibility",
+
+  "69bae79dde9df8f87bfa1bc6 Name": "VZ58 UltiMAK M1-B gas tube",
+  "69bae79dde9df8f87bfa1bc6 ShortName": "VZ58 M1-B",
+  "69bae79dde9df8f87bfa1bc6 Description": "This UltiMAK M1-B gas tube has been modified by a local gunsmith to fit the VZ58 platform. It also serves as a mount for installing reflex sights and tactical devices.",
+
+  "69bc242eafe21c19b7fa1bcb Name": "CNC Warrior M14x1 RH to M14x1 LH Thread Adapter",
+  "69bc242eafe21c19b7fa1bcb ShortName": "CNC RH-LH",
+  "69bc242eafe21c19b7fa1bcb Description": "This adapter is intended to adapt M14x1 RH muzzles with M14x1 LH muzzle devices. Made from top quality US steel and finished in black oxide.",
+
+
+  "69bc3161361fdfcdd2fa1bda Name": "Infinite Product Solutions M14x1 RH to 1/2-28\" Thread Adapter",
+  "69bc3161361fdfcdd2fa1bda ShortName": "IPS RH-LH",
+  "69bc3161361fdfcdd2fa1bda Description": "Convert your 14mm x 1 RH (select SKS, SA VZ-58, and Century VZ2008) barrel threads to 1/2\"-28 RH with this premium black stainless steel thread adapter from Infinite Product Solutions! Compatible with both rifle and pistol threads, this is the perfect solution for this particular thread conversion!",
+
+
+  "69bc291d37403daf02fa1bce Name": "CSA VZ 58 Buffer Tube Adapter",
+  "69bc291d37403daf02fa1bce ShortName": "CSA Buffer",
+  "69bc291d37403daf02fa1bce Description": "The stock adapter mounts easily on the VZ 58 and accepts any M4 style buffer tube. The adapter is made of aluminum and very light weight. The mounting screw is included with the adapter. Manufactured by Czech Small Arms.\nThe adapter mounts the tube at the bottom area of the vz.58 receiver and has slight downward angle. Even though this adapter mounts an M4 style stock higher than the original vz.58 wood impregnated buttstock, it still provides a comfortable cheek weld for iron sights.",
+  
+  "69bc298c7ccc1024cffa1bd1 Name": "StormWerkz Vz-58 1913 Interface Stock Adapter, Type 5",
+  "69bc298c7ccc1024cffa1bd1 ShortName": "vz58 1913 SA",
+  "69bc298c7ccc1024cffa1bd1 Description": "Vz-58 stock adapter allows Sig and other brand stocks and braces which mount to a 1913 Picatinny interface to be used on Vz-58\n\nBest stock for use with iron sights is the Sig Minimalist and Minimalist Plus stock.\nThis adapter mounts the stock inline with the receiver.\nThis adapter was developed from original Czech receivers, aftermarket receivers may fit tight.",
+
+  "69bc29b28f485315c2fa1bd3 Name": "Rs Regulate VZ.58 Zhukov-S Stock Adapter",
+  "69bc29b28f485315c2fa1bd3 ShortName": "Zhukov-S Adapter",
+  "69bc29b28f485315c2fa1bd3 Description": "Upgrade your firearm with the VZ.58 Zhukov-S Stock Adapter. This top-notch accessory is designed for superior performance and enhanced durability.\n\nThe VZ.58 Zhukov-S Stock Adapter ensures a secure fit for any Zhukov-S stock to your VZ.58 rifle, adding versatility and convenience to your shooting experience. Crafted with precision, the adapter is easy to install and offers a seamless fit, improving the overall functionality of your firearm.",
+
+  "69bc2ed044a7c4a09dfa1bd6 Name": "C11 Gunworks VZ58 Zhukov Lower Handguard",
+  "69bc2ed044a7c4a09dfa1bd6 ShortName": "C11 Zhukov",
+  "69bc2ed044a7c4a09dfa1bd6 Description": "A Magpul Zhukov Lower Handguard from an AK that has been modified by a local gunsmith to fit the VZ58 platform and allow the bayonet to still be mounted on the rifle.",
+  "69e25b7dda6365b5b8ff187b Name": "Aero Precision M5 7.62x51 (Tan Camo)",
+  "69e25b7dda6365b5b8ff187b ShortName": "Aero M5 Camo",
+  "69e25b7dda6365b5b8ff187b Description": "The Aero Precision M5 lower receiver is a commercial AR-10/DPMS pattern receiver milled from 7075-T6 aluminum. Widely known for its reliability and availability on the civilian market, it serves as a highly modular base for custom marksman builds. This one has been sprayed tan camo",
+  "6a1b2c3d4e5f6a7b8c9d0e20 Name": "Aero Precision M5 7.62x51",
+  "6a1b2c3d4e5f6a7b8c9d0e20 ShortName": "Aero M5",
+  "6a1b2c3d4e5f6a7b8c9d0e20 Description": "The Aero Precision M5 lower receiver is a commercial AR-10/DPMS pattern receiver milled from 7075-T6 aluminum. Widely known for its reliability and availability on the civilian market, it serves as a highly modular base for custom marksman builds.",
+  "69e23553ebf64594eaff184a Name": "Aero Precision M5 Upper Receiver",
+  "69e23553ebf64594eaff184a ShortName": "Aero M5 Upper",
+  "69e23553ebf64594eaff184a Description": "A commercial AR-10 flat-top upper receiver milled from 7075-T6 aluminum by Aero Precision. Features a forward assist, dust cover, and M4 feed ramps.",
+  "69e237d415d999736dff1850 Name": "Criterion 13.5\" .308 AR-10 Barrel",
+  "69e237d415d999736dff1850 ShortName": "13.5\" Criterion",
+  "69e237d415d999736dff1850 Description": "A 13.5-inch precision barrel manufactured by Criterion Barrels for the AR-10/SR-25 platform. Excellent for maneuverable marksman rifles.",
+  "69e2392804c7ff61f2ff1854 Name": "Troy Industries 15\" 308 Alpha Rail",
+  "69e2392804c7ff61f2ff1854 ShortName": "Troy Alpha 15\"",
+  "69e2392804c7ff61f2ff1854 Description": "The Troy Alpha Rail is a lightweight, low-profile modular handguard for AR-10 rifles. Known for aggressive circular cooling holes and a built-in top rail.",
+  "69e239f2a9e8af1931ff1856 Name": "Beta C-Mag 100-round 7.62x51 magazine",
+  "69e239f2a9e8af1931ff1856 ShortName": "C-Mag 100",
+  "69e239f2a9e8af1931ff1856 Description": "A heavy 100-round twin-drum magazine manufactured by The Beta Company, designed for AR-10 and SR-25 platforms.",
+  "69e24048770bbffb64ff185a Name": "Magpul PMAG 20 LR/SR GEN M3 (Tan Camo)",
+  "69e24048770bbffb64ff185a ShortName": "PMAG 20 (Camo)",
+  "69e24048770bbffb64ff185a Description": "A 20-round polymer magazine from Magpul for 7.62 NATO platforms. This one has been custom sprayed with a tan camouflage pattern.",
+  "69e240e5d1701dbc14ff185d Name": "Hogue OverMolded AR pistol grip (Tan Camo)",
+  "69e240e5d1701dbc14ff185d ShortName": "Hogue (Camo)",
+  "69e240e5d1701dbc14ff185d Description": "A fiberglass rubber-overmolded anti-slip pistol grip for AR systems, manufactured by Hogue. Sprayed tan camouflage version.",
+  "69e2578f9e2f3658f4ff1863 Name": "Aero Precision AR10 Breach Ambi Charging Handle",
+  "69e2578f9e2f3658f4ff1863 ShortName": "Breach 308",
+  "69e2578f9e2f3658f4ff1863 Description": "The BREACH charging handle is a rugged, ambidextrous upgrade for AR-10 rifles. Features enlarged levers for fast manipulation.",
+  "69e258159d49bea7aaff1867 Name": "Aero Precision AR10 Breach Ambi Charging Handle (Tan Camo)",
+  "69e258159d49bea7aaff1867 ShortName": "Breach 308 Camo",
+  "69e258159d49bea7aaff1867 Description": "The BREACH charging handle is a rugged, ambidextrous upgrade for AR-10 rifles. Features enlarged levers for fast manipulation. This one has been custom sprayed with a tan camouflage pattern.",
+  "69e2592cde11021fc0ff1871 Name": "Magpul MOE SL-S Carbine stock (Tan Camo)",
+  "69e2592cde11021fc0ff1871 ShortName": "MOE SL-S Camo",
+  "69e2592cde11021fc0ff1871 Description": "The MOE SL-S provides the same advantages of our MOE SL® but adds two waterproof storage compartments for extra batteries, small parts, or gear. The storage tubes are located to help enhance cheek weld while maintaining its slim profile, maneuverability and fast handling. You’ll get fast adjustments to LOP in a stock that’s optimized to work efficiently with modern gear and slings.",
+  "69e2596c1fad487eefff1872 Name": "Aero Precision M5 Upper Receiver (Tan Camo)",
+  "69e2596c1fad487eefff1872 ShortName": "Aero M5 Upper (Camo)",
+  "69e2596c1fad487eefff1872 Description": "A commercial AR-10 flat-top upper receiver milled from 7075-T6 aluminum by Aero Precision. Features a forward assist, dust cover, and M4 feed ramps. This one is sprayed with a tan camo",
+  "69e258a0c588f36f04ff1869 Name": "Troy Industries 15\" 308 Alpha Rail (Tan Camo)",
+  "69e258a0c588f36f04ff1869 ShortName": "Troy Alpha 15\" Camo",
+  "69e258a0c588f36f04ff1869 Description": "The Troy Alpha Rail is a lightweight, low-profile modular handguard for AR-10 rifles. Known for aggressive circular cooling holes and a built-in top rail. This one is sprayed tan camo",
+  "69e25b190ec5b5b2e3ff1878 Name": "Criterion 13.5\" .308 AR-10 Barrel (Tan Camo)",
+  "69e25b190ec5b5b2e3ff1878 ShortName": "13.5\" Criterion Camo",
+  "69e25b190ec5b5b2e3ff1878 Description": "A 13.5-inch precision barrel manufactured by Criterion Barrels for the AR-10/SR-25 platform. Excellent for maneuverable marksman rifles. This one is sprayed with a tan camo",
+  "69e2558872ca7a7ea2ff1861 Name": "SilencerCo Saker ASR 762 Sound Suppressor",
+  "69e2558872ca7a7ea2ff1861 ShortName": "Saker 762",
+  "69e2558872ca7a7ea2ff1861 Description": "The SilencerCo Saker ASR 762 is a heavy-duty, highly durable suppressor designed for rigorous military and law enforcement use on .30 caliber systems.",
+  "69e257c4b83e29afacff1864 Name": "SilencerCo Saker ASR 762 Sound Suppressor (Tan Camo)",
+  "69e257c4b83e29afacff1864 ShortName": "Saker 762 Camo",
+  "69e257c4b83e29afacff1864 Description": "The SilencerCo Saker ASR 762 is a heavy-duty, highly durable suppressor designed for rigorous military and law enforcement use on .30 caliber systems. This one is painted"
+
 }
 
 

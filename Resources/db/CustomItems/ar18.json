@@ -549,7 +549,7 @@
         ]
       }
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "SKIER": {
         "690cd9bd33483eb49ec5355a": {

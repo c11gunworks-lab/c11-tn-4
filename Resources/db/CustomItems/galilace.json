@@ -250,7 +250,7 @@
           },
           {
             "_id": "6946ec4b65069e49280d96f2",
-            "_tpl": "8ba3e8781a976de83ca7e6e4",
+            "_tpl": "59d64fc686f774171b243fe2",
             "parentId": "6959a7169b6dadf5c8e933ea",
             "slotId": "mod_muzzle"
           },
@@ -313,7 +313,7 @@
         ]
       }
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "6920f934f8e4ea68978de8e9": {
