@@ -1,0 +1,342 @@
+﻿{
+
+  "69e29e097259deabbcff1884": {
+    "itemTplToClone": "5c0558060db834001b735271",
+    "parentId": "5a2c3a9486f774688b05e574",
+    "handbookParentId": "5b5f749986f774094242f199",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "chimera.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "violet",
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.35,
+
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "Name": "nvg",
+        "ShortName": "nvg",
+        "Description": "nvg"
+      }
+    },
+    "fleaPriceRoubles": 10000,
+    "handbookPriceRoubles": 11000,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_nvg"
+    ],
+    "addtoStaticLootContainers": false,
+    "StaticLootContainers": [
+      
+    ],
+    "addtoSecureFilters": false,
+    "addtoHallOfFame": false,
+
+
+    "hallOfFameSlots": [
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69e29dd9a4fde7e582ff1883": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "69e3d5854119e71c8cff1885": {
+    "itemTplToClone": "5c0558060db834001b735271",
+    "parentId": "5a2c3a9486f774688b05e574",
+    "handbookParentId": "5b5f749986f774094242f199",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "chimera_mc.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "violet",
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.35,
+
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "Name": "nvg",
+        "ShortName": "nvg",
+        "Description": "nvg"
+      }
+    },
+    "fleaPriceRoubles": 10000,
+    "handbookPriceRoubles": 11000,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_nvg"
+    ],
+    "addtoStaticLootContainers": false,
+    "StaticLootContainers": [
+
+    ],
+    "addtoSecureFilters": false,
+    "addtoHallOfFame": false,
+
+
+    "hallOfFameSlots": [
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69e3d59004efea109dff1886": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69e3d59d816b7c8821ff1887": {
+    "itemTplToClone": "5c0558060db834001b735271",
+    "parentId": "5a2c3a9486f774688b05e574",
+    "handbookParentId": "5b5f749986f774094242f199",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "chimera_mca.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "violet",
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.35,
+
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "Name": "nvg",
+        "ShortName": "nvg",
+        "Description": "nvg"
+      }
+    },
+    "fleaPriceRoubles": 10000,
+    "handbookPriceRoubles": 11000,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_nvg"
+    ],
+    "addtoStaticLootContainers": false,
+    "StaticLootContainers": [
+
+    ],
+    "addtoSecureFilters": false,
+    "addtoHallOfFame": false,
+
+
+    "hallOfFameSlots": [
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69e3d5a21bfa564599ff1888": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69e3d5a8dffbd50412ff1889": {
+    "itemTplToClone": "5c066e3a0db834001b7353f0",
+    "parentId": "5a2c3a9486f774688b05e574",
+    "handbookParentId": "5b5f749986f774094242f199",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "anpvs5a.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.35,
+      "AdjustableOpticSensitivity":0,
+      "AdjustableOpticSensitivityMax":0,
+      "AimSensitivity":[
+        [
+          0.2
+        ]
+      ],
+      "CalibrationDistances":[
+        [
+          50,
+          100,
+          150,
+          200
+        ]
+      ],
+      "Color": {
+        "a": 254,
+        "b": 32,
+        "g": 255,
+        "r": 0
+      },
+      "NoiseIntensity":0.05,
+      "NoiseScale":1,
+      "HasHinge":true,
+      "Intensity":2,
+      "Mask":"Binocular",
+      "MaskSize":0.97,
+      "DiffuseIntensity":0.02,
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "Name": "nvg",
+        "ShortName": "nvg",
+        "Description": "nvg"
+      }
+    },
+    "fleaPriceRoubles": 10000,
+    "handbookPriceRoubles": 11000,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_nvg"
+    ],
+    "addtoStaticLootContainers": false,
+    "StaticLootContainers": [
+
+    ],
+    "addtoSecureFilters": false,
+    "addtoHallOfFame": false,
+
+
+    "hallOfFameSlots": [
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69e3d5ade4ba816993ff188b": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69e3d5a9609333ebadff188a": {
+    "itemTplToClone": "5c066e3a0db834001b7353f0",
+    "parentId": "5a2c3a9486f774688b05e574",
+    "handbookParentId": "5b5f749986f774094242f199",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "dtnvs.bundle",
+        "rcid": ""
+      },
+      
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.35,
+      "Mask":"Binocular",
+      "MaskSize":0.97,
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "Name": "nvg",
+        "ShortName": "nvg",
+        "Description": "nvg"
+      }
+    },
+    "fleaPriceRoubles": 10000,
+    "handbookPriceRoubles": 11000,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_nvg"
+    ],
+    "addtoStaticLootContainers": false,
+    "StaticLootContainers": [
+
+    ],
+    "addtoSecureFilters": false,
+    "addtoHallOfFame": false,
+
+
+    "hallOfFameSlots": [
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "69e3d5b26dbd46625eff188c": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+
+}

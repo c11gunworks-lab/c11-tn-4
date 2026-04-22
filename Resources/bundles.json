@@ -10,6 +10,10 @@
       "dependencyKeys": []
     },
     {
+      "key": "textures/chimera_tex.bundle",
+      "dependencyKeys": []
+    },
+    {
       "key": "textures/m5_black_tex.bundle",
       "dependencyKeys": [
         "c11_shaders.bundle"
@@ -1933,6 +1937,41 @@
       "dependencyKeys": [
         "c11_shaders.bundle",
         "textures/m5_camo_tex.bundle"
+      ]
+    },
+    {
+      "key": "chimera.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/chimera_tex.bundle"
+
+      ]
+    },
+    {
+      "key": "chimera_mc.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/chimera_tex.bundle"
+
+      ]
+    },
+    {
+      "key": "chimera_mca.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/chimera_tex.bundle"
+      ]
+    },
+    {
+      "key": "dtnvs.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "anpvs5a.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
       ]
     },
     {
