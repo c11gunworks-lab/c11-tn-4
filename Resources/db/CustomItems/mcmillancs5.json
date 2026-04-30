@@ -1,0 +1,1073 @@
+{
+  "69ea94d9735c0ab5f2bbee67": {
+    "itemTplToClone": "588892092459774ac91d4b11",
+    "parentId": "5447b6254bdc2dc3278b4568",
+    "handbookParentId": "5b5f798886f77447ed5636b5",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "cs5_308_container.bundle",
+        "rcid": ""
+      },
+      "Ergonomics":52,
+      "Width": 2,
+      "Height": 1,
+      "Weight": 2.1,
+      "CenterOfIpat":0.005,
+      "bEffDist": 600,
+      "BoltAction": true,
+      "bHearDist": 80,
+      "CanSellOnRagfair":false,
+      "defAmmo":"5e023e53d4353e3302577c4c",
+      "defMagType":"5df8f535bb49d91fb446d6b0",
+      "chamberAmmoCount": 1,
+      "isBoltCatch": true,
+      "isChamberLoad":true,
+      "isFastReload":true,
+      "ReloadMode": "ExternalMagazine",
+      "Foldable": false,
+      "Retractable": false,
+      "CompactHandling": true,
+      "SingleFireRate": 450,
+      "CanQueueSecondShot": true,
+      "ammoCaliber": "Caliber762x51",
+      "weapFireType": [
+        "single"
+      ],
+
+      "Chambers": [
+        {
+          "_name": "patron_in_weapon",
+          "_id": "69ea962adb4ab2ec41bbee68",
+          "_parent": "69ea94d9735c0ab5f2bbee67",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a6086ea4f39f99cd479502f",
+                  "5a608bf24f39f98ffc77720e",
+                  "58dd3ad986f77403051cba8f",
+                  "5e023e53d4353e3302577c4c",
+                  "5efb0c1bd79ff02a1f5e68d9",
+                  "5e023e6e34d52a55c3304f71",
+                  "5e023e88277cce2b522ff2b1",
+                  "6768c25aa7b238f14a08d3f6"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d4af244bdc2d962f8b4571"
+        }
+      ],
+      "Slots": [
+        {
+          "_name": "mod_pistol_grip",
+          "_id": "69ea972e625b3272dbbbee6a",
+          "_parent": "69ea94d9735c0ab5f2bbee67",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "55d4b9964bdc2d1d4e8b456e",
+                  "571659bb2459771fb2755a12",
+                  "6113c3586c780c1e710c90bc",
+                  "6113cc78d3a39d50044c065a",
+                  "6113cce3d92c473c770200c7",
+                  "57c55efc2459772d2c6271e7",
+                  "57af48872459771f0b2ebf11",
+                  "57c55f092459772d291a8463",
+                  "57c55f112459772d28133310",
+                  "57c55f172459772d27602381",
+                  "5a339805c4a2826c6e06d73d",
+                  "615d8faecabb9b7ad90f4d5d",
+                  "5b07db875acfc40dc528a5f6",
+                  "63f5feead259b42f0b4d6d0f",
+                  "6928d412401cd7f6a6ed2d0c"
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_magazine",
+          "_id": "69ea9732b84dd7a7efbbee6b",
+          "_parent": "69ea94d9735c0ab5f2bbee67",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex":-1,
+                "Shift": 1,
+                "Filter": [
+                  "5df8f535bb49d91fb446d6b0",
+                  "5df8f541c41b2312ea3335e3",
+                  "5a3501acc4a282000d72293a",
+                  "65293c38fc460e50a509cb25",
+                  "65293c7a17e14363030ad308",
+                  "6761770e48fa5c377e06fc3c",
+                  "69e24048770bbffb64ff185a"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_scope",
+          "_id": "69ea97e2bdbca870babbee6c",
+          "_parent": "69ea94d9735c0ab5f2bbee67",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5dfe6104585a0c3e995c7b82",
+                  "544a3d0a4bdc2d1b388b4567",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e",
+                  "615d8d878004cc50514c3233",
+                  "5b2389515acfc4771e1be0c0",
+                  "577d128124597739d65d0e56",
+                  "618b9643526131765025ab35",
+                  "618bab21526131765025ab3f",
+                  "5c86592b2e2216000e69e77c",
+                  "5a37ca54c4a282000d72296a",
+                  "5d0a29fed7ad1a002769ad08",
+                  "58d2664f86f7747fec5834f6",
+                  "57c69dd424597774c03b7bbc",
+                  "5b3b99265acfc4704b4a1afb",
+                  "5aa66a9be5b5b0214e506e89",
+                  "5aa66c72e5b5b00016327c93",
+                  "61714b2467085e45ef140b2c",
+                  "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "59db7eed86f77461f8380365",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "5dff77c759400025ea5150cf",
+                  "626bb8532c923541184624b4",
+                  "62811f461d5df4475f46a332",
+                  "63fc449f5bd61c6cf3784a88",
+                  "6477772ea8a38bb2050ed4db",
+                  "6478641c19d732620e045e17",
+                  "64785e7c19d732620e045e15",
+                  "65392f611406374f82152ba5",
+                  "653931da5db71d30ab1d6296",
+                  "655f13e0a246670fb0373245",
+                  "6567e751a715f85433025998",
+                  "5c1cdd302e221602b3137250",
+                  "5c064c400db834001d23f468",
+                  "67641a851b2899700609901a",
+                  "6761759e7ee06333f108bf86"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_stock",
+          "_id": "69ea97eb11851521debbee6d",
+          "_parent": "69ea94d9735c0ab5f2bbee67",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "69ea9958a845fd3a7fbbee74"
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_barrel",
+          "_id": "69ea97f7f9adec6ca2bbee6e",
+          "_parent": "69ea94d9735c0ab5f2bbee67",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "69ea98ca3f62027f4ebbee71"
+             ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical",
+          "_id": "69ea98021c16f84b52bbee6f",
+          "_parent": "69ea94d9735c0ab5f2bbee67",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "69ea9a6931d841a2aebbee7a"
+                  
+]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Grids": []
+
+
+
+
+    },
+
+    "locales": {
+      "en": {
+        "Name": "McMillan CS5 Rifle",
+        "ShortName": "CS5",
+        "Description": "The rifle "
+      }
+    },
+    "fleaPriceRoubles": 115000,
+    "handbookPriceRoubles": 90000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+
+    "StaticLootContainers": [
+
+    ],
+    "addtoSecureFilters": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [
+
+
+    ],
+    "masterySections": [
+      {
+        "Level2": 150,
+        "Level3": 200,
+        "Name": "SP5",
+        "Templates": [
+          "69ea94d9735c0ab5f2bbee67"
+        ]
+      }
+    ],
+    "addtoTraders": true,
+
+    "traders": {
+      "TRUDY": {
+        "69ea984e53b1bb69cebbee70": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1150,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69ea98ca3f62027f4ebbee71": {
+    "itemTplToClone": "5888945a2459774bf43ba385",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "cs5_barrel.bundle",
+        "rcid": ""
+      },
+      
+      "Width": 2,
+      "Height": 1,
+      "Weight": 1.4,
+      "Loudness": 10,
+      "DeviationMax":1.2,
+      "Ergonomics": -1,
+      "ExtraSizeLeft":1,
+      "Velocity": -0.15,
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "69ea9935bbbdfb7ce7bbee72",
+          "_parent": "69ea98ca3f62027f4ebbee71",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "69ea99e36159e1102bbbee77",
+                  "69ea9f45bd564fec81bbee8a"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+
+      ],
+      "Grids": []
+
+    },
+
+    "locales": {
+      "en": {
+        "Name": "CS5 Barrel",
+        "ShortName": "CS5 Barrel",
+        "Description": "The  barrel for the CS5?"
+      }
+    },
+    "fleaPriceRoubles": 35000,
+    "handbookPriceRoubles": 25000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+
+    "StaticLootContainers": [
+
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+
+    "traders": {
+      "TRUDY": {
+        "69ea994bb722b0c6b0bbee73": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 250,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+
+
+  "69ea9958a845fd3a7fbbee74": {
+    "itemTplToClone": "6761777a1f08ed5e8800b7ac",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "cs5_stock.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.82,
+      "Ergonomics": 10,
+      "ExtraSizeRight":1,
+      "RaidModdable":true,
+      "HasShoulderContact":true,
+      "Recoil": -25,
+      "Slots": [],
+      "Grids": []
+    },
+    "locales": {
+      "en": { "Name": "cs5 Stock",
+        "ShortName": "cs5 Stock",
+        "Description": "Small enough to be packable, but still stabilizes the gun phenomenally." }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 14677,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+
+    "StaticLootContainers": [
+
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+
+    "traders": {
+      "TRUDY": {
+        "69ea99df29514906ebbbee76": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 70,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+
+  "69ea99e36159e1102bbbee77": {
+    "itemTplToClone": "59bffbb386f77435b379b9c2",
+    "parentId": "550aa4cd4bdc2dd8348b456c",
+    "handbookParentId": "5b5f731a86f774093e6cb4f9",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "cs5_suppressor.bundle", "rcid": "" },
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.68,
+      "Ergonomics": -2,
+      "Recoil": -14,
+      "ExtraSizeLeft":1,
+      "HeatFactor":1.10,
+      "Loudness":-32,
+      "muzzleModType":"silencer",
+      "MergesWithChildren":true,
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en":
+    { "Name":    "CS5 Suppressor",
+      "ShortName": "CS5Suppressor",
+      "Description": "Long and quiet, just like a hotdog." } },
+    "fleaPriceRoubles": 45000,
+    "handbookPriceRoubles": 35000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoModSlots": true,
+    "modSlot": ["mod_muzzle"],
+
+    "StaticLootContainers": [
+
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+
+    "traders": {
+      "TRUDY": {
+        "69ea9a5fdb00e2f26ebbee79": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 120,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "69ea9f45bd564fec81bbee8a": {
+    "itemTplToClone": "5bbdb8bdd4351e4502011460",
+    "parentId": "550aa4bf4bdc2dd6348b456b",
+    "handbookParentId": "5b5f724c86f774093f2ecf15",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "cs5_muzzle.bundle", "rcid": "" },
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.15,
+
+      "MergesWithChildren":true,
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en":
+      { "Name":    "CS5 muzzleb",
+        "ShortName": "CS5Smuzzy",
+        "Description": "Long and loud, just like a hotdog." } },
+    "fleaPriceRoubles": 5000,
+    "handbookPriceRoubles": 5000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": false,
+
+    "addtoModSlots": true,
+    "modSlot": ["mod_muzzle"],
+    "StaticLootContainers": [
+
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+
+    "traders": {
+      "TRUDY": {
+        "69ea9f0c8b0d97e781bbee89": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "69ea9a6931d841a2aebbee7a": {
+    "itemTplToClone": "5b2cfa535acfc432ff4db7a0",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "cs5_handguard.bundle", "rcid": "" },
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.45,
+      "Ergonomics": 7,
+      "CanPutIntoDuringTheRaid":true,
+      "ExtraSizeLeft":0,
+      "Recoil": -4,
+      "Slots": [
+        {
+          "_id": "69ea9abf3730ed0878bbee7b",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_000",
+          "_parent": "69ea9a6931d841a2aebbee7a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [ "69ea9bd9b47fecf009bbee83"
+
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69ea9ac01deca374b8bbee7c",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_001",
+          "_parent": "69ea9a6931d841a2aebbee7a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [ "69ea9b26c8905e2268bbee80"
+
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69ea9ac3831dfd618dbbee7d",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_002",
+          "_parent": "69ea9a6931d841a2aebbee7a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [ "69ea9b26c8905e2268bbee80"
+
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "69ea9ac5c32a644b66bbee7e",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_003",
+          "_parent": "69ea9a6931d841a2aebbee7a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [ "69ea9c643d4f056cd6bbee86"
+
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "Name": "cs5 Handguard",
+        "ShortName": "cs5 Handguard",
+        "Description": "guard da hand"
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 15500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+
+    "StaticLootContainers": [
+
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+
+    "traders": {
+      "TRUDY": {
+        "69ea9b1b1e674e7c0dbbee7f": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 25,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "69ea9b26c8905e2268bbee80": {
+    "itemTplToClone": "5b30bc165acfc40016387293",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "cs5_pic_mount.bundle",
+        "rcid": ""
+      },
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.04,
+      "Ergonomics": 0,
+
+      "Slots": [
+
+        {
+          "_id": "69ea9b71de7b2c3594bbee81",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "69ea9b26c8905e2268bbee80",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a800961159bd4315e3a1657",
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5c06595c0db834001a66af6c",
+                  "5cc9c20cd7f00c001336c65d",
+                  "5d2369418abbc306c62e0c80",
+                  "5b07dd285acfc4001754240d",
+                  "56def37dd2720bec348b456a",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5a5f1ce64f39f90b401987bc",
+                  "560d657b4bdc2da74d8b4572",
+                  "5b3a337e5acfc4704b4a19a0",
+                  "5c5952732e2216398b5abda2",
+                  "57d17e212459775a1179a0f5",
+                  "6267c6396b642f77f56f5c1c",
+                  "6272370ee4013c5d7e31f418",
+                  "6272379924e29f06af4d5ecb",
+                  "626becf9582c3e319310b837",
+                  "644a3df63b0b6f03e101e065",
+                  "646f6322f43d0c5d62063715"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "Grids": []
+
+    },
+    "locales": {
+      "en": { "Name": "CS5 side",
+        "ShortName": "cs5 side",
+        "Description": "side" }
+    },
+    "fleaPriceRoubles": 8500,
+    "handbookPriceRoubles": 7500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+
+    "traders": {
+      "TRUDY": {
+        "69ea9bcc4cccd3b134bbee82": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 5,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69ea9bd9b47fecf009bbee83": {
+    "itemTplToClone": "5b30bc165acfc40016387293",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "cs5_pic_mount.bundle",
+        "rcid": ""
+      },
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.04,
+      "Ergonomics": 0,
+
+      "Slots": [
+
+        {
+          "_id": "69ea9c019918575421bbee84",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_000",
+          "_parent": "69ea9bd9b47fecf009bbee83",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c7fc87d2e221644f31c0298",
+                  "5cda9bcfd7f00c0c0b53e900",
+                  "59f8a37386f7747af3328f06",
+                  "5a7dbfc1159bd40016548fde",
+                  "619386379fb0c665d5490dbe",
+                  "5c87ca002e221600114cb150",
+                  "588226d124597767ad33f787",
+                  "588226dd24597767ad33f789",
+                  "588226e62459776e3e094af7",
+                  "588226ef24597767af46e39c",
+                  "59fc48e086f77463b1118392",
+                  "5fce0cf655375d18a253eff0",
+                  "5cf4fb76d7f00c065703d3ac",
+                  "5c791e872e2216001219c40a",
+                  "558032614bdc2de7118b4585",
+                  "58c157be86f77403c74b2bb6",
+                  "58c157c886f774032749fb06",
+                  "5f6340d3ca442212f4047eb2",
+                  "591af28e86f77414a27a9e1d",
+                  "5c1cd46f2e22164bef5cfedb",
+                  "5c1bc4812e22164bef5cfde7",
+                  "5c1bc5612e221602b5429350",
+                  "5c1bc5af2e221602b412949b",
+                  "5c1bc5fb2e221602b1779b32",
+                  "5c1bc7432e221602b412949d",
+                  "5c1bc7752e221602b1779b34",
+                  "64806bdd26c80811d408d37a",
+                  "64807a29e5ffe165600abc97",
+                  "648067db042be0705c0b3009",
+                  "65169d5b30425317755f8e25",
+                  "5b057b4f5acfc4771e1bd3e9",
+                  "655df24fdf80b12750626d0a",
+                  "655dccfdbdcc6b5df71382b6",
+                  "661e52e29c8b4dadef008577",
+                  "661e53149c8b4dadef008579",
+                  "661e52415be02310ed07a07a",
+                  "661e52b5b099f32c28003586",
+                    "5a800961159bd4315e3a1657",
+                    "57fd23e32459772d0805bcf1",
+                    "544909bb4bdc2d6f028b4577",
+                    "5c06595c0db834001a66af6c",
+                    "5cc9c20cd7f00c001336c65d",
+                    "5d2369418abbc306c62e0c80",
+                    "5b07dd285acfc4001754240d",
+                    "56def37dd2720bec348b456a",
+                    "5a7b483fe899ef0016170d15",
+                    "61605d88ffa6e502ac5e7eeb",
+                    "5a5f1ce64f39f90b401987bc",
+                    "560d657b4bdc2da74d8b4572",
+                    "5b3a337e5acfc4704b4a19a0",
+                    "5c5952732e2216398b5abda2",
+                    "57d17e212459775a1179a0f5",
+                    "6267c6396b642f77f56f5c1c",
+                    "6272370ee4013c5d7e31f418",
+                    "6272379924e29f06af4d5ecb",
+                    "626becf9582c3e319310b837",
+                    "644a3df63b0b6f03e101e065",
+                    "646f6322f43d0c5d62063715",
+                    "6644920d49817dc7d505ca71",
+                    "676175bb48fa5c377e06fc36"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "Grids": []
+
+    },
+    "locales": {
+      "en": { "Name": "CS5 bot",
+        "ShortName": "cs5 bot",
+        "Description": "bot" }
+    },
+    "fleaPriceRoubles": 8500,
+    "handbookPriceRoubles": 7500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+
+    "traders": {
+      "TRUDY": {
+        "69ea9c629cb35b50acbbee85": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 5,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69ea9c643d4f056cd6bbee86": {
+    "itemTplToClone": "5b30bc165acfc40016387293",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "cs5_pic_mount.bundle",
+        "rcid": ""
+      },
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.04,
+      "Ergonomics": 0,
+
+      "Slots": [
+
+        {
+          "_id": "69ea9c74ae1a009728bbee87",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "69ea9c643d4f056cd6bbee86",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  
+                    "558022b54bdc2dac148b458d",
+                    "58491f3324597764bc48fa02",
+                    "584924ec24597768f12ae244",
+                    "6165ac8c290d254f5e6b2f6c",
+                    "60a23797a37c940de7062d02",
+                    "5d2da1e948f035477b1ce2ba",
+                    "584984812459776a704a82a6",
+                    "59f9d81586f7744c7506ee62",
+                    "570fd721d2720bc5458b4596",
+                    "57ae0171245977343c27bfcf",
+                    "58d39d3d86f77445bb794ae7",
+                    "616554fe50224f204c1da2aa",
+                    "5c7d55f52e221644f31bff6a",
+                    "616584766ef05c2ce828ef57",
+                    "615d8d878004cc50514c3233",
+                    "577d128124597739d65d0e56",
+                    "58d2664f86f7747fec5834f6",
+                    "5649a2464bdc2d91118b45a8",
+                    "61714b2467085e45ef140b2c",
+                    "5b31163c5acfc400153b71cb",
+                    "5a33b652c4a28232996e407c",
+                    "5a33b2c9c4a282000c5a9511",
+                    "64785e7c19d732620e045e15",
+                    "655f13e0a246670fb0373245",
+                  "5a800961159bd4315e3a1657",
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5c06595c0db834001a66af6c",
+                  "5cc9c20cd7f00c001336c65d",
+                  "5d2369418abbc306c62e0c80",
+                  "5b07dd285acfc4001754240d",
+                  "56def37dd2720bec348b456a",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5a5f1ce64f39f90b401987bc",
+                  "560d657b4bdc2da74d8b4572",
+                  "5b3a337e5acfc4704b4a19a0",
+                  "5c5952732e2216398b5abda2",
+                  "57d17e212459775a1179a0f5",
+                  "6267c6396b642f77f56f5c1c",
+                  "6272370ee4013c5d7e31f418",
+                  "6272379924e29f06af4d5ecb",
+                  "626becf9582c3e319310b837",
+                  "644a3df63b0b6f03e101e065",
+                  "646f6322f43d0c5d62063715"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "Grids": []
+
+    },
+    "locales": {
+      "en": { "Name": "CS5 top",
+        "ShortName": "cs5 top",
+        "Description": "top" }
+    },
+    "fleaPriceRoubles": 8500,
+    "handbookPriceRoubles": 7500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 5
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+
+    "traders": {
+      "TRUDY": {
+        "69ea9c80526049bd83bbee88": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 5,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  }
+
+
+}

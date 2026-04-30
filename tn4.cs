@@ -13,7 +13,7 @@ public record ModMetadata : AbstractModMetadata
 public override string ModGuid { get; init; } = "com.c11.truenorth4";
 public override string Name { get; init; } = "True North";
 public override string Author { get; init; } = "C11";
-public override SemanticVersioning.Version Version { get; init; } = new("2.5.1");
+public override SemanticVersioning.Version Version { get; init; } = new("3.0.1");
 public override Range SptVersion { get; init; } = new("~4.0.10");
 
 public override string License { get; init; } = "MIT";
@@ -21,7 +21,7 @@ public override bool? IsBundleMod { get; init; } = true;
 
 public override Dictionary<string, Range>? ModDependencies { get; init; } = new()
 {
-    { "com.wtt.commonlib", new Range("~2.0.18") },
+    { "com.wtt.commonlib", new Range("~2.0.20") },
     { "com.c11.spt22lr", new Range("~1.5.0") } 
 };
 

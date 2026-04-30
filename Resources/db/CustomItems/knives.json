@@ -1,0 +1,392 @@
+{
+
+  "69f3de69ac93bcc7b9e34f71": {
+    "itemTplToClone": "54491bb74bdc2d09088b4567",
+    "parentId": "5447e1d04bdc2dff2f8b4567",
+    "handbookParentId": "5b5f7a0886f77409407a7f96",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "karambit.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.1,
+      "knifeDurab":70,
+      "knifeHitDelay":0,
+      "knifeHitRadius":0.4,
+      "knifeHitSlashDam":25,
+      "knifeHitSlashRate":0,
+      "knifeHitStabDam":27,
+      "knifeHitStabRate":1,
+
+      "Chambers": [
+      ],
+      "Slots": [
+      ],
+      "Grids": []
+
+
+
+
+    },
+
+    "locales": {
+      "en": {
+        "Name": "STAB",
+        "ShortName": "STAB",
+        "Description": "STABSTABSTABSTAB "
+      }
+    },
+    "fleaPriceRoubles": 115000,
+    "handbookPriceRoubles": 90000,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+
+    "StaticLootContainers": [
+
+    ],
+    "addtoSecureFilters": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [
+
+
+    ],
+    
+    "addtoTraders": true,
+
+    "traders": {
+      "TRUDY": {
+        "69f3df0c5e6de895afe34f72": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1150,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69f3e174af10d16d81e34f73": {
+    "itemTplToClone": "54491bb74bdc2d09088b4567",
+    "parentId": "5447e1d04bdc2dff2f8b4567",
+    "handbookParentId": "5b5f7a0886f77409407a7f96",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "karambit_mcb.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.1,
+      "knifeDurab":70,
+      "knifeHitDelay":0,
+      "knifeHitRadius":0.4,
+      "knifeHitSlashDam":25,
+      "knifeHitSlashRate":0,
+      "knifeHitStabDam":27,
+      "knifeHitStabRate":1,
+
+      "Chambers": [
+      ],
+      "Slots": [
+      ],
+      "Grids": []
+
+
+
+
+    },
+
+    "locales": {
+      "en": {
+        "Name": "STAB",
+        "ShortName": "STAB",
+        "Description": "STABSTABSTABSTAB "
+      }
+    },
+    "fleaPriceRoubles": 115000,
+    "handbookPriceRoubles": 90000,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+
+    "StaticLootContainers": [
+
+    ],
+    "addtoSecureFilters": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [
+
+
+    ],
+
+    "addtoTraders": true,
+
+    "traders": {
+      "TRUDY": {
+        "69f3e17a5f56a71c53e34f74": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1150,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69f3e17e6111bf6ae2e34f75": {
+    "itemTplToClone": "54491bb74bdc2d09088b4567",
+    "parentId": "5447e1d04bdc2dff2f8b4567",
+    "handbookParentId": "5b5f7a0886f77409407a7f96",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "gbrs_g10.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.1,
+      "knifeDurab":70,
+      "knifeHitDelay":0,
+      "knifeHitRadius":0.4,
+      "knifeHitSlashDam":25,
+      "knifeHitSlashRate":0,
+      "knifeHitStabDam":27,
+      "knifeHitStabRate":1,
+
+      "Chambers": [
+      ],
+      "Slots": [
+      ],
+      "Grids": []
+
+
+
+
+    },
+
+    "locales": {
+      "en": {
+        "Name": "STAB",
+        "ShortName": "STAB",
+        "Description": "STABSTABSTABSTAB "
+      }
+    },
+    "fleaPriceRoubles": 115000,
+    "handbookPriceRoubles": 90000,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+
+    "StaticLootContainers": [
+
+    ],
+    "addtoSecureFilters": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [
+
+
+    ],
+
+    "addtoTraders": true,
+
+    "traders": {
+      "TRUDY": {
+        "69f3e186321b1e382ae34f76": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1150,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69f3e188ceadbcbed5e34f77": {
+    "itemTplToClone": "54491bb74bdc2d09088b4567",
+    "parentId": "5447e1d04bdc2dff2f8b4567",
+    "handbookParentId": "5b5f7a0886f77409407a7f96",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "short_knife.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.1,
+      "knifeDurab":70,
+      "knifeHitDelay":0,
+      "knifeHitRadius":0.4,
+      "knifeHitSlashDam":25,
+      "knifeHitSlashRate":0,
+      "knifeHitStabDam":27,
+      "knifeHitStabRate":1,
+
+      "Chambers": [
+      ],
+      "Slots": [
+      ],
+      "Grids": []
+
+
+
+
+    },
+
+    "locales": {
+      "en": {
+        "Name": "STAB",
+        "ShortName": "STAB",
+        "Description": "STABSTABSTABSTAB "
+      }
+    },
+    "fleaPriceRoubles": 115000,
+    "handbookPriceRoubles": 90000,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+
+    "StaticLootContainers": [
+
+    ],
+    "addtoSecureFilters": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [
+
+
+    ],
+
+    "addtoTraders": true,
+
+    "traders": {
+      "TRUDY": {
+        "69f3e19854d9797fe1e34f78": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1150,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69f3e19a4864616557e34f79": {
+    "itemTplToClone": "54491bb74bdc2d09088b4567",
+    "parentId": "5447e1d04bdc2dff2f8b4567",
+    "handbookParentId": "5b5f7a0886f77409407a7f96",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "fixed_cod.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.1,
+      "knifeDurab":70,
+      "knifeHitDelay":0,
+      "knifeHitRadius":0.4,
+      "knifeHitSlashDam":25,
+      "knifeHitSlashRate":0,
+      "knifeHitStabDam":27,
+      "knifeHitStabRate":1,
+
+      "Chambers": [
+      ],
+      "Slots": [
+      ],
+      "Grids": []
+
+
+
+
+    },
+
+    "locales": {
+      "en": {
+        "Name": "STAB",
+        "ShortName": "STAB",
+        "Description": "STABSTABSTABSTAB "
+      }
+    },
+    "fleaPriceRoubles": 115000,
+    "handbookPriceRoubles": 90000,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+
+    "StaticLootContainers": [
+
+    ],
+    "addtoSecureFilters": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [
+
+
+    ],
+
+    "addtoTraders": true,
+
+    "traders": {
+      "TRUDY": {
+        "69f3e1a923db7c0e41e34f7a": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1150,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  }
+
+
+
+
+}

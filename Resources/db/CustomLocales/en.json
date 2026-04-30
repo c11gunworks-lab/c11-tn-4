@@ -932,7 +932,83 @@
   "69e2558872ca7a7ea2ff1861 Description": "The SilencerCo Saker ASR 762 is a heavy-duty, highly durable suppressor designed for rigorous military and law enforcement use on .30 caliber systems.",
   "69e257c4b83e29afacff1864 Name": "SilencerCo Saker ASR 762 Sound Suppressor (Tan Camo)",
   "69e257c4b83e29afacff1864 ShortName": "Saker 762 Camo",
-  "69e257c4b83e29afacff1864 Description": "The SilencerCo Saker ASR 762 is a heavy-duty, highly durable suppressor designed for rigorous military and law enforcement use on .30 caliber systems. This one is painted"
+  "69e257c4b83e29afacff1864 Description": "The SilencerCo Saker ASR 762 is a heavy-duty, highly durable suppressor designed for rigorous military and law enforcement use on .30 caliber systems. This one is painted",
+  "69e90fbb0655531529ff1891 Name": "Colt M4A1 5.56x45 (.22 LR CMMG Conversion)",
+  "69e90fbb0655531529ff1891 ShortName": "M4A1 .22LR",
+  "69e90fbb0655531529ff1891 Description": "A standard Colt M4A1 platform converted to fire .22 LR using the CMMG Bravo Stainless Steel Bolt Group. Designed as a cost-effective training tool for the AR-15 platform, it utilizes a blowback operation that bypasses the standard gas system. While significantly reducing recoil and operating costs, it inherits the inherent reliability quirks of rimfire ammunition and requires dedicated magazines.",
+
+  "69e90ce8cbaf23280dff188f Name": "CMMG AR-15 .22 LR 25-round magazine",
+  "69e90ce8cbaf23280dff188f ShortName": "CMMG 25rd",
+  "69e90ce8cbaf23280dff188f Description": "A 25-round dedicated .22 LR magazine manufactured by CMMG Inc. for the AR-15 platform. Built from high-impact smoke-colored polymer, these magazines feature a last-round bolt hold-open actuator and are designed specifically to interface with CMMG conversion bolts and dedicated .22 LR uppers.",
+
+  "69e9185e551374ea6fff189a Name": "CMMG 14.5\" .22 LR Dedicated Barrel",
+  "69e9185e551374ea6fff189a ShortName": "14.5\" .22LR",
+  "69e9185e551374ea6fff189a Description": "A 14.5-inch dedicated .22 LR barrel from CMMG's 'Resolution' line. Unlike a standard 5.56 barrel, this features a 1:16 twist rate optimized for stabilizing 30-40 grain rimfire projectiles. It lacks a gas port, as the conversion system operates via straight blowback, ensuring superior accuracy and velocity over a drop-in adapter.",
+
+  "69e29e097259deabbcff1884 Name": "Argus Chimera Panoramic Bridge (Tan)",
+  "69e29e097259deabbcff1884 ShortName": "Chimera Tan",
+  "69e29e097259deabbcff1884 Description": "The Argus Chimera is a ruggedized bridge system designed to mount multiple night vision monoculars, allowing for a panoramic field of view. Milled from aerospace-grade aluminum, it provides the end-user with GPNVG-style peripheral vision using standard tubes. This unit has been finished in a Flat Dark Earth (Tan) Cerakote.",
+
+  "69e3d5854119e71c8cff1885 Name": "Argus Chimera Panoramic Bridge (MultiCam)",
+  "69e3d5854119e71c8cff1885 ShortName": "Chimera MC",
+  "69e3d5854119e71c8cff1885 Description": "The Argus Chimera is a modular bridge system designed to expand the field of view by angling dual or quad optics. This high-performance housing allows for individual pod stowage and is finished in an official MultiCam hydrographic pattern for maximum concealment in temperate environments.",
+
+  "69e3d59d816b7c8821ff1887 Name": "Argus Chimera Panoramic Bridge (MultiCam Alpine)",
+  "69e3d59d816b7c8821ff1887 ShortName": "Chimera MCA",
+  "69e3d59d816b7c8821ff1887 Description": "A specialized version of the Argus Chimera bridge system, designed for extreme cold-weather operations. This panoramic housing allows for a wider horizontal FOV and has been finished in MultiCam Alpine to blend into snow-covered terrain and high-altitude environments.",
+
+  "69e3d5a9609333ebadff188a Name": "ACTinBlack DTNVS Dual Tactical Night Vision System",
+  "69e3d5a9609333ebadff188a ShortName": "DTNVS",
+  "69e3d5a9609333ebadff188a Description": "The Dual Tactical Night Vision System (DTNVS) by ACTinBlack is a lightweight, folding binocular housing. Designed for professional users, it features independent pod shut-off when flipped up or out to the side, reducing the silhouette and power consumption. It is widely considered one of the most durable and ergonomic dual-tube systems on the modern market.",
+
+  "69e3d5a8dffbd50412ff1889 Name": "ITT AN/PVS-5A Night Vision Goggles",
+  "69e3d5a8dffbd50412ff1889 ShortName": "PVS-5A",
+  "69e3d5a8dffbd50412ff1889 Description": "The AN/PVS-5A is a vintage second-generation dual-tube night vision system developed by ITT and Litton in the 1970s. Originally designed to be head-mounted with a full face mask, it provided U.S. forces with reliable night-fighting capabilities throughout the late Cold War. While bulky and lacking modern resolution, it remains a functional piece of tactical history.",
+  "69ea94d9735c0ab5f2bbee67 Name": "McMillan CS5 Stubby Receiver",
+  "69ea94d9735c0ab5f2bbee67 ShortName": "CS5",
+  "69ea94d9735c0ab5f2bbee67 Description": "The McMillan CS5 (Concealable Subsonic/Supersonic) was designed as a compact, high-precision bolt-action rifle for urban elite units. This core receiver and bolt assembly serves as the foundation for a weapon that can be quickly disassembled and hidden in a backpack, yet maintain sub-MOA accuracy with both standard and subsonic 7.62x51mm NATO loads.",
+
+  "69ea98ca3f62027f4ebbee71 Name": "McMillan CS5 12.5 inch 7.62x51 Barrel",
+  "69ea98ca3f62027f4ebbee71 ShortName": "CS5 12.5\"",
+  "69ea98ca3f62027f4ebbee71 Description": "A 1:8 twist match-grade heavy barrel specifically optimized for the CS5 system. The shorter length and faster twist rate allow for excellent stabilization of heavy subsonic projectiles while remaining exceptionally compact.",
+
+  "69ea9958a845fd3a7fbbee74 Name": "McMillan CS5 Adjustable Folding Stock",
+  "69ea9958a845fd3a7fbbee74 ShortName": "CS5 Stock",
+  "69ea9958a845fd3a7fbbee74 Description": "A fully adjustable folding stock featuring a tool-less design for cheek weld and length-of-pull adjustments. Despite its skeletal appearance, it provides the rigid stability required for long-range precision shots.",
+
+  "69ea99e36159e1102bbbee77 Name": "McMillan CS5 Dedicated Suppressor",
+  "69ea99e36159e1102bbbee77 ShortName": "CS5 Silencer",
+  "69ea99e36159e1102bbbee77 Description": "A high-volume suppressor designed specifically to interface with the CS5 barrel. It significantly reduces the acoustic signature of the 7.62x51mm round, making the rifle nearly silent when paired with subsonic ammunition.",
+
+  "69ea9f45bd564fec81bbee8a Name": "McMillan CS5 Muzzle Brake",
+  "69ea9f45bd564fec81bbee8a ShortName": "CS5 Brake",
+  "69ea9f45bd564fec81bbee8a Description": "A compact dual-port muzzle brake that mitigates the vertical jump of the short-barreled CS5, allowing for faster follow-up shots and better target retention through the optic.",
+
+  "69ea9a6931d841a2aebbee7a Name": "McMillan CS5 Modular Handguard",
+  "69ea9a6931d841a2aebbee7a ShortName": "CS5 Handguard",
+  "69ea9a6931d841a2aebbee7a Description": "A lightweight aluminum handguard featuring several attachment points for proprietary Picatinny rail sections. Its tubular design maintains a slim profile for better maneuverability in tight spaces.",
+
+  "69ea9b26c8905e2268bbee80 Name": "McMillan CS5 Side Rail Section",
+  "69ea9b26c8905e2268bbee80 ShortName": "CS5 Side",
+  "69ea9b26c8905e2268bbee80 Description": "A short Picatinny rail segment designed to mount lights or lasers to the side of the CS5 handguard.",
+
+  "69ea9bd9b47fecf009bbee83 Name": "McMillan CS5 Bottom Rail Section",
+  "69ea9bd9b47fecf009bbee83 ShortName": "CS5 Bottom",
+  "69ea9bd9b47fecf009bbee83 Description": "An elongated Picatinny rail segment for the bottom of the handguard, primarily intended for bipod or vertical grip mounting.",
+
+  "69ea9c643d4f056cd6bbee86 Name": "McMillan CS5 Top Rail Section",
+  "69ea9c643d4f056cd6bbee86 ShortName": "CS5 Top",
+  "69ea9c643d4f056cd6bbee86 Description": "A top-mounted rail section allowing for the installation of clip-on night vision or thermal optics in front of the primary day scope.",
+
+  "69ed4df0efda9742e57406a3 Name": "ATAK Samsung Galaxy S20+ Juggernaut",
+  "69ed4df0efda9742e57406a3 ShortName": "ATAK S20+",
+  "69ed4df0efda9742e57406a3 Description": "ATAK equipped Samsung Galaxy Phone with a Juggernaut IMPCT case. The IMPCT is a ruggedized case that protects your phone from even the most intense environments, giving you the protection and impact resistance you need.",
+
+  "69f3e17e6111bf6ae2e34f75 Name": "Black Triangle X GBRS Group EDC G10 Dagger",
+  "69f3e17e6111bf6ae2e34f75 ShortName": "GBRS G10",
+  "69f3e17e6111bf6ae2e34f75 Description": "GBRS Group EDC G10 Dagger. A lightweight, compact dagger made out of G10 polycarbonate. Undetectable by metal detectors. Does not include standard GBRS divorce papers"
+
+
 
 }
 

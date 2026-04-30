@@ -22,7 +22,7 @@
       "bFirerate":30,
       "CanPutIntoDuringTheRaid":true,
       "BoltAction": true,
-      "bHearDist": 270,
+      "bHearDist": 45,
       "CanSellOnRagfair":false,
       "defAmmo":"5fbe3ffdf8b6a877a729ea82",
       "defMagType":"55d4887d4bdc2d962f8b4570",

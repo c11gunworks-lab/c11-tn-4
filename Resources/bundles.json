@@ -14,6 +14,17 @@
       "dependencyKeys": []
     },
     {
+      "key": "textures/mcmillan_textures.bundle",
+      "dependencyKeys": []
+    },
+    
+    {
+      "key": "textures/knive_tex.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
       "key": "textures/m5_black_tex.bundle",
       "dependencyKeys": [
         "c11_shaders.bundle"
@@ -1257,8 +1268,7 @@
       "key": "lmghgcamo.bundle",
       "dependencyKeys": [
         "c11_shaders.bundle",
-        "c11supershader.bundle",
-        "textures/t81lmgwoodtex.bundle"
+        "textures/t81lmgcamotex.bundle"
       ]
     },
     {
@@ -1997,6 +2007,129 @@
         "c11_shaders.bundle",
         "shaders",
         "textures/m5_camo_tex.bundle"
+      ]
+    },
+    {
+      "key": "22lr_ar15.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+
+      ]
+    },
+    {
+      "key": "cs5_308_container.bundle",
+      "dependencyKeys": [
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/systems/effects/smoke.bundle",
+        "c11_shaders.bundle",
+        "shaders",
+        "textures/mcmillan_textures.bundle"
+      ]
+    },
+    {
+      "key": "cs5_barrel.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "c11_shaders.bundle",
+        "shaders",
+        "textures/mcmillan_textures.bundle"
+      ]
+    },
+    {
+      "key": "cs5_handguard.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/mcmillan_textures.bundle"
+      ]
+    },
+    {
+      "key": "cs5_muzzle.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "c11_shaders.bundle",
+        "shaders",
+        "textures/mcmillan_textures.bundle"
+      ]
+    },
+    {
+      "key": "cs5_pic_mount.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/mcmillan_textures.bundle"
+      ]
+    },
+    {
+      "key": "cs5_stock.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/mcmillan_textures.bundle"
+      ]
+    },
+    {
+      "key": "cs5_suppressor.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "c11_shaders.bundle",
+        "shaders",
+        "textures/mcmillan_textures.bundle"
+      ]
+    },
+    {
+      "key": "atak_device.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "karambit.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "textures/knive_tex.bundle"
+
+      ]
+    },
+    {
+      "key": "karambit_mcb.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "textures/knive_tex.bundle"
+
+      ]
+    },
+    {
+      "key": "fixed_cod.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "textures/knive_tex.bundle"
+
+      ]
+    },
+    {
+      "key": "karambit.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "textures/knive_tex.bundle"
+
+      ]
+    },
+    {
+      "key": "short_knife.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "textures/knive_tex.bundle"
+
       ]
     }
   ]

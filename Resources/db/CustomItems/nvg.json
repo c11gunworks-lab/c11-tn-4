@@ -14,7 +14,12 @@
       "Width": 2,
       "Height": 1,
       "Weight": 0.35,
-
+      "Color":{
+        "a": 254,
+        "b": 243,
+        "g": 255,
+        "r": 0
+      },
       "Grids": [],
       "Slots": []
     },
@@ -25,8 +30,8 @@
         "Description": "nvg"
       }
     },
-    "fleaPriceRoubles": 10000,
-    "handbookPriceRoubles": 11000,
+    "fleaPriceRoubles": 100000,
+    "handbookPriceRoubles": 110000,
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoModSlots": true,
@@ -35,7 +40,7 @@
     ],
     "addtoStaticLootContainers": false,
     "StaticLootContainers": [
-      
+
     ],
     "addtoSecureFilters": false,
     "addtoHallOfFame": false,
@@ -48,14 +53,14 @@
       "TRUDY": {
         "69e29dd9a4fde7e582ff1883": {
           "barterSettings": {
-            "loyalLevel": 1,
+            "loyalLevel": 3,
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },
           "barters": [
             {
-              "count": 3200,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 1200,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -77,7 +82,12 @@
       "Width": 2,
       "Height": 1,
       "Weight": 0.35,
-
+      "Color":{
+        "a": 254,
+        "b": 243,
+        "g": 255,
+        "r": 0
+      },
       "Grids": [],
       "Slots": []
     },
@@ -88,8 +98,8 @@
         "Description": "nvg"
       }
     },
-    "fleaPriceRoubles": 10000,
-    "handbookPriceRoubles": 11000,
+    "fleaPriceRoubles": 200000,
+    "handbookPriceRoubles": 201000,
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoModSlots": true,
@@ -111,14 +121,14 @@
       "TRUDY": {
         "69e3d59004efea109dff1886": {
           "barterSettings": {
-            "loyalLevel": 1,
+            "loyalLevel": 4,
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },
           "barters": [
             {
-              "count": 3200,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 2200,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -139,7 +149,12 @@
       "Width": 2,
       "Height": 1,
       "Weight": 0.35,
-
+      "Color":{
+        "a": 254,
+        "b": 243,
+        "g": 255,
+        "r": 0
+      },
       "Grids": [],
       "Slots": []
     },
@@ -150,8 +165,8 @@
         "Description": "nvg"
       }
     },
-    "fleaPriceRoubles": 10000,
-    "handbookPriceRoubles": 11000,
+    "fleaPriceRoubles": 200000,
+    "handbookPriceRoubles": 211000,
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoModSlots": true,
@@ -173,14 +188,14 @@
       "TRUDY": {
         "69e3d5a21bfa564599ff1888": {
           "barterSettings": {
-            "loyalLevel": 1,
+            "loyalLevel": 4,
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },
           "barters": [
             {
-              "count": 3200,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 2500,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -238,8 +253,8 @@
         "Description": "nvg"
       }
     },
-    "fleaPriceRoubles": 10000,
-    "handbookPriceRoubles": 11000,
+    "fleaPriceRoubles": 50000,
+    "handbookPriceRoubles": 41000,
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoModSlots": true,
@@ -267,8 +282,8 @@
           },
           "barters": [
             {
-              "count": 3200,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 220,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -285,7 +300,12 @@
         "path": "dtnvs.bundle",
         "rcid": ""
       },
-      
+      "Color":{
+        "a": 254,
+        "b": 243,
+        "g": 255,
+        "r": 0
+      },
       "Width": 2,
       "Height": 1,
       "Weight": 0.35,
@@ -301,8 +321,8 @@
         "Description": "nvg"
       }
     },
-    "fleaPriceRoubles": 10000,
-    "handbookPriceRoubles": 11000,
+    "fleaPriceRoubles": 90000,
+    "handbookPriceRoubles": 81000,
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoModSlots": true,
@@ -324,14 +344,14 @@
       "TRUDY": {
         "69e3d5b26dbd46625eff188c": {
           "barterSettings": {
-            "loyalLevel": 1,
+            "loyalLevel": 2,
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },
           "barters": [
             {
-              "count": 3200,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 358,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
