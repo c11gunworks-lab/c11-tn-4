@@ -1006,10 +1006,28 @@
 
   "69f3e17e6111bf6ae2e34f75 Name": "Black Triangle X GBRS Group EDC G10 Dagger",
   "69f3e17e6111bf6ae2e34f75 ShortName": "GBRS G10",
-  "69f3e17e6111bf6ae2e34f75 Description": "GBRS Group EDC G10 Dagger. A lightweight, compact dagger made out of G10 polycarbonate. Undetectable by metal detectors. Does not include standard GBRS divorce papers"
+  "69f3e17e6111bf6ae2e34f75 Description": "GBRS Group EDC G10 Dagger. A lightweight, compact dagger made out of G10 polycarbonate. Easily concealable but essentially single use. Undetectable by metal detectors. Does not include standard GBRS divorce papers",
+
+  "69f3de69ac93bcc7b9e34f71 Name": "Cold Steel Steel Tiger Karambit",
+  "69f3de69ac93bcc7b9e34f71 ShortName": "Steel Tiger",
+  "69f3de69ac93bcc7b9e34f71 Description": "The Steel Tiger is a thoroughly modern tactical interpretation of the Indonesian Karambit. A design collaboration between Lynn C. Thompson and the late custom knife maker Steven Likarich, the Steel Tiger was designed to possess all the best features of this iconic hooked blade and to integrate them seamlessly with modern materials and styling",
+
+  "69f3e174af10d16d81e34f73 Name": "Cold Steel Steel Tiger Karambit (MultiCam Black)",
+  "69f3e174af10d16d81e34f73 ShortName": "Steel Tiger MCB",
+  "69f3e174af10d16d81e34f73 Description": "The Steel Tiger is a thoroughly modern tactical interpretation of the Indonesian Karambit. This one is Multicam Black. A design collaboration between Lynn C. Thompson and the late custom knife maker Steven Likarich, the Steel Tiger was designed to possess all the best features of this iconic hooked blade and to integrate them seamlessly with modern materials and styling",
 
 
+  "69f3e188ceadbcbed5e34f77 Name": "Benchmade Hidden Canyon Hunter Tactical Edition",
+  "69f3e188ceadbcbed5e34f77 ShortName": "HCHTE",
+  "69f3e188ceadbcbed5e34f77 Description": "A customized variant of the classic hunting utility blade, redesigned with tactical ergonomics and reinforced full-tang construction. Features aggressive spine jimping, textured grip scales, and a compact drop-point profile suited for fieldcraft, survival tasks, and close-quarters utility work.",
 
+  "69f4affac52af4c196e34f7b Name": "EDON-TECH CPM-T440V",
+  "69f4affac52af4c196e34f7b ShortName": "EDT-440V",
+  "69f4affac52af4c196e34f7b Description": "A lightweight skeletonized combat blade manufactured by EDON-TECH using proprietary CPM-T440V steel. Designed for rapid handling and low-profile carry, the knife features an aggressively curved profile, structural cutouts for weight reduction, and a reinforced tactical grip optimized for defensive and utility applications.",
+
+  "69f3e19a4864616557e34f79 Name": "Mesa Grande Custom Tactical Combat Knife",
+  "69f3e19a4864616557e34f79 ShortName": "Mesa Grande",
+  "69f3e19a4864616557e34f79 Description": "A heavy-duty, 'overbuilt' tactical fixed-blade from the Mesa Grande series. This design prioritizes structural integrity above all else, featuring a thick, modified tanto blade and distinctive circular-scalloped G10 scales. Favored by PMCs who require a tool capable of both combat and extreme hard-use prying."
 }
 
 

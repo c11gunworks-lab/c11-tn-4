@@ -71,7 +71,7 @@
           OverwriteReadOnlyFiles="true" 
           SkipUnchangedFiles="false" />
 
-    <!-- === ADDED: Copy CustomSlotImages PNGs === -->
+    
     <!-- %(RecursiveDir) ensures any subfolders inside CustomSlotImages are maintained -->
     <Message Importance="high" Text="[DeployMod] Copying Custom Slot Images..." />
     <Copy SourceFiles="@(SlotImages)" 

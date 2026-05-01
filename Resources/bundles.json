@@ -11,11 +11,15 @@
     },
     {
       "key": "textures/chimera_tex.bundle",
-      "dependencyKeys": []
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
     },
     {
       "key": "textures/mcmillan_textures.bundle",
-      "dependencyKeys": []
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
     },
     
     {
@@ -2113,7 +2117,7 @@
       ]
     },
     {
-      "key": "karambit.bundle",
+      "key": "short_knife.bundle",
       "dependencyKeys": [
         "c11_shaders.bundle",
         "assets/content/weapons/additional_hands/client_assets.bundle",
@@ -2123,7 +2127,17 @@
       ]
     },
     {
-      "key": "short_knife.bundle",
+      "key": "skeleton_knife.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "textures/knive_tex.bundle"
+
+      ]
+    },
+    {
+      "key": "gbrs_g10.bundle",
       "dependencyKeys": [
         "c11_shaders.bundle",
         "assets/content/weapons/additional_hands/client_assets.bundle",
