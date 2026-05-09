@@ -25,9 +25,9 @@
     },
     "locales": {
       "en": {
-        "Name": "nvg",
-        "ShortName": "nvg",
-        "Description": "nvg"
+        "name": "nvg",
+        "shortName": "nvg",
+        "description": "nvg"
       }
     },
     "fleaPriceRoubles": 100000,
@@ -93,9 +93,9 @@
     },
     "locales": {
       "en": {
-        "Name": "nvg",
-        "ShortName": "nvg",
-        "Description": "nvg"
+        "name": "nvg",
+        "shortName": "nvg",
+        "description": "nvg"
       }
     },
     "fleaPriceRoubles": 200000,
@@ -160,9 +160,9 @@
     },
     "locales": {
       "en": {
-        "Name": "nvg",
-        "ShortName": "nvg",
-        "Description": "nvg"
+        "name": "nvg",
+        "shortName": "nvg",
+        "description": "nvg"
       }
     },
     "fleaPriceRoubles": 200000,
@@ -248,9 +248,9 @@
     },
     "locales": {
       "en": {
-        "Name": "nvg",
+        "name": "nvg",
         "ShortName": "nvg",
-        "Description": "nvg"
+        "description": "nvg"
       }
     },
     "fleaPriceRoubles": 50000,
@@ -316,9 +316,9 @@
     },
     "locales": {
       "en": {
-        "Name": "nvg",
+        "name": "nvg",
         "ShortName": "nvg",
-        "Description": "nvg"
+        "description": "nvg"
       }
     },
     "fleaPriceRoubles": 90000,

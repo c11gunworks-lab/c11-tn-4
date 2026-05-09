@@ -287,9 +287,9 @@
     },
     "locales": {
       "en": {
-        "Name": "vz58",
-        "ShortName": "vz58",
-        "Description": "vz58"
+        "name": "vz58",
+        "shortName": "vz58",
+        "description": "vz58"
       }
     },
     "fleaPriceRoubles": 45000,
@@ -315,7 +315,7 @@
       {
         "Level2": 150,
         "Level3": 200,
-        "Name": "VZ58",
+        "name": "VZ58",
         "Templates": [
           "69a9bd241c35419872eee854"
         ]
@@ -609,9 +609,9 @@
     },
     "locales": {
       "en": {
-        "Name": "vz58short",
-        "ShortName": "vz58short",
-        "Description": "vz58short"
+        "name": "vz58short",
+        "shortName": "vz58short",
+        "description": "vz58short"
       }
     },
     "fleaPriceRoubles": 65000,
@@ -685,9 +685,9 @@
     },
     "locales": {
       "en": {
-        "Name": "vzdust",
+        "name": "vzdust",
         "ShortName": "vzdust",
-        "Description": "vzdust"
+        "description": "vzdust"
       }
     },
     "fleaPriceRoubles": 5000,
@@ -768,7 +768,7 @@
     },
     "locales": {
       "en": {
-        "Name": "vzupperhg",
+        "name": "vzupperhg",
         "ShortName": "vzupperhg",
         "Description": "vzupperhg"
       }

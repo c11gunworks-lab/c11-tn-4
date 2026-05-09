@@ -290,9 +290,9 @@
 
     "locales": {
       "en": {
-        "Name": "B&T SPR300",
-        "ShortName": "SPR300",
-        "Description": "The SPR300 is a 300 BLK bolt action rifle with a 9.8-inch barrel, designed for accuracy, with a folding stock, adjustable trigger, and a sound suppressor "
+        "name": "B&T SPR300",
+        "shortName": "SPR300",
+        "description": "The SPR300 is a 300 BLK bolt action rifle with a 9.8-inch barrel, designed for accuracy, with a folding stock, adjustable trigger, and a sound suppressor "
       }
     },
     "fleaPriceRoubles": 125000,
@@ -505,9 +505,9 @@
 
     "locales": {
       "en": {
-        "Name": "B&T SPR300 9.8\" Barrel",
-        "ShortName": "SPR300 9.8",
-        "Description": "The naked barrel for the SPR300. Did you lose your suppressor?"
+        "name": "B&T SPR300 9.8\" Barrel",
+        "shortName": "SPR300 9.8",
+        "description": "The naked barrel for the SPR300. Did you lose your suppressor?"
       }
     },
     "fleaPriceRoubles": 55000,
@@ -576,9 +576,9 @@
       "Grids": []
     },
     "locales": {
-      "en": { "Name": "B&T SPR300 Precision Stock",
-        "ShortName": "SPR300 Stock",
-        "Description": "Small enough to be packable, but still stabilizes the gun phenomenally." }
+      "en": { "name": "B&T SPR300 Precision Stock",
+        "shortName": "SPR300 Stock",
+        "description": "Small enough to be packable, but still stabilizes the gun phenomenally." }
     },
     "fleaPriceRoubles": 35000,
     "handbookPriceRoubles": 24677,
@@ -628,8 +628,8 @@
     },
     "locales": {
       "en": { "Name": "B&T SPR300 Cheek Rest",
-        "ShortName": "SPR300 Cheek",
-        "Description": "Come, weary traveler, and rest your little head" }
+        "shortName": "SPR300 Cheek",
+        "description": "Come, weary traveler, and rest your little head" }
     },
     "fleaPriceRoubles": 10000,
     "handbookPriceRoubles": 11000,
@@ -688,8 +688,8 @@
     },
     "locales": { "en":
     { "Name":    "B&T SPR300 Suppressor",
-      "ShortName": "SPR300 Suppressor",
-      "Description": "Long and quiet, just like a hotdog." } },
+      "shortName": "SPR300 Suppressor",
+      "description": "Long and quiet, just like a hotdog." } },
     "fleaPriceRoubles": 75000,
     "handbookPriceRoubles": 65000,
     "addtoBots": false,
@@ -781,7 +781,7 @@
     "locales": { "en": {
       "Name": "B&T .300blk 10-round mag",
       "ShortName": "B&T Clear 10rd",
-      "Description": "A 10 round Stanag pattern magazine, made of clear plastic so that you can see how much fun you have left for the day" } },
+      "description": "A 10 round Stanag pattern magazine, made of clear plastic so that you can see how much fun you have left for the day" } },
     "fleaPriceRoubles": 9000,
     "handbookPriceRoubles": 7500,
     "addtoBots": true,

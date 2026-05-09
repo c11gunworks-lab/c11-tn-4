@@ -196,9 +196,9 @@
     },
     "locales": {
       "en": {
-        "Name": "IWI Galil ACE 7.62x39 assault rifle",
-        "ShortName": "Galil ACE",
-        "Description": "A modernized version of the classic Galil assault rifle, the Galil ACE in 7.62x39mm offers improved ergonomics, reliability, and modularity, making it a versatile choice for various combat scenarios. The bolt carrier has been swapped with a Z111 STV-380 for right side charging."
+        "name": "IWI Galil ACE 7.62x39 assault rifle",
+        "shortName": "Galil ACE",
+        "description": "A modernized version of the classic Galil assault rifle, the Galil ACE in 7.62x39mm offers improved ergonomics, reliability, and modularity, making it a versatile choice for various combat scenarios. The bolt carrier has been swapped with a Z111 STV-380 for right side charging."
       }
     },
     "fleaPriceRoubles": 75000,
@@ -374,9 +374,9 @@
     },
     "locales": {
       "en": {
-        "Name": "Galil ACE dust cover",
-        "ShortName": "ACE Dust",
-        "Description": "A dust cover capable of (supposedly) holding zero for the picatinny rail mounted to it."
+        "name": "Galil ACE dust cover",
+        "shortName": "ACE Dust",
+        "description": "A dust cover capable of (supposedly) holding zero for the picatinny rail mounted to it."
       }
     },
     "fleaPriceRoubles": 15000,
@@ -504,8 +504,8 @@
     "locales": {
       "en": {
         "Name": "Galil ACE gas tube",
-        "ShortName": "ACE Gas",
-        "Description": "Galil ACE Gas Tube with integrated picatinny rail"
+        "shortName": "ACE Gas",
+        "description": "Galil ACE Gas Tube with integrated picatinny rail"
       }
     },
     "fleaPriceRoubles": 14500,
@@ -567,7 +567,7 @@
       "en": {
         "Name": "Galil ACE polymer handgard",
         "ShortName": "ACE HG",
-        "Description": "The stock handguard for the Galil ACE, Gen 1"
+        "description": "The stock handguard for the Galil ACE, Gen 1"
       }
     },
     "fleaPriceRoubles": 4500,

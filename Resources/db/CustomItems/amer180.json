@@ -176,8 +176,8 @@
     "locales": {
       "en": {
         "Name": "american 180",
-        "ShortName": "american 180",
-        "Description": "spray n pray"
+        "shortName": "american 180",
+        "description": "spray n pray"
       }
     },
     "fleaPriceRoubles": 165000,
@@ -256,9 +256,9 @@
     },
     "locales": {
       "en": {
-        "Name": "am180 wire stock",
-        "ShortName": "am180 wire stock",
-        "Description": "am180 wire stock"
+        "name": "am180 wire stock",
+        "shortName": "am180 wire stock",
+        "description": "am180 wire stock"
       }
     },
     "fleaPriceRoubles": 25000,
@@ -324,8 +324,8 @@
     "locales": {
       "en": {
         "Name": "american180fixedstock",
-        "ShortName": "american180fixedstock",
-        "Description": "american180fixedstock"
+        "shortName": "american180fixedstock",
+        "description": "american180fixedstock"
       }
     },
     "fleaPriceRoubles": 11400,
@@ -388,7 +388,7 @@
       "en": {
         "Name": "american180hhandguard",
         "ShortName": "american180hhandguard",
-        "Description": "american180hhandguard"
+        "description": "american180hhandguard"
       }
     },
     "fleaPriceRoubles": 11900,
@@ -452,7 +452,7 @@
       "en": {
         "Name": "american180shandguard",
         "ShortName": "american180shandguard",
-        "Description": "american180hsandguard"
+        "description": "american180hsandguard"
       }
     },
     "fleaPriceRoubles": 19000,
@@ -576,7 +576,7 @@
       "en": {
         "Name": "american180Picatinny Rail",
         "ShortName": "american180Picatinny",
-        "Description": "american180Picatinny"
+        "description": "american180Picatinny"
       }
     },
     "fleaPriceRoubles": 8500,
@@ -640,7 +640,7 @@
       "en": {
         "Name": "american180 rear sight",
         "ShortName": "american180 RS",
-        "Description": "A standard american180 sight"
+        "description": "A standard american180 sight"
       }
     },
     "fleaPriceRoubles": 5500,

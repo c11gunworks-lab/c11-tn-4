@@ -46,6 +46,7 @@
     <Folder Include="Resources\db\trudy\" />
     <Folder Include="Resources\db\CustomSlotImages\" />
   </ItemGroup>
+  
 
   <!-- 2. DEPLOYMENT TARGET -->
   <Target Name="DeployMod" AfterTargets="Build">

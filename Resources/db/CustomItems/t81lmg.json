@@ -312,9 +312,9 @@
     },
     "locales": {
       "en": {
-        "Name": "Poly Technologies Type 81 LMG (camo)",
-        "ShortName": "Type 81 LMG Camo",
-        "Description": "A military issue t81 lmg, with the threads on the barrel machined to 5/8x24 ar10 thread pitch"
+        "name": "Poly Technologies Type 81 LMG (camo)",
+        "shortName": "Type 81 LMG Camo",
+        "description": "A military issue t81 lmg, with the threads on the barrel machined to 5/8x24 ar10 thread pitch"
       }
     },
     "fleaPriceRoubles": 95000,
@@ -477,9 +477,9 @@
     },
     "locales": {
       "en": {
-        "Name": "Poly Technologies Type 81 Dust Cover Camo",
-        "ShortName": "T81 Dust Camo",
-        "Description": "A dust cover capable of (supposedly) keeping the dust out but in camo"
+        "name": "Poly Technologies Type 81 Dust Cover Camo",
+        "shortName": "T81 Dust Camo",
+        "description": "A dust cover capable of (supposedly) keeping the dust out but in camo"
       }
     },
     "fleaPriceRoubles": 7000,
@@ -560,9 +560,9 @@
     },
     "locales": {
       "en": {
-        "Name": "Poly Technologies Type 81 Upper Gas Tube Cover Camo",
-        "ShortName": "T81 Gas Cover Camo",
-        "Description": "it camo"
+        "name": "Poly Technologies Type 81 Upper Gas Tube Cover Camo",
+        "shortName": "T81 Gas Cover Camo",
+        "description": "it camo"
       }
     },
     "fleaPriceRoubles": 9900,
@@ -622,9 +622,9 @@
     },
     "locales": {
       "en": {
-        "Name": "Poly Technologies Type 81 LMG Camo Lower Handguard",
-        "ShortName": "T81 Handguard LMG Camo",
-        "Description": "She was Camo and an LMG"
+        "name": "Poly Technologies Type 81 LMG Camo Lower Handguard",
+        "shortName": "T81 Handguard LMG Camo",
+        "description": "She was Camo and an LMG"
       }
     },
     "fleaPriceRoubles": 9500,
@@ -684,7 +684,7 @@
     "locales": {
       "en": {
         "Name": "Poly Technologies Type 81 LMG Camo Stock",
-        "ShortName": "T81 LMG Camo Stock",
+        "shortName": "T81 LMG Camo Stock",
         "Description": "big and hidey"
       }
     },

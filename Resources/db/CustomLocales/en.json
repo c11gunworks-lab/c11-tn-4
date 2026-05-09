@@ -1000,9 +1000,6 @@
   "69ea9c643d4f056cd6bbee86 ShortName": "CS5 Top",
   "69ea9c643d4f056cd6bbee86 Description": "A top-mounted rail section allowing for the installation of clip-on night vision or thermal optics in front of the primary day scope.",
 
-  "69ed4df0efda9742e57406a3 Name": "ATAK Samsung Galaxy S20+ Juggernaut",
-  "69ed4df0efda9742e57406a3 ShortName": "ATAK S20+",
-  "69ed4df0efda9742e57406a3 Description": "ATAK equipped Samsung Galaxy Phone with a Juggernaut IMPCT case. The IMPCT is a ruggedized case that protects your phone from even the most intense environments, giving you the protection and impact resistance you need.",
 
   "69f3e17e6111bf6ae2e34f75 Name": "Black Triangle X GBRS Group EDC G10 Dagger",
   "69f3e17e6111bf6ae2e34f75 ShortName": "GBRS G10",
@@ -1027,7 +1024,35 @@
 
   "69f3e19a4864616557e34f79 Name": "Mesa Grande Custom Tactical Combat Knife",
   "69f3e19a4864616557e34f79 ShortName": "Mesa Grande",
-  "69f3e19a4864616557e34f79 Description": "A heavy-duty, 'overbuilt' tactical fixed-blade from the Mesa Grande series. This design prioritizes structural integrity above all else, featuring a thick, modified tanto blade and distinctive circular-scalloped G10 scales. Favored by PMCs who require a tool capable of both combat and extreme hard-use prying."
+  "69f3e19a4864616557e34f79 Description": "A heavy-duty, 'overbuilt' tactical fixed-blade from the Mesa Grande series. This design prioritizes structural integrity above all else, featuring a thick, modified tanto blade and distinctive circular-scalloped G10 scales. Favored by PMCs who require a tool capable of both combat and extreme hard-use prying.",
+
+  "69fe6849e4e15282c54fccf7 Name":"Diemaco M203 Grenade Launcher w/Chassis",
+  "69fe6849e4e15282c54fccf7 ShortName":"M203-C",
+  "69fe6849e4e15282c54fccf7 Description": "The M203 is a single-shot, pump action,[4], 40 mm under-barrel grenade launcher designed to attach to a rifle. This one has a chassis for standalone use",
+
+  "69fe6acda190902b1a4fccff Name":"B&T USW-A1 9mm",
+  "69fe6acda190902b1a4fccff ShortName":"USW",
+  "69fe6acda190902b1a4fccff Description": "The USW–Universal Service Weapon–is a semi-automatic, striker-fired, suppressor-ready pistol chambered in the popular and effective-to-suppress 9mm. This unique platform bridges the gap between pistol and submachine gun and was designed specifically for police officers, Gendarme, low-visibility soldiers and intelligence officers requiring a concealable pistol-sized platform capable of SMG-like precision, effective range and control.",
+
+  "69fe6c5453793827574fcd0f Name":"B&T USW-A1 4.3\" Threaded Barrel",
+  "69fe6c5453793827574fcd0f ShortName":"USW 4.3\"",
+  "69fe6c5453793827574fcd0f Description": "A 4.3-in. threaded barrel in the popular 13.5–1 LH metric thread pitch.",
+
+  "69fe6c25aff0bbbe1b4fcd0c Name":"B&T USW-A1 Slide",
+  "69fe6c25aff0bbbe1b4fcd0c ShortName":"USW Slide",
+  "69fe6c25aff0bbbe1b4fcd0c Description": "Standard USW slide with no iron sights",
+
+  "69fe6ad6c4b9b27a984fcd01 Name":"B&T USW-A1 17 round Magazine",
+  "69fe6ad6c4b9b27a984fcd01 ShortName":"USW 17rd",
+  "69fe6ad6c4b9b27a984fcd01 Description": "Standard USW 17 round magazine",
+
+  "69fe6cedb8684a61264fcd14 Name":"B&T USW-A1 Sight Mount",
+  "69fe6cedb8684a61264fcd14 ShortName":"USW Mount",
+  "69fe6cedb8684a61264fcd14 Description": "Cut in the RMR pattern but also configured to take the Aimpoin Acro.",
+
+  "69fe6d5e2d6d4cf1904fcd17 Name":"Aimpoint Nano",
+  "69fe6d5e2d6d4cf1904fcd17 ShortName":"Nano",
+  "69fe6d5e2d6d4cf1904fcd17 Description": "Custom made red dot sight, specifically for the USW-A1."
 }
 
 

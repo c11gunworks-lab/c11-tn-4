@@ -271,9 +271,9 @@
 
     "locales": {
       "en": {
-        "Name": "McMillan CS5 Rifle",
-        "ShortName": "CS5",
-        "Description": "The rifle "
+        "name": "McMillan CS5 Rifle",
+        "shortName": "CS5",
+        "description": "The rifle "
       }
     },
     "fleaPriceRoubles": 115000,
@@ -370,9 +370,9 @@
 
     "locales": {
       "en": {
-        "Name": "CS5 Barrel",
-        "ShortName": "CS5 Barrel",
-        "Description": "The  barrel for the CS5?"
+        "name": "CS5 Barrel",
+        "shortName": "CS5 Barrel",
+        "description": "The  barrel for the CS5?"
       }
     },
     "fleaPriceRoubles": 35000,
@@ -431,9 +431,9 @@
       "Grids": []
     },
     "locales": {
-      "en": { "Name": "cs5 Stock",
+      "en": { "name": "cs5 Stock",
         "ShortName": "cs5 Stock",
-        "Description": "Small enough to be packable, but still stabilizes the gun phenomenally." }
+        "description": "Small enough to be packable, but still stabilizes the gun phenomenally." }
     },
     "fleaPriceRoubles": 15000,
     "handbookPriceRoubles": 14677,
@@ -493,7 +493,7 @@
       "en":
     { "Name":    "CS5 Suppressor",
       "ShortName": "CS5Suppressor",
-      "Description": "Long and quiet, just like a hotdog." } },
+      "description": "Long and quiet, just like a hotdog." } },
     "fleaPriceRoubles": 45000,
     "handbookPriceRoubles": 35000,
     "addtoBots": false,

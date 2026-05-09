@@ -28,9 +28,9 @@
     },
     "locales": {
       "en": {
-        "Name": "DAM22",
-        "ShortName": "DAM22",
-        "Description": "DAM22"
+        "name": "DAM22",
+        "shortName": "DAM22",
+        "description": "DAM22"
       }
     },
     "fleaPriceRoubles": 12000,
@@ -99,9 +99,9 @@
     },
     "locales": {
       "en": {
-        "Name": "mfmdblk",
-        "ShortName": "mfmdblk",
-        "Description": "mfmdblk"
+        "name": "mfmdblk",
+        "shortName": "mfmdblk",
+        "description": "mfmdblk"
       }
     },
     "fleaPriceRoubles": 82000,
@@ -170,9 +170,9 @@
     },
     "locales": {
       "en": {
-        "Name": "mfmdfde",
-        "ShortName": "mfmdfde",
-        "Description": "mfmdfde"
+        "name": "mfmdfde",
+        "shortName": "mfmdfde",
+        "description": "mfmdfde"
       }
     },
     "fleaPriceRoubles": 87000,

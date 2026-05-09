@@ -27,114 +27,109 @@
     "conditions": {
       "AvailableForFinish": [
         {
-          "conditionType": "FindItem",
-          "countInRaid": false,
-          "dogtagLevel": 0,
+          "completeInSeconds": 0,
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "daytime": {
+                  "from": 0,
+                  "to": 0
+                },
+                "distance": {
+                  "compareMethod": ">=",
+                  "value": 0
+                },
+                "dynamicLocale": false,
+                "enemyEquipmentExclusive": [],
+                "enemyEquipmentInclusive": [],
+                "enemyHealthEffects": [],
+                "id": "69ffb08bbc63e83e5b4fcd20",
+                "resetOnSessionEnd": false,
+                "savageRole": [],
+                "target": "anyPmc",
+                "value": 1,
+                "weapon": [
+                  "69e90fbb0655531529ff1891"
+                ],
+                "weaponCaliber": [],
+                "weaponModsExclusive": [
+
+                ],
+                "weaponModsInclusive": [
+
+                ]
+              }
+            ],
+            "id": "69ffb08990488143f04fcd1f"
+          },
+          "doNotResetIfCounterCompleted": false,
           "dynamicLocale": false,
           "globalQuestCounterId": "",
-          "id": "69b31bfc12843f300728ae42",
+          "id": "69ffb088c535c2b1fa4fcd1e",
           "index": 0,
-          "isEncoded": false,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "onlyFoundInRaid": false,
+          "isNecessary": false,
+          "isResetOnConditionFailed": false,
+          "oneSessionOnly": false,
           "parentId": "",
-          "target": [
-            "69b31cd348ff54eac228ae49"
-          ],
-          "value": 1,
+          "type": "Elimination",
+          "value": 5,
           "visibilityConditions": []
         },
         {
-          "conditionType": "HandoverItem",
-          "dogtagLevel": 0,
+          "completeInSeconds": 0,
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "daytime": {
+                  "from": 0,
+                  "to": 0
+                },
+                "distance": {
+                  "compareMethod": ">=",
+                  "value": 0
+                },
+                "dynamicLocale": false,
+                "enemyEquipmentExclusive": [],
+                "enemyEquipmentInclusive": [],
+                "enemyHealthEffects": [],
+                "id": "69ffb02f9c9b93d4cd4fcd1b",
+                "resetOnSessionEnd": false,
+                "savageRole": [],
+                "target": "Savage",
+                "value": 1,
+                "weapon": [
+                  "574d967124597745970e7c94"
+                ],
+                "weaponCaliber": [],
+                "weaponModsExclusive": [
+                 
+                ],
+                "weaponModsInclusive": [
+
+                ]
+              }
+            ],
+            "id": "69ffb0319034b8e9794fcd1c"
+          },
+          "doNotResetIfCounterCompleted": false,
           "dynamicLocale": false,
           "globalQuestCounterId": "",
-          "id": "69b31c0756bbad643828ae43",
-          "index": 1,
-          "isEncoded": false,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "onlyFoundInRaid": false,
+          "id": "69ffb03365396f9e274fcd1d",
+          "index": 0,
+          "isNecessary": false,
+          "isResetOnConditionFailed": false,
+          "oneSessionOnly": false,
           "parentId": "",
-          "target": [
-            "69b31cd348ff54eac228ae49"
-          ],
-          "value": 1,
-          "visibilityConditions": []
-        },
-        {
-          "conditionType": "FindItem",
-          "countInRaid": false,
-          "dogtagLevel": 0,
-          "dynamicLocale": false,
-          "globalQuestCounterId": "",
-          "id": "69b31c83ac97ada45828ae44",
-          "index": 2,
-          "isEncoded": false,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "onlyFoundInRaid": false,
-          "parentId": "",
-          "target": [
-            "69a9e483c1af313110eee87e"
-          ],
-          "value": 1,
-          "visibilityConditions": []
-        },
-        {
-          "conditionType": "HandoverItem",
-          "dogtagLevel": 0,
-          "dynamicLocale": false,
-          "globalQuestCounterId": "",
-          "id": "69b31c852fe822573028ae45",
-          "index": 3,
-          "isEncoded": false,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "onlyFoundInRaid": false,
-          "parentId": "",
-          "target": [
-            "69a9e483c1af313110eee87e"
-          ],
-          "value": 1,
-          "visibilityConditions": []
-        },
-        {
-          "conditionType": "FindItem",
-          "countInRaid": false,
-          "dogtagLevel": 0,
-          "dynamicLocale": false,
-          "globalQuestCounterId": "",
-          "id": "69b31c8f306b5a217c28ae46",
-          "index": 4,
-          "isEncoded": false,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "onlyFoundInRaid": false,
-          "parentId": "",
-          "target": [
-            "69a9e4992e1165c50ceee880"
-          ],
-          "value": 1,
-          "visibilityConditions": []
-        },
-        {
-          "conditionType": "HandoverItem",
-          "dogtagLevel": 0,
-          "dynamicLocale": false,
-          "globalQuestCounterId": "",
-          "id": "69b31c90a3a3c6064028ae47",
-          "index": 5,
-          "isEncoded": false,
-          "maxDurability": 100,
-          "minDurability": 0,
-          "onlyFoundInRaid": false,
-          "parentId": "",
-          "target": [
-            "69a9e4992e1165c50ceee880"
-          ],
-          "value": 1,
+          "type": "Elimination",
+          "value": 5,
           "visibilityConditions": []
         }
       ],
@@ -1047,7 +1042,7 @@
   },
   "69bf157bd21e3a7be025e83e": {
     "QuestName": "Long Gun Registry",
-    "_id": "69b1965b7c6ca240fce92477",
+    "_id": "69bf157bd21e3a7be025e83e",
     "traderId": "699f89c757994beece5cf7e1",
     "type": "Elimination",
     "location": "any",
@@ -1287,7 +1282,7 @@
   },
   "69bf1b90b9b142fb0625e857": {
     "QuestName": "Short-Term Interest Rates",
-    "_id": "69b1965b7c6ca240fce92477",
+    "_id": "69bf1b90b9b142fb0625e857",
     "traderId": "699f89c757994beece5cf7e1",
     "type": "Elimination",
     "location": "any",

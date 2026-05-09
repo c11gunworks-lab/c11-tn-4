@@ -116,9 +116,9 @@
     },
     "locales": {
       "en": {
-        "Name": "PPSh modern receiver",
-        "ShortName": "PPSh rec.",
-        "Description": "Replacement receiver for the PPSh with handguard and optics mount interfaces."
+        "name": "PPSh modern receiver",
+        "shortName": "PPSh rec.",
+        "description": "Replacement receiver for the PPSh with handguard and optics mount interfaces."
       }
     },
     "fleaPriceRoubles": 42000,
@@ -374,9 +374,9 @@
     },
     "locales": {
       "en": {
-        "Name": "PPSh handguard (Pic)",
-        "ShortName": "PPSh HG",
-        "Description": "Picatinny handguard adapted for the PPSh."
+        "name": "PPSh handguard (Pic)",
+        "shortName": "PPSh HG",
+        "description": "Picatinny handguard adapted for the PPSh."
       }
     },
     "fleaPriceRoubles": 28000,
@@ -570,9 +570,9 @@
     },
     "locales": {
       "en": {
-        "Name": "PPSh top sight rail",
-        "ShortName": "PPSh rail",
-        "Description": "Low-profile Picatinny optics base for the PPSh modern reciever."
+        "name": "PPSh top sight rail",
+        "shortName": "PPSh rail",
+        "description": "Low-profile Picatinny optics base for the PPSh modern reciever."
       }
     },
     "fleaPriceRoubles": 16000,
@@ -714,7 +714,7 @@
     "locales": {
       "en": {
         "Name": "PPSh threaded barrel",
-        "ShortName": "PPSh thr.",
+        "shortName": "PPSh thr.",
         "Description": "Threaded barrel for PPSh; compatible with basegame barrel slot."
       }
     },

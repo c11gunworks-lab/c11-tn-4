@@ -452,9 +452,9 @@
     },
     "locales": {
       "en": {
-        "Name": "u100fg",
-        "ShortName": "u100fg",
-        "Description": "u100fg"
+        "name": "u100fg",
+        "shortName": "u100fg",
+        "description": "u100fg"
       }
     },
     "fleaPriceRoubles": 9500,
@@ -512,9 +512,9 @@
     },
     "locales": {
       "en": {
-        "Name": "u100stock",
-        "ShortName": "u100stock",
-        "Description": "u100stock"
+        "name": "u100stock",
+        "shortName": "u100stock",
+        "description": "u100stock"
       }
     },
     "fleaPriceRoubles": 35000,
@@ -584,9 +584,9 @@
     },
     "locales": {
       "en": {
-        "Name": "u100 bpipod",
-        "ShortName": "u100 bbipod",
-        "Description": "It work"
+        "name": "u100 bpipod",
+        "shortName": "u100 bbipod",
+        "description": "It work"
       }
     },
     "fleaPriceRoubles": 15000,
@@ -685,9 +685,9 @@
     },
     "locales": {
       "en": {
-        "Name": "u100drummy",
-        "ShortName": "u100drummy",
-        "Description": "u100drummy"
+        "name": "u100drummy",
+        "shortName": "u100drummy",
+        "description": "u100drummy"
       }
     },
     "fleaPriceRoubles": 45000,
@@ -869,7 +869,7 @@
     "locales": {
       "en": {
         "Name": "u100 supershort barrel",
-        "ShortName": "u100 super Chop",
+        "shortName": "u100 super Chop",
         "Description": "Someone, u100cut dis"
       }
     },
@@ -984,7 +984,7 @@
     "locales": {
       "en": {
         "Name": "u100 short barrel",
-        "ShortName": "u100  Chop",
+        "shortName": "u100  Chop",
         "Description": "Someone, u100cut dis"
       }
     },
@@ -1103,7 +1103,7 @@
     "locales": {
       "en": {
         "Name": "u100 long barrel",
-        "ShortName": "u100  no Chop",
+        "shortName": "u100  no Chop",
         "Description": "Someone, no cut"
       }
     },

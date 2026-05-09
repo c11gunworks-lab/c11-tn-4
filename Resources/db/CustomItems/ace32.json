@@ -249,9 +249,9 @@
     },
     "locales": {
       "en": {
-        "Name": "IWI Galil ACE 7.62x39 32assault rifle",
-        "ShortName": "Galil ACE32",
-        "Description": "A 32modernized version of the classic Galil assault rifle, the Galil ACE in 7.62x39mm offers improved ergonomics, reliability, and modularity, making it a versatile choice for various combat scenarios. The bolt carrier has been swapped with a Z111 STV-380 for right side charging."
+        "name": "IWI Galil ACE 7.62x39 32assault rifle",
+        "shortName": "Galil ACE32",
+        "description": "A 32modernized version of the classic Galil assault rifle, the Galil ACE in 7.62x39mm offers improved ergonomics, reliability, and modularity, making it a versatile choice for various combat scenarios. The bolt carrier has been swapped with a Z111 STV-380 for right side charging."
       }
     },
     "fleaPriceRoubles": 70000,
@@ -433,9 +433,9 @@
     },
     "locales": {
       "en": {
-        "Name": "Galil ACE 32mlok handgard",
-        "ShortName": "ACE 32HG",
-        "Description": "The mlok handguard for the Galil ACE, Gen 1"
+        "name": "Galil ACE 32mlok handgard",
+        "shortName": "ACE 32HG",
+        "description": "The mlok handguard for the Galil ACE, Gen 1"
       }
     },
     "fleaPriceRoubles": 14500,
@@ -598,9 +598,9 @@
     },
     "locales": {
       "en": {
-        "Name": "Galil ACE long icatinny Rail",
-        "ShortName": "ACE Rail",
-        "Description": "A pic rail with a milled slot for the rear sight"
+        "name": "Galil ACE long icatinny Rail",
+        "shortName": "ACE Rail",
+        "description": "A pic rail with a milled slot for the rear sight"
       }
     },
     "fleaPriceRoubles": 8500,

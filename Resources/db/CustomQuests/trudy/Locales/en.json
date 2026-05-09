@@ -1,14 +1,10 @@
 ﻿{
   "69b30ec8e0f88a8ea828ae3e name": "Oh, Canada?",
-  "69b30ec8e0f88a8ea828ae3e description": "Mercenary. We have a... unique situation. A former head of state, or so he claims, has arrived in the region. He is trying very hard to blend in with the local scavengers, though his haircut costs more than my armored vehicles. We have a history from my UN days. He wants to meet you, but insists you prove your 'patriotism' to his homeland first. Humor him, yes? You'll find what you need in the woods. Search high and hidden, low and deep, and in the lumberjacks transport.",
-  "69b30ec8e0f88a8ea828ae3e successMessageText": "Ah, you survived his little scavenger hunt. Good. He is waiting for you now. Try not to laugh at his accent.",
-  "69b30ec8e0f88a8ea828ae3e acceptPlayerMessage": "He provided a list of... cultural artifacts. Bring them to him. And take this, he said it represents his 'middle-class values'. Whatever that means.",
-  "69b31bfc12843f300728ae42": "Find Timmies Cup",
-  "69b31c0756bbad643828ae43": "Handover Timmies Cup",
-  "69b31c83ac97ada45828ae44": "Find Cobra Chicken",
-  "69b31c852fe822573028ae45": "Handover Cobra Chicken",
-  "69b31c8f306b5a217c28ae46": "Find Great One Statue",
-  "69b31c90a3a3c6064028ae47": "Handover Great One Statue",
+  "69b30ec8e0f88a8ea828ae3e description": "Mercenary. We have a... unique situation. A former head of state, or so he claims, has arrived in the region. He is trying very hard to blend in with the local scavengers, though his haircut costs more than my armored vehicles. We have a history from my UN days. He wants to meet you, but insists you prove your 'patriotism' to his homeland first. Humor him, yes? Go on a little hunting trip.",
+  "69b30ec8e0f88a8ea828ae3e successMessageText": "Ah, you survived his little hunt. Good. He is waiting for you now. Try not to laugh at his accent.",
+  "69b30ec8e0f88a8ea828ae3e acceptPlayerMessage": "He provided a list of... strange guns.  He said it represents his 'middle-class values'. Whatever that means.",
+  "69ffb08bbc63e83e5b4fcd20": "Kill 5 PMC's with the .22lr AR-15",
+  "69ffb02f9c9b93d4cd4fcd1b": "Kill 5 Scavs with the SKS",
 
   "69b17a80d1cca0000ce9244e name": "Unpinned",
   "69b17a80d1cca0000ce9244e description": "We need to invest in the local community by, uh, permanently relocating those hosers driving down the property value, eh? Just give 'er with that Type-81. Oh, and grab me a screw-gun from the hardware store. We're building back better!",
@@ -23,7 +19,7 @@
   "69b18f020d3977c5dfe92464 successMessageText": "Beauty! These look just like the ones my... uh, my security detail used to wear! Now, there's absolutely no warranty on these, bud. If you take a round to the dome, well, that's just an unacceptable outcome we'll have to accept, eh?",
   "69b18f020d3977c5dfe92464 acceptPlayerMessage": "Hey guy! So, I was crushin' a two-four of Pilsner and watching some DIY videos, and I realized we can absolutely empower the tactical sector by making our own high-cut helmets! I'll need you to source some... unsanctioned examples from the locals. And fetch me some metal snips and epoxy so we can sustainably manufacture these babies in-house. Oh frig yeah, buddy!",
   "69b190a6fb9c53c838e92469": "Kill 5 Enemies Wearing High-Cut Helmets",
-  "69b19254610daa4a18e9246a": "Hand over 2 High-Cut Helmets",
+  "69b19254610daa4a18e9246a": "Hand over 2 Found-In-Raid High-Cut Helmets",
   "69b193c5d743bea528e92473": "Hand over Metal Cutting Scissors",
   "69b1941e16ba7c08c3e92474": "Hand over 2 Low-Cut Helmets",
   "69b1950cf2eb379c66e92476": "Hand over a tube of Poxeram",
@@ -46,6 +42,6 @@
   "69bf1b90b9b142fb0625e857 description": "Bud, the economy is tightening, and so is our barrel length! We’re going short and loud—it’s an aggressive restructuring of the tactical market. This is a high-stakes investment, and the interest rates are gonna be painful, eh? Go eliminate 15 Raiders on Reserve with the VZ.58, and bring me a KS-23 stock so I have something to work with.",
   "69bf1b90b9b142fb0625e857 successMessageText": "Holy man, you actually did it! You’re a real roughneck, aren't ya? Here’s your 7 inch barrels and the wire stock. Now you can flashbang both yourself and your enemies. Absolutely beauty work!",
   "69bf1b90b9b142fb0625e857 acceptPlayerMessage": "Look here ya fuckin' hoser. You want the shorty Vz. 58? The one that barks like a sled dog? I need you to go to Reserve and take out those Raiders. They’ve been hoarding the little chodes, and those wire stocks too! It’s an unacceptable monopoly, and we’re here to 'redistribute' that gear. This is gonna be tougher than a $2 steak, bud. Give 'er!",
-  "69bf1fdb7a23925b6d25e878": "Kill 15 Raiders at Reserve with the VZ.58",
+  "69bf1fdb7a23925b6d25e878": "Kill 10 Raiders at Reserve with the VZ.58",
   "69bf2004244506a3b225e879": "Hand over KS-23 Wire Stock"
 }

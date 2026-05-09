@@ -237,9 +237,9 @@
     },
     "locales": {
       "en": {
-        "Name": "LV119 Covert Multicam Tropic",
-        "ShortName": "LV119 MCT",
-        "Description": "The Spiritus Systems LV119 Covert is perfect for operators looking for a high speed, low vis and scalable plate carrier. Comes with a Spiritus Systems MK V Placard. "
+        "name": "LV119 Covert Multicam Tropic",
+        "shortName": "LV119 MCT",
+        "description": "The Spiritus Systems LV119 Covert is perfect for operators looking for a high speed, low vis and scalable plate carrier. Comes with a Spiritus Systems MK V Placard. "
       }
     },
     "fleaPriceRoubles": 44400,
@@ -709,9 +709,9 @@
     },
     "locales": {
       "en": {
-        "Name": "Ferro Concepts FCPC V5 Breacher (AOR2)",
-        "ShortName": "FCPCV5 AOR2",
-        "Description": "Loyal to the Mission "
+        "name": "Ferro Concepts FCPC V5 Breacher (AOR2)",
+        "shortName": "FCPCV5 AOR2",
+        "description": "Loyal to the Mission "
       }
     },
     "fleaPriceRoubles": 144400,

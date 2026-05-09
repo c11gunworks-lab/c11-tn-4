@@ -83,9 +83,9 @@
     "locales": {
       "en":
       {
-        "Name":    "Magpul zhuk",
-        "ShortName": "Magpul zhuk",
-        "Description": "Magpul zhuk "
+        "name":    "Magpul zhuk",
+        "shortName": "Magpul zhuk",
+        "description": "Magpul zhuk "
       }
     },
     "fleaPriceRoubles": 48000,
@@ -189,9 +189,9 @@
     "locales": {
       "en":
       {
-        "Name":    "Magpul MOE",
-        "ShortName": "Magpul MOE",
-        "Description": "Magpul MOE "
+        "name":    "Magpul MOE",
+        "shortName": "Magpul MOE",
+        "description": "Magpul MOE "
       }
     },
     "fleaPriceRoubles": 18000,
@@ -275,9 +275,9 @@
       ]
     },
     "locales": { "en":
-    { "Name":    "Sigmaco Type 81 1913 Rail Stock Adapter",
-      "ShortName": "T81 1913",
-      "Description": "wow" } },
+    { "name":    "Sigmaco Type 81 1913 Rail Stock Adapter",
+      "shortName": "T81 1913",
+      "description": "wow" } },
     "fleaPriceRoubles": 18000,
     "handbookPriceRoubles": 17000,
     "addtoBots": false,
@@ -368,9 +368,9 @@
       ]
     },
     "locales": { "en":
-    { "Name":    "dovetail",
+    { "name":    "dovetail",
       "ShortName": "T81 dove",
-      "Description": "wow" } },
+      "description": "wow" } },
     "fleaPriceRoubles": 18000,
     "handbookPriceRoubles": 17000,
     "addtoBots": false,

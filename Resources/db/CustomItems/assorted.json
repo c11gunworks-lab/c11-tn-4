@@ -21,9 +21,9 @@
     },
     "locales": {
       "en": {
-        "Name": "alfagrip",
-        "ShortName": "alfagrip",
-        "Description": "alfagrip"
+        "name": "alfagrip",
+        "shortName": "alfagrip",
+        "description": "alfagrip"
       }
     },
     "fleaPriceRoubles": 25000,
@@ -86,9 +86,9 @@
     },
     "locales": {
       "en": {
-        "Name": "JMAC SS8",
-        "ShortName": "JMAC SS8",
-        "Description": "JMAC SS8"
+        "name": "JMAC SS8",
+        "shortName": "JMAC SS8",
+        "description": "JMAC SS8"
       }
     },
     "fleaPriceRoubles": 25000,
@@ -189,9 +189,9 @@
     },
     "locales": {
       "en": {
-        "Name": "illpro",
-        "ShortName": "illpro",
-        "Description": "illpro"
+        "name": "illpro",
+        "shortName": "illpro",
+        "description": "illpro"
       }
     },
     "fleaPriceRoubles": 7500,

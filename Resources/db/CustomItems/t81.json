@@ -197,9 +197,9 @@
     },
     "locales": {
       "en": {
-        "Name": "Poly Technologies Type 81 Special Edition (Red)",
-        "ShortName": "Type 81",
-        "Description": "Essentially a slightly modernized SKS, made specifically for the Canadian Civilian Market and the Indonesian Military. Ths one's red, so it goes faster. Wildly inaccurate after 100yds but cheap to aquire."
+        "name": "Poly Technologies Type 81 Special Edition (Red)",
+        "shortName": "Type 81",
+        "description": "Essentially a slightly modernized SKS, made specifically for the Canadian Civilian Market and the Indonesian Military. Ths one's red, so it goes faster. Wildly inaccurate after 100yds but cheap to aquire."
       }
     },
     "fleaPriceRoubles": 25000,
@@ -467,9 +467,9 @@
     },
     "locales": {
       "en": {
-        "Name": "Poly Technologies Type 81 Dust Cover",
+        "name": "Poly Technologies Type 81 Dust Cover",
         "ShortName": "T81 Dust",
-        "Description": "A dust cover capable of (supposedly) keeping the dust out"
+        "description": "A dust cover capable of (supposedly) keeping the dust out"
       }
     },
     "fleaPriceRoubles": 5000,
@@ -552,9 +552,9 @@
     },
     "locales": {
       "en": {
-        "Name": "Poly Technologies Type 81 Gas Piston",
+        "name": "Poly Technologies Type 81 Gas Piston",
         "ShortName": "T81 Gas",
-        "Description": "Its a big piston but not Cummins big"
+        "description": "Its a big piston but not Cummins big"
       }
     },
     "fleaPriceRoubles": 4500,
@@ -638,7 +638,7 @@
     },
     "locales": {
       "en": {
-        "Name": "Poly Technologies Type 81 Upper Gas Tube Cover",
+        "name": "Poly Technologies Type 81 Upper Gas Tube Cover",
         "ShortName": "T81 Gas Cover",
         "Description": "Cherry red like lipstick on a pig"
       }
@@ -702,7 +702,7 @@
     },
     "locales": {
       "en": {
-        "Name": "Poly Technologies Type 81 Lower Handguard",
+        "name": "Poly Technologies Type 81 Lower Handguard",
         "ShortName": "T81 Handguard",
         "Description": "She was Red"
       }

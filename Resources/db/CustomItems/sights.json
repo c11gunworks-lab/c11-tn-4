@@ -48,9 +48,9 @@
     },
     "locales": {
       "en": {
-        "Name": "micro ",
+        "name": "micro ",
         "ShortName": "micro",
-        "Description": "micro"
+        "description": "micro"
       }
     },
     "fleaPriceRoubles": 45000,
@@ -167,9 +167,9 @@
     },
     "locales": {
       "en": {
-        "Name": "vzor4  ",
-        "ShortName": "vzor4",
-        "Description": "vzor4"
+        "name": "vzor4  ",
+        "shortName": "vzor4",
+        "description": "vzor4"
       }
     },
     "fleaPriceRoubles": 75000,
@@ -242,9 +242,9 @@
     },
     "locales": {
       "en": {
-        "Name": "vzor4 remote  ",
-        "ShortName": "vzor4 remote",
-        "Description": "vzor4remote"
+        "name": "vzor4 remote  ",
+        "shortName": "vzor4 remote",
+        "description": "vzor4remote"
       }
     },
     "fleaPriceRoubles": 5000,

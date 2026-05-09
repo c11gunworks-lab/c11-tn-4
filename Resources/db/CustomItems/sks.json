@@ -450,9 +450,9 @@
     },
     "locales": {
       "en": {
-        "Name": "sks_d",
-        "ShortName": "sks_d",
-        "Description": "sks_d"
+        "name": "sks_d",
+        "shortName": "sks_d",
+        "description": "sks_d"
       }
     },
     "fleaPriceRoubles": 15000,

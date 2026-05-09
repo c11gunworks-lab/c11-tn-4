@@ -52,9 +52,9 @@
     },
     "locales": {
       "en": {
-        "Name": "AR-15 30rd Mag 22lr",
-        "ShortName": "AR-15 30 22lr",
-        "Description": "Its  a STANAG. Comes in 22lr"
+        "name": "AR-15 30rd Mag 22lr",
+        "shortName": "AR-15 30 22lr",
+        "description": "Its  a STANAG. Comes in 22lr"
       }
     },
     "fleaPriceRoubles": 17500,
@@ -72,10 +72,10 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "TRUDY": {
+      "SKIER": {
         "69e90cb6e474ff4c53ff188e": {
           "barterSettings": {
-            "loyalLevel": 2,
+            "loyalLevel": 1,
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },
@@ -330,9 +330,9 @@
     },
     "locales": {
       "en": {
-        "Name": "AR-15  22lr",
-        "ShortName": "AR-15 22lr",
-        "Description": "Comes in 22lr"
+        "name": "AR-15  22lr",
+        "shortName": "AR-15 22lr",
+        "description": "Comes in 22lr"
       }
     },
     "fleaPriceRoubles": 17500,
@@ -350,10 +350,10 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "TRUDY": {
+      "SKIER": {
         "69e91141f9e4e7d517ff1893": {
           "barterSettings": {
-            "loyalLevel": 2,
+            "loyalLevel": 1,
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },
@@ -470,9 +470,9 @@
     },
     "locales": {
       "en": {
-        "Name": "AR-15  22lr barrel",
+        "name": "AR-15  22lr barrel",
         "ShortName": "AR-15 barrel 22lr",
-        "Description": "Its  a barrel. Comes in 22lr"
+        "description": "Its  a barrel. Comes in 22lr"
       }
     },
     "fleaPriceRoubles": 17500,
@@ -493,10 +493,10 @@
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
-      "TRUDY": {
+      "SKIER": {
         "69e91ac9fb7d59511fff189f": {
           "barterSettings": {
-            "loyalLevel": 2,
+            "loyalLevel": 1,
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },

@@ -485,9 +485,9 @@
     },
     "locales": {
       "en": {
-        "Name": "Aero Precision M5 7.62x51 lower receiver",
-        "ShortName": "Aero M5",
-        "Description": "The Aero Precision M5 lower receiver is a commercial AR-10/DPMS pattern receiver milled from 7075-T6 aluminum. Widely known for its reliability and availability on the civilian market, it serves as a highly modular base for custom marksman builds."
+        "name": "Aero Precision M5 7.62x51 lower receiver",
+        "shortName": "Aero M5",
+        "description": "The Aero Precision M5 lower receiver is a commercial AR-10/DPMS pattern receiver milled from 7075-T6 aluminum. Widely known for its reliability and availability on the civilian market, it serves as a highly modular base for custom marksman builds."
       }
     },
     "fleaPriceRoubles": 45000,
@@ -1025,7 +1025,7 @@
     },
     "locales": {
       "en": {
-        "Name": "Aero Precision M5 7.62x51 lower receiver (Tan Camo)",
+        "name": "Aero Precision M5 7.62x51 lower receiver (Tan Camo)",
         "ShortName": "Aero M5 Camo",
         "Description": "The Aero Precision M5 lower receiver is a commercial AR-10/DPMS pattern receiver milled from 7075-T6 aluminum. Widely known for its reliability and availability on the civilian market, it serves as a highly modular base for custom marksman builds. This one has been sprayed tan camo"
       }

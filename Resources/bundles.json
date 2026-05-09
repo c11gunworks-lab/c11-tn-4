@@ -16,6 +16,18 @@
       ]
     },
     {
+      "key": "textures/bt-usw-textures.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "textures/m203-tex.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
       "key": "textures/mcmillan_textures.bundle",
       "dependencyKeys": [
         "c11_shaders.bundle"
@@ -2080,12 +2092,7 @@
         "textures/mcmillan_textures.bundle"
       ]
     },
-    {
-      "key": "atak_device.bundle",
-      "dependencyKeys": [
-        "c11_shaders.bundle"
-      ]
-    },
+  
     {
       "key": "karambit.bundle",
       "dependencyKeys": [
@@ -2144,6 +2151,71 @@
         "assets/content/weapons/weapon_root_anim_fix.bundle",
         "textures/knive_tex.bundle"
 
+      ]
+    },
+    {
+      "key": "m203.bundle",
+      "dependencyKeys": [
+        "assets/content/audio/banks/glock17.bundle",
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "c11_shaders.bundle",
+        "textures/m203-tex.bundle"
+      ]
+    },
+    {
+      "key": "bt-usw.bundle",
+      "dependencyKeys": [
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "c11_shaders.bundle",
+        "textures/bt-usw-textures.bundle"
+      ]
+    },
+    
+    {
+      "key": "usw-barrel.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/particlesystems/effects.bundle",
+        "c11_shaders.bundle",
+        "shaders",
+        "textures/bt-usw-textures.bundle"
+      ]
+    },
+    
+    {
+      "key": "usw-mag.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/bt-usw-textures.bundle"
+      ]
+    },
+    
+    {
+      "key": "usw-rds.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/bt-usw-textures.bundle"
+      ]
+    },
+    
+    {
+      "key": "usw-sightmount.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/bt-usw-textures.bundle"
+      ]
+    },
+    
+    {
+      "key": "usw-slide.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/bt-usw-textures.bundle"
       ]
     }
   ]

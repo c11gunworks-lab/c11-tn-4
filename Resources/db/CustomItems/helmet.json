@@ -1145,9 +1145,9 @@
     },
     "locales": {
       "en": {
-        "Name": "Ops-Core Amp Arms",
-        "ShortName": "Amp Arms",
-        "Description": "ARC Rail mounted arms for holding hearing protection and communication headsets."
+        "name": "Ops-Core Amp Arms",
+        "shortName": "Amp Arms",
+        "description": "ARC Rail mounted arms for holding hearing protection and communication headsets."
       }
     },
     "fleaPriceRoubles": 25000,
@@ -1225,9 +1225,9 @@
     },
     "locales": {
       "en": {
-        "Name": "Unity Tactical Amps Adapter",
-        "ShortName": "UNITY adapter",
-        "Description": "Team Wendy MLOK adapter for mounting AMP Arms"
+        "name": "Unity Tactical Amps Adapter",
+        "shortName": "UNITY adapter",
+        "description": "Team Wendy MLOK adapter for mounting AMP Arms"
       }
     },
     "fleaPriceRoubles": 5000,
@@ -1307,9 +1307,9 @@
     },
     "locales": {
       "en": {
-        "Name": "AXL Advanced RAC Link Gen 1",
-        "ShortName": "RAC Link",
-        "Description": "RAC Link Gen 1 adapter for mounting communication headsets to Ops-Core Amp Arms, made out of Tegris."
+        "name": "AXL Advanced RAC Link Gen 1",
+        "shortName": "RAC Link",
+        "description": "RAC Link Gen 1 adapter for mounting communication headsets to Ops-Core Amp Arms, made out of Tegris."
       }
     },
     "fleaPriceRoubles": 25000,
@@ -1367,9 +1367,9 @@
     },
     "locales": {
       "en": {
-        "Name": "Peltor ComTac V headset (Coyote Mount)",
-        "ShortName": "Comtac Mount",
-        "Description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Has had it's headband removed. Manufactured by 3M Peltor. Coyote color version."
+        "name": "Peltor ComTac V headset (Coyote Mount)",
+        "shortName": "Comtac Mount",
+        "description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Has had it's headband removed. Manufactured by 3M Peltor. Coyote color version."
       }
     },
     "fleaPriceRoubles": 65500,
@@ -1428,9 +1428,9 @@
     },
     "locales": {
       "en": {
-        "Name": "Peltor ComTac V headset (AOR1 Mount)",
-        "ShortName": "Comtac Mount",
-        "Description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Has had it's headband removed. Manufactured by 3M Peltor. Coyote color version."
+        "name": "Peltor ComTac V headset (AOR1 Mount)",
+        "shortName": "Comtac Mount",
+        "description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Has had it's headband removed. Manufactured by 3M Peltor. Coyote color version."
       }
     },
     "fleaPriceRoubles": 165500,
@@ -1489,8 +1489,8 @@
     "locales": {
       "en": {
         "Name": "Peltor ComTac V headset (multicam Mount)",
-        "ShortName": "Comtac Mount",
-        "Description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Has had it's headband removed. Manufactured by 3M Peltor. Coyote color version."
+        "shortName": "Comtac Mount",
+        "description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Has had it's headband removed. Manufactured by 3M Peltor. Coyote color version."
       }
     },
     "fleaPriceRoubles": 75500,
@@ -1555,8 +1555,8 @@
      "en": {
        
   "Name": "Ops-Core helmet cover (AOR2)",
-  "ShortName": "AOR2 Cover",
-  "Description": "A tactical helmet cover designed for Ops-Core high-cut ballistic helmets. Made from durable nylon with reinforced stitching and attachment points for cables, counterweights, and accessories. Features the AOR2 digital camouflage pattern optimized for temperate and coastal environments."
+  "shortName": "AOR2 Cover",
+  "description": "A tactical helmet cover designed for Ops-Core high-cut ballistic helmets. Made from durable nylon with reinforced stitching and attachment points for cables, counterweights, and accessories. Features the AOR2 digital camouflage pattern optimized for temperate and coastal environments."
     }
     },
     "fleaPriceRoubles": 9500,
@@ -1624,7 +1624,7 @@
       "en": {
 
         "Name": "Ops-Core helmet cover (AOR1)",
-        "ShortName": "AOR2 Cover",
+        "shortName": "AOR2 Cover",
         "Description": "A tactical helmet cover designed for Ops-Core high-cut ballistic helmets. Made from durable nylon with reinforced stitching and attachment points for cables, counterweights, and accessories. Features the AOR2 digital camouflage pattern optimized for temperate and coastal environments."
       }
     },
@@ -1691,7 +1691,7 @@
       "en": {
 
         "Name": "Ops-Core helmet cover (cadpat)",
-        "ShortName": "AOR2 Cover",
+        "shortName": "AOR2 Cover",
         "Description": "A tactical helmet cover designed for Ops-Core high-cut ballistic helmets. Made from durable nylon with reinforced stitching and attachment points for cables, counterweights, and accessories. Features the AOR2 digital camouflage pattern optimized for temperate and coastal environments."
       }
     },
@@ -1758,7 +1758,7 @@
       "en": {
 
         "Name": "Ops-Core helmet cover (mcalp",
-        "ShortName": "AOR2 Cover",
+        "shortName": "AOR2 Cover",
         "Description": "A tactical helmet cover designed for Ops-Core high-cut ballistic helmets. Made from durable nylon with reinforced stitching and attachment points for cables, counterweights, and accessories. Features the AOR2 digital camouflage pattern optimized for temperate and coastal environments."
       }
     },
@@ -1824,7 +1824,7 @@
       "en": {
 
         "Name": "Ops-Core helmet cover (AOR2)",
-        "ShortName": "AOR2 Cover",
+        "shortName": "AOR2 Cover",
         "Description": "A tactical helmet cover designed for Ops-Core high-cut ballistic helmets. Made from durable nylon with reinforced stitching and attachment points for cables, counterweights, and accessories. Features the AOR2 digital camouflage pattern optimized for temperate and coastal environments."
       }
     },

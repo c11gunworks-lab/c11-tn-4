@@ -20,9 +20,9 @@
     },
     "locales": {
       "en": {
-        "Name": "avro",
-        "ShortName": "avro",
-        "Description": "avro"
+        "name": "avro",
+        "shortName": "avro",
+        "description": "avro"
       }
     },
     "fleaPriceRoubles": 10000,
@@ -73,7 +73,7 @@
     "hallOfFameSlots": [
       "bigTrophies"
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69a9e2f47d478b72b5eee879": {
@@ -112,9 +112,9 @@
     },
     "locales": {
       "en": {
-        "Name": "bill",
-        "ShortName": "bill",
-        "Description": "bill"
+        "name": "bill",
+        "shortName": "bill",
+        "description": "bill"
       }
     },
     "fleaPriceRoubles": 10000,
@@ -165,7 +165,7 @@
     "hallOfFameSlots": [
 "smallTrophies"
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69a9e4611a0d467a47eee87b": {
@@ -204,9 +204,9 @@
     },
     "locales": {
       "en": {
-        "Name": "bison",
-        "ShortName": "bison",
-        "Description": "bison"
+        "name": "bison",
+        "shortName": "bison",
+        "description": "bison"
       }
     },
     "fleaPriceRoubles": 10000,
@@ -257,7 +257,7 @@
     "hallOfFameSlots": [
       "bigTrophies"
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69a9e4756af572c2b2eee87d": {
@@ -296,9 +296,9 @@
     },
     "locales": {
       "en": {
-        "Name": "cobrachicken",
-        "ShortName": "cobrachicken",
-        "Description": "cobrachicken"
+        "name": "cobrachicken",
+        "shortName": "cobrachicken",
+        "description": "cobrachicken"
       }
     },
     "fleaPriceRoubles": 10000,
@@ -349,7 +349,7 @@
     "hallOfFameSlots": [
       "bigTrophies"
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69a9e497284489f9eceee87f": {
@@ -388,9 +388,9 @@
     },
     "locales": {
       "en": {
-        "Name": "greatone",
-        "ShortName": "greatone",
-        "Description": "greatone"
+        "name": "greatone",
+        "shortName": "greatone",
+        "description": "greatone"
       }
     },
     "fleaPriceRoubles": 10000,
@@ -441,7 +441,7 @@
     "hallOfFameSlots": [
       "bigTrophies"
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69a9e4ae7a603cb384eee881": {
@@ -480,9 +480,9 @@
     },
     "locales": {
       "en": {
-        "Name": "rcmpcar",
-        "ShortName": "rcmpcar",
-        "Description": "rcmpcar"
+        "name": "rcmpcar",
+        "shortName": "rcmpcar",
+        "description": "rcmpcar"
       }
     },
     "fleaPriceRoubles": 10000,
@@ -533,7 +533,7 @@
     "hallOfFameSlots": [
       "bigTrophies"
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69a9e4c1b61ea09cd1eee883": {
@@ -573,7 +573,7 @@
     "locales": {
       "en": {
         "Name": "hockeyskate",
-        "ShortName": "hockeyskate",
+        "shortName": "hockeyskate",
         "Description": "hockeyskate"
       }
     },
@@ -625,7 +625,7 @@
     "hallOfFameSlots": [
       "bigTrophies"
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69a9e4d73ff7e48a02eee885": {
@@ -718,7 +718,7 @@
   "hallOfFameSlots": [
     "bigTrophies"
   ],
-  "addtoTraders": true,
+  "addtoTraders": false,
   "traders": {
     "TRUDY": {
       "69b31cb4a71eac199128ae48": {

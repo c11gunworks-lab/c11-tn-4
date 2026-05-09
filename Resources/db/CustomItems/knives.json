@@ -1,5 +1,4 @@
 {
-
   "69f3de69ac93bcc7b9e34f71": {
     "itemTplToClone": "54491bb74bdc2d09088b4567",
     "parentId": "5447e1d04bdc2dff2f8b4567",
@@ -12,64 +11,49 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0.1,
-      "Durability":70,
-      "MaxDurability":70,
-      "knifeDurab":70,
-      "knifeHitDelay":0,
-      "knifeHitRadius":0.4,
-      "knifeHitSlashDam":25,
-      "knifeHitSlashRate":0,
-      "knifeHitStabDam":27,
-      "knifeHitStabRate":1,
-
-       "Chambers": [],
+      "Weight": 0.15,
+      "Durability": 70,
+      "MaxDurability": 70,
+      "knifeDurab": 70,
+      "knifeHitDelay": 0.1,
+      "knifeHitRadius": 0.35,
+      "knifeHitSlashDam": 28,
+      "knifeHitSlashRate": 1.4,
+      "knifeHitStabDam": 26,
+      "knifeHitStabRate": 1.3,
+      "Chambers":[],
       "Slots": [],
-      "Grids": []
-
-
-
-
+      "Grids":[]
     },
-
     "locales": {
       "en": {
-        "Name": "STAB",
-        "ShortName": "STAB",
-        "Description": "STABSTABSTABSTAB "
+        "name": "Karambit tactical knife",
+        "shortName": "Karambit",
+        "description": "A curved tactical knife inspired by the claws of a tiger, highly effective for rapid slashing and close-quarters combat."
       }
     },
-    "fleaPriceRoubles": 115000,
-    "handbookPriceRoubles": 90000,
+    "fleaPriceRoubles": 45000,
+    "handbookPriceRoubles": 45000,
     "addtoBots": true,
     "addtoSpecialSlots": false,
-
     "addtoModSlots": false,
     "addtoStaticLootContainers": false,
-
-    "StaticLootContainers": [
-
-    ],
+    "StaticLootContainers":[],
     "addtoSecureFilters": false,
     "addWeaponPreset": false,
-    "weaponPresets": [
-
-
-    ],
-    
+    "weaponPresets":[],
     "addtoTraders": true,
-
     "traders": {
       "TRUDY": {
         "69f3df0c5e6de895afe34f72": {
           "barterSettings": {
-            "loyalLevel": 2,
+            "loyalLevel": 3,
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },
-          "barters": [
+          "barters":[
             {
-              "count": 1150,
+              "count": 300,
               "_tpl": "MONEY_EUROS"
             }
           ]
@@ -89,64 +73,49 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0.1,
-      "Durability":70,
-      "MaxDurability":70,
-      "knifeDurab":70,
-      "knifeHitDelay":0,
-      "knifeHitRadius":0.4,
-      "knifeHitSlashDam":25,
-      "knifeHitSlashRate":0,
-      "knifeHitStabDam":27,
-      "knifeHitStabRate":1,
-
-       "Chambers": [],
+      "Weight": 0.15,
+      "Durability": 70,
+      "MaxDurability": 70,
+      "knifeDurab": 70,
+      "knifeHitDelay": 0.1,
+      "knifeHitRadius": 0.35,
+      "knifeHitSlashDam": 28,
+      "knifeHitSlashRate": 1.4,
+      "knifeHitStabDam": 26,
+      "knifeHitStabRate": 1.3,
+      "Chambers":[],
       "Slots": [],
-      "Grids": []
-
-
-
-
+      "Grids":[]
     },
-
     "locales": {
       "en": {
-        "Name": "STAB",
-        "ShortName": "STAB",
-        "Description": "STABSTABSTABSTAB "
+        "name": "Karambit tactical knife (MCB)",
+        "shortName": "Karambit MCB",
+        "description": "A curved tactical knife featuring a Multicam Black finish on the blade and handle."
       }
     },
-    "fleaPriceRoubles": 115000,
-    "handbookPriceRoubles": 90000,
+    "fleaPriceRoubles": 55000,
+    "handbookPriceRoubles": 55000,
     "addtoBots": true,
     "addtoSpecialSlots": false,
-
     "addtoModSlots": false,
     "addtoStaticLootContainers": false,
-
-    "StaticLootContainers": [
-
-    ],
+    "StaticLootContainers":[],
     "addtoSecureFilters": false,
     "addWeaponPreset": false,
-    "weaponPresets": [
-
-
-    ],
-
+    "weaponPresets":[],
     "addtoTraders": true,
-
     "traders": {
       "TRUDY": {
         "69f3e17a5f56a71c53e34f74": {
           "barterSettings": {
-            "loyalLevel": 2,
+            "loyalLevel": 4,
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },
-          "barters": [
+          "barters":[
             {
-              "count": 1150,
+              "count": 350,
               "_tpl": "MONEY_EUROS"
             }
           ]
@@ -166,53 +135,38 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0.1,
-      "Durability":25,
-      "MaxDurability":25,
-      "knifeDurab":25,
-      "knifeHitDelay":0,
-      "knifeHitRadius":0.3,
-      "knifeHitSlashDam":55,
-      "knifeHitSlashRate":1.5,
-      "knifeHitStabDam":55,
-      "knifeHitStabRate":1.5,
-
-       "Chambers": [],
+      "Weight": 0.05,
+      "Durability": 25,
+      "MaxDurability": 25,
+      "knifeDurab": 25,
+      "knifeHitDelay": 0.05,
+      "knifeHitRadius": 0.25,
+      "knifeHitSlashDam": 15,
+      "knifeHitSlashRate": 1.6,
+      "knifeHitStabDam": 38,
+      "knifeHitStabRate": 1.5,
+      "Chambers":[],
       "Slots": [],
-      "Grids": []
-
-
-
-
+      "Grids":[]
     },
-
     "locales": {
       "en": {
-        "Name": "STAB",
-        "ShortName": "STAB",
-        "Description": "STABSTABSTABSTAB "
+        "name": "GBRS Group G10 covert dagger",
+        "shortName": "G10 Shiv",
+        "description": "A lightweight, non-metallic dagger machined entirely from G10 fiberglass laminate. Extremely fast and easy to conceal, designed specifically as a piercing tool."
       }
     },
-    "fleaPriceRoubles": 115000,
-    "handbookPriceRoubles": 90000,
+    "fleaPriceRoubles": 18000,
+    "handbookPriceRoubles": 18000,
     "addtoBots": true,
     "addtoSpecialSlots": false,
-
     "addtoModSlots": false,
     "addtoStaticLootContainers": false,
-
-    "StaticLootContainers": [
-
-    ],
+    "StaticLootContainers":[],
     "addtoSecureFilters": false,
     "addWeaponPreset": false,
-    "weaponPresets": [
-
-
-    ],
-
+    "weaponPresets":[],
     "addtoTraders": true,
-
     "traders": {
       "TRUDY": {
         "69f3e186321b1e382ae34f76": {
@@ -221,9 +175,9 @@
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },
-          "barters": [
+          "barters":[
             {
-              "count": 1150,
+              "count": 120,
               "_tpl": "MONEY_EUROS"
             }
           ]
@@ -243,64 +197,49 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0.1,
-      "Durability":70,
-      "MaxDurability":70,
-      "knifeDurab":70,
-      "knifeHitDelay":0,
-      "knifeHitRadius":0.4,
-      "knifeHitSlashDam":25,
-      "knifeHitSlashRate":0,
-      "knifeHitStabDam":27,
-      "knifeHitStabRate":1,
-
-       "Chambers": [],
+      "Weight": 0.2,
+      "Durability": 70,
+      "MaxDurability": 70,
+      "knifeDurab": 70,
+      "knifeHitDelay": 0.1,
+      "knifeHitRadius": 0.35,
+      "knifeHitSlashDam": 24,
+      "knifeHitSlashRate": 1.2,
+      "knifeHitStabDam": 26,
+      "knifeHitStabRate": 1.2,
+      "Chambers":[],
       "Slots": [],
-      "Grids": []
-
-
-
-
+      "Grids":[]
     },
-
     "locales": {
       "en": {
-        "Name": "STAB",
-        "ShortName": "STAB",
-        "Description": "STABSTABSTABSTAB "
+        "name": "Tactical short knife",
+        "shortName": "Short Knife",
+        "description": "A compact and versatile tactical knife suitable for utility work and personal defense."
       }
     },
-    "fleaPriceRoubles": 115000,
-    "handbookPriceRoubles": 90000,
+    "fleaPriceRoubles": 12000,
+    "handbookPriceRoubles": 12000,
     "addtoBots": true,
     "addtoSpecialSlots": false,
-
     "addtoModSlots": false,
     "addtoStaticLootContainers": false,
-
-    "StaticLootContainers": [
-
-    ],
+    "StaticLootContainers":[],
     "addtoSecureFilters": false,
     "addWeaponPreset": false,
-    "weaponPresets": [
-
-
-    ],
-
+    "weaponPresets":[],
     "addtoTraders": true,
-
     "traders": {
       "TRUDY": {
         "69f3e19854d9797fe1e34f78": {
           "barterSettings": {
-            "loyalLevel": 2,
+            "loyalLevel": 1,
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },
-          "barters": [
+          "barters":[
             {
-              "count": 1150,
+              "count": 80,
               "_tpl": "MONEY_EUROS"
             }
           ]
@@ -320,52 +259,38 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0.1,
-      "knifeDurab":70,
-      "MaxDurability":70,
-      "knifeHitDelay":0,
-      "knifeHitRadius":0.4,
-      "knifeHitSlashDam":25,
-      "knifeHitSlashRate":0,
-      "knifeHitStabDam":27,
-      "knifeHitStabRate":1,
-
-       "Chambers": [],
+      "Weight": 0.4,
+      "Durability": 70,
+      "MaxDurability": 70,
+      "knifeDurab": 70,
+      "knifeHitDelay": 0.15,
+      "knifeHitRadius": 0.45,
+      "knifeHitSlashDam": 34,
+      "knifeHitSlashRate": 1.0,
+      "knifeHitStabDam": 38,
+      "knifeHitStabRate": 0.9,
+      "Chambers": [],
       "Slots": [],
-      "Grids": []
-
-
-
-
+      "Grids":[]
     },
-
     "locales": {
       "en": {
-        "Name": "STAB",
-        "ShortName": "STAB",
-        "Description": "STABSTABSTABSTAB "
+        "name": "Heavy fixed-blade combat knife",
+        "shortName": "Combat Knife",
+        "description": "A rugged, heavy-duty military combat knife with excellent reach and slashing capabilities."
       }
     },
-    "fleaPriceRoubles": 115000,
-    "handbookPriceRoubles": 90000,
+    "fleaPriceRoubles": 32000,
+    "handbookPriceRoubles": 32000,
     "addtoBots": true,
     "addtoSpecialSlots": false,
-
     "addtoModSlots": false,
     "addtoStaticLootContainers": false,
-
-    "StaticLootContainers": [
-
-    ],
+    "StaticLootContainers":[],
     "addtoSecureFilters": false,
     "addWeaponPreset": false,
-    "weaponPresets": [
-
-
-    ],
-
+    "weaponPresets":[],
     "addtoTraders": true,
-
     "traders": {
       "TRUDY": {
         "69f3e1a923db7c0e41e34f7a": {
@@ -374,9 +299,9 @@
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },
-          "barters": [
+          "barters":[
             {
-              "count": 1150,
+              "count": 210,
               "_tpl": "MONEY_EUROS"
             }
           ]
@@ -384,7 +309,6 @@
       }
     }
   },
-
   "69f4affac52af4c196e34f7b": {
     "itemTplToClone": "54491bb74bdc2d09088b4567",
     "parentId": "5447e1d04bdc2dff2f8b4567",
@@ -397,53 +321,38 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0.1,
-      "Durability":70,
-      "MaxDurability":70,
-      "knifeDurab":70,
-      "knifeHitDelay":0,
-      "knifeHitRadius":0.4,
-      "knifeHitSlashDam":25,
-      "knifeHitSlashRate":0,
-      "knifeHitStabDam":27,
-      "knifeHitStabRate":1,
-
-       "Chambers": [],
+      "Weight": 0.12,
+      "Durability": 70,
+      "MaxDurability": 70,
+      "knifeDurab": 70,
+      "knifeHitDelay": 0.1,
+      "knifeHitRadius": 0.4,
+      "knifeHitSlashDam": 26,
+      "knifeHitSlashRate": 1.3,
+      "knifeHitStabDam": 28,
+      "knifeHitStabRate": 1.2,
+      "Chambers":[],
       "Slots": [],
-      "Grids": []
-
-
-
-
+      "Grids":[]
     },
-
     "locales": {
       "en": {
-        "Name": "STAB",
-        "ShortName": "STAB",
-        "Description": "STABSTABSTABSTAB "
+        "name": "Skeletonized survival knife",
+        "shortName": "Skeleton",
+        "description": "A lightweight tactical knife featuring a skeletal handle design to reduce weight without sacrificing strength."
       }
     },
-    "fleaPriceRoubles": 45000,
-    "handbookPriceRoubles": 50000,
+    "fleaPriceRoubles": 24000,
+    "handbookPriceRoubles": 24000,
     "addtoBots": true,
     "addtoSpecialSlots": false,
-
     "addtoModSlots": false,
     "addtoStaticLootContainers": false,
-
-    "StaticLootContainers": [
-
-    ],
+    "StaticLootContainers":[],
     "addtoSecureFilters": false,
     "addWeaponPreset": false,
-    "weaponPresets": [
-
-
-    ],
-
+    "weaponPresets":[],
     "addtoTraders": true,
-
     "traders": {
       "TRUDY": {
         "69f4b0096d199ce258e34f7c": {
@@ -452,9 +361,9 @@
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },
-          "barters": [
+          "barters":[
             {
-              "count": 250,
+              "count": 160,
               "_tpl": "MONEY_EUROS"
             }
           ]
@@ -462,6 +371,4 @@
       }
     }
   }
-
-
 }

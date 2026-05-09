@@ -1,0 +1,578 @@
+{
+  "69fe6acda190902b1a4fccff": {
+    "itemTplToClone": "5a7ae0c351dfba0017554310",
+    "parentId": "5447b5cf4bdc2d65278b4567",
+    "handbookParentId": "5b5f792486f77447ed5636b3",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "bt-usw.bundle",
+        "rcid": ""
+      },
+      "Width": 3,
+      "Height": 1,
+      "Durability": 100,
+      "DurabilityBurnRatio": 1.15,
+      "Ergonomics": 90,
+      "RecoilDampingHandRotation": 0.78,
+      "RecoilDispersion": 11.5,
+      "RecoilForceBack": 140,
+      "RecoilCamera": 0.005,
+      "CoolFactorGun": 4.5,
+      "RecoilForceUp": 210,
+      "RecoilReturnPathDampingHandRotation": 0.41,
+      "BaseMalfunctionChance": 0.20,
+      "Weight": 0.75,
+      "Foldable": true,
+      "FoldedSlot": "mod_stock",
+      "SizeReduceRight": 1,
+      "ExaminedByDefault": true,
+      "defAmmo": "58864a4f2459770fcc257101",
+      "defMagType": "69fe6ad6c4b9b27a984fcd01",
+      "Chambers":[
+        {
+          "_id": "69fe6acfa584d7d7154fcd00",
+          "_mergeSlotWithChildren": false,
+          "_name": "patron_in_weapon",
+          "_parent": "69fe6acda190902b1a4fccff",
+          "_props": {
+            "filters":[
+              {
+                "Filter":[
+                  "5efb0da7a29a85116f6ea05f",
+                  "5c3df7d588a4501f290594e5",
+                  "58864a4f2459770fcc257101",
+                  "56d59d3ad2720bdb418b4577",
+                  "5c925fa22e221601da359b7b",
+                  "5a3c16fe86f77452b62de32a",
+                  "5efb0e16aeb21837e749c7ff",
+                  "5c0d56a986f774449d5de529",
+                  "64b7bbb74b75259c590fa897"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d4af244bdc2d962f8b4571",
+          "_required": false
+        }
+      ],
+      "Slots":[
+        {
+          "_id": "69fe6ade98276f4ec34fcd02",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_barrel",
+          "_parent": "69fe6acda190902b1a4fccff",
+          "_props": {
+            "filters":[
+              {
+                "Filter":[
+                  "69fe6c5453793827574fcd0f"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "69fe6ae9a8532ac28e4fcd03",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_reciever",
+          "_parent": "69fe6acda190902b1a4fccff",
+          "_props": {
+            "filters": [
+              {
+                "Filter":[
+                  "69fe6c25aff0bbbe1b4fcd0c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "69fe6b2d3569032ed84fcd06",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "69fe6acda190902b1a4fccff",
+          "_props": {
+            "filters":[
+              {
+                "Filter":[
+                  "69fe6cedb8684a61264fcd14"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "69fe6af3c38bdf13c54fcd04",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_magazine",
+          "_parent": "69fe6acda190902b1a4fccff",
+          "_props": {
+            "filters":[
+              {
+                "AnimationIndex": 0,
+                "Filter":[
+                  "69fe6ad6c4b9b27a984fcd01"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d30c394bdc2dae468b4577",
+          "_required": false
+        },
+        {
+          "_id": "69fe6b0ed942632c854fcd05",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical",
+          "_parent": "69fe6acda190902b1a4fccff",
+          "_props": {
+            "filters":[
+              {
+                "Filter":[
+                  "5a800961159bd4315e3a1657",
+                  "5cc9c20cd7f00c001336c65d",
+                  "5d2369418abbc306c62e0c80",
+                  "5b07dd285acfc4001754240d",
+                  "56def37dd2720bec348b456a",
+                  "5a7b483fe899ef0016170d15",
+                  "5a5f1ce64f39f90b401987bc",
+                  "560d657b4bdc2da74d8b4572",
+                  "5a7ad4af51dfba0013379717",
+                  "5a7b4900e899ef197b331a2a",
+                  "6272370ee4013c5d7e31f418",
+                  "6272379924e29f06af4d5ecb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "B&T USW-A1 9x19 pistol",
+        "shortName": "USW",
+        "description": "The Brügger & Thomet Universal Service Weapon (USW) is a 9x19mm duty pistol equipped with a side-folding stock and red dot sight integration, designed to bridge the gap between service pistols and submachine guns."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot":[],
+    "fleaPriceRoubles": 48000,
+    "handbookPriceRoubles": 48000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers":[
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": false,
+    "masterySections":[],
+    "addWeaponPreset": false,
+    "weaponPresets":[],
+    "addtoTraders": false,
+    "traders": {
+      "MECHANIC": {
+        "69fe6a774a6848b53c4fccfd": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters":[
+            {
+              "count": 48000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69fe6c5453793827574fcd0f": {
+    "itemTplToClone": "5a6b5ed88dc32e000c52ec86",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "usw-barrel.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.1,
+      "Ergonomics": -1,
+      "Slots":[
+        {
+          "_id": "69fe6c584a1b1e5c654fcd10",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "69fe6c5453793827574fcd0f",
+          "_props": {
+            "filters":[
+              {
+                "Filter":[
+                  "5a7ad0c451dfba0013379712",
+                  "5a7037338dc32e000d46d257",
+                  "5a70366c8dc32e001207fb06",
+                  "5a705e128dc32e000d46d258",
+                  "5a7ad1fb51dfba0013379715",
+                  "5a6b585a8dc32e5a9c28b4f1",
+                  "5a6b592c8dc32e00094b97bf",
+                  "5a6b59a08dc32e000b452fb7",
+                  "5c7e8fab2e22165df16b889b",
+                  "5a33a8ebc4a282000c5a950d",
+                  "5c6165902e22160010261b28",
+                  "5a32a064c4a28200741e22de"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "B&T USW 9x19mm barrel",
+        "shortName": "USW bbl.",
+        "description": "Standard issue threaded barrel for the B&T USW."
+      }
+    },
+    "addtoInventorySlots":[],
+    "addtoModSlots": false,
+    "modSlot":[],
+    "fleaPriceRoubles": 12500,
+    "handbookPriceRoubles": 12500,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers":[],
+    "traders": {
+      "MECHANIC": {
+        "69fe6c3cab33d1d5324fcd0d": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters":[
+            {
+              "count": 12500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69fe6c25aff0bbbe1b4fcd0c": {
+    "itemTplToClone": "5a71e22f8dc32e00094b97f4",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "usw-slide.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.25,
+      "Ergonomics": -2,
+      "Slots":[],
+      "Width": 1,
+      "Height": 1,
+      "ExaminedByDefault": true
+    },
+    "locales": {
+      "en": {
+        "name": "B&T USW 9x19 slide",
+        "shortName": "USW Slide",
+        "description": "A proprietary slide for the USW chassis system."
+      }
+    },
+    "addtoInventorySlots":[],
+    "addtoModSlots": false,
+    "modSlot":[],
+    "fleaPriceRoubles": 12000,
+    "handbookPriceRoubles": 12000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "traders": {
+      "MECHANIC": {
+        "69fe6c118ea330c7a74fcd0b": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters":[
+            {
+              "count": 12000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers":[]
+  },
+  "69fe6ad6c4b9b27a984fcd01": {
+    "itemTplToClone": "5a718da68dc32e000d46d264",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "usw-mag.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.08,
+      "Ergonomics": -1,
+      "VisibleAmmoRangesString": "1-3",
+      "ExaminedByDefault": true,
+      "Cartridges":[
+        {
+          "_id": "69fe6bfed58610ac9d4fcd0a",
+          "_max_count": 17,
+          "_name": "cartridges",
+          "_parent": "69fe6ad6c4b9b27a984fcd01",
+          "_props": {
+            "filters": [
+              {
+                "Filter":[
+                  "5efb0da7a29a85116f6ea05f",
+                  "5c3df7d588a4501f290594e5",
+                  "58864a4f2459770fcc257101",
+                  "56d59d3ad2720bdb418b4577",
+                  "5c925fa22e221601da359b7b",
+                  "5a3c16fe86f77452b62de32a",
+                  "5efb0e16aeb21837e749c7ff",
+                  "5c0d56a986f774449d5de529",
+                  "64b7bbb74b75259c590fa897"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "B&T USW 9x19 17-round magazine",
+        "shortName": "USW 17-Rnd",
+        "description": "A 17-round 9x19 magazine manufactured for the USW."
+      }
+    },
+    "addtoInventorySlots":[],
+    "addtoModSlots": false,
+    "modSlot":[],
+    "fleaPriceRoubles": 3500,
+    "handbookPriceRoubles": 3500,
+    "addtoTraders": true,
+    "addtoBots": true,
+    "addtoStaticLootContainers": false,
+    "traders": {
+      "MECHANIC": {
+        "69fe6baaf83e582f984fcd07": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters":[
+            {
+              "count": 3500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers":[]
+  },
+  "69fe6cedb8684a61264fcd14": {
+    "itemTplToClone": "56ea7293d2720b8d4b8b45ba",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Accuracy": 0,
+      "ConflictingItems":[],
+      "Ergonomics": -1,
+      "Height": 1,
+      "Prefab": {
+        "path": "usw-sightmount.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.04,
+      "Width": 1,
+      "Slots":[
+        {
+          "_id": "69fe6cf0007c269f324fcd15",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "69fe6cedb8684a61264fcd14",
+          "_props": {
+            "filters": [
+              {
+                "Filter":[
+                  "577d141e24597739c5255e01",
+                  "58d268fc86f774111273f8c2",
+                  "5a32aa8bc4a2826c6e06d737",
+                  "616442e4faa1272e43152193",
+                  "69fe6d5e2d6d4cf1904fcd17"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "B&T USW optic bridge mount",
+        "shortName": "USW Mount",
+        "description": "A fixed bridge mount for the B&T USW frame that allows standard pistol reflex sights to remain stationary when the slide cycles."
+      }
+    },
+    "fleaPriceRoubles": 2500,
+    "handbookPriceRoubles": 2500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers":[
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "69fe6cab4905b584b54fcd11": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters":[
+            {
+              "count": 2500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69fe6d5e2d6d4cf1904fcd17": {
+    "itemTplToClone": "616442e4faa1272e43152193",
+    "parentId": "55818acf4bdc2dde698b456b",
+    "handbookParentId": "5b5f744786f774094242f197",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "usw-rds.bundle",
+        "rcid": ""
+      },
+      "AimSensitivity":[[
+        0.65
+      ]
+      ],
+      "CalibrationDistances": [[
+        25,
+        50,
+        100
+      ]
+      ],
+      "ModesCount": [
+        1
+      ],
+      "Width": 1,
+      "Ergonomics": -1,
+      "SightingRange": 75,
+      "ScopesCount": 1,
+      "ZoomSensitivity": 0,
+      "Zooms": [
+        [
+          1
+        ]
+      ],
+      "Height": 1,
+      "Weight": 0.06,
+      "sightModType": "reflex",
+      "ConflictingItems":[],
+      "CanPutIntoDuringTheRaid": true,
+      "Slots":[],
+      "Grids":[]
+    },
+    "locales": {
+      "en": {
+        "name": "B&T USW Micro Red Dot Sight",
+        "shortName": "USW RDS",
+        "description": "A proprietary micro reflex sight commonly issued alongside the B&T Universal Service Weapon."
+      }
+    },
+    "fleaPriceRoubles": 25000,
+    "handbookPriceRoubles": 25000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "modSlot":[],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers":[
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "69fe6d4b7e4def9bfe4fcd16": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters":[
+            {
+              "count": 150,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

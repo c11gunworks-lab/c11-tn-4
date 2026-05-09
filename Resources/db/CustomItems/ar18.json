@@ -156,9 +156,9 @@
     },
     "locales": {
       "en": {
-        "Name": "Armalite AR-18 assault rifle",
-        "ShortName": "AR-18",
-        "Description": "A gas piston driven Assault Rifle designed by Armalite. Come Out Ye Blacks and Tans"
+        "name": "Armalite AR-18 assault rifle",
+        "shortName": "AR-18",
+        "description": "A gas piston driven Assault Rifle designed by Armalite. Come Out Ye Blacks and Tans"
       }
     },
     "fleaPriceRoubles": 35896,
@@ -662,9 +662,9 @@
     },
     "locales": {
       "en": {
-        "Name": "AR-18 16 inch barrel",
-        "ShortName": "AR-18 16\"",
-        "Description": "16 inches is good enough. manufactured by Armalite."
+        "name": "AR-18 16 inch barrel",
+        "shortName": "AR-18 16\"",
+        "description": "16 inches is good enough. manufactured by Armalite."
       }
     },
     "fleaPriceRoubles": 12500,
@@ -741,7 +741,7 @@
     "locales": {
       "en": {
         "Name": "AR-18 stock connector",
-        "ShortName": "AR-18 conn.",
+        "shortName": "AR-18 conn.",
         "Description": "Make sure you keep this stocked"
       }
     },
