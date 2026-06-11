@@ -3,7 +3,7 @@
     "QuestName": "Oh, Canada?",
     "_id": "69b30ec8e0f88a8ea828ae3e",
     "traderId": "5935c25fb3acc3127c3d8cd9",
-    "type": "PickUp",
+    "type": "Elimination",
     "location": "any",
     "image": "/files/quest/icon/quads.jpg",
     "acceptanceAndFinishingSource": "eft",
@@ -15,12 +15,17 @@
     "progressSource": "eft",
     "rankingModes": [],
     "side": "Pmc",
+    "sideExclusive": "Pmc",
     "description": "69b30ec8e0f88a8ea828ae3e description",
-    "acceptPlayerMessage": "69b30ec8e0f88a8ea828ae3e acceptPlayerMessage",
-    "successMessageText": "69b30ec8e0f88a8ea828ae3e successMessageText",
     "startedMessageText": "69b30ec8e0f88a8ea828ae3e startedMessageText",
+    "successMessageText": "69b30ec8e0f88a8ea828ae3e successMessageText",
+    "failMessageText": "69b30ec8e0f88a8ea828ae3e failMessageText",
+    "acceptPlayerMessage": "69b30ec8e0f88a8ea828ae3e acceptPlayerMessage",
+    "declinePlayerMessage": "69b30ec8e0f88a8ea828ae3e declinePlayerMessage",
     "completePlayerMessage": "69b30ec8e0f88a8ea828ae3e completePlayerMessage",
+    "changeQuestMessageText": "69b30ec8e0f88a8ea828ae3e changeQuestMessageText",
     "name": "69b30ec8e0f88a8ea828ae3e name",
+    "note": "69b30ec8e0f88a8ea828ae3e note",
     "restartable": false,
     "canShowNotificationsInGame": true,
     "status": 0,
@@ -47,24 +52,26 @@
                 "enemyEquipmentExclusive": [],
                 "enemyEquipmentInclusive": [],
                 "enemyHealthEffects": [],
-                "id": "69ffb08bbc63e83e5b4fcd20",
+                "id": "6a04948ba72da0ce837dbce0",
                 "resetOnSessionEnd": false,
                 "savageRole": [],
-                "target": "anyPmc",
+                "target": "AnyPmc",
                 "value": 1,
                 "weapon": [
-                  "69e90fbb0655531529ff1891"
+                  "69e90fbb0655531529ff1891",
+                  "69583cac7bad89e9f121a1e0",
+                  "694c80fa9b0201378540f8bd",
+                  "6a04fee067a51785d1fa7715"
+                  
                 ],
                 "weaponCaliber": [],
-                "weaponModsExclusive": [
-
-                ],
-                "weaponModsInclusive": [
-
-                ]
+                "weaponModsInclusive": [],
+                "weaponModsExclusive": [],
+                "equipmentInclusive": [],
+                "equipmentExclusive": []
               }
             ],
-            "id": "69ffb08990488143f04fcd1f"
+            "id": "6a04948b8533b748317dbcdf"
           },
           "doNotResetIfCounterCompleted": false,
           "dynamicLocale": false,
@@ -100,30 +107,30 @@
                 "enemyEquipmentExclusive": [],
                 "enemyEquipmentInclusive": [],
                 "enemyHealthEffects": [],
-                "id": "69ffb02f9c9b93d4cd4fcd1b",
+                "id": "6a04948ba1308f5cc47dbce3",
                 "resetOnSessionEnd": false,
                 "savageRole": [],
                 "target": "Savage",
                 "value": 1,
                 "weapon": [
-                  "574d967124597745970e7c94"
+                  "574d967124597745970e7c94",
+                  "587e02ff24597743df3deaeb",
+                  "69b5c78205424d948b96044a"
                 ],
                 "weaponCaliber": [],
-                "weaponModsExclusive": [
-                 
-                ],
-                "weaponModsInclusive": [
-
-                ]
+                "weaponModsInclusive": [],
+                "weaponModsExclusive": [],
+                "equipmentInclusive": [],
+                "equipmentExclusive": []
               }
             ],
-            "id": "69ffb0319034b8e9794fcd1c"
+            "id": "6a04948b6b4e26dfe77dbce2"
           },
           "doNotResetIfCounterCompleted": false,
           "dynamicLocale": false,
           "globalQuestCounterId": "",
           "id": "69ffb03365396f9e274fcd1d",
-          "index": 0,
+          "index": 1,
           "isNecessary": false,
           "isResetOnConditionFailed": false,
           "oneSessionOnly": false,
@@ -142,7 +149,7 @@
           "id": "69b31d12755ef8ef8628ae4a",
           "index": 0,
           "parentId": "",
-          "value": 0,
+          "value": 1,
           "visibilityConditions": []
         }
       ],
@@ -155,26 +162,25 @@
         {
           "availableInGameEditions": [],
           "id": "69b31d3f17e9e30b2328ae4b",
-          "isHidden": false,
+          "index": 0,
           "type": "Experience",
-          "unknown": false,
-          "value": 1500
+          "value": "1500",
+          "unknown": false
         },
         {
           "availableInGameEditions": [],
           "id": "69b31d5839cc2be97228ae4c",
-          "isHidden": false,
+          "index": 1,
           "target": "5935c25fb3acc3127c3d8cd9",
           "type": "TraderStanding",
-          "unknown": false,
-          "value": 0.02
+          "value": "0.02",
+          "unknown": false
         },
         {
           "availableInGameEditions": [],
-          "findInRaid": false,
+          "findInRaid": true,
           "id": "69b31d6074b35f43ce28ae4d",
-          "isEncoded": false,
-          "isHidden": false,
+          "index": 2,
           "items": [
             {
               "_id": "69b31d6c0439bdc1ac28ae4e",
@@ -186,22 +192,21 @@
           ],
           "target": "69b31d6c0439bdc1ac28ae4e",
           "type": "Item",
-          "unknown": false,
-          "value": 150
+          "value": "150",
+          "unknown": false
         },
-
         {
           "availableInGameEditions": [],
           "id": "69b3302ad41df5238728ae4f",
-          "index": 0,
+          "index": 3,
           "target": "699f89c757994beece5cf7e1",
           "type": "TraderUnlock",
+          "value": "1",
           "unknown": false
         }
       ]
     }
   },
-  
   "69b17a80d1cca0000ce9244e": {
     "QuestName": "Unpinned",
     "_id": "69b17a80d1cca0000ce9244e",

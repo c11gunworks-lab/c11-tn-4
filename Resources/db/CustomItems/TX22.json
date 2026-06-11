@@ -1,0 +1,670 @@
+{
+  "6a07ad0150cdb50acfa07e25": {
+    "itemTplToClone": "579204f224597773d619e051",
+    "parentId": "5447b5cf4bdc2d65278b4567",
+    "handbookParentId": "5b5f792486f77447ed5636b3",
+    "overrideProperties": {
+      "Weight": 0.18,
+      "BackgroundColor": "black",
+      "Width": 2,
+      "Height": 1,
+      "StackMaxSize": 1,
+      "Prefab": {
+        "path": "tx22.bundle",
+        "rcid": ""
+      },
+      "RepairCost": 210,
+      "RepairSpeed": 15,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "MergesWithChildren": true,
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": [],
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "weapClass": "pistol",
+      "weapUseType": "secondary",
+      "ammoCaliber": "Caliber22LR",
+      "Durability": 100,
+      "MaxDurability": 100,
+      "isFastReload": true,
+      "weapFireType": [
+        "fullauto"
+      ],
+      "SingleFireRate": 350,
+      "CanQueueSecondShot": true,
+      "bFirerate": 1800,
+      "Ergonomics": 78,
+      "RecoilForceUp": 15,
+      "RecoilForceBack": 12,
+      "RecoilCamera": 0.01,
+      "Convergence": 1.5,
+      "Velocity": 0,
+      "bEffDist": 75,
+      "bHearDist": 150,
+      "isChamberLoad": true,
+      "chamberAmmoCount": 1,
+      "isBoltCatch": true,
+      "defMagType": "6a07ad4c8baf651678a07e2b",
+      "defAmmo": "694c796b42ae52a1a940f8ba",
+      "Chambers": [
+        {
+          "_name": "patron_in_weapon",
+          "_id": "6a07ad0a6bdf520023a07e26",
+          "_mergeSlotWithChildren": false,
+          "_parent": "6a07ad0150cdb50acfa07e25",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "694c796b42ae52a1a940f8ba",
+                  "694efa39da82e820e540f8da",
+                  "694ef9c8bc499b141d40f8d7",
+                  "69504d179eec4a16c140f8df",
+                  "42fb193ffb1315101b1d0441",
+                  "2b6a06054693ed3fa9c47542",
+                  "b972903f30708cd41c8265ba",
+                  "e8e8cdc108d343708aa07b2d"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d4af244bdc2d962f8b4571",
+          "_required": false
+        }
+      ],
+      "ReloadMode": "ExternalMagazine",
+      "CompactHandling": true,
+      "SightingRange": 0,
+      "MinRepairDegradation": 0,
+      "MaxRepairDegradation": 0.03,
+      "IronSightRange": 25,
+      "MustBoltBeOpennedForExternalReload": false,
+      "MustBoltBeOpennedForInternalReload": false,
+      "BoltAction": false,
+      "HipAccuracyRestorationDelay": 0.2,
+      "HipAccuracyRestorationSpeed": 7,
+      "HipInnaccuracyGain": 0.16,
+      "ManualBoltCatch": false,
+      "AimSensitivity": 0.65,
+      "BurstShotsCount": 3,
+      "BaseMalfunctionChance": 0.015,
+      "AllowJam": true,
+      "AllowFeed": true,
+      "AllowMisfire": true,
+      "AllowSlide": true,
+      "DurabilityBurnRatio": 0.85,
+      "HeatFactorGun": 0.45,
+      "CoolFactorGun": 1.0,
+      "AllowOverheat": true,
+      "MinRepairKitDegradation": 0,
+      "MaxRepairKitDegradation": 0.025,
+      "Grids": [],
+      "Slots": [
+        {
+          "_id": "6a07ad0e406db8e835a07e27",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_barrel",
+          "_parent": "6a07ad0150cdb50acfa07e25",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+
+                  "6a087ba45d26d7b855a07e31"
+                  
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "6a07ad139bc6265e8fa07e28",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_reciever",
+          "_parent": "6a07ad0150cdb50acfa07e25",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a087bc7d8359edb8ca07e33"
+                  
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "6a07ad1aa0dfd213a6a07e29",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_magazine",
+          "_parent": "6a07ad0150cdb50acfa07e25",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": 0,
+                "Filter": [
+                  "6a07ad4c8baf651678a07e2b",
+                  "6a087b73a5a3f58940a07e2e"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d30c394bdc2dae468b4577",
+          "_required": false
+        },
+        {
+          "_id": "6a07ad1eee1da36446a07e2a",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical",
+          "_parent": "6a07ad0150cdb50acfa07e25",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a800961159bd4315e3a1657",
+                  "5cc9c20cd7f00c001336c65d",
+                  "5d2369418abbc306c62e0c80",
+                  "5b07dd285acfc4001754240d",
+                  "56def37dd2720bec348b456a",
+                  "5a7b483fe899ef0016170d15",
+                  "5a5f1ce64f39f90b401987bc",
+                  "560d657b4bdc2da74d8b4572",
+                  "5a7ad4af51dfba0013379717",
+                  "5a7b4900e899ef197b331a2a",
+                  "6272370ee4013c5d7e31f418",
+                  "6272379924e29f06af4d5ecb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Taurus TX22 .22LR pistol (FRT)",
+        "shortName": "TX22 FRT",
+        "description": "The Taurus TX22 is a full-size polymer sporting pistol chambered in .22 LR. This specific frame has been modified by local gunsmiths with a custom Forced Reset Trigger (FRT), forcing the trigger forward after every shot and allowing for an incredibly high pseudo-automatic rate of fire."
+      }
+    },
+    "fleaPriceRoubles": 10000,
+    "handbookPriceRoubles": 6500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "SKIER": {
+        "6a07acb75623da543ea07e24": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a087ba45d26d7b855a07e31": {
+    "itemTplToClone": "5a6b5ed88dc32e000c52ec86",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "tx22-barrel.bundle",
+        "rcid": ""
+      },
+      "CenterOfImpact": 0.20,
+      "CoolFactor": 1.5,
+      "DeviationCurve": 2.20,
+      "DeviationMax": 9,
+      "HeatFactor": 0.95,
+      "ExaminedByDefault": true,
+      "BackgroundColor": "black",
+      "Ergonomics": -1,
+      "Recoil": -3,
+      "Accuracy": 6,
+      "Velocity": 0,
+      "Weight": 0.085,
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "Taurus TX22 standard barrel",
+        "shortName": "TX22 Barrel",
+        "description": "A standard length, non-threaded .22LR barrel for the Taurus TX22."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 8260,
+    "handbookPriceRoubles": 7660,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "traders": {
+      "SKIER": {
+        "6a087baa341a5e561da07e32": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 7660,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "6a087bc7d8359edb8ca07e33": {
+    "itemTplToClone": "5a71e22f8dc32e00094b97f4",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "tx22-slide.bundle",
+        "rcid": ""
+      },
+      "Accuracy": 0,
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "black",
+      "CoolFactor": 1.5,
+      "DurabilityBurnModificator": 0.85,
+      "Ergonomics": 12,
+      "HeatFactor": 0.85,
+      "Recoil": -3,
+      "Slots": [
+        {
+          "_id": "6a087bf05160b82ccda07e35",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_rear_000",
+          "_parent": "6a087bc7d8359edb8ca07e33",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a087c22b46605c794a07e39"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a087bf405e27c0dc1a07e36",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "6a087bc7d8359edb8ca07e33",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a087c071b11a253cfa07e37",
+                  "5a32aa8bc4a2826c6e06d737",
+                  "58d268fc86f774111273f8c2"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "Velocity": 0,
+      "Weight": 0.14,
+      "Width": 2,
+      "ExaminedByDefault": true
+    },
+    "locales": {
+      "en": {
+        "name": "Taurus TX22 slide",
+        "shortName": "TX22 Slide",
+        "description": "An incredibly light aluminum slide for the Taurus TX22, featuring a factory optics cut for mounting micro red dot sights."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 18500,
+    "handbookPriceRoubles": 15000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "traders": {
+      "SKIER": {
+        "6a087c36a2cf7052d8a07e3a": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 15000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
+  },
+
+  "6a087c22b46605c794a07e39": {
+    "itemTplToClone": "5a6f5d528dc32e00094b97d9",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Accuracy": 0,
+      "CanPutIntoDuringTheRaid": true,
+      "Ergonomics": 2,
+      "SightingRange": 100,
+      "Height": 1,
+      "Prefab": {
+        "path": "tx22-rearsight.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.002,
+      "Width": 1
+    },
+    "locales": {
+      "en": {
+        "name": "Taurus TX22 rear sight",
+        "shortName": "TX22 Rear",
+        "description": "A factory standard adjustable rear sight for the Taurus TX22."
+      }
+    },
+    "fleaPriceRoubles": 1500,
+    "handbookPriceRoubles": 1250,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "SKIER": {
+        "6a087c1d58a07a4dcca07e38": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "6a087c071b11a253cfa07e37": {
+    "itemTplToClone": "5a71e1868dc32e00094b97f3",
+    "parentId": "5a74651486f7744e73386dd1",
+    "handbookParentId": "5b5f74cc86f77447ec5d770a",
+    "overrideProperties": {
+      "Accuracy": 0,
+      "CanPutIntoDuringTheRaid": true,
+      "Ergonomics": 2,
+      "Height": 1,
+      "Prefab": {
+        "path": "tx22-rmrplate.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.002,
+      "Width": 1,
+      "Slots": [
+       
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Taurus TX22 sight cut cap",
+        "shortName": "TX22 Cap",
+        "description": "A cover plate used to fill the optics cut on the Taurus TX22 slide."
+      }
+    },
+    "fleaPriceRoubles": 2500,
+    "handbookPriceRoubles": 1500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "SKIER": {
+        "6b1000000000000000000042": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 2,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "6a07ad4c8baf651678a07e2b": {
+    "itemTplToClone": "5a718da68dc32e000d46d264",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "tx22-mag-17rd.bundle",
+        "rcid": ""
+      },
+      "CheckTimeModifier": -85,
+      "LoadUnloadModifier": -15,
+      "MalfunctionChance": 0.05,
+      "Weight": 0.06,
+      "Ergonomics": -1,
+      "magAnimationIndex": 1,
+      "VisibleAmmoRangesString": "1-17",
+      "ExaminedByDefault": true,
+      "Cartridges": [
+        {
+          "_id": "6a0873418c1add0f85a07e2c",
+          "_max_count": 17,
+          "_name": "cartridges",
+          "_parent": "6a07ad4c8baf651678a07e2b",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "694c796b42ae52a1a940f8ba",
+                  "694efa39da82e820e540f8da",
+                  "694ef9c8bc499b141d40f8d7",
+                  "69504d179eec4a16c140f8df",
+                  "42fb193ffb1315101b1d0441",
+                  "2b6a06054693ed3fa9c47542",
+                  "b972903f30708cd41c8265ba",
+                  "e8e8cdc108d343708aa07b2d"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Taurus TX22 17-round .22LR magazine",
+        "shortName": "TX22 17-rd",
+        "description": "A standard capacity 17-round .22LR magazine for the Taurus TX22 pistol."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 2500,
+    "handbookPriceRoubles": 2250,
+    "addtoTraders": true,
+    "addtoBots": true,
+    "addtoStaticLootContainers": false,
+    "traders": {
+      "SKIER": {
+        "6a087b64e5d17f39f6a07e2d": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 2250,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
+  },
+
+  "6a087b73a5a3f58940a07e2e": {
+    "itemTplToClone": "5a7ad2e851dfba0016153692",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "tx22-mag-32rd.bundle",
+        "rcid": ""
+      },
+      "CheckTimeModifier": -40,
+      "LoadUnloadModifier": -15,
+      "MalfunctionChance": 0.25,
+      "Weight": 0.1,
+      "ExtraSizeDown":1,
+
+      "Ergonomics": -4,
+      "magAnimationIndex": 2,
+      "VisibleAmmoRangesString": "1-34",
+      "ExaminedByDefault": true,
+      "Cartridges": [
+        {
+          "_id": "6a087b773a00114e6ca07e2f",
+          "_max_count": 34,
+          "_name": "cartridges",
+          "_parent": "6a087b73a5a3f58940a07e2e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "694c796b42ae52a1a940f8ba",
+                  "694efa39da82e820e540f8da",
+                  "694ef9c8bc499b141d40f8d7",
+                  "69504d179eec4a16c140f8df",
+                  "42fb193ffb1315101b1d0441",
+                  "2b6a06054693ed3fa9c47542",
+                  "b972903f30708cd41c8265ba",
+                  "e8e8cdc108d343708aa07b2d"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "ProMag TX22 34-round .22LR magazine",
+        "shortName": "TX22 34-rd",
+        "description": "An extended capacity 32-round .22LR magazine designed for the Taurus TX22 pistol. Tends to be slightly less reliable than the standard capacity variants."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 5500,
+    "handbookPriceRoubles": 4500,
+    "addtoTraders": true,
+    "addtoBots": true,
+    "addtoStaticLootContainers": false,
+    "traders": {
+      "SKIER": {
+        "6a087b8be8f85b6202a07e30": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 4500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
+  }
+}

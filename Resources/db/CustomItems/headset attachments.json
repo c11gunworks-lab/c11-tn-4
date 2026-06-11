@@ -1,0 +1,983 @@
+﻿{
+
+  "6917bfb870f5e5d6aea8165d": {
+    "itemTplToClone": "5a16b9fffcdbcb0176308b34",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "amparms.bundle", "rcid": "" },
+      "BackgroundColor": "blue",
+      "Width": 2, "Height": 1, "Weight": 0.15,
+      "ConflictingItems": ["66b5f6a28ca68c6461709ed8"],
+      "Grids": [],
+      "Slots": [
+        {
+          "_id": "6917c04854d8d66133809c05",
+          "_mergeSlotWithChildren": true,
+          "_name": "mod_arms",
+          "_parent": "6917bfb870f5e5d6aea8165d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c1976cf46fb7b4ffd866",
+                  "a01000000000000000000001",
+                  "a01000000000000000000002",
+                  "a01000000000000000000003",
+                  "a01000000000000000000004"
+                ]
+
+              }
+            ]
+          },
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Ops-Core Amp Arms",
+        "shortName": "Amp Arms",
+        "description": "ARC Rail mounted arms for holding hearing protection and communication headsets."
+      }
+    },
+    "fleaPriceRoubles": 25000,
+    "handbookPriceRoubles": 25000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": true,
+    "modSlot": ["mod_equipment_001"],
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6917c15e481d9ff7ca561360": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 35000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "6a0e13a9b1f1333de13052c8": {
+    "itemTplToClone": "5a16b9fffcdbcb0176308b34",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "amparms-tan.bundle", "rcid": "" },
+      "BackgroundColor": "blue",
+      "Width": 2, "Height": 1, "Weight": 0.15,
+      "ConflictingItems": ["66b5f6a28ca68c6461709ed8"],
+      "Grids": [],
+      "Slots": [
+        {
+          "_id": "6a0e13adcd4fa479223052c9",
+          "_mergeSlotWithChildren": true,
+          "_name": "mod_arms",
+          "_parent": "6a0e13a9b1f1333de13052c8",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c1976cf46fb7b4ffd866",
+                  "a01000000000000000000001",
+                  "a01000000000000000000002",
+                  "a01000000000000000000003",
+                  "a01000000000000000000004"
+                ]
+
+              }
+            ]
+          },
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Ops-Core Amp Arms Tan",
+        "shortName": "Amp Arms Tan",
+        "description": "ARC Rail mounted arms for holding hearing protection and communication headsets."
+      }
+    },
+    "fleaPriceRoubles": 25000,
+    "handbookPriceRoubles": 25000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": true,
+    "modSlot": ["mod_equipment_001"],
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6a0e13c44349de063a3052ca": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 35000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "6a0e13c5113b24a5bc3052cb": {
+    "itemTplToClone": "5a16b9fffcdbcb0176308b34",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "amparms-fg.bundle", "rcid": "" },
+      "BackgroundColor": "blue",
+      "Width": 2, "Height": 1, "Weight": 0.15,
+      "ConflictingItems": ["66b5f6a28ca68c6461709ed8"],
+      "Grids": [],
+      "Slots": [
+        {
+          "_id": "6a0e13cb59d6aada323052cc",
+          "_mergeSlotWithChildren": true,
+          "_name": "mod_arms",
+          "_parent": "6a0e13c5113b24a5bc3052cb",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c1976cf46fb7b4ffd866",
+                  "a01000000000000000000001",
+                  "a01000000000000000000002",
+                  "a01000000000000000000003",
+                  "a01000000000000000000004"
+                ]
+
+              }
+            ]
+          },
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Ops-Core Amp Arms Folliage Green",
+        "shortName": "Amp Arms FG",
+        "description": "ARC Rail mounted arms for holding hearing protection and communication headsets."
+      }
+    },
+    "fleaPriceRoubles": 25000,
+    "handbookPriceRoubles": 25000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": true,
+    "modSlot": ["mod_equipment_001"],
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6a0e13ce7778463c583052cd": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 35000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "6a0e13e4d4c66b01c53052ce": {
+    "itemTplToClone": "5a16b9fffcdbcb0176308b34",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "amparms-rg.bundle", "rcid": "" },
+      "BackgroundColor": "blue",
+      "Width": 2, "Height": 1, "Weight": 0.15,
+      "ConflictingItems": ["66b5f6a28ca68c6461709ed8"],
+      "Grids": [],
+      "Slots": [
+        {
+          "_id": "6a0e13e831486cdb9d3052cf",
+          "_mergeSlotWithChildren": true,
+          "_name": "mod_arms",
+          "_parent": "6a0e13c5113b24a5bc3052cb",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c1976cf46fb7b4ffd866",
+                  "a01000000000000000000001",
+                  "a01000000000000000000002",
+                  "a01000000000000000000003",
+                  "a01000000000000000000004"
+                ]
+
+              }
+            ]
+          },
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Ops-Core Amp Arms Ranger Green",
+        "shortName": "Amp Arms RG",
+        "description": "ARC Rail mounted arms for holding hearing protection and communication headsets."
+      }
+    },
+    "fleaPriceRoubles": 25000,
+    "handbookPriceRoubles": 25000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": true,
+    "modSlot": ["mod_equipment_001"],
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6a0e13f3034fe01a013052d0": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 35000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "693c59557af373b906645b54": {
+    "itemTplToClone": "66b5f6a28ca68c6461709ed8",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "twunity.bundle", "rcid": "" },
+      "BackgroundColor": "blue",
+      "Width": 1, "Height": 1, "Weight": 0.05,
+
+      "Grids": [],
+      "Slots": [{
+        "_id": "693c598392cdd71b29645b56",
+        "_mergeSlotWithChildren": true,
+        "_name": "mod_amps",
+        "_parent": "693c59557af373b906645b54",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6917bfb870f5e5d6aea8165d",
+                "5a16b9fffcdbcb0176308b34",
+                "6a0e13a9b1f1333de13052c8",
+                "6a0e13c5113b24a5bc3052cb",
+                "6a0e13e4d4c66b01c53052ce"
+              ]
+
+            }
+          ]
+        },
+        "_required": false
+      }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Unity Tactical Amps Adapter",
+        "shortName": "UNITY adapter",
+        "description": "Team Wendy MLOK adapter for mounting AMP Arms"
+      }
+    },
+    "fleaPriceRoubles": 5000,
+    "handbookPriceRoubles": 5000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": true,
+    "modSlot": ["mod_equipment_000"],
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "693c5ca5897a400b9e645b57": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 7000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "6917c1976cf46fb7b4ffd866": {
+    "itemTplToClone": "5a398ab9c4a282000c5a9842",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b47574386f77428ca22b32f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "raclink.bundle", "rcid": "" },
+      "BackgroundColor": "blue",
+      "Width": 1, "Height": 1, "Weight": 0.05,
+
+      "Grids": [],
+      "Slots": [{
+        "_id": "6917c1c304970d2ef15cd15d",
+        "_mergeSlotWithChildren": true,
+        "_name": "mod_headset",
+        "_parent": "6917c1976cf46fb7b4ffd866",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6917c23f71eb4b42ea95584b",
+                "6998e54173a6181d15f7a061",
+                "6998e57bc11d47d1b7f7a063",
+                "c06000000000000000000001",
+                "c06000000000000000000002",
+                "c06000000000000000000003",
+                "c06000000000000000000004",
+                "c04000000000000000000001",
+                "c04000000000000000000002",
+                "c04000000000000000000003",
+                "c04000000000000000000004",
+                "e01000000000000000000001",
+                "e01000000000000000000002",
+                "e01000000000000000000003",
+                "e01000000000000000000004"
+
+              ]
+
+            }
+          ]
+        },
+        "_required": true
+      }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "AXL Advanced RAC Link Gen 1",
+        "shortName": "RAC Link",
+        "description": "RAC Link Gen 1 adapter for mounting communication headsets to Ops-Core Amp Arms, made out of Tegris."
+      }
+    },
+    "fleaPriceRoubles": 25000,
+    "handbookPriceRoubles": 35000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6917c21c2414844d3314648d": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 15000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "6a0e1431ce75a53df33052d1": {
+    "itemTplToClone": "5a16b9fffcdbcb0176308b34",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "headset-pic-adapter.bundle", "rcid": "" },
+      "BackgroundColor": "blue",
+      "Width": 1, "Height": 1, "Weight": 0.05,
+
+      "Grids": [],
+      "Slots": [{
+        "_id": "6a0e143f7a478318013052d2",
+        "_mergeSlotWithChildren": true,
+        "_name": "mod_headset_001",
+        "_parent": "6a0e1431ce75a53df33052d1",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6917c23f71eb4b42ea95584b",
+                "6998e54173a6181d15f7a061",
+                "6998e57bc11d47d1b7f7a063",
+                
+                "c06000000000000000000001",
+                "c06000000000000000000002",
+                "c06000000000000000000003",
+                "c06000000000000000000004",
+                "c04000000000000000000001",
+                "c04000000000000000000002",
+                "c04000000000000000000003",
+                "c04000000000000000000004",
+                "e01000000000000000000001",
+                "e01000000000000000000002",
+                "e01000000000000000000003",
+                "e01000000000000000000004"
+
+              ]
+
+            }
+          ]
+        },
+        "_required": true
+      }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "3m Peltor Tactical Headset Adapter",
+        "shortName": "3m Pic ",
+        "description": "3m peltor adapter for mounting communication headsets to pic rails on FAST helmets"
+      }
+    },
+    "fleaPriceRoubles": 25000,
+    "handbookPriceRoubles": 35000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": true,
+    "modSlot": ["mod_equipment_001"],
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6a0e1465749fb508a13052d3": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 15000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+
+  "6a0e253fd13347b5a6305306": {
+    "itemTplToClone": "572b7d8524597762b472f9d1",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "Prefab": { "path": "headband-peltor.bundle", "rcid": "" },
+            
+      "BlocksEarpiece": false,
+      "BlocksEyewear": false,
+      "BlocksFaceCover": false,
+      "BlocksHeadwear": false,
+      "CanPutIntoDuringTheRaid": true,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      
+      "Slots": [
+        {
+          "_id": "6a0e25419e462e02ec305307",
+          "_mergeSlotWithChildren": true,
+          "_name": "mod_headset_000",
+          "_parent": "6a0e253fd13347b5a6305306",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c23f71eb4b42ea95584b",
+                  "6998e54173a6181d15f7a061",
+                  "6998e57bc11d47d1b7f7a063",
+                  "c06000000000000000000001",
+                  "c06000000000000000000002",
+                  "c06000000000000000000003",
+                  "c06000000000000000000004",
+                  "c04000000000000000000001",
+                  "c04000000000000000000002",
+                  "c04000000000000000000003",
+                  "c04000000000000000000004",
+                  "e01000000000000000000001",
+                  "e01000000000000000000002",
+                  "e01000000000000000000003",
+                  "e01000000000000000000004"
+                ]
+              }
+            ]
+          },
+          "_required": true
+        },
+        {
+          "_id": "6a0e255c8f762c8a20305308",
+          "_mergeSlotWithChildren": true,
+          "_name": "mod_band",
+          "_parent": "6a0e253fd13347b5a6305306",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a0e26261115cb8e9d30530c",
+                  "6a0e25e7c4fe58df2d30530a",
+                  "6a0e4358d460e95167305310",
+                  "6a0e43430b6f88f8d230530e"
+                ]
+              }
+            ]
+          },
+          "_required": true
+        }
+      ],
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "Weight": 0.15,
+      "Width": 2,
+      "Height": 2
+    },
+    "locales": {
+      "en": {
+        "name": "3m Peltor Tactical Headset Headband",
+        "shortName": "3m Headband ",
+        "description": "3m peltor Headband for mounting communication headsets to your freakin head"
+      }
+    },
+    "fleaPriceRoubles": 25000,
+    "handbookPriceRoubles": 35000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoInventorySlots": [
+"Earpiece"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6a0e2510e5614b03db305304": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 15000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a0e25e7c4fe58df2d30530a": {
+    "itemTplToClone": "5645bcc04bdc2d363b8b4572",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "headset-pad-rubber.bundle", "rcid": "" },
+      "Width": 1, "Height": 1, "Weight": 0.15,
+
+      "Grids": [],
+      "Slots": [
+
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "3m Peltor Rubber Headset Cover",
+        "shortName": "3m rubber ",
+        "description": "3m peltor Rubber Headset Cover for protecting your freakin head"
+      }
+    },
+    "fleaPriceRoubles": 25000,
+    "handbookPriceRoubles": 35000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+    "modSlot": [],
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6a0e25b2e0c072325b305309": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 15000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a0e26261115cb8e9d30530c": {
+    "itemTplToClone": "5645bcc04bdc2d363b8b4572",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "headset-pad-camo.bundle", "rcid": "" },
+      "Width": 1, "Height": 1, "Weight": 0.15,
+
+      "Grids": [],
+      "Slots": [
+
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Sordin Camo Headset Cover",
+        "shortName": "MSA Sordin Camo ",
+        "description": "Sordin Camo Headset Cover for protecting your freakin head"
+      }
+    },
+    "fleaPriceRoubles": 25000,
+    "handbookPriceRoubles": 35000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+    "modSlot": [],
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6a0e2603caf1ca041730530b": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 15000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a0e4358d460e95167305310": {
+    "itemTplToClone": "5645bcc04bdc2d363b8b4572",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "headset-pad-camo-fleck.bundle", "rcid": "" },
+      "Width": 1, "Height": 1, "Weight": 0.15,
+
+      "Grids": [],
+      "Slots": [
+
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Sordin Camo Headset Cover Flecktarn",
+        "shortName": "MSA Sordin Camo ",
+        "description": "Sordin Camo Headset Cover for protecting your freakin head"
+      }
+    },
+    "fleaPriceRoubles": 25000,
+    "handbookPriceRoubles": 35000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+    "modSlot": [],
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6a0e43500f2c2e888d30530f": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 15000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a0e43430b6f88f8d230530e": {
+    "itemTplToClone": "5645bcc04bdc2d363b8b4572",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "headset-pad-camo-abu.bundle", "rcid": "" },
+      "Width": 1, "Height": 1, "Weight": 0.15,
+
+      "Grids": [],
+      "Slots": [
+
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Sordin Camo ABU Headset Cover",
+        "shortName": "MSA Sordin Camo ",
+        "description": "Sordin Camo Headset Cover for protecting your freakin head"
+      }
+    },
+    "fleaPriceRoubles": 25000,
+    "handbookPriceRoubles": 35000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+    "modSlot": [],
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6a0e4340d380af2f8430530d": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 15000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

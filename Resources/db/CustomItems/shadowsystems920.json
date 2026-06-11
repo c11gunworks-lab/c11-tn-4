@@ -1,0 +1,673 @@
+﻿{
+  "6a1087fe49f3a17012a302ef": {
+    "itemTplToClone": "63088377b5cd696784087147",
+    "parentId": "5447b5cf4bdc2d65278b4567",
+    "handbookParentId": "5b5f792486f77447ed5636b3",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "cr920p-weapon.bundle",
+        "rcid": ""
+      },
+      "Durability": 100,
+      "Width": 1,
+      "DurabilityBurnRatio": 1.25,
+      "Ergonomics": 88,
+      "RecoilDampingHandRotation": 0.78,
+      "RecolDispersion": 9.5,
+      "RecoilForceBack": 260,
+      "RecoilCamera": 0.012,
+      "CoolFactorGun": 4.5,
+      "CoolFactorGunMods": 0.95,
+      "RecoilForceUp": 410,
+      "DeviationCurve": 2.10,
+      "DeviationMax": 10,
+      "RecoilReturnPathDampingHandRotation": 0.41,
+      "BaseMalfunctionChance": 0.15,
+      "Weight": 0.180,
+      "ExaminedByDefault": true,
+      "defAmmo": "58864a4f2459770fcc257101",
+      "defMagType": "6a10b78858b039730552f561",
+      "Chambers": [
+        {
+          "_id": "6a1089807ef4efc00ea302f0",
+          "_mergeSlotWithChildren": false,
+          "_name": "patron_in_weapon",
+          "_parent": "6a1087fe49f3a17012a302ef",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5efb0da7a29a85116f6ea05f",
+                  "5c3df7d588a4501f290594e5",
+                  "58864a4f2459770fcc257101",
+                  "56d59d3ad2720bdb418b4577",
+                  "5c925fa22e221601da359b7b",
+                  "5a3c16fe86f77452b62de32a",
+                  "5efb0e16aeb21837e749c7ff",
+                  "5c0d56a986f774449d5de529",
+                  "64b7bbb74b75259c590fa897"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d4af244bdc2d962f8b4571",
+          "_required": false
+        }
+      ],
+      "Slots": [
+        {
+          "_id": "6a108986093adb3c36a302f1",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_barrel",
+          "_parent": "6a1087fe49f3a17012a302ef",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a10b66c1ad901f6b852f55a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "6a1089f86ea70120d6a302f2",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_reciever",
+          "_parent": "6a1087fe49f3a17012a302ef",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a10b6fac0c2827bb252f55e"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "6a1089ffe777eb4cdba302f3",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_magazine",
+          "_parent": "6a1087fe49f3a17012a302ef",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": 0,
+                "Filter": [
+                  "6a10b78858b039730552f561"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d30c394bdc2dae468b4577",
+          "_required": false
+        },
+        {
+          "_id": "6a108a066eb999b87ca302f4",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical",
+          "_parent": "6a1087fe49f3a17012a302ef",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a7b483fe899ef0016170d15",
+                  "6a2b0cc78dcf9203554cd53d"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Shadow Systems CR920P 9x19mm pistol",
+        "shortName": "CR920P",
+        "description": "The CR920P is a subcompact, compensator-equipped 9x19mm pistol manufactured by Shadow Systems. Designed to fit into standard G43X MOS holsters, it features an aggressively textured frame, an optics-cut slide, and delivers the concealability of a subcompact with the shootability of a full-size pistol."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 53900,
+    "handbookPriceRoubles": 15100,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": true,
+    "masterySections": [
+      {
+        "Level2": 100,
+        "Level3": 125,
+        "Name": "GLOCK19",
+        "Templates": [
+          "63088377b5cd696784087147"
+        ]
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "6a108a5b24d44e956fa302f5",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "SS CR920P",
+        "_parent": "6a108a696d8fccae21a302f6",
+        "_items": [
+          {
+            "_id": "6a108a696d8fccae21a302f6",
+            "_tpl": "6a1087fe49f3a17012a302ef",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              }
+            }
+          },
+          {
+            "_id": "6a108a800ac14ff06ca302f7",
+            "_tpl": "6a10b66c1ad901f6b852f55a",
+            "parentId": "6a108a696d8fccae21a302f6",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "6a108ab40c046212bda302f8",
+            "_tpl": "6a10b6fac0c2827bb252f55e",
+            "parentId": "6a108a696d8fccae21a302f6",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "6a108aef7864c6f618a302fa",
+            "_tpl": "6a10b78858b039730552f561",
+            "parentId": "6a108a696d8fccae21a302f6",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "6a108af611011bd70ea302fb",
+            "_tpl": "6a10b82392962a745e52f564",
+            "parentId": "6a108a800ac14ff06ca302f7",
+            "slotId": "mod_muzzle_000"
+          },
+          {
+            "_id": "6a108abb62ff08bcada302f9",
+            "_tpl": "5a32aa8bc4a2826c6e06d737",
+            "parentId": "6a108ab40c046212bda302f8",
+            "slotId": "mod_scope"
+          },
+          {
+            "_id": "6a10b944da699ff5e852f568",
+            "_tpl": "6a10b867bc3d46c41552f566",
+            "parentId": "6a108ab40c046212bda302f8",
+            "slotId": "mod_rear_sight"
+          }
+        ],
+        "_encyclopedia": "6a1087fe49f3a17012a302ef"
+      }
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "6a108b0ebb43e70d4fa302fc": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 32500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a10b66c1ad901f6b852f55a": {
+    "itemTplToClone": "630764fea987397c0816d219",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "cr920p-barrel.bundle",
+        "rcid": ""
+      },
+      "CenterOfImpact": 0.20,
+      "Width": 1,
+      "CoolFactor": 0.95,
+      "DeviationCurve": 2.20,
+      "DeviationMax": 9,
+      "HeatFactor": 0.95,
+      "ExaminedByDefault": true,
+      "BackgroundColor": "yellow",
+      "Ergonomics": -2,
+      "Recoil": -2,
+      "Accuracy": 2,
+      "Velocity": -2,
+      "Weight": 0.08,
+      "Slots": [
+        {
+          "_id": "6a10b69ad5f2ef78c452f55b",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle_000",
+          "_parent": "6a10b66c1ad901f6b852f55a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a10b82392962a745e52f564"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Shadow Systems CR920P 9x19mm threaded barrel",
+        "shortName": "CR920P Barrel",
+        "description": "A match-grade, spiral-fluted 9x19mm barrel designed specifically for the Shadow Systems CR920P. It features a proprietary attachment system for the Shadow Systems compensator, providing exceptional accuracy and reliability in a subcompact profile."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 14260,
+    "handbookPriceRoubles": 11660,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "traders": {
+      "MECHANIC": {
+        "6a10b6d2e94b01db3f52f55c": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a10b6fac0c2827bb252f55e": {
+    "itemTplToClone": "63075cc5962d0247b029dc2a",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "cr920p-slide.bundle",
+        "rcid": ""
+      },
+      "Accuracy": 0,
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "yellow",
+      "CoolFactor": 1.01,
+      "DurabilityBurnModificator": 1.05,
+      "Ergonomics": 8,
+      "HeatFactor": 1.03,
+      "Recoil": -3,
+      "Slots": [
+        {
+          "_id": "6a10b7043fb2b050f652f55f",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "6a10b6fac0c2827bb252f55e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "62811f461d5df4475f46a333",
+                  "5a32aa8bc4a2826c6e06d737",
+                  "58d268fc86f774111273f8c2"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a10b986649fd4c63e52f569",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_rear_sight",
+          "_parent": "6a10b6fac0c2827bb252f55e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a10b867bc3d46c41552f566"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "Velocity": 0,
+      "Weight": 0.18,
+      "Width": 1,
+      "ExaminedByDefault": true
+    },
+    "locales": {
+      "en": {
+        "name": "Shadow Systems CR920P 9x19mm slide",
+        "shortName": "CR920P Slide",
+        "description": "A custom-machined 17-4 stainless steel slide for the CR920P. Features directional serrations for easy manipulation and the patented Shadow Systems multi-footprint optic cut, allowing direct mounting of most micro red dot sights without adapter plates."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 43790,
+    "handbookPriceRoubles": 42000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "traders": {
+      "MECHANIC": {
+        "6a10b7596acc2a470552f560": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 42500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
+  },
+  "6a10b78858b039730552f561": {
+    "itemTplToClone": "5a718b548dc32e000d46d262",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "cr920p-mag.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.06,
+      "Ergonomics": -1,
+      "VisibleAmmoRangesString": "1-3",
+      "ExaminedByDefault": true,
+      "Cartridges": [
+        {
+          "_id": "6a10b7e49ce07837d852f562",
+          "_max_count": 13,
+          "_name": "cartridges",
+          "_parent": "6a10b78858b039730552f561",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5efb0da7a29a85116f6ea05f",
+                  "5c3df7d588a4501f290594e5",
+                  "58864a4f2459770fcc257101",
+                  "56d59d3ad2720bdb418b4577",
+                  "5c925fa22e221601da359b7b",
+                  "5a3c16fe86f77452b62de32a",
+                  "5efb0e16aeb21837e749c7ff",
+                  "5c0d56a986f774449d5de529",
+                  "64b7bbb74b75259c590fa897"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Shadow Systems CR920 9x19mm 13-round magazine",
+        "shortName": "CR920 13-round",
+        "description": "An extended 13-round proprietary magazine for the Shadow Systems CR920 and CR920P. Features a specialized basepad that extends the grip for better control while maintaining a highly concealable footprint."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 23215,
+    "handbookPriceRoubles": 21650,
+    "addtoTraders": true,
+    "addtoBots": true,
+    "addtoStaticLootContainers": false,
+    "traders": {
+      "MECHANIC": {
+        "6a10b81be2784b77ce52f563": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
+  },
+  "6a10b82392962a745e52f564": {
+    "itemTplToClone": "5a705e128dc32e000d46d258",
+    "parentId": "550aa4bf4bdc2dd6348b456b",
+    "handbookParentId": "5b5f724c86f774093f2ecf15",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "cr920p-muzzle.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [],
+      "Accuracy": 0,
+      "DurabilityBurnModificator": 1.35,
+      "Weight": 0.035,
+      "Recoil": -18,
+      "Height": 1,
+      "Ergonomics": -3,
+      "HeatFactor": 1.1,
+      "Width": 1,
+      "muzzleModType": "conpensator",
+      "Slots": [],
+      "ExaminedByDefault": true
+    },
+    "locales": {
+      "en": {
+        "name": "Shadow Systems CR920P 9mm compensator",
+        "shortName": "CR920P Comp",
+        "description": "A patented quick-detach compensator specifically designed for the CR920P. It seamlessly integrates with the slide to dramatically reduce felt recoil and muzzle rise, making the subcompact frame shoot like a much larger firearm."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 22900,
+    "handbookPriceRoubles": 27280,
+    "addtoTraders": true,
+    "addtoBots": true,
+    "addtoStaticLootContainers": false,
+    "traders": {
+      "MECHANIC": {
+        "6a10b85c05caf4595352f565": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 22500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
+  },
+  "6a10b867bc3d46c41552f566": {
+    "itemTplToClone": "5a6f5d528dc32e00094b97d9",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Accuracy": 0,
+      "CanPutIntoDuringTheRaid": true,
+      "Height": 1,
+      "Prefab": {
+        "path": "cr920p-rear-sight.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.012,
+      "Width": 1
+    },
+    "locales": {
+      "en": {
+        "name": "Shadow Systems rear iron sight",
+        "shortName": "SS Rear Sight",
+        "description": "A blackout serrated rear iron sight by Shadow Systems. Designed to provide a crisp sight picture and co-witness with most slide-mounted micro red dots."
+      }
+    },
+    "fleaPriceRoubles": 25000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+        "Probability": 15
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "6a10b895c12922e00652f567": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 20,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a2b0cc78dcf9203554cd53d": {
+    "itemTplToClone": "5a7b483fe899ef0016170d15",
+    "parentId": "55818b164bdc2ddc698b456c",
+    "handbookParentId": "5b5f737886f774093e6cb4fb",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "streamlight-tlr7.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 1,
+      "Height": 1,
+
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "Streamlight TLR-7",
+        "shortName": "TLR-7",
+        "description": "TLR."
+      }
+
+
+    },
+
+    "fleaPriceRoubles": 7500,
+    "handbookPriceRoubles": 8500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_tactical"
+    ],
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+
+    "traders": {
+      "MECHANIC": {
+        "6a2b0d05f0ca6fad094cd53e": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 120,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

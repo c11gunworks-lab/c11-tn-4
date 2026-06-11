@@ -1,0 +1,870 @@
+﻿{
+
+
+  "6917c23f71eb4b42ea95584b": {
+    "itemTplToClone": "66b5f693acff495a294927e3",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "comtac5mounted.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 2, "Height": 1,       "Weight": 0.35,
+      "ExtraSizeDown":1,
+      
+
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "Peltor ComTac V headset (Coyote)",
+        "shortName": "Comtac Mount",
+        "description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Has had it's headband removed. Manufactured by 3M Peltor. Coyote color version."
+      }
+    },
+    "fleaPriceRoubles": 65500,
+    "handbookPriceRoubles": 75500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6917c2d2a25a44797f895f75": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 69690,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6998e54173a6181d15f7a061": {
+    "itemTplToClone": "66b5f693acff495a294927e3",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": false,
+      "CanRequireOnRagfair": false,
+      "Prefab": { "path": "comtacaor1.bundle", "rcid": "" },
+      "BackgroundColor": "violet",
+      "Width": 2, "Height": 1,       "Weight": 0.35,
+      "ExtraSizeDown":1,
+      
+
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "Peltor ComTac V headset (AOR1)",
+        "shortName": "Comtac Mount",
+        "description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Has had it's headband removed. Manufactured by 3M Peltor. Coyote color version."
+      }
+    },
+    "fleaPriceRoubles": 165500,
+    "handbookPriceRoubles": 175500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6998e5717c371348d5f7a062": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 129690,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6998e57bc11d47d1b7f7a063": {
+    "itemTplToClone": "66b5f693acff495a294927e3",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "comtacmulticam.bundle", "rcid": "" },
+      "BackgroundColor": "blue",
+      "Width": 2, "Height": 1,       "Weight": 0.35,
+      "ExtraSizeDown":1,
+      
+
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "Name": "Peltor ComTac V headset (Multicam)",
+        "shortName": "Comtac multicam",
+        "description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Has had it's headband removed. Manufactured by 3M Peltor. Coyote color version."
+      }
+    },
+    "fleaPriceRoubles": 75500,
+    "handbookPriceRoubles": 65500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6998e59368143100aff7a064": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 75000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "a01000000000000000000001": {
+    "itemTplToClone": "5a16b9fffcdbcb0176308b34",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "amp-headset.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 2, "Height": 1,       "Weight": 0.35,
+      "ExtraSizeDown":1,
+      
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "Ops-Core AMP headset (Black)",
+        "shortName": "AMP Blk",
+        "description": "An advanced communication headset equipped with  omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Manufactured by Ops-Core. Black color version."
+      }
+    },
+    "fleaPriceRoubles": 65500,
+    "handbookPriceRoubles": 75500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      { "ContainerName": "LOOTCONTAINER_PMC_BODY", "Probability": 250 },
+      { "containerName": "LOOTCONTAINER_WOODEN_CRATE", "probability": 150 }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "a01b00000000000000000001": {
+          "barterSettings": { "loyalLevel": 2, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters": [ { "count": 69690, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+  "a01000000000000000000002": {
+    "itemTplToClone": "5a16b9fffcdbcb0176308b34",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "amp-headset-fg.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 2, "Height": 1,       "Weight": 0.35,
+      "ExtraSizeDown":1,
+      
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "Ops-Core AMP headset (Foliage Green)",
+        "shortName": "AMP FG",
+        "description": "An advanced communication headset equipped with  omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Manufactured by Ops-Core. Foliage Green color version."
+      }
+    },
+    "fleaPriceRoubles": 65500,
+    "handbookPriceRoubles": 75500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      { "ContainerName": "LOOTCONTAINER_PMC_BODY", "Probability": 250 },
+      { "containerName": "LOOTCONTAINER_WOODEN_CRATE", "probability": 150 }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "a01b00000000000000000002": {
+          "barterSettings": { "loyalLevel": 2, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters": [ { "count": 69690, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+  "a01000000000000000000003": {
+    "itemTplToClone": "5a16b9fffcdbcb0176308b34",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "amp-headset-rg.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 2, "Height": 1,       "Weight": 0.35,
+      "ExtraSizeDown":1,
+      
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "Ops-Core AMP headset (Ranger Green)",
+        "shortName": "AMP RG",
+        "description": "An advanced communication headset equipped with  omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Manufactured by Ops-Core. Ranger Green color version."
+      }
+    },
+    "fleaPriceRoubles": 65500,
+    "handbookPriceRoubles": 75500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      { "ContainerName": "LOOTCONTAINER_PMC_BODY", "Probability": 250 },
+      { "containerName": "LOOTCONTAINER_WOODEN_CRATE", "probability": 150 }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "a01b00000000000000000003": {
+          "barterSettings": { "loyalLevel": 2, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters": [ { "count": 69690, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+  "a01000000000000000000004": {
+    "itemTplToClone": "5a16b9fffcdbcb0176308b34",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "amp-headset-tan.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 2, "Height": 1,       "Weight": 0.35,
+      "ExtraSizeDown":1,
+      
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "Ops-Core AMP headset (Tan99)",
+        "shortName": "AMP Tan",
+        "description": "An advanced communication headset equipped with  omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Manufactured by Ops-Core. Tan99 color version."
+      }
+    },
+    "fleaPriceRoubles": 65500,
+    "handbookPriceRoubles": 75500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      { "ContainerName": "LOOTCONTAINER_PMC_BODY", "Probability": 250 },
+      { "containerName": "LOOTCONTAINER_WOODEN_CRATE", "probability": 150 }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "a01b00000000000000000004": {
+          "barterSettings": { "loyalLevel": 2, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters": [ { "count": 69690, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+
+  "c06000000000000000000001": {
+    "itemTplToClone": "66b5f6985891c84aab75ca76",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "comtac6-dnc.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 2, "Height": 1,       "Weight": 0.35,
+      "ExtraSizeDown":1,
+      
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "Peltor ComTac VI headset (DNC)",
+        "shortName": "Comtac6 DNC",
+        "description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Manufactured by 3M Peltor. Desert Night Camo version."
+      }
+    },
+    "fleaPriceRoubles": 65500,
+    "handbookPriceRoubles": 75500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      { "ContainerName": "LOOTCONTAINER_PMC_BODY", "Probability": 250 },
+      { "containerName": "LOOTCONTAINER_WOODEN_CRATE", "probability": 150 }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "c06b00000000000000000001": {
+          "barterSettings": { "loyalLevel": 2, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters": [ { "count": 69690, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+  "c06000000000000000000002": {
+    "itemTplToClone": "66b5f6985891c84aab75ca76",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "comtac6-dnc-black.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 2, "Height": 1,       "Weight": 0.35,
+      "ExtraSizeDown":1,
+      
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "Peltor ComTac VI headset (DNC Black)",
+        "shortName": "Comtac6 DNCBlk",
+        "description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Manufactured by 3M Peltor. All Black Desert Night Camo version."
+      }
+    },
+    "fleaPriceRoubles": 65500,
+    "handbookPriceRoubles": 75500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      { "ContainerName": "LOOTCONTAINER_PMC_BODY", "Probability": 250 },
+      { "containerName": "LOOTCONTAINER_WOODEN_CRATE", "probability": 150 }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "c06b00000000000000000002": {
+          "barterSettings": { "loyalLevel": 2, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters": [ { "count": 69690, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+  "c06000000000000000000003": {
+    "itemTplToClone": "66b5f6985891c84aab75ca76",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "comtac6-mcb.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 2, "Height": 1,       "Weight": 0.35,
+      "ExtraSizeDown":1,
+      
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "Peltor ComTac VI headset (MCB)",
+        "shortName": "Comtac6 MCB",
+        "description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Manufactured by 3M Peltor. MultiCam Black version."
+      }
+    },
+    "fleaPriceRoubles": 65500,
+    "handbookPriceRoubles": 75500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      { "ContainerName": "LOOTCONTAINER_PMC_BODY", "Probability": 250 },
+      { "containerName": "LOOTCONTAINER_WOODEN_CRATE", "probability": 150 }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "c06b00000000000000000003": {
+          "barterSettings": { "loyalLevel": 2, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters": [ { "count": 69690, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+  "c06000000000000000000004": {
+    "itemTplToClone": "66b5f6985891c84aab75ca76",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "comtac6-ucp.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 2, "Height": 1,       "Weight": 0.35,
+      "ExtraSizeDown":1,
+      
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "Peltor ComTac VI headset (UCP)",
+        "shortName": "Comtac6 UCP",
+        "description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Manufactured by 3M Peltor. Universal Camo Pattern version."
+      }
+    },
+    "fleaPriceRoubles": 65500,
+    "handbookPriceRoubles": 75500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      { "ContainerName": "LOOTCONTAINER_PMC_BODY", "Probability": 250 },
+      { "containerName": "LOOTCONTAINER_WOODEN_CRATE", "probability": 150 }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "c06b00000000000000000004": {
+          "barterSettings": { "loyalLevel": 2, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters": [ { "count": 69690, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+
+  "c04000000000000000000001": {
+    "itemTplToClone": "628e4e576d783146b124c64d",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "comtaciv.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 2, "Height": 1,       "Weight": 0.35,
+      "ExtraSizeDown":1,
+      
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "Peltor ComTac IV headset (Tan)",
+        "shortName": "Comtac4 Tan",
+        "description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Manufactured by 3M Peltor. Tan color version."
+      }
+    },
+    "fleaPriceRoubles": 65500,
+    "handbookPriceRoubles": 75500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      { "ContainerName": "LOOTCONTAINER_PMC_BODY", "Probability": 250 },
+      { "containerName": "LOOTCONTAINER_WOODEN_CRATE", "probability": 150 }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "c04b00000000000000000001": {
+          "barterSettings": { "loyalLevel": 2, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters": [ { "count": 69690, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+  "c04000000000000000000002": {
+    "itemTplToClone": "628e4e576d783146b124c64d",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "comtaciv-dnc.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 2, "Height": 1,       "Weight": 0.35,
+      "ExtraSizeDown":1,
+      
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "Peltor ComTac IV headset (DNC)",
+        "shortName": "Comtac4 DNC",
+        "description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Manufactured by 3M Peltor. Desert Night Camo version."
+      }
+    },
+    "fleaPriceRoubles": 65500,
+    "handbookPriceRoubles": 75500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      { "ContainerName": "LOOTCONTAINER_PMC_BODY", "Probability": 250 },
+      { "containerName": "LOOTCONTAINER_WOODEN_CRATE", "probability": 150 }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "c04b00000000000000000002": {
+          "barterSettings": { "loyalLevel": 2, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters": [ { "count": 69690, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+  "c04000000000000000000003": {
+    "itemTplToClone": "628e4e576d783146b124c64d",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "comtaciv-dnc-black.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 2, "Height": 1,       "Weight": 0.35,
+      "ExtraSizeDown":1,
+      
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "Peltor ComTac IV headset (DNC Black)",
+        "shortName": "Comtac4 DNCBlk",
+        "description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Manufactured by 3M Peltor. All Black Desert Night Camo version."
+      }
+    },
+    "fleaPriceRoubles": 65500,
+    "handbookPriceRoubles": 75500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      { "ContainerName": "LOOTCONTAINER_PMC_BODY", "Probability": 250 },
+      { "containerName": "LOOTCONTAINER_WOODEN_CRATE", "probability": 150 }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "c04b00000000000000000003": {
+          "barterSettings": { "loyalLevel": 2, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters": [ { "count": 69690, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+  "c04000000000000000000004": {
+    "itemTplToClone": "628e4e576d783146b124c64d",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "comtaciv-mcb.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 2, "Height": 1,       "Weight": 0.35,
+      "ExtraSizeDown":1,
+      
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "Peltor ComTac IV headset (MCB)",
+        "shortName": "Comtac4 MCB",
+        "description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Manufactured by 3M Peltor. MultiCam Black version."
+      }
+    },
+    "fleaPriceRoubles": 65500,
+    "handbookPriceRoubles": 75500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      { "ContainerName": "LOOTCONTAINER_PMC_BODY", "Probability": 250 },
+      { "containerName": "LOOTCONTAINER_WOODEN_CRATE", "probability": 150 }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "c04b00000000000000000004": {
+          "barterSettings": { "loyalLevel": 2, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters": [ { "count": 69690, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+
+  "e01000000000000000000001": {
+    "itemTplToClone": "5aa2ba71e5b5b000137b758f",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "msa-sordins.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 2, "Height": 1,       "Weight": 0.35,
+      "ExtraSizeDown":1,
+      
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "MSA Sordin Supreme PRO-X/L headset (Forest Green)",
+        "shortName": "Sordin FG",
+        "description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Manufactured by MSA. Forest Green color version."
+      }
+    },
+    "fleaPriceRoubles": 65500,
+    "handbookPriceRoubles": 75500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      { "ContainerName": "LOOTCONTAINER_PMC_BODY", "Probability": 250 },
+      { "containerName": "LOOTCONTAINER_WOODEN_CRATE", "probability": 150 }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "e01b00000000000000000001": {
+          "barterSettings": { "loyalLevel": 2, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters": [ { "count": 69690, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+  "e01000000000000000000002": {
+    "itemTplToClone": "5aa2ba71e5b5b000137b758f",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "msa-sordins-dnc.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 2, "Height": 1,       "Weight": 0.35,
+      "ExtraSizeDown":1,
+      
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "MSA Sordin Supreme PRO-X/L headset (DNC)",
+        "shortName": "Sordin DNC",
+        "description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Manufactured by MSA. Desert Night Camo version."
+      }
+    },
+    "fleaPriceRoubles": 65500,
+    "handbookPriceRoubles": 75500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      { "ContainerName": "LOOTCONTAINER_PMC_BODY", "Probability": 250 },
+      { "containerName": "LOOTCONTAINER_WOODEN_CRATE", "probability": 150 }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "e01b00000000000000000002": {
+          "barterSettings": { "loyalLevel": 2, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters": [ { "count": 69690, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+  "e01000000000000000000003": {
+    "itemTplToClone": "5aa2ba71e5b5b000137b758f",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "msa-sordins-dnc-black.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 2, "Height": 1,       "Weight": 0.35,
+      "ExtraSizeDown":1,
+      
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "MSA Sordin Supreme PRO-X/L headset (DNC Black)",
+        "shortName": "Sordin DNCBlk",
+        "description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Manufactured by MSA. All Black Desert Night Camo version."
+      }
+    },
+    "fleaPriceRoubles": 65500,
+    "handbookPriceRoubles": 75500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      { "ContainerName": "LOOTCONTAINER_PMC_BODY", "Probability": 250 },
+      { "containerName": "LOOTCONTAINER_WOODEN_CRATE", "probability": 150 }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "e01b00000000000000000003": {
+          "barterSettings": { "loyalLevel": 2, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters": [ { "count": 69690, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  },
+  "e01000000000000000000004": {
+    "itemTplToClone": "5aa2ba71e5b5b000137b758f",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "msa-sordins-mcb.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 2, "Height": 1,
+      "Weight": 0.35,
+      "ExtraSizeDown":1,
+      
+
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "MSA Sordin Supreme PRO-X/L headset (MCB)",
+        "shortName": "Sordin MCB",
+        "description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Manufactured by MSA. MultiCam Black version."
+      }
+    },
+    "fleaPriceRoubles": 65500,
+    "handbookPriceRoubles": 75500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "StaticLootContainers": [
+      { "ContainerName": "LOOTCONTAINER_PMC_BODY", "Probability": 250 },
+      { "containerName": "LOOTCONTAINER_WOODEN_CRATE", "probability": 150 }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "e01b00000000000000000004": {
+          "barterSettings": { "loyalLevel": 2, "unlimitedCount": true, "stackObjectsCount": 99 },
+          "barters": [ { "count": 69690, "_tpl": "MONEY_ROUBLES" } ]
+        }
+      }
+    }
+  }
+
+}

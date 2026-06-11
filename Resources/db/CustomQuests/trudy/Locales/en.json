@@ -3,8 +3,8 @@
   "69b30ec8e0f88a8ea828ae3e description": "Mercenary. We have a... unique situation. A former head of state, or so he claims, has arrived in the region. He is trying very hard to blend in with the local scavengers, though his haircut costs more than my armored vehicles. We have a history from my UN days. He wants to meet you, but insists you prove your 'patriotism' to his homeland first. Humor him, yes? Go on a little hunting trip.",
   "69b30ec8e0f88a8ea828ae3e successMessageText": "Ah, you survived his little hunt. Good. He is waiting for you now. Try not to laugh at his accent.",
   "69b30ec8e0f88a8ea828ae3e acceptPlayerMessage": "He provided a list of... strange guns.  He said it represents his 'middle-class values'. Whatever that means.",
-  "69ffb08bbc63e83e5b4fcd20": "Kill 5 PMC's with the .22lr AR-15",
-  "69ffb02f9c9b93d4cd4fcd1b": "Kill 5 Scavs with the SKS",
+  "69ffb088c535c2b1fa4fcd1e": "Kill 5 PMC's with a .22lr weapon",
+  "69ffb03365396f9e274fcd1d": "Kill 5 Scavs with any type of SKS",
 
   "69b17a80d1cca0000ce9244e name": "Unpinned",
   "69b17a80d1cca0000ce9244e description": "We need to invest in the local community by, uh, permanently relocating those hosers driving down the property value, eh? Just give 'er with that Type-81. Oh, and grab me a screw-gun from the hardware store. We're building back better!",

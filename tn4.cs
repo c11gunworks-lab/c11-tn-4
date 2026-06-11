@@ -13,8 +13,8 @@ public record ModMetadata : AbstractModMetadata
 public override string ModGuid { get; init; } = "com.c11.truenorth4";
 public override string Name { get; init; } = "True North";
 public override string Author { get; init; } = "C11";
-public override SemanticVersioning.Version Version { get; init; } = new("3.0.1");
-public override Range SptVersion { get; init; } = new("~4.0.10");
+public override SemanticVersioning.Version Version { get; init; } = new("3.1.5");
+public override Range SptVersion { get; init; } = new("~4.0.13");
 
 public override string License { get; init; } = "MIT";
 public override bool? IsBundleMod { get; init; } = true;
@@ -42,12 +42,13 @@ public async Task OnLoad()
 var assembly = Assembly.GetExecutingAssembly();
 
 
-
 // Log resource names once while wiring things up
     foreach (var name in assembly.GetManifestResourceNames())
         log.LogDebug("[TrueNorth] Embedded resource: {Res}", name);
     TraderIds.Add("trudy", "699f89c757994beece5cf7e1");
 
+    
+    
     // WTT ingestion
     
     await wttCommon.CustomItemServiceExtended.CreateCustomItems(assembly);
@@ -63,7 +64,7 @@ var assembly = Assembly.GetExecutingAssembly();
 
     // DEBUG: list what the server actually registered
     var layouts = wttCommon.CustomRigLayoutService.GetLayoutManifest();
-    log.LogInformation("[True North] Rig layouts registered: {Layouts}", string.Join(", ", layouts));
+    log.LogDebug("[True North] Rig layouts registered: {Layouts}", string.Join(", ", layouts));
 
     log.LogInformation("Welcome to the True North");
     await Task.CompletedTask;

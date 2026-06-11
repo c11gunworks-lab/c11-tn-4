@@ -1,0 +1,611 @@
+{
+
+  "6a063d7c7be336b8eaa07e04": {
+    "itemTplToClone": "5e4abb5086f77406975c9342",
+    "parentId": "5448e54d4bdc2dcc718b4568",
+    "handbookParentId": "5b5f701386f774093f2ecf0f",
+    "overrideProperties": {
+      "Weight": 0.75,
+      "Height": 3,
+      "Width": 3,
+      "SpeedPenaltyPercent": 0,
+      "MousePenalty": 0,
+      "WeaponErgonomicPenalty": 2,
+      "armorClass": 0,
+      "ArmorMaterial": "Aramid",
+      "ArmorType": "Light",
+      "BlocksArmorVest":true,
+      "BluntThroughput": 0.15,
+      "CanSellOnRagfair":true,
+      "RicochetParams": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "ArmorZone": [],
+      "Prefab": {
+        "path": "jpc1-aor1.bundle",
+        "rcid": ""
+      },
+
+      "Slots": [
+        {
+          "_name": "Front_plate",
+          "_id": "6a063da77a96c4ee57a07e05",
+          "_parent": "6a063d7c7be336b8eaa07e04",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "64afdcb83efdfea28601d041",
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa76500d62bcd2e024080",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "65573fa5655447403702a816",
+                  "64afc71497cf3a403c01ff38",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_chest"
+                ],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Back_plate",
+          "_id": "6a063dbbca3806b832a07e07",
+          "_parent": "6a063d7c7be336b8eaa07e04",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "64afdcb83efdfea28601d041",
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa76500d62bcd2e024080",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_back"
+                ],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ],
+      "Grids": [
+
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "JPC 1.0 AOR1",
+        "shortName": "JPC 1.0 AOR1",
+        "description": "bin laden "
+      }
+    },
+    "fleaPriceRoubles": 55000,
+    "handbookPriceRoubles": 65000,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "StaticLootContainers": [],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "6a063d4837fc5908aba07e03": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 67500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a063e1dbd0e87e04ca07e11": {
+    "itemTplToClone": "5e4abb5086f77406975c9342",
+    "parentId": "5448e54d4bdc2dcc718b4568",
+    "handbookParentId": "5b5f701386f774093f2ecf0f",
+    "overrideProperties": {
+      "Weight": 0.75,
+      "Height": 3,
+      "Width": 3,
+      "SpeedPenaltyPercent": 0,
+      "MousePenalty": 0,
+      "WeaponErgonomicPenalty": 2,
+      "armorClass": 0,
+      "ArmorMaterial": "Aramid",
+      "ArmorType": "Light",
+      "BlocksArmorVest":true,
+      "BluntThroughput": 0.15,
+      "CanSellOnRagfair":true,
+      "RicochetParams": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "ArmorZone": [],
+      "Prefab": {
+        "path": "jpc1-aor2.bundle",
+        "rcid": ""
+      },
+
+      "Slots": [
+        {
+          "_name": "Front_plate",
+          "_id": "6a063e1fa5d84786d8a07e12",
+          "_parent": "6a063e1dbd0e87e04ca07e11",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "64afdcb83efdfea28601d041",
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa76500d62bcd2e024080",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "65573fa5655447403702a816",
+                  "64afc71497cf3a403c01ff38",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_chest"
+                ],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Back_plate",
+          "_id": "6a063e228ed4015167a07e13",
+          "_parent": "6a063e1dbd0e87e04ca07e11",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "64afdcb83efdfea28601d041",
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa76500d62bcd2e024080",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_back"
+                ],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ],
+      "Grids": [
+
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "JPC 1.0 AOR2",
+        "shortName": "JPC 1.0 AOR2",
+        "description": "bin laden "
+      }
+    },
+    "fleaPriceRoubles": 55000,
+    "handbookPriceRoubles": 65000,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "StaticLootContainers": [],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "6a063e150f08c779c6a07e10": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 67500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a063e01eccd94bc8aa07e0d": {
+    "itemTplToClone": "5e4abb5086f77406975c9342",
+    "parentId": "5448e54d4bdc2dcc718b4568",
+    "handbookParentId": "5b5f701386f774093f2ecf0f",
+    "overrideProperties": {
+      "Weight": 0.75,
+      "Height": 3,
+      "Width": 3,
+      "SpeedPenaltyPercent": 0,
+      "MousePenalty": 0,
+      "WeaponErgonomicPenalty": 2,
+      "armorClass": 0,
+      "ArmorMaterial": "Aramid",
+      "ArmorType": "Light",
+      "BlocksArmorVest":true,
+      "BluntThroughput": 0.15,
+      "CanSellOnRagfair":true,
+      "RicochetParams": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "ArmorZone": [],
+      "Prefab": {
+        "path": "jpc1-cadpat-mt.bundle",
+        "rcid": ""
+      },
+
+      "Slots": [
+        {
+          "_name": "Front_plate",
+          "_id": "6a063e03370c4103ada07e0e",
+          "_parent": "6a063de26b5633b182a07e09",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "64afdcb83efdfea28601d041",
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa76500d62bcd2e024080",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "65573fa5655447403702a816",
+                  "64afc71497cf3a403c01ff38",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_chest"
+                ],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Back_plate",
+          "_id": "6a063e07ccf1d616bba07e0f",
+          "_parent": "6a063de26b5633b182a07e09",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "64afdcb83efdfea28601d041",
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa76500d62bcd2e024080",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_back"
+                ],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ],
+      "Grids": [
+
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "JPC 1.0 cadpat mt",
+        "shortName": "JPC 1.0 cadpat mt",
+        "description": "bin laden "
+      }
+    },
+    "fleaPriceRoubles": 55000,
+    "handbookPriceRoubles": 65000,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "StaticLootContainers": [],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "6a063df40ffea0a0dba07e0c": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 67500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a063de26b5633b182a07e09": {
+    "itemTplToClone": "5e4abb5086f77406975c9342",
+    "parentId": "5448e54d4bdc2dcc718b4568",
+    "handbookParentId": "5b5f701386f774093f2ecf0f",
+    "overrideProperties": {
+      "Weight": 0.75,
+      "Height": 3,
+      "Width": 3,
+      "SpeedPenaltyPercent": 0,
+      "MousePenalty": 0,
+      "WeaponErgonomicPenalty": 2,
+      "armorClass": 0,
+      "ArmorMaterial": "Aramid",
+      "ArmorType": "Light",
+      "BlocksArmorVest":true,
+      "BluntThroughput": 0.15,
+      "CanSellOnRagfair":true,
+      "RicochetParams": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "ArmorZone": [],
+      "Prefab": {
+        "path": "jpc1-cadpat-tw.bundle",
+        "rcid": ""
+      },
+
+      "Slots": [
+        {
+          "_name": "Front_plate",
+          "_id": "6a063dead65c0369fea07e0a",
+          "_parent": "6a063de26b5633b182a07e09",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "64afdcb83efdfea28601d041",
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa76500d62bcd2e024080",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "65573fa5655447403702a816",
+                  "64afc71497cf3a403c01ff38",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_chest"
+                ],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Back_plate",
+          "_id": "6a063ded6fbd8237bda07e0b",
+          "_parent": "6a063de26b5633b182a07e09",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "64afdcb83efdfea28601d041",
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa76500d62bcd2e024080",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_back"
+                ],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ],
+      "Grids": [
+
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "JPC 1.0 CADPAT TW",
+        "shortName": "JPC 1.0 CADPAT TW",
+        "description": "bin laden "
+      }
+    },
+    "fleaPriceRoubles": 55000,
+    "handbookPriceRoubles": 65000,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "StaticLootContainers": [],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "6a063dd62a4d396528a07e08": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 67500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

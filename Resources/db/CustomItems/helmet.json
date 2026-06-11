@@ -84,7 +84,11 @@
               {
                 "Filter": [
                   "5a16b9fffcdbcb0176308b34",
-                  "6917bfb870f5e5d6aea8165d"
+                  "6917bfb870f5e5d6aea8165d",
+                  "6a0e13a9b1f1333de13052c8",
+                  "6a0e13c5113b24a5bc3052cb",
+                  "6a0e13e4d4c66b01c53052ce",
+                  "6a0e1431ce75a53df33052d1"
                 ],
                 "Shift": 0
               }
@@ -127,7 +131,11 @@
                   "6998e5bd183a239134f7a065",
                   "6998e5d477ac37a27df7a067",
                   "6998e5f7e34886d9bdf7a069",
-                  "6998e60c71292bd226f7a06b"
+                  "6998e60c71292bd226f7a06b",
+"6a0e18877bfae9bdea3052db",
+"6a0e18b0fb8c38f6153052dd",
+"6a0e18be267347aaf13052de",
+"6a0e18d6ee4e733d743052e1"
 
                 ],
                 "Shift": 0
@@ -146,7 +154,8 @@
             "filters": [
               {
                 "Filter": [
-                  "6917c69f14af1f6aff139dbd"
+                                    "6917c69f14af1f6aff139dbd",
+"6a0e17dc8fa4decb3b3052d5"
 
                 ],
                 "Shift": 0
@@ -164,7 +173,8 @@
           "_props": {
             "filters": [
               {
-                "Filter": [ "6917c6de1d18ca02f4868839"
+                "Filter": [ "6917c6de1d18ca02f4868839",
+                  "6a0e17dd4a9dfc67713052d6"
                   
 
                 ],
@@ -184,7 +194,9 @@
             "filters": [
               {
                 "Filter": [
-"6917c633200042156b8bdb52"
+"6917c633200042156b8bdb52",
+              "6a0e17dc7ac877c8423052d4"
+              
                 ],
                 "Shift": 0
               }
@@ -385,7 +397,11 @@
               {
                 "Filter": [
                   "5a16b9fffcdbcb0176308b34",
-                  "6917bfb870f5e5d6aea8165d"
+                  "6917bfb870f5e5d6aea8165d",
+                  "6a0e13a9b1f1333de13052c8",
+                  "6a0e13c5113b24a5bc3052cb",
+                  "6a0e13e4d4c66b01c53052ce",
+                  "6a0e1431ce75a53df33052d1"
                 ],
                 "Shift": 0
               }
@@ -428,7 +444,11 @@
                   "6998e5bd183a239134f7a065",
                   "6998e5d477ac37a27df7a067",
                   "6998e5f7e34886d9bdf7a069",
-                  "6998e60c71292bd226f7a06b"
+                  "6998e60c71292bd226f7a06b",
+"6a0e18877bfae9bdea3052db",
+"6a0e18b0fb8c38f6153052dd",
+"6a0e18be267347aaf13052de",
+"6a0e18d6ee4e733d743052e1"
 
                 ],
                 "Shift": 0
@@ -447,7 +467,8 @@
             "filters": [
               {
                 "Filter": [
-                  "6917c69f14af1f6aff139dbd"
+                                    "6917c69f14af1f6aff139dbd",
+"6a0e17dc8fa4decb3b3052d5"
 
                 ],
                 "Shift": 0
@@ -465,7 +486,8 @@
           "_props": {
             "filters": [
               {
-                "Filter": [ "6917c6de1d18ca02f4868839"
+                "Filter": [ "6917c6de1d18ca02f4868839",
+                  "6a0e17dd4a9dfc67713052d6"
 
 
                 ],
@@ -485,7 +507,8 @@
             "filters": [
               {
                 "Filter": [
-                  "6917c633200042156b8bdb52"
+                  "6917c633200042156b8bdb52",
+              "6a0e17dc7ac877c8423052d4"
                 ],
                 "Shift": 0
               }
@@ -656,7 +679,10 @@
               {
                 "Filter": [
                   "5a16b9fffcdbcb0176308b34",
-                  "6917bfb870f5e5d6aea8165d"
+                  "6917bfb870f5e5d6aea8165d","6a0e13a9b1f1333de13052c8",
+                  "6a0e13c5113b24a5bc3052cb",
+                  "6a0e13e4d4c66b01c53052ce",
+                  "6a0e1431ce75a53df33052d1"
                 ],
                 "Shift": 0
               }
@@ -699,7 +725,11 @@
                   "6998e5bd183a239134f7a065",
                   "6998e5d477ac37a27df7a067",
                   "6998e5f7e34886d9bdf7a069",
-                  "6998e60c71292bd226f7a06b"
+                  "6998e60c71292bd226f7a06b",
+"6a0e18877bfae9bdea3052db",
+"6a0e18b0fb8c38f6153052dd",
+"6a0e18be267347aaf13052de",
+"6a0e18d6ee4e733d743052e1"
 
                 ],
                 "Shift": 0
@@ -718,7 +748,8 @@
             "filters": [
               {
                 "Filter": [
-                  "6917c69f14af1f6aff139dbd"
+                                    "6917c69f14af1f6aff139dbd",
+"6a0e17dc8fa4decb3b3052d5"
 
                 ],
                 "Shift": 0
@@ -736,7 +767,8 @@
           "_props": {
             "filters": [
               {
-                "Filter": [ "6917c6de1d18ca02f4868839"
+                "Filter": [ "6917c6de1d18ca02f4868839",
+                  "6a0e17dd4a9dfc67713052d6"
 
 
                 ],
@@ -756,7 +788,8 @@
             "filters": [
               {
                 "Filter": [
-                  "6917c633200042156b8bdb52"
+                  "6917c633200042156b8bdb52",
+              "6a0e17dc7ac877c8423052d4"
                 ],
                 "Shift": 0
               }
@@ -926,7 +959,11 @@
               {
                 "Filter": [
                   "5a16b9fffcdbcb0176308b34",
-                  "6917bfb870f5e5d6aea8165d"
+                  "6917bfb870f5e5d6aea8165d",
+                  "6a0e13a9b1f1333de13052c8",
+                  "6a0e13c5113b24a5bc3052cb",
+                  "6a0e13e4d4c66b01c53052ce",
+                  "6a0e1431ce75a53df33052d1"
                 ],
                 "Shift": 0
               }
@@ -969,7 +1006,11 @@
                   "6998e5bd183a239134f7a065",
                   "6998e5d477ac37a27df7a067",
                   "6998e5f7e34886d9bdf7a069",
-                  "6998e60c71292bd226f7a06b"
+                  "6998e60c71292bd226f7a06b",
+"6a0e18877bfae9bdea3052db",
+"6a0e18b0fb8c38f6153052dd",
+"6a0e18be267347aaf13052de",
+"6a0e18d6ee4e733d743052e1"
 
                 ],
                 "Shift": 0
@@ -988,7 +1029,8 @@
             "filters": [
               {
                 "Filter": [
-                  "6917c69f14af1f6aff139dbd"
+                                    "6917c69f14af1f6aff139dbd",
+"6a0e17dc8fa4decb3b3052d5"
 
                 ],
                 "Shift": 0
@@ -1006,7 +1048,8 @@
           "_props": {
             "filters": [
               {
-                "Filter": [ "6917c6de1d18ca02f4868839"
+                "Filter": [ "6917c6de1d18ca02f4868839",
+                  "6a0e17dd4a9dfc67713052d6"
 
 
                 ],
@@ -1026,7 +1069,8 @@
             "filters": [
               {
                 "Filter": [
-                  "6917c633200042156b8bdb52"
+                  "6917c633200042156b8bdb52",
+              "6a0e17dc7ac877c8423052d4"
                 ],
                 "Shift": 0
               }
@@ -1088,8 +1132,8 @@
 
     "locales": {
       "en": {
-        "name": "Ops-Core FAST SF Next Generation Helmet (cadpat)",
-        "shortName": "Ops-Core cadpat",
+        "name": "Ops-Core FAST SF Next Generation Helmet (Cadpat MT)",
+        "shortName": "Ops-Core Cadpat MT",
         "description": "A Ground Branch issued Ops-Core FAST SF helmet, modified for use with night vision goggles and communication headsets. Provides level 3 ballistic protection for the top and back of the head."
       }
     },
@@ -1110,1152 +1154,2107 @@
   },
 
 
-
-  "6917bfb870f5e5d6aea8165d": {
-    "itemTplToClone": "5a16b9fffcdbcb0176308b34",
-    "parentId": "5645bcb74bdc2ded0b8b4578",
-    "handbookParentId": "5b5f6f3c86f774094242ef87",
+  "cad000000000000000000000": {
+    "itemTplToClone": "5a154d5cfcdbcb001a3b00da",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
     "overrideProperties": {
       "ExaminedByDefault": true,
-      "Prefab": { "path": "amparms.bundle", "rcid": "" },
+      "Prefab": {
+        "path": "opscorecadpattw.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 2,
       "BackgroundColor": "blue",
-      "Width": 2, "Height": 1, "Weight": 0.15,
-      "ConflictingItems": ["66b5f6a28ca68c6461709ed8"],
+      "Weight": 0.56,
       "Grids": [],
-       "Slots": [
-         {
-          "_id": "6917c04854d8d66133809c05",
-          "_mergeSlotWithChildren": true,
-          "_name": "mod_arms",
-          "_parent": "6917bfb870f5e5d6aea8165d",
+      "Slots": [
+        {
+          "_id": "cad000000000000000000010",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_000",
+          "_parent": "cad000000000000000000000",
           "_props": {
             "filters": [
               {
                 "Filter": [
-                    "6917c1976cf46fb7b4ffd866"
-                 
-                ]
-                
+                  "5a16badafcdbcb001865f72d",
+                  "5a16b672fcdbcb001912fa83",
+                  "5a16b7e1fcdbcb00165aa6c9"
+                ],
+                "Shift": 0
               }
             ]
           },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "cad000000000000000000011",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "cad000000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ea058e01dbce517f324b3e2",
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "cad000000000000000000012",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "cad000000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "cad000000000000000000013",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_001",
+          "_parent": "cad000000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                                    "5a16b9fffcdbcb0176308b34",
+                  "6917bfb870f5e5d6aea8165d",
+                  "6a0e13a9b1f1333de13052c8",
+                  "6a0e13c5113b24a5bc3052cb",
+                  "6a0e13e4d4c66b01c53052ce",
+                  "6a0e1431ce75a53df33052d1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "cad000000000000000000014",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_002",
+          "_parent": "cad000000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0e66e2d174af02a96252f4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "cad000000000000000000015",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_cover",
+          "_parent": "cad000000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c61265268ecbc220f1f2",
+                  "6917c5f64ae12687885bf18d",
+                  "6917c54d98d815c7861d1c59",
+                  "6917c4906c6dac68cc13588a",
+                  "6998e5bd183a239134f7a065",
+                  "6998e5d477ac37a27df7a067",
+                  "6998e5f7e34886d9bdf7a069",
+                  "6998e60c71292bd226f7a06b",
+"6a0e18877bfae9bdea3052db",
+"6a0e18b0fb8c38f6153052dd",
+"6a0e18be267347aaf13052de",
+"6a0e18d6ee4e733d743052e1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "cad000000000000000000016",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_patch_001",
+          "_parent": "cad000000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                                    "6917c69f14af1f6aff139dbd",
+"6a0e17dc8fa4decb3b3052d5"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "cad000000000000000000017",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_patch_002",
+          "_parent": "cad000000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c6de1d18ca02f4868839",
+                  "6a0e17dd4a9dfc67713052d6"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "cad000000000000000000018",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_patch_003",
+          "_parent": "cad000000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c633200042156b8bdb52",
+              "6a0e17dc7ac877c8423052d4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "cad000000000000000000019",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "cad000000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8ec5f4c82973640b234c"
+                ],
+                "Plate": "657f8ec5f4c82973640b234c",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "cad00000000000000000001a",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "cad000000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8f10f4c82973640b2350"
+                ],
+                "Plate": "657f8f10f4c82973640b2350",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
           "_required": true
         }
-    ]
-    },
-    "locales": {
-      "en": {
-        "name": "Ops-Core Amp Arms",
-        "shortName": "Amp Arms",
-        "description": "ARC Rail mounted arms for holding hearing protection and communication headsets."
-      }
-    },
-    "fleaPriceRoubles": 25000,
-    "handbookPriceRoubles": 25000,
-    "addtoBots": false,
-    "addtoSpecialSlots": false,
-
-    "addtoModSlots": true,
-    "modSlot": ["mod_equipment_001"],
-
-    "addtoStaticLootContainers": true,
-
-    "StaticLootContainers": [
-           {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
-      },
-      {
-      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
-      "probability": 150
-      }
-    ],
-    "addtoSecureFilters": true,
-    "addtoTraders": true,
-
-    "traders": {
-      "RAGMAN": {
-        "6917c15e481d9ff7ca561360": {
-          "barterSettings": {
-            "loyalLevel": 2,
-            "unlimitedCount": true,
-            "stackObjectsCount": 99
-          },
-          "barters": [
-            {
-              "count": 35000,
-              "_tpl": "MONEY_ROUBLES" 
-            }
-          ]
-        }
-      }
-    }
-  },
-  "693c59557af373b906645b54": {
-    "itemTplToClone": "66b5f6a28ca68c6461709ed8",
-    "parentId": "5645bcb74bdc2ded0b8b4578",
-    "handbookParentId": "5b5f6f3c86f774094242ef87",
-    "overrideProperties": {
-      "ExaminedByDefault": true,
-      "Prefab": { "path": "twunity.bundle", "rcid": "" },
-      "BackgroundColor": "blue",
-      "Width": 1, "Height": 1, "Weight": 0.05,
-
-      "Grids": [],
-      "Slots": [{
-        "_id": "693c598392cdd71b29645b56",
-        "_mergeSlotWithChildren": true,
-        "_name": "mod_amps",
-        "_parent": "693c59557af373b906645b54",
-        "_props": {
-          "filters": [
-            {
-              "Filter": [
-                "6917bfb870f5e5d6aea8165d",
-                "5a16b9fffcdbcb0176308b34"
-
-              ]
-
-            }
-          ]
-        },
-        "_required": false
-      }
       ]
     },
     "locales": {
       "en": {
-        "name": "Unity Tactical Amps Adapter",
-        "shortName": "UNITY adapter",
-        "description": "Team Wendy MLOK adapter for mounting AMP Arms"
+        "name": "Ops-Core FAST SF Next Generation Helmet (CADPAT TW)",
+        "shortName": "Ops-Core CADPAT TW",
+        "description": "A Ground Branch issued Ops-Core FAST SF helmet in CADPAT TW camouflage, modified for use with night vision goggles and communication headsets. Provides level 3 ballistic protection for the top and back of the head."
       }
     },
-    "fleaPriceRoubles": 5000,
-    "handbookPriceRoubles": 5000,
+    "fleaPriceRoubles": 150900,
+    "handbookPriceRoubles": 250000,
     "addtoBots": false,
-    "addtoSpecialSlots": false,
-
-    "addtoModSlots": true,
-    "modSlot": ["mod_equipment_000"],
-
-    "addtoStaticLootContainers": true,
-
-    "StaticLootContainers": [
-           {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
-      },
+    "addtoStaticLootContainers": false,
+    "StaticLootContainers": [],
+    "addtoSecureFilters": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
       {
-      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
-      "probability": 150
+        "_id": "cad000000000000000000020",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Ops-Core FAST SF Next Generation Helmet (CADPAT TW)",
+        "_parent": "cad000000000000000000021",
+        "_items": [
+          {
+            "_id": "cad000000000000000000021",
+            "_tpl": "cad000000000000000000000"
+          },
+          {
+            "_id": "cad000000000000000000022",
+            "_tpl": "657f8f10f4c82973640b2350",
+            "parentId": "cad000000000000000000021",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "cad000000000000000000023",
+            "_tpl": "657f8f10f4c82973640b2350",
+            "parentId": "cad000000000000000000021",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "_encyclopedia": "cad000000000000000000000"
       }
     ],
-    "addtoSecureFilters": true,
-    "addtoTraders": true,
-
-    "traders": {
-      "RAGMAN": {
-        "693c5ca5897a400b9e645b57": {
-          "barterSettings": {
-            "loyalLevel": 2,
-            "unlimitedCount": true,
-            "stackObjectsCount": 99
-          },
-          "barters": [
-            {
-              "count": 7000,
-              "_tpl": "MONEY_ROUBLES"
-            }
-          ]
-        }
-      }
-    }
+    "addtoTraders": false
   },
 
-  "6917c1976cf46fb7b4ffd866": {
-    "itemTplToClone": "5a398ab9c4a282000c5a9842",
-    "parentId": "55818b224bdc2dde698b456f",
-    "handbookParentId": "5b47574386f77428ca22b32f",
+  "d11c00000000000000000000": {
+    "itemTplToClone": "5a154d5cfcdbcb001a3b00da",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
     "overrideProperties": {
       "ExaminedByDefault": true,
-      "Prefab": { "path": "raclink.bundle", "rcid": "" },
+      "Prefab": {
+        "path": "opscorednc.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 2,
       "BackgroundColor": "blue",
-      "Width": 1, "Height": 1, "Weight": 0.05,
-      
+      "Weight": 0.56,
       "Grids": [],
-       "Slots": [{
-          "_id": "6917c1c304970d2ef15cd15d",
-          "_mergeSlotWithChildren": true,
-          "_name": "mod_headset",
-          "_parent": "6917c1976cf46fb7b4ffd866",
+      "Slots": [
+        {
+          "_id": "d11c00000000000000000010",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_000",
+          "_parent": "d11c00000000000000000000",
           "_props": {
             "filters": [
               {
                 "Filter": [
-                    "6917c23f71eb4b42ea95584b",
-                  "6998e54173a6181d15f7a061",
-                  "6998e57bc11d47d1b7f7a063"
-                 
-                ]
-                
+                  "5a16badafcdbcb001865f72d",
+                  "5a16b672fcdbcb001912fa83",
+                  "5a16b7e1fcdbcb00165aa6c9"
+                ],
+                "Shift": 0
               }
             ]
           },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "d11c00000000000000000011",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "d11c00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ea058e01dbce517f324b3e2",
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "d11c00000000000000000012",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "d11c00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "d11c00000000000000000013",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_001",
+          "_parent": "d11c00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                                    "5a16b9fffcdbcb0176308b34",
+                  "6917bfb870f5e5d6aea8165d",
+                  "6a0e13a9b1f1333de13052c8",
+                  "6a0e13c5113b24a5bc3052cb",
+                  "6a0e13e4d4c66b01c53052ce",
+                  "6a0e1431ce75a53df33052d1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "d11c00000000000000000014",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_002",
+          "_parent": "d11c00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0e66e2d174af02a96252f4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "d11c00000000000000000015",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_cover",
+          "_parent": "d11c00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c61265268ecbc220f1f2",
+                  "6917c5f64ae12687885bf18d",
+                  "6917c54d98d815c7861d1c59",
+                  "6917c4906c6dac68cc13588a",
+                  "6998e5bd183a239134f7a065",
+                  "6998e5d477ac37a27df7a067",
+                  "6998e5f7e34886d9bdf7a069",
+                  "6998e60c71292bd226f7a06b",
+"6a0e18877bfae9bdea3052db",
+"6a0e18b0fb8c38f6153052dd",
+"6a0e18be267347aaf13052de",
+"6a0e18d6ee4e733d743052e1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "d11c00000000000000000016",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_patch_001",
+          "_parent": "d11c00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                                    "6917c69f14af1f6aff139dbd",
+"6a0e17dc8fa4decb3b3052d5"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "d11c00000000000000000017",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_patch_002",
+          "_parent": "d11c00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c6de1d18ca02f4868839",
+                  "6a0e17dd4a9dfc67713052d6"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "d11c00000000000000000018",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_patch_003",
+          "_parent": "d11c00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c633200042156b8bdb52",
+              "6a0e17dc7ac877c8423052d4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "d11c00000000000000000019",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "d11c00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8ec5f4c82973640b234c"
+                ],
+                "Plate": "657f8ec5f4c82973640b234c",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "d11c0000000000000000001a",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "d11c00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8f10f4c82973640b2350"
+                ],
+                "Plate": "657f8f10f4c82973640b2350",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
           "_required": true
         }
-    ]
+      ]
     },
     "locales": {
       "en": {
-        "name": "AXL Advanced RAC Link Gen 1",
-        "shortName": "RAC Link",
-        "description": "RAC Link Gen 1 adapter for mounting communication headsets to Ops-Core Amp Arms, made out of Tegris."
+        "name": "Ops-Core FAST SF Next Generation Helmet (DNC)",
+        "shortName": "Ops-Core DNC",
+        "description": "A Ground Branch issued Ops-Core FAST SF helmet in Desert Night Camouflage (DNC), modified for use with night vision goggles and communication headsets. Provides level 3 ballistic protection for the top and back of the head."
       }
     },
-    "fleaPriceRoubles": 25000,
-    "handbookPriceRoubles": 35000,
+    "fleaPriceRoubles": 150900,
+    "handbookPriceRoubles": 250000,
     "addtoBots": false,
-    "addtoSpecialSlots": false,
-
-    "addtoModSlots": false,
-
-    "addtoStaticLootContainers": true,
-
-    "StaticLootContainers": [
-           {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
-      },
+    "addtoStaticLootContainers": false,
+    "StaticLootContainers": [],
+    "addtoSecureFilters": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
       {
-      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
-      "probability": 150
+        "_id": "d11c00000000000000000020",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Ops-Core FAST SF Next Generation Helmet (DNC)",
+        "_parent": "d11c00000000000000000021",
+        "_items": [
+          {
+            "_id": "d11c00000000000000000021",
+            "_tpl": "d11c00000000000000000000"
+          },
+          {
+            "_id": "d11c00000000000000000022",
+            "_tpl": "657f8f10f4c82973640b2350",
+            "parentId": "d11c00000000000000000021",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "d11c00000000000000000023",
+            "_tpl": "657f8f10f4c82973640b2350",
+            "parentId": "d11c00000000000000000021",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "_encyclopedia": "d11c00000000000000000000"
       }
     ],
-    "addtoSecureFilters": true,
-    "addtoTraders": true,
-
-    "traders": {
-      "RAGMAN": {
-        "6917c21c2414844d3314648d": {
-          "barterSettings": {
-            "loyalLevel": 2,
-            "unlimitedCount": true,
-            "stackObjectsCount": 99
-          },
-          "barters": [
-            {
-              "count": 15000,
-              "_tpl": "MONEY_ROUBLES" 
-            }
-          ]
-        }
-      }
-    }
+    "addtoTraders": false
   },
-     "6917c23f71eb4b42ea95584b": {
-    "itemTplToClone": "66b5f693acff495a294927e3",
-    "parentId": "5645bcb74bdc2ded0b8b4578",
-    "handbookParentId": "5b5f6f3c86f774094242ef87",
+
+  "d11b00000000000000000000": {
+    "itemTplToClone": "5a154d5cfcdbcb001a3b00da",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
     "overrideProperties": {
       "ExaminedByDefault": true,
-      "Prefab": { "path": "comtac5mounted.bundle", "rcid": "" },
-      "BackgroundColor": "default",
-      "Width": 2, "Height": 1, "Weight": 0.35,
-      
-      "Grids": [],
-       "Slots": []
-    },
-    "locales": {
-      "en": {
-        "name": "Peltor ComTac V headset (Coyote Mount)",
-        "shortName": "Comtac Mount",
-        "description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Has had it's headband removed. Manufactured by 3M Peltor. Coyote color version."
-      }
-    },
-    "fleaPriceRoubles": 65500,
-    "handbookPriceRoubles": 75500,
-    "addtoBots": false,
-    "addtoSpecialSlots": false,
-
-    "addtoModSlots": false,
-
-    "addtoStaticLootContainers": true,
-
-    "StaticLootContainers": [
-           {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
+      "Prefab": {
+        "path": "opscoredncblack.bundle",
+        "rcid": ""
       },
-      {
-      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
-      "probability": 150
-      }
-    ],
-    "addtoSecureFilters": true,
-    "addtoTraders": true,
-
-    "traders": {
-      "RAGMAN": {
-        "6917c2d2a25a44797f895f75": {
-          "barterSettings": {
-            "loyalLevel": 2,
-            "unlimitedCount": true,
-            "stackObjectsCount": 99
-          },
-          "barters": [
-            {
-              "count": 69690,
-              "_tpl": "MONEY_ROUBLES" 
-            }
-          ]
-        }
-      }
-    }
-  },
-  "6998e54173a6181d15f7a061": {
-    "itemTplToClone": "66b5f693acff495a294927e3",
-    "parentId": "5645bcb74bdc2ded0b8b4578",
-    "handbookParentId": "5b5f6f3c86f774094242ef87",
-    "overrideProperties": {
-      "ExaminedByDefault": false,
-      "CanRequireOnRagfair": false,
-      "Prefab": { "path": "comtacaor1.bundle", "rcid": "" },
-      "BackgroundColor": "violet",
-      "Width": 2, "Height": 1, "Weight": 0.35,
-
-      "Grids": [],
-      "Slots": []
-    },
-    "locales": {
-      "en": {
-        "name": "Peltor ComTac V headset (AOR1 Mount)",
-        "shortName": "Comtac Mount",
-        "description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Has had it's headband removed. Manufactured by 3M Peltor. Coyote color version."
-      }
-    },
-    "fleaPriceRoubles": 165500,
-    "handbookPriceRoubles": 175500,
-    "addtoBots": false,
-    "addtoSpecialSlots": false,
-
-    "addtoModSlots": false,
-
-    "addtoStaticLootContainers": true,
-
-    "StaticLootContainers": [
-           {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
-      },
-      {
-      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
-      "probability": 150
-      }
-    ],
-    "addtoSecureFilters": true,
-    "addtoTraders": true,
-
-    "traders": {
-      "RAGMAN": {
-        "6998e5717c371348d5f7a062": {
-          "barterSettings": {
-            "loyalLevel": 4,
-            "unlimitedCount": true,
-            "stackObjectsCount": 99
-          },
-          "barters": [
-            {
-              "count": 129690,
-              "_tpl": "MONEY_ROUBLES"
-            }
-          ]
-        }
-      }
-    }
-  },
-  "6998e57bc11d47d1b7f7a063": {
-    "itemTplToClone": "66b5f693acff495a294927e3",
-    "parentId": "5645bcb74bdc2ded0b8b4578",
-    "handbookParentId": "5b5f6f3c86f774094242ef87",
-    "overrideProperties": {
-      "ExaminedByDefault": true,
-      "Prefab": { "path": "comtacmulticam.bundle", "rcid": "" },
+      "Width": 2,
+      "Height": 2,
       "BackgroundColor": "blue",
-      "Width": 2, "Height": 1, "Weight": 0.35,
-
+      "Weight": 0.56,
       "Grids": [],
-      "Slots": []
+      "Slots": [
+        {
+          "_id": "d11b00000000000000000010",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_000",
+          "_parent": "d11b00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16badafcdbcb001865f72d",
+                  "5a16b672fcdbcb001912fa83",
+                  "5a16b7e1fcdbcb00165aa6c9"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "d11b00000000000000000011",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "d11b00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ea058e01dbce517f324b3e2",
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "d11b00000000000000000012",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "d11b00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "d11b00000000000000000013",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_001",
+          "_parent": "d11b00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                                    "5a16b9fffcdbcb0176308b34",
+                  "6917bfb870f5e5d6aea8165d",
+                  "6a0e13a9b1f1333de13052c8",
+                  "6a0e13c5113b24a5bc3052cb",
+                  "6a0e13e4d4c66b01c53052ce",
+                  "6a0e1431ce75a53df33052d1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "d11b00000000000000000014",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_002",
+          "_parent": "d11b00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0e66e2d174af02a96252f4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "d11b00000000000000000015",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_cover",
+          "_parent": "d11b00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c61265268ecbc220f1f2",
+                  "6917c5f64ae12687885bf18d",
+                  "6917c54d98d815c7861d1c59",
+                  "6917c4906c6dac68cc13588a",
+                  "6998e5bd183a239134f7a065",
+                  "6998e5d477ac37a27df7a067",
+                  "6998e5f7e34886d9bdf7a069",
+                  "6998e60c71292bd226f7a06b",
+"6a0e18877bfae9bdea3052db",
+"6a0e18b0fb8c38f6153052dd",
+"6a0e18be267347aaf13052de",
+"6a0e18d6ee4e733d743052e1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "d11b00000000000000000016",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_patch_001",
+          "_parent": "d11b00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                                    "6917c69f14af1f6aff139dbd",
+"6a0e17dc8fa4decb3b3052d5"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "d11b00000000000000000017",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_patch_002",
+          "_parent": "d11b00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c6de1d18ca02f4868839",
+                  "6a0e17dd4a9dfc67713052d6"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "d11b00000000000000000018",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_patch_003",
+          "_parent": "d11b00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c633200042156b8bdb52",
+              "6a0e17dc7ac877c8423052d4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "d11b00000000000000000019",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "d11b00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8ec5f4c82973640b234c"
+                ],
+                "Plate": "657f8ec5f4c82973640b234c",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "d11b0000000000000000001a",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "d11b00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8f10f4c82973640b2350"
+                ],
+                "Plate": "657f8f10f4c82973640b2350",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
     },
     "locales": {
       "en": {
-        "Name": "Peltor ComTac V headset (multicam Mount)",
-        "shortName": "Comtac Mount",
-        "description": "A communication headset equipped with a microphone and omnidirectional high-fidelity speakers that are optimized for voice communication and capable of picking up sounds with high sensitivity. Has had it's headband removed. Manufactured by 3M Peltor. Coyote color version."
+        "name": "Ops-Core FAST SF Next Generation Helmet (DNC Black)",
+        "shortName": "Ops-Core DNC Blk",
+        "description": "A Ground Branch issued Ops-Core FAST SF helmet in Black Desert Night Camouflage (DNC Black), modified for use with night vision goggles and communication headsets. Provides level 3 ballistic protection for the top and back of the head."
       }
     },
-    "fleaPriceRoubles": 75500,
-    "handbookPriceRoubles": 65500,
+    "fleaPriceRoubles": 150900,
+    "handbookPriceRoubles": 250000,
     "addtoBots": false,
-    "addtoSpecialSlots": false,
-
-    "addtoModSlots": false,
-
-    "addtoStaticLootContainers": true,
-
-    "StaticLootContainers": [
-           {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
-      },
+    "addtoStaticLootContainers": false,
+    "StaticLootContainers": [],
+    "addtoSecureFilters": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
       {
-      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
-      "probability": 150
+        "_id": "d11b00000000000000000020",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Ops-Core FAST SF Next Generation Helmet (DNC Black)",
+        "_parent": "d11b00000000000000000021",
+        "_items": [
+          {
+            "_id": "d11b00000000000000000021",
+            "_tpl": "d11b00000000000000000000"
+          },
+          {
+            "_id": "d11b00000000000000000022",
+            "_tpl": "657f8f10f4c82973640b2350",
+            "parentId": "d11b00000000000000000021",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "d11b00000000000000000023",
+            "_tpl": "657f8f10f4c82973640b2350",
+            "parentId": "d11b00000000000000000021",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "_encyclopedia": "d11b00000000000000000000"
       }
     ],
-    "addtoSecureFilters": true,
-    "addtoTraders": true,
-
-    "traders": {
-      "RAGMAN": {
-        "6998e59368143100aff7a064": {
-          "barterSettings": {
-            "loyalLevel": 3,
-            "unlimitedCount": true,
-            "stackObjectsCount": 99
-          },
-          "barters": [
-            {
-              "count": 75000,
-              "_tpl": "MONEY_ROUBLES"
-            }
-          ]
-        }
-      }
-    }
+    "addtoTraders": false
   },
-      "6917c4906c6dac68cc13588a": {
-        "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
-        "parentId": "57bef4c42459772e8d35a53b",
-        "handbookParentId": "5b5f704686f77447ec5d76d7",
+
+  "a11e00000000000000000000": {
+    "itemTplToClone": "5a154d5cfcdbcb001a3b00da",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
     "overrideProperties": {
       "ExaminedByDefault": true,
-      "ConflictingItems": ["6917c69f14af1f6aff139dbd",
-        "6917c6de1d18ca02f4868839",
-        "6917c633200042156b8bdb52"
-      ],
-
-      "Prefab": { "path": "coveraor2.bundle", "rcid": "" },
-      "BackgroundColor": "default",
-      "Width": 1, "Height": 1, "Weight": 0.15,
-      
-      "Grids": [],
-       "Slots": []
-    },
-    "locales": {
-     "en": {
-       
-  "Name": "Ops-Core helmet cover (AOR2)",
-  "shortName": "AOR2 Cover",
-  "description": "A tactical helmet cover designed for Ops-Core high-cut ballistic helmets. Made from durable nylon with reinforced stitching and attachment points for cables, counterweights, and accessories. Features the AOR2 digital camouflage pattern optimized for temperate and coastal environments."
-    }
-    },
-    "fleaPriceRoubles": 9500,
-    "handbookPriceRoubles": 11500,
-    "addtoBots": false,
-    "addtoSpecialSlots": false,
-
-    "addtoModSlots": false,
-
-    "addtoStaticLootContainers": true,
-
-    "StaticLootContainers": [
-           {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
+      "Prefab": {
+        "path": "opscoremcalp.bundle",
+        "rcid": ""
       },
-      {
-      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
-      "probability": 150
-      }
-    ],
-    "addtoSecureFilters": true,
-    "addtoTraders": true,
-
-    "traders": {
-      "RAGMAN": {
-        "6917c5389f28860a6d972ec8": {
-          "barterSettings": {
-            "loyalLevel": 2,
-            "unlimitedCount": true,
-            "stackObjectsCount": 99
-          },
-          "barters": [
-            {
-              "count": 12500,
-              "_tpl": "MONEY_ROUBLES" 
-            }
-          ]
-        }
-      }
-    }
-  },
-
-
-
-  "6998e5bd183a239134f7a065": {
-    "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
-    "parentId": "57bef4c42459772e8d35a53b",
-    "handbookParentId": "5b5f704686f77447ec5d76d7",
-    "overrideProperties": {
-      "ExaminedByDefault": false,
-      "CanRequireOnRagfair": false,
-      "Prefab": { "path": "coveraor1.bundle", "rcid": "" },
-      "BackgroundColor": "violet",
-      "ConflictingItems": ["6917c69f14af1f6aff139dbd",
-        "6917c6de1d18ca02f4868839",
-        "6917c633200042156b8bdb52"
-      ],
-      "Width": 1, "Height": 1, "Weight": 0.15,
-
+      "Width": 2,
+      "Height": 2,
+      "BackgroundColor": "blue",
+      "Weight": 0.56,
       "Grids": [],
-      "Slots": []
-    },
-    "locales": {
-      "en": {
-
-        "Name": "Ops-Core helmet cover (AOR1)",
-        "shortName": "AOR2 Cover",
-        "Description": "A tactical helmet cover designed for Ops-Core high-cut ballistic helmets. Made from durable nylon with reinforced stitching and attachment points for cables, counterweights, and accessories. Features the AOR2 digital camouflage pattern optimized for temperate and coastal environments."
-      }
-    },
-    "fleaPriceRoubles": 9500,
-    "handbookPriceRoubles": 11500,
-    "addtoBots": false,
-    "addtoSpecialSlots": false,
-
-    "addtoModSlots": false,
-
-    "addtoStaticLootContainers": true,
-
-    "StaticLootContainers": [
-           {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
-      },
-      {
-      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
-      "probability": 150
-      }
-    ],
-    "addtoSecureFilters": true,
-    "addtoTraders": true,
-
-    "traders": {
-      "RAGMAN": {
-        "6998e5d183f6e7e2c5f7a066": {
-          "barterSettings": {
-            "loyalLevel": 4,
-            "unlimitedCount": true,
-            "stackObjectsCount": 99
+      "Slots": [
+        {
+          "_id": "a11e00000000000000000010",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_000",
+          "_parent": "a11e00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16badafcdbcb001865f72d",
+                  "5a16b672fcdbcb001912fa83",
+                  "5a16b7e1fcdbcb00165aa6c9"
+                ],
+                "Shift": 0
+              }
+            ]
           },
-          "barters": [
-            {
-              "count": 12500,
-              "_tpl": "MONEY_ROUBLES"
-            }
-          ]
-        }
-      }
-    }
-  },
-
-  "6998e5d477ac37a27df7a067": {
-    "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
-    "parentId": "57bef4c42459772e8d35a53b",
-    "handbookParentId": "5b5f704686f77447ec5d76d7",
-    "overrideProperties": {
-      "ExaminedByDefault": false,
-      "CanRequireOnRagfair": false,
-      "ConflictingItems": ["6917c69f14af1f6aff139dbd",
-        "6917c6de1d18ca02f4868839",
-        "6917c633200042156b8bdb52"
-      ],
-      "Prefab": { "path": "covercadpat.bundle", "rcid": "" },
-      "BackgroundColor": "default",
-      "Width": 1, "Height": 1, "Weight": 0.15,
-
-      "Grids": [],
-      "Slots": []
-    },
-    "locales": {
-      "en": {
-
-        "Name": "Ops-Core helmet cover (cadpat)",
-        "shortName": "AOR2 Cover",
-        "Description": "A tactical helmet cover designed for Ops-Core high-cut ballistic helmets. Made from durable nylon with reinforced stitching and attachment points for cables, counterweights, and accessories. Features the AOR2 digital camouflage pattern optimized for temperate and coastal environments."
-      }
-    },
-    "fleaPriceRoubles": 9500,
-    "handbookPriceRoubles": 11500,
-    "addtoBots": false,
-    "addtoSpecialSlots": false,
-
-    "addtoModSlots": false,
-
-    "addtoStaticLootContainers": true,
-
-    "StaticLootContainers": [
-           {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
-      },
-      {
-      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
-      "probability": 150
-      }
-    ],
-    "addtoSecureFilters": true,
-    "addtoTraders": true,
-
-    "traders": {
-      "TRUDY": {
-        "6998e5e54ae7484370f7a068": {
-          "barterSettings": {
-            "loyalLevel": 3,
-            "unlimitedCount": true,
-            "stackObjectsCount": 99
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "a11e00000000000000000011",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "a11e00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ea058e01dbce517f324b3e2",
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
           },
-          "barters": [
-            {
-              "count": 55,
-              "_tpl": "MONEY_EUROS"
-            }
-          ]
-        }
-      }
-    }
-  },
-
-
-  "6998e5f7e34886d9bdf7a069": {
-    "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
-    "parentId": "57bef4c42459772e8d35a53b",
-    "handbookParentId": "5b5f704686f77447ec5d76d7",
-    "overrideProperties": {
-      "ExaminedByDefault": true,
-      "ConflictingItems": ["6917c69f14af1f6aff139dbd",
-        "6917c6de1d18ca02f4868839",
-        "6917c633200042156b8bdb52"
-      ],
-      "Prefab": { "path": "covermcalp.bundle", "rcid": "" },
-      "BackgroundColor": "default",
-      "Width": 1, "Height": 1, "Weight": 0.15,
-
-      "Grids": [],
-      "Slots": []
-    },
-    "locales": {
-      "en": {
-
-        "Name": "Ops-Core helmet cover (mcalp",
-        "shortName": "AOR2 Cover",
-        "Description": "A tactical helmet cover designed for Ops-Core high-cut ballistic helmets. Made from durable nylon with reinforced stitching and attachment points for cables, counterweights, and accessories. Features the AOR2 digital camouflage pattern optimized for temperate and coastal environments."
-      }
-    },
-    "fleaPriceRoubles": 9500,
-    "handbookPriceRoubles": 11500,
-    "addtoBots": false,
-    "addtoSpecialSlots": false,
-
-    "addtoModSlots": false,
-
-    "addtoStaticLootContainers": true,
-
-    "StaticLootContainers": [
-           {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
-      },
-      {
-      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
-      "probability": 150
-      }
-    ],
-    "addtoSecureFilters": true,
-    "addtoTraders": true,
-
-    "traders": {
-      "RAGMAN": {
-        "6998e603c5909901b2f7a06a": {
-          "barterSettings": {
-            "loyalLevel": 2,
-            "unlimitedCount": true,
-            "stackObjectsCount": 99
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "a11e00000000000000000012",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "a11e00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
           },
-          "barters": [
-            {
-              "count": 12500,
-              "_tpl": "MONEY_ROUBLES"
-            }
-          ]
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "a11e00000000000000000013",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_001",
+          "_parent": "a11e00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                                    "5a16b9fffcdbcb0176308b34",
+                  "6917bfb870f5e5d6aea8165d",
+                  "6a0e13a9b1f1333de13052c8",
+                  "6a0e13c5113b24a5bc3052cb",
+                  "6a0e13e4d4c66b01c53052ce",
+                  "6a0e1431ce75a53df33052d1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "a11e00000000000000000014",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_002",
+          "_parent": "a11e00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0e66e2d174af02a96252f4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "a11e00000000000000000015",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_cover",
+          "_parent": "a11e00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c61265268ecbc220f1f2",
+                  "6917c5f64ae12687885bf18d",
+                  "6917c54d98d815c7861d1c59",
+                  "6917c4906c6dac68cc13588a",
+                  "6998e5bd183a239134f7a065",
+                  "6998e5d477ac37a27df7a067",
+                  "6998e5f7e34886d9bdf7a069",
+                  "6998e60c71292bd226f7a06b",
+"6a0e18877bfae9bdea3052db",
+"6a0e18b0fb8c38f6153052dd",
+"6a0e18be267347aaf13052de",
+"6a0e18d6ee4e733d743052e1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "a11e00000000000000000016",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_patch_001",
+          "_parent": "a11e00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                                    "6917c69f14af1f6aff139dbd",
+"6a0e17dc8fa4decb3b3052d5"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "a11e00000000000000000017",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_patch_002",
+          "_parent": "a11e00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c6de1d18ca02f4868839",
+                  "6a0e17dd4a9dfc67713052d6"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "a11e00000000000000000018",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_patch_003",
+          "_parent": "a11e00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c633200042156b8bdb52",
+              "6a0e17dc7ac877c8423052d4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "a11e00000000000000000019",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "a11e00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8ec5f4c82973640b234c"
+                ],
+                "Plate": "657f8ec5f4c82973640b234c",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "a11e0000000000000000001a",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "a11e00000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8f10f4c82973640b2350"
+                ],
+                "Plate": "657f8f10f4c82973640b2350",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
         }
-      }
-    }
-  },
-
-  "6998e60c71292bd226f7a06b": {
-    "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
-    "parentId": "57bef4c42459772e8d35a53b",
-    "handbookParentId": "5b5f704686f77447ec5d76d7",
-    "overrideProperties": {
-      "ExaminedByDefault": true,
-      "ConflictingItems": ["6917c69f14af1f6aff139dbd",
-        "6917c6de1d18ca02f4868839",
-        "6917c633200042156b8bdb52"
-      ],
-      "Prefab": { "path": "covermiami.bundle", "rcid": "" },
-      "BackgroundColor": "default",
-      "Width": 1, "Height": 1, "Weight": 0.15,
-
-      "Grids": [],
-      "Slots": []
+      ]
     },
     "locales": {
       "en": {
-
-        "Name": "Ops-Core helmet cover (AOR2)",
-        "shortName": "AOR2 Cover",
-        "Description": "A tactical helmet cover designed for Ops-Core high-cut ballistic helmets. Made from durable nylon with reinforced stitching and attachment points for cables, counterweights, and accessories. Features the AOR2 digital camouflage pattern optimized for temperate and coastal environments."
+        "name": "Ops-Core FAST SF Next Generation Helmet (MC Alpine)",
+        "shortName": "Ops-Core MC Alp",
+        "description": "A Ground Branch issued Ops-Core FAST SF helmet in MultiCam Alpine, modified for use with night vision goggles and communication headsets. Provides level 3 ballistic protection for the top and back of the head."
       }
     },
-    "fleaPriceRoubles": 9500,
-    "handbookPriceRoubles": 11500,
+    "fleaPriceRoubles": 150900,
+    "handbookPriceRoubles": 250000,
     "addtoBots": false,
-    "addtoSpecialSlots": false,
-
-    "addtoModSlots": false,
-
-    "addtoStaticLootContainers": true,
-
-    "StaticLootContainers": [
-           {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
-      },
+    "addtoStaticLootContainers": false,
+    "StaticLootContainers": [],
+    "addtoSecureFilters": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
       {
-      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
-      "probability": 150
+        "_id": "a11e00000000000000000020",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Ops-Core FAST SF Next Generation Helmet (MC Alpine)",
+        "_parent": "a11e00000000000000000021",
+        "_items": [
+          {
+            "_id": "a11e00000000000000000021",
+            "_tpl": "a11e00000000000000000000"
+          },
+          {
+            "_id": "a11e00000000000000000022",
+            "_tpl": "657f8f10f4c82973640b2350",
+            "parentId": "a11e00000000000000000021",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "a11e00000000000000000023",
+            "_tpl": "657f8f10f4c82973640b2350",
+            "parentId": "a11e00000000000000000021",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "_encyclopedia": "a11e00000000000000000000"
       }
     ],
-    "addtoSecureFilters": true,
-    "addtoTraders": true,
-
-    "traders": {
-      "RAGMAN": {
-        "6998e616d3bccd0772f7a06c": {
-          "barterSettings": {
-            "loyalLevel": 1,
-            "unlimitedCount": true,
-            "stackObjectsCount": 99
-          },
-          "barters": [
-            {
-              "count": 12500,
-              "_tpl": "MONEY_ROUBLES"
-            }
-          ]
-        }
-      }
-    }
+    "addtoTraders": false
   },
 
-
-
-  "6917c54d98d815c7861d1c59": {
-    "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
-    "parentId": "57bef4c42459772e8d35a53b",
-    "handbookParentId": "5b5f704686f77447ec5d76d7",
+  "bac100000000000000000000": {
+    "itemTplToClone": "5a154d5cfcdbcb001a3b00da",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
     "overrideProperties": {
       "ExaminedByDefault": true,
-      "ConflictingItems": ["6917c69f14af1f6aff139dbd",
-        "6917c6de1d18ca02f4868839",
-        "6917c633200042156b8bdb52"
-      ],
-      "Prefab": { "path": "coverdts.bundle", "rcid": "" },
-      "BackgroundColor": "default",
-      "Width": 1, "Height": 1, "Weight": 0.15,
-      
+      "Prefab": {
+        "path": "opscoremcb.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 2,
+      "BackgroundColor": "blue",
+      "Weight": 0.56,
       "Grids": [],
-       "Slots": []
+      "Slots": [
+        {
+          "_id": "bac100000000000000000010",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_000",
+          "_parent": "bac100000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16badafcdbcb001865f72d",
+                  "5a16b672fcdbcb001912fa83",
+                  "5a16b7e1fcdbcb00165aa6c9"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "bac100000000000000000011",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "bac100000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ea058e01dbce517f324b3e2",
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "bac100000000000000000012",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "bac100000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "bac100000000000000000013",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_001",
+          "_parent": "bac100000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                                    "5a16b9fffcdbcb0176308b34",
+                  "6917bfb870f5e5d6aea8165d",
+                  "6a0e13a9b1f1333de13052c8",
+                  "6a0e13c5113b24a5bc3052cb",
+                  "6a0e13e4d4c66b01c53052ce",
+                  "6a0e1431ce75a53df33052d1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "bac100000000000000000014",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_002",
+          "_parent": "bac100000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0e66e2d174af02a96252f4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "bac100000000000000000015",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_cover",
+          "_parent": "bac100000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c61265268ecbc220f1f2",
+                  "6917c5f64ae12687885bf18d",
+                  "6917c54d98d815c7861d1c59",
+                  "6917c4906c6dac68cc13588a",
+                  "6998e5bd183a239134f7a065",
+                  "6998e5d477ac37a27df7a067",
+                  "6998e5f7e34886d9bdf7a069",
+                  "6998e60c71292bd226f7a06b",
+"6a0e18877bfae9bdea3052db",
+"6a0e18b0fb8c38f6153052dd",
+"6a0e18be267347aaf13052de",
+"6a0e18d6ee4e733d743052e1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "bac100000000000000000016",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_patch_001",
+          "_parent": "bac100000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                                    "6917c69f14af1f6aff139dbd",
+"6a0e17dc8fa4decb3b3052d5"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "bac100000000000000000017",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_patch_002",
+          "_parent": "bac100000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c6de1d18ca02f4868839",
+                  "6a0e17dd4a9dfc67713052d6"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "bac100000000000000000018",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_patch_003",
+          "_parent": "bac100000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c633200042156b8bdb52",
+              "6a0e17dc7ac877c8423052d4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "bac100000000000000000019",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "bac100000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8ec5f4c82973640b234c"
+                ],
+                "Plate": "657f8ec5f4c82973640b234c",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "bac10000000000000000001a",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "bac100000000000000000000",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f8f10f4c82973640b2350"
+                ],
+                "Plate": "657f8f10f4c82973640b2350",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
     },
     "locales": {
       "en": {
-  "Name": "Ops-Core helmet cover (Desert Tiger Stripe)",
-  "ShortName": "DTS Cover",
-  "Description": "A helmet cover made for Ops-Core high-cut ballistic helmets, constructed from rugged, abrasion-resistant fabric. Finished in the Desert Tiger Stripe pattern, providing effective concealment in arid, sandy terrain and broken scrub environments."
-}
+        "name": "Ops-Core FAST SF Next Generation Helmet (MC Black)",
+        "shortName": "Ops-Core MCB",
+        "description": "A Ground Branch issued Ops-Core FAST SF helmet in MultiCam Black, modified for use with night vision goggles and communication headsets. Provides level 3 ballistic protection for the top and back of the head."
+      }
     },
-
-    "fleaPriceRoubles": 9500,
-    "handbookPriceRoubles": 11500,
+    "fleaPriceRoubles": 150900,
+    "handbookPriceRoubles": 250000,
     "addtoBots": false,
-    "addtoSpecialSlots": false,
-
-    "addtoModSlots": false,
-
-    "addtoStaticLootContainers": true,
-
-    "StaticLootContainers": [
-           {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
-      },
+    "addtoStaticLootContainers": false,
+    "StaticLootContainers": [],
+    "addtoSecureFilters": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
       {
-      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
-      "probability": 150
+        "_id": "bac100000000000000000020",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Ops-Core FAST SF Next Generation Helmet (MC Black)",
+        "_parent": "bac100000000000000000021",
+        "_items": [
+          {
+            "_id": "bac100000000000000000021",
+            "_tpl": "bac100000000000000000000"
+          },
+          {
+            "_id": "bac100000000000000000022",
+            "_tpl": "657f8f10f4c82973640b2350",
+            "parentId": "bac100000000000000000021",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "bac100000000000000000023",
+            "_tpl": "657f8f10f4c82973640b2350",
+            "parentId": "bac100000000000000000021",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "_encyclopedia": "bac100000000000000000000"
       }
     ],
-    "addtoSecureFilters": true,
-    "addtoTraders": true,
-
-    "traders": {
-      "RAGMAN": {
-        "6917c5e8583302698b943ad1": {
-          "barterSettings": {
-            "loyalLevel": 2,
-            "unlimitedCount": true,
-            "stackObjectsCount": 99
-          },
-          "barters": [
-            {
-              "count": 12500,
-              "_tpl": "MONEY_ROUBLES" 
-            }
-          ]
-        }
-      }
-    }
+    "addtoTraders": false
   },
-   "6917c5f64ae12687885bf18d": {
-     "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
-     "parentId": "57bef4c42459772e8d35a53b",
-     "handbookParentId": "5b5f704686f77447ec5d76d7",
+
+  "6a0e1a85c4ea8350b73052e3": {
+    "itemTplToClone": "5ea05cf85ad9772e6624305d",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
     "overrideProperties": {
       "ExaminedByDefault": true,
-      "Prefab": { "path": "covermcb.bundle", "rcid": "" },
-      "BackgroundColor": "default",
-      "ConflictingItems": ["6917c69f14af1f6aff139dbd",
-        "6917c6de1d18ca02f4868839",
-        "6917c633200042156b8bdb52"
-      ],
-      "Width": 1, "Height": 1, "Weight": 0.15,
-      
+      "Prefab": {
+        "path": "opscore-carbon-grey.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 2,
+      "Weight": 0.56,
       "Grids": [],
-       "Slots": []
+      "Slots": [
+        {
+          "_id": "6a0e1ad76e65c964f53052e4",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_000",
+          "_parent": "6a0e1a85c4ea8350b73052e3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16badafcdbcb001865f72d",
+                  "5a16b672fcdbcb001912fa83",
+                  "5a16b7e1fcdbcb00165aa6c9"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a0e1adb7a2e6799d73052e5",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "6a0e1a85c4ea8350b73052e3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ea058e01dbce517f324b3e2",
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a0e1ade78074eeafa3052e6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "6a0e1a85c4ea8350b73052e3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a0e1ae0f317030a573052e7",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_001",
+          "_parent": "6a0e1a85c4ea8350b73052e3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16b9fffcdbcb0176308b34",
+                  "6917bfb870f5e5d6aea8165d",
+                  "6a0e13a9b1f1333de13052c8",
+                  "6a0e13c5113b24a5bc3052cb",
+                  "6a0e13e4d4c66b01c53052ce",
+                  "6a0e1431ce75a53df33052d1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a0e1ae5437ce7dd1d3052e8",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_002",
+          "_parent": "6a0e1a85c4ea8350b73052e3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0e66e2d174af02a96252f4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a0e1ae82883a360173052e9",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_cover",
+          "_parent": "6a0e1a85c4ea8350b73052e3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c61265268ecbc220f1f2",
+                  "6917c5f64ae12687885bf18d",
+                  "6917c54d98d815c7861d1c59",
+                  "6917c4906c6dac68cc13588a",
+                  "6998e5bd183a239134f7a065",
+                  "6998e5d477ac37a27df7a067",
+                  "6998e5f7e34886d9bdf7a069",
+                  "6998e60c71292bd226f7a06b",
+                  "6a0e18877bfae9bdea3052db",
+                  "6a0e18b0fb8c38f6153052dd",
+                  "6a0e18be267347aaf13052de",
+                  "6a0e18d6ee4e733d743052e1"
+
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a0e1aec34b16ca5513052ea",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_patch_001",
+          "_parent": "6a0e1a85c4ea8350b73052e3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c69f14af1f6aff139dbd",
+                  "6a0e17dc8fa4decb3b3052d5"
+
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a0e1aee655dd9696a3052eb",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_patch_002",
+          "_parent": "6a0e1a85c4ea8350b73052e3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [ "6917c6de1d18ca02f4868839",
+                  "6a0e17dd4a9dfc67713052d6"
+
+
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a0e1af16dfc181a2e3052ec",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_patch_003",
+          "_parent": "6a0e1a85c4ea8350b73052e3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c633200042156b8bdb52",
+                  "6a0e17dc7ac877c8423052d4"
+
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a0e1af467b51e00d63052ed",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "6a0e1a85c4ea8350b73052e3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657ba2eef58ba5a625010798"
+                ],
+                "Plate": "657ba2eef58ba5a625010798",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "6a0e1af9a5b9c01a763052ee",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "6a0e1a85c4ea8350b73052e3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657ba34b9ba22f103e08139b"
+                ],
+                "Plate": "657ba34b9ba22f103e08139b",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
     },
+
     "locales": {
       "en": {
-  "Name": "Ops-Core helmet cover (Multicam Black)",
-  "ShortName": "MCB Cover",
-  "Description": "A high-durability helmet cover built for Ops-Core high-cut ballistic helmets. Produced from tear-resistant nylon with integrated cable management and hook-and-loop panels. Coated in the Multicam Black pattern, intended for law-enforcement and urban low-visibility operations."
-}
-
+        "name": "Ops-Core FAST SF Carbon Grey",
+        "shortName": "Carbon Grey",
+        "description": "A Ground Branch issued Ops-Core FAST SF helmet, modified for use with night vision goggles and communication headsets. Provides level 3 ballistic protection for the top and back of the head."
+      }
     },
 
-    "fleaPriceRoubles": 9500,
-    "handbookPriceRoubles": 11500,
+    "fleaPriceRoubles": 50900,
+
+    "handbookPriceRoubles": 50000,
+
+
     "addtoBots": false,
-    "addtoSpecialSlots": false,
 
-    "addtoModSlots": false,
-
-    "addtoStaticLootContainers": true,
-
+    "addtoStaticLootContainers": false,
     "StaticLootContainers": [
-           {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
-      },
-      {
-      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
-      "probability": 150
-      }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
-
-    "traders": {
-      "RAGMAN": {
-        "6917c609316f0a61ce2078a0": {
-          "barterSettings": {
-            "loyalLevel": 2,
-            "unlimitedCount": true,
-            "stackObjectsCount": 99
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "6a0e1b285fbb5475ce3052ef",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Ops-Core FAST SF Next Generation Helmet (GB)",
+        "_parent": "6a0e1b3f959d4d0c3e3052f0",
+        "_items": [
+          {
+            "_id": "6a0e1b3f959d4d0c3e3052f0",
+            "_tpl": "6a0e1a85c4ea8350b73052e3"
           },
-          "barters": [
-            {
-              "count": 12500,
-              "_tpl": "MONEY_ROUBLES" 
-            }
-          ]
-        }
+          {
+            "_id": "6a0e1b4af7913c4b573052f2",
+            "_tpl": "657ba2eef58ba5a625010798",
+            "parentId": "6a0e1b3f959d4d0c3e3052f0",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "6a0e1b48a47ccc997f3052f1",
+            "_tpl": "657ba34b9ba22f103e08139b",
+            "parentId": "6a0e1b3f959d4d0c3e3052f0",
+            "slotId": "Helmet_back"
+          }
+
+        ],
+        "_encyclopedia": "6a0e1a85c4ea8350b73052e3"
       }
-    }
+    ],
+    "addtoTraders": false
+
   },
-     "6917c61265268ecbc220f1f2": {
-       "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
-       "parentId": "57bef4c42459772e8d35a53b",
-       "handbookParentId": "5b5f704686f77447ec5d76d7",
+
+  "6a0e1ba65108fede933052f4": {
+    "itemTplToClone": "5ea05cf85ad9772e6624305d",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
     "overrideProperties": {
       "ExaminedByDefault": true,
-      "ConflictingItems": ["6917c69f14af1f6aff139dbd",
-        "6917c6de1d18ca02f4868839",
-        "6917c633200042156b8bdb52"
-      ],
-      "Prefab": { "path": "covermct.bundle", "rcid": "" },
-      "BackgroundColor": "default",
-      "Width": 1, "Height": 1, "Weight": 0.15,
-      
+      "Prefab": {
+        "path": "opscore-carbon-mc.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 2,
+      "Weight": 0.56,
       "Grids": [],
-       "Slots": []
+      "Slots": [
+        {
+          "_id": "6a0e1badc87c79f6b23052f5",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_000",
+          "_parent": "6a0e1ba65108fede933052f4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16badafcdbcb001865f72d",
+                  "5a16b672fcdbcb001912fa83",
+                  "5a16b7e1fcdbcb00165aa6c9"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a0e1bafae6847dfd13052f6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_nvg",
+          "_parent": "6a0e1ba65108fede933052f4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ea058e01dbce517f324b3e2",
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a0e1bb1ce49f631783052f7",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "6a0e1ba65108fede933052f4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a0e1bb57eeccbce593052f8",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_001",
+          "_parent": "6a0e1ba65108fede933052f4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16b9fffcdbcb0176308b34",
+                  "6917bfb870f5e5d6aea8165d",
+                  "6a0e13a9b1f1333de13052c8",
+                  "6a0e13c5113b24a5bc3052cb",
+                  "6a0e13e4d4c66b01c53052ce",
+                  "6a0e1431ce75a53df33052d1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a0e1bb7b4ba45b3a93052f9",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_equipment_002",
+          "_parent": "6a0e1ba65108fede933052f4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0e66e2d174af02a96252f4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a0e1bba3ddefdca493052fa",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_cover",
+          "_parent": "6a0e1ba65108fede933052f4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c61265268ecbc220f1f2",
+                  "6917c5f64ae12687885bf18d",
+                  "6917c54d98d815c7861d1c59",
+                  "6917c4906c6dac68cc13588a",
+                  "6998e5bd183a239134f7a065",
+                  "6998e5d477ac37a27df7a067",
+                  "6998e5f7e34886d9bdf7a069",
+                  "6998e60c71292bd226f7a06b",
+                  "6a0e18877bfae9bdea3052db",
+                  "6a0e18b0fb8c38f6153052dd",
+                  "6a0e18be267347aaf13052de",
+                  "6a0e18d6ee4e733d743052e1"
+
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a0e1bbdd37c8420d23052fb",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_patch_001",
+          "_parent": "6a0e1ba65108fede933052f4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c69f14af1f6aff139dbd",
+                  "6a0e17dc8fa4decb3b3052d5"
+
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a0e1bc0646f3bee6f3052fc",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_patch_002",
+          "_parent": "6a0e1ba65108fede933052f4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [ "6917c6de1d18ca02f4868839",
+                  "6a0e17dd4a9dfc67713052d6"
+
+
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a0e1bc3f86bc31c7e3052fd",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_patch_003",
+          "_parent": "6a0e1ba65108fede933052f4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6917c633200042156b8bdb52",
+                  "6a0e17dc7ac877c8423052d4"
+
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a0e1bc6c57ff6b6523052fe",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_top",
+          "_parent": "6a0e1ba65108fede933052f4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657ba2eef58ba5a625010798"
+                ],
+                "Plate": "657ba2eef58ba5a625010798",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        },
+        {
+          "_id": "6a0e1bc935b897b6733052ff",
+          "_mergeSlotWithChildren": true,
+          "_name": "Helmet_back",
+          "_parent": "6a0e1ba65108fede933052f4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657ba34b9ba22f103e08139b"
+                ],
+                "Plate": "657ba34b9ba22f103e08139b",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_proto": "64479fdf9731c8fadc0642c1",
+          "_required": true
+        }
+      ]
     },
+
     "locales": {
       "en": {
-  "Name": "Ops-Core helmet cover (Multicam Tropic)",
-  "ShortName": "MCT Cover",
-  "Description": "A rugged nylon helmet cover designed for Ops-Core high-cut ballistic helmets. Includes reinforced seams, accessory mounting points, and Velcro paneling. Uses the Multicam Tropic camouflage pattern for improved concealment in lush, dense jungle and green woodland environments."
-}
-
-
+        "name": "Ops-Core FAST SF Carbon Multicam",
+        "shortName": "Carbon MC",
+        "description": "A Ground Branch issued Ops-Core FAST SF helmet, modified for use with night vision goggles and communication headsets. Provides level 3 ballistic protection for the top and back of the head."
+      }
     },
 
-    "fleaPriceRoubles": 9500,
-    "handbookPriceRoubles": 11500,
+    "fleaPriceRoubles": 50900,
+
+    "handbookPriceRoubles": 50000,
+
+
     "addtoBots": false,
-    "addtoSpecialSlots": false,
 
-    "addtoModSlots": false,
-
-    "addtoStaticLootContainers": true,
-
+    "addtoStaticLootContainers": false,
     "StaticLootContainers": [
-           {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
-      },
-      {
-      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
-      "probability": 150
-      }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
-
-    "traders": {
-      "RAGMAN": {
-        "6917c621189545d7c328fe7b": {
-          "barterSettings": {
-            "loyalLevel": 2,
-            "unlimitedCount": true,
-            "stackObjectsCount": 99
-          },
-          "barters": [
-            {
-              "count": 12500,
-              "_tpl": "MONEY_ROUBLES" 
-            }
-          ]
-        }
-      }
-    }
-  },
-       "6917c633200042156b8bdb52": {
-    "itemTplToClone": "5a398ab9c4a282000c5a9842",
-    "parentId": "55818b224bdc2dde698b456f",
-    "handbookParentId": "5b47574386f77428ca22b32f",
-    "overrideProperties": {
-      "ExaminedByDefault": true,
-      "Prefab": { "path": "c11bb.bundle", "rcid": "" },
-      "BackgroundColor": "default",
-      "Width": 1, "Height": 1, "Weight": 0.05,
-      
-      "Grids": [],
-       "Slots": []
-    },
-    "locales": {
-      "en": {
-  "Name": "C11 Blackbeard Patch",
-  "ShortName": "C11 BB",
-  "Description": "A version of blackbeards patch made by yours truly."
-}
-
-
-    },
-
-    "fleaPriceRoubles": 750,
-    "handbookPriceRoubles": 850,
-    "addtoBots": false,
-    "addtoSpecialSlots": false,
-
-    "addtoModSlots": false,
-
-    "addtoStaticLootContainers": true,
-
-    "StaticLootContainers": [
-           {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
-      },
+    "addWeaponPreset": true,
+    "weaponPresets": [
       {
-      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
-      "probability": 150
+        "_id": "6a0e1be0e505d190f6305300",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Ops-Core FAST SF Carbon Multicam",
+        "_parent": "6a0e1be25f65fdfc04305301",
+        "_items": [
+          {
+            "_id": "6a0e1be25f65fdfc04305301",
+            "_tpl": "6a0e1ba65108fede933052f4"
+          },
+          {
+            "_id": "6a0e1bf1f7d13b9a54305303",
+            "_tpl": "657ba2eef58ba5a625010798",
+            "parentId": "6a0e1be25f65fdfc04305301",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "6a0e1bf1f0239f87f6305302",
+            "_tpl": "657ba34b9ba22f103e08139b",
+            "parentId": "6a0e1be25f65fdfc04305301",
+            "slotId": "Helmet_back"
+          }
+
+        ],
+        "_encyclopedia": "6a0e1ba65108fede933052f4"
       }
     ],
-    "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false
 
-    "traders": {
-      "RAGMAN": {
-        "6917c68fb7a6e15cc336e431": {
-          "barterSettings": {
-            "loyalLevel": 2,
-            "unlimitedCount": true,
-            "stackObjectsCount": 99
-          },
-          "barters": [
-            {
-              "count": 1200,
-              "_tpl": "MONEY_ROUBLES" 
-            }
-          ]
-        }
-      }
-    }
-  },
-         "6917c69f14af1f6aff139dbd": {
-    "itemTplToClone": "5a398ab9c4a282000c5a9842",
-    "parentId": "55818b224bdc2dde698b456f",
-    "handbookParentId": "5b47574386f77428ca22b32f",
-    "overrideProperties": {
-      "ExaminedByDefault": true,
-      "Prefab": { "path": "skullmiami.bundle", "rcid": "" },
-      "BackgroundColor": "default",
-      "Width": 1, "Height": 1, "Weight": 0.05,
-      
-      "Grids": [],
-       "Slots": []
-    },
-    "locales": {
-      "en": {
-  "Name": "C11 No Kings (Miami)",
-  "ShortName": "C11 NK",
-  "Description": "We bow to no king."
-}
-
-
-    },
-
-    "fleaPriceRoubles": 750,
-    "handbookPriceRoubles": 850,
-    "addtoBots": false,
-    "addtoSpecialSlots": false,
-
-    "addtoModSlots": false,
-
-    "addtoStaticLootContainers": true,
-
-    "StaticLootContainers": [
-           {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
-      },
-      {
-      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
-      "probability": 150
-      }
-    ],
-    "addtoSecureFilters": true,
-    "addtoTraders": true,
-
-    "traders": {
-      "RAGMAN": {
-        "6917c6db98163a490b0c6056": {
-          "barterSettings": {
-            "loyalLevel": 2,
-            "unlimitedCount": true,
-            "stackObjectsCount": 99
-          },
-          "barters": [
-            {
-              "count": 1200,
-              "_tpl": "MONEY_ROUBLES" 
-            }
-          ]
-        }
-      }
-    }
-  },
-         "6917c6de1d18ca02f4868839": {
-    "itemTplToClone": "5a398ab9c4a282000c5a9842",
-    "parentId": "55818b224bdc2dde698b456f",
-    "handbookParentId": "5b47574386f77428ca22b32f",
-    "overrideProperties": {
-      "ExaminedByDefault": true,
-      "Prefab": { "path": "vegaor2.bundle", "rcid": "" },
-      "BackgroundColor": "default",
-      "Width": 1, "Height": 1, "Weight": 0.05,
-      
-      "Grids": [],
-       "Slots": []
-    },
-    "locales": {
-      "en": {
-  "Name": "C11 Vegvisvir Patch (AOR2)",
-  "ShortName": "C11 AOR2",
-  "Description": "A version of the Vegvisvir, a rune of protection."
-}
-
-
-    },
-
-    "fleaPriceRoubles": 750,
-    "handbookPriceRoubles": 850,
-    "addtoBots": false,
-    "addtoSpecialSlots": false,
-
-    "addtoModSlots": false,
-
-    "addtoStaticLootContainers": true,
-
-    "StaticLootContainers": [
-           {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
-      },
-      {
-      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
-      "probability": 150
-      }
-    ],
-    "addtoSecureFilters": true,
-    "addtoTraders": true,
-
-    "traders": {
-      "RAGMAN": {
-        "6917c71bc4496cbf2668585a": {
-          "barterSettings": {
-            "loyalLevel": 2,
-            "unlimitedCount": true,
-            "stackObjectsCount": 99
-          },
-          "barters": [
-            {
-              "count": 1200,
-              "_tpl": "MONEY_ROUBLES" 
-            }
-          ]
-        }
-      }
-    }
   }
+
 }

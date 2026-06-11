@@ -56,7 +56,7 @@ public class NvgSlotPusher(
             }
             else
             {
-                logger.LogWarning($"[UPT] Mount ID {mountId} not found in database.");
+                logger.LogWarning($"[c11-tn-4] Mount ID {mountId} not found in database.");
             }
         }
 
@@ -80,10 +80,10 @@ public class NvgSlotPusher(
             }
         }
 
-        logger.LogDebug($"[UPT] Successfully added {nvgIds.Count} NVG(s) to {mountsUpdated} basegame mount(s).");
+        logger.LogDebug($"[c11-tn-4] Successfully added {nvgIds.Count} NVG(s) to {mountsUpdated} basegame mount(s).");
         if (blacklistedMountIds.Count > 0)
         {
-            logger.LogDebug($"[UPT] Applied {blacklistedMountIds.Count} blacklisted conflict(s) to {nvgsUpdated} NVG(s).");
+            logger.LogDebug($"[c11-tn-4] Applied {blacklistedMountIds.Count} blacklisted conflict(s) to {nvgsUpdated} NVG(s).");
         }
 
         return Task.CompletedTask;

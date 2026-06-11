@@ -16,6 +16,48 @@
       ]
     },
     {
+      "key": "textures/fcpc-loaded-textures.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "textures/fcpc-lite-textures.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "textures/cr920p-textures.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "textures/helmet-master-tex.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "textures/tx22-textures.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "textures/lbt-6094-textures.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "textures/jpc-1-textures.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
       "key": "textures/bt-usw-textures.bundle",
       "dependencyKeys": [
         "c11_shaders.bundle"
@@ -712,6 +754,8 @@
         "assets/content/audio/blendoptions/assets.bundle",
         "assets/content/weapons/additional_hands/client_assets.bundle",
         "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "shaders",
         "c11_shaders.bundle"
       ]
     },
@@ -759,130 +803,426 @@
         "c11_shaders.bundle"
       ]
     },
+    
+    
+    {
+      "key": "amp-headset-fg.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "headband-peltor.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "headset-pad-rubber.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "headset-pad-camo.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "headset-pad-camo-abu.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "headset-pad-camo-fleck.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "amp-headset-rg.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "amp-headset-tan.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "amp-headset.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "amparms-fg.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "amparms-rg.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "amparms-tan.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
     {
       "key": "amparms.bundle",
       "dependencyKeys": [
-        "c11_shaders.bundle"
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
       ]
     },
     {
       "key": "c11bb.bundle",
       "dependencyKeys": [
-        "c11_shaders.bundle"
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "c11lfdh.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
       ]
     },
     {
       "key": "comtac5mounted.bundle",
       "dependencyKeys": [
-        "c11_shaders.bundle"
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "comtac6-dnc-black.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "comtac6-dnc.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "comtac6-mcb.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "headset-pic-adapter.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "comtac6-ucp.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
       ]
     },
     {
       "key": "comtacaor1.bundle",
       "dependencyKeys": [
-        "c11_shaders.bundle"
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "comtaciv-dnc-black.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "comtaciv-dnc.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "comtaciv-mcb.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "comtaciv.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
       ]
     },
     {
       "key": "comtacmulticam.bundle",
       "dependencyKeys": [
-        "c11_shaders.bundle"
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
       ]
     },
     {
       "key": "coveraor1.bundle",
       "dependencyKeys": [
-        "c11_shaders.bundle"
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
       ]
     },
     {
       "key": "coveraor2.bundle",
       "dependencyKeys": [
-        "c11_shaders.bundle"
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
       ]
     },
     {
       "key": "covercadpat.bundle",
       "dependencyKeys": [
-        "c11_shaders.bundle"
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
       ]
     },
     {
       "key": "coverdts.bundle",
       "dependencyKeys": [
-        "c11_shaders.bundle"
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
       ]
     },
     {
       "key": "covermcalp.bundle",
       "dependencyKeys": [
-        "c11_shaders.bundle"
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
       ]
     },
     {
       "key": "covermcb.bundle",
       "dependencyKeys": [
-        "c11_shaders.bundle"
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
       ]
     },
     {
       "key": "covermct.bundle",
       "dependencyKeys": [
-        "c11_shaders.bundle"
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
       ]
     },
     {
       "key": "covermiami.bundle",
       "dependencyKeys": [
-        "c11_shaders.bundle"
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "msa-sordins-dnc-black.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "msa-sordins-dnc.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "msa-sordins-mcb.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "msa-sordins.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "opscore-carbon-grey.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "opscore-carbon-mc.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
       ]
     },
     {
       "key": "opscoreaor1.bundle",
       "dependencyKeys": [
-        "c11_shaders.bundle"
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
       ]
     },
     {
       "key": "opscoreaor2.bundle",
       "dependencyKeys": [
-        "c11_shaders.bundle"
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
       ]
     },
     {
       "key": "opscorecadpat.bundle",
       "dependencyKeys": [
-        "c11_shaders.bundle"
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "opscorecadpattw.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "opscorednc.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "opscoredncblack.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
       ]
     },
     {
       "key": "opscoregb.bundle",
       "dependencyKeys": [
-        "c11_shaders.bundle"
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "opscoremcalp.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "opscoremcb.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
       ]
     },
     {
       "key": "raclink.bundle",
       "dependencyKeys": [
-        "c11_shaders.bundle"
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "skull-mcb.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
       ]
     },
     {
       "key": "skullmiami.bundle",
       "dependencyKeys": [
-        "c11_shaders.bundle"
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
       ]
     },
     {
       "key": "twunity.bundle",
       "dependencyKeys": [
-        "c11supershader.bundle"
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
       ]
     },
     {
       "key": "vegaor2.bundle",
       "dependencyKeys": [
-        "c11_shaders.bundle"
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "vegmcb.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "vlite-blue.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "vlite-green.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "vlite-ir.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
+      ]
+    },
+    {
+      "key": "vlite-red.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/helmet-master-tex.bundle"
       ]
     },
     {
@@ -1032,7 +1372,8 @@
     {
       "key": "fcpcaor2.bundle",
       "dependencyKeys": [
-        "c11_shaders.bundle"
+        "c11_shaders.bundle",
+        "textures/fcpc-loaded-textures.bundle"
       ]
     },
     {
@@ -1041,6 +1382,13 @@
         "c11_shaders.bundle",
         "textures/slicktex.bundle"
 
+      ]
+    },
+    {
+      "key": "fcpc-lite.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/fcpc-lite-textures.bundle"
       ]
     },
     {
@@ -2156,7 +2504,6 @@
     {
       "key": "m203.bundle",
       "dependencyKeys": [
-        "assets/content/audio/banks/glock17.bundle",
         "assets/content/audio/blendoptions/assets.bundle",
         "assets/content/weapons/additional_hands/client_assets.bundle",
         "assets/content/weapons/weapon_root_anim_fix.bundle",
@@ -2216,6 +2563,255 @@
       "dependencyKeys": [
         "c11_shaders.bundle",
         "textures/bt-usw-textures.bundle"
+      ]
+    },
+    {
+      "key": "ruger-rimfire-22.bundle",
+      "dependencyKeys": [
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "rr-barrel.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "c11_shaders.bundle",
+        "shaders"
+      ]
+    },
+    {
+      "key": "rr-muzzle-device.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "c11_shaders.bundle",
+        "shaders"
+      ]
+    },
+    {
+      "key": "bx-25.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "bx-25-camo.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "rr-10rd-mag.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "rr-pic-mount.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "rr-stock-black.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "rr-stock-camo.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "lbt-6094-aor2.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/lbt-6094-textures.bundle"
+      ]
+    },
+    {
+      "key": "lbt-6094-aor1.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/lbt-6094-textures.bundle"
+      ]
+    },
+    {
+      "key": "lbt-6094-cadpat-tw.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/lbt-6094-textures.bundle"
+      ]
+    },
+    {
+      "key": "lbt-6094-cadpat-mt.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/lbt-6094-textures.bundle"
+      ]
+    },
+    {
+      "key": "jpc1-aor2.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/jpc-1-textures.bundle"
+      ]
+    },
+    {
+      "key": "jpc1-aor1.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/jpc-1-textures.bundle"
+      ]
+    },
+    {
+      "key": "jpc1-cadpat-tw.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/jpc-1-textures.bundle"
+      ]
+    },
+    {
+      "key": "jpc1-cadpat-mt.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/jpc-1-textures.bundle"
+      ]
+    },
+    {
+      "key": "tx22-mag-32rd.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/tx22-textures.bundle"
+      ]
+    },
+    {
+      "key": "tx22.bundle",
+      "dependencyKeys": [
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "textures/tx22-textures.bundle",
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "tx22-mag-17rd.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/tx22-textures.bundle"
+      ]
+    },
+    {
+      "key": "tx22-barrel.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "shaders",
+        "assets/systems/effects/particlesystems/effects.bundle",
+        "textures/tx22-textures.bundle"
+      ]
+    },
+    {
+      "key": "tx22-rearsight.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/tx22-textures.bundle"
+      ]
+    },
+    {
+      "key": "tx22-rmrplate.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/tx22-textures.bundle"
+      ]
+    },
+    {
+      "key": "tx22-slide.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/tx22-textures.bundle"
+      ]
+    },
+    {
+      "key": "ppsh-weapon.bundle",
+      "dependencyKeys": [
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/systems/effects/smoke.bundle",
+        "c11_shaders.bundle",
+        "shaders"
+      ]
+    },
+    {
+      "key": "cr920p-barrel.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "c11_shaders.bundle",
+        "shaders",
+        "textures/cr920p-textures.bundle"
+      ]
+    },
+ 
+    {
+      "key": "cr920p-mag.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/cr920p-textures.bundle"
+      ]
+    },
+
+    {
+      "key": "cr920p-muzzle.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "c11_shaders.bundle",
+        "shaders",
+        "textures/cr920p-textures.bundle"
+      ]
+    },
+
+    {
+      "key": "cr920p-rear-sight.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/cr920p-textures.bundle"
+      ]
+    },
+    
+    {
+      "key": "cr920p-slide.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/cr920p-textures.bundle"
+      ]
+    },
+    {
+      "key": "cr920p-weapon.bundle",
+      "dependencyKeys": [
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "c11_shaders.bundle",
+        "shaders",
+        "textures/cr920p-textures.bundle"
+      ]
+    },
+    
+    {
+      "key": "streamlight-tlr7.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/nightvision.bundle",
+        "c11_shaders.bundle",
+        "shaders",
+        "textures/cr920p-textures.bundle"
       ]
     }
   ]

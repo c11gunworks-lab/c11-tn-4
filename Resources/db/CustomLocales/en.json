@@ -169,15 +169,15 @@
   "6917bd1327906df8ce6fcfff ShortName": "Ops-Core GB",
   "6917bd1327906df8ce6fcfff Description": "Ops-Core FAST SF helmet configured for Ground Branch operations. NVG-ready, comms-compatible.",
 
-  "6917bfb870f5e5d6aea8165d Name": "Ops-Core AMP Arms",
-  "6917bfb870f5e5d6aea8165d ShortName": "AMP Arms",
+  "6917bfb870f5e5d6aea8165d Name": "Ops-Core AMP Arms (Black)",
+  "6917bfb870f5e5d6aea8165d ShortName": "AMP Arms (BLK)",
   "6917bfb870f5e5d6aea8165d Description": "ARC rail-mounted arms for headset integration.",
 
   "6917c1976cf46fb7b4ffd866 Name": "AXL Advanced RAC Link Gen 1",
   "6917c1976cf46fb7b4ffd866 ShortName": "RAC Link",
   "6917c1976cf46fb7b4ffd866 Description": "A precision-cut Tegris adapter that allows the mounting of various headsets to Ops-Core AMP Arms. It’s a niche piece of 'tactical tailoring' that solves the problem of cross-brand comms compatibility. In Tarkov, it’s a sign of a professional who obsesses over their kit's weight and profile.",
 
-  "6917c23f71eb4b42ea95584b Name": "Peltor ComTac V Headset (Coyote)",
+  "6917c23f71eb4b42ea95584b Name": "PELTOR ComTac V Headset (Coyote)",
   "6917c23f71eb4b42ea95584b ShortName": "ComTac V",
   "6917c23f71eb4b42ea95584b Description": "High-fidelity comms headset with mic. Headband removed for helmet mounting.",
 
@@ -709,11 +709,11 @@
   "6998e60c71292bd226f7a06b ShortName": "FAST NGH Miami",
   "6998e60c71292bd226f7a06b Description": "A custom, non-standard 'Miami' variation of the classic Tigerstripe pattern. Likely a private purchase by a PMC with more money than sense, or a leftover from a flashy urban security detail. It offers questionable camouflage but undeniable style in the neon-lit halls of the Interchange.",
 
-  "6998e54173a6181d15f7a061 Name": "Peltor ComTac V tactical headset (AOR1)",
+  "6998e54173a6181d15f7a061 Name": "PELTOR ComTac V tactical headset (AOR1)",
   "6998e54173a6181d15f7a061 ShortName": "ComTac V AOR1",
   "6998e54173a6181d15f7a061 Description": "The fifth generation of the ComTac series, featuring improved environmental microphones and better EMI shielding. This specific pair is finished in AOR1 and comes with the ARC rail adapters pre-installed. These were likely stripped from the gear of a high-value extraction team that didn't make it to the terminal.",
 
-  "6998e57bc11d47d1b7f7a063 Name": "Peltor ComTac V tactical headset (MultiCam)",
+  "6998e57bc11d47d1b7f7a063 Name": "PELTOR ComTac V tactical headset (MultiCam)",
   "6998e57bc11d47d1b7f7a063 ShortName": "ComTac V MC",
   "6998e57bc11d47d1b7f7a063 Description": "Standard issue for modern special operations units. These ComTac Vs are mounted on helmet adapters to provide constant hearing protection and comms integration. A reliable piece of tech that amplifies ambient noise while suppressing the deafening cracks of 7.62x39mm fire.",
 
@@ -722,8 +722,8 @@
   "6998e48a9d7c140756f7a049 ShortName": "FAST NGH AOR1",
   "6998e48a9d7c140756f7a049 Description": "The Next Generation High-cut helmet from Ops-Core, finished in the iconic AOR1 pattern. Finding a genuine maritime-spec shell in this pattern suggests the previous owner was part of an elite Tier 1 element. It offers lightweight Level III-A protection and is a 'white whale' for collectors in the Norvinsk region, usually only found in the hands of the most dangerous Raiders.",
 
-  "6998e4f8f156ad13a1f7a055 Name": "Ops-Core FAST NGH ballistic helmet (CADPAT)",
-  "6998e4f8f156ad13a1f7a055 ShortName": "FAST NGH CADPAT",
+  "6998e4f8f156ad13a1f7a055 Name": "Ops-Core FAST NGH ballistic helmet (CADPAT MT)",
+  "6998e4f8f156ad13a1f7a055 ShortName": "FAST NGH CADPAT MT",
   "6998e4f8f156ad13a1f7a055 Description": "A rare CADPAT-dipped version of the FAST NGH. Canadian military gear is a rarity in the Russian federation, and this piece likely arrived via a small JTF2 advisory group that was operating in secret near the Tarkov port along side Black Division. It blends into the Russian forest better than almost any other pattern, making it a deadly asset for those who prefer the shadows.",
   "6998e428d9c1fe43aaf7a03d Name": "Ops-Core FAST NGH ballistic helmet (AOR2)",
   "6998e428d9c1fe43aaf7a03d ShortName": "FAST NGH AOR2",
@@ -1052,7 +1052,230 @@
 
   "69fe6d5e2d6d4cf1904fcd17 Name":"Aimpoint Nano",
   "69fe6d5e2d6d4cf1904fcd17 ShortName":"Nano",
-  "69fe6d5e2d6d4cf1904fcd17 Description": "Custom made red dot sight, specifically for the USW-A1."
+  "69fe6d5e2d6d4cf1904fcd17 Description": "Custom made red dot sight, specifically for the USW-A1.",
+
+  "6a04fee067a51785d1fa7715 Name": "Ruger American Rimfire Target .22 LR bolt-action rifle",
+  "6a04fee067a51785d1fa7715 ShortName": "American .22LR",
+  "6a04fee067a51785d1fa7715 Description": "The Ruger American Rimfire Target is a high-precision bolt-action rifle chambered in .22 LR. It features a patented Power Bedding integral bedding block system that positively locates the receiver and free-floats the barrel for outstanding accuracy. Perfect for target shooting or small game hunting.",
+
+  "6a050039f8e3a6eee0fa771b Name": "Ruger American Rimfire Target 18-inch .22 LR barrel",
+  "6a050039f8e3a6eee0fa771b ShortName": "American 18\" barrel",
+  "6a050039f8e3a6eee0fa771b Description": "An 18-inch cold hammer-forged 0.860\" bull barrel for the Ruger American Rimfire, resulting in ultra-precise rifling that provides exceptional accuracy and longevity. Features a 1/2\"-28 thread pattern.",
+
+  "6a0500a28dbfd63b56fa771e Name": "Ruger American Rimfire Target Black Laminate stock",
+  "6a0500a28dbfd63b56fa771e ShortName": "American Black stock",
+  "6a0500a28dbfd63b56fa771e Description": "A black laminate stock for the Ruger American Rimfire featuring an Alexander Henry forend in addition to sling swivels front and rear, designed to help you steady your aim whether shooting off of sticks, a bipod, or sling.",
+
+  "6a05023a48301626ccfa7723 Name": "Ruger American Rimfire Synthetic Camo stock",
+  "6a05023a48301626ccfa7723 ShortName": "American Camo stock",
+  "6a05023a48301626ccfa7723 Description": "A synthetic camouflage stock for the Ruger American Rimfire. Lighter than the laminate variant while maintaining excellent durability.",
+
+  "6a0501926af3548d25fa771f Name": "Ruger American Rimfire 1/2\"-28 knurled thread protector",
+  "6a0501926af3548d25fa771f ShortName": "1/2-28 protector",
+  "6a0501926af3548d25fa771f Description": "A factory-installed knurled thread protector for the 1/2\"-28 threads on the Ruger American Rimfire Target barrel.",
+
+  "6a05019ca48b70cedcfa7720 Name": "Ruger American Rimfire one-piece aluminum scope rail",
+  "6a05019ca48b70cedcfa7720 ShortName": "American scope base",
+  "6a05019ca48b70cedcfa7720 Description": "A factory-installed one-piece aluminum scope rail for the Ruger American Rimfire, allowing the attachment of standard Picatinny-compatible optics.",
+
+  "6a05028e51f698d388fa7725 Name": "Ruger BX-1 10/22 .22 LR 10-round magazine",
+  "6a05028e51f698d388fa7725 ShortName": "BX-1 10-rd",
+  "6a05028e51f698d388fa7725 Description": "A patented, detachable, flush-mounted 10-round rotary magazine for the Ruger 10/22 and American Rimfire series.",
+
+  "6a0502f53ab1a759f9fa7729 Name": "Ruger BX-25 10/22 .22 LR 25-round magazine",
+  "6a0502f53ab1a759f9fa7729 ShortName": "BX-25 25-rd",
+  "6a0502f53ab1a759f9fa7729 Description": "The standard BX-25 25-round magazine for the Ruger 10/22 and American Rimfire series.",
+
+  "6a05035f07e65273ddfa772e Name": "Ruger BX-25 10/22 .22 LR 25-round magazine (Mossy Oak)",
+  "6a05035f07e65273ddfa772e ShortName": "BX-25 Camo",
+  "6a05035f07e65273ddfa772e Description": "The standard BX-25 25-round magazine for the Ruger 10/22 and American Rimfire series, featured in a camouflage pattern.",
+
+  "6a0e13a9b1f1333de13052c8 Name": "Ops-Core AMP Helmet Rail Mount Kit (Tan)",
+  "6a0e13a9b1f1333de13052c8 ShortName": "AMP Arms Tan",
+  "6a0e13a9b1f1333de13052c8 Description": "The Ops-Core AMP Helmet Rail Mount Kit provides a rigid, adjustable interface for mounting the AMP Communication Headset directly to ARC rails on Ops-Core and compatible helmets. The articulating arms allow for precise positioning of the ear cups for a custom fit, and fold flat against the helmet when not in use. Finished in Coyote Tan.",
+
+  "6a0e13c5113b24a5bc3052cb Name": "Ops-Core AMP Helmet Rail Mount Kit (Foliage Green)",
+  "6a0e13c5113b24a5bc3052cb ShortName": "AMP Arms FG",
+  "6a0e13c5113b24a5bc3052cb Description": "The Ops-Core AMP Helmet Rail Mount Kit provides a rigid, adjustable interface for mounting the AMP Communication Headset directly to ARC rails on Ops-Core and compatible helmets. The articulating arms allow for precise positioning of the ear cups for a custom fit, and fold flat against the helmet when not in use. Finished in Foliage Green.",
+
+  "6a0e13e4d4c66b01c53052ce Name": "Ops-Core AMP Helmet Rail Mount Kit (Ranger Green)",
+  "6a0e13e4d4c66b01c53052ce ShortName": "AMP Arms RG",
+  "6a0e13e4d4c66b01c53052ce Description": "The Ops-Core AMP Helmet Rail Mount Kit provides a rigid, adjustable interface for mounting the AMP Communication Headset directly to ARC rails on Ops-Core and compatible helmets. The articulating arms allow for precise positioning of the ear cups for a custom fit, and fold flat against the helmet when not in use. Finished in Ranger Green.",
+
+  "6a0e1431ce75a53df33052d1 Name": "3M PELTOR ARC Rail Adapter",
+  "6a0e1431ce75a53df33052d1 ShortName": "PELTOR ARC Adp.",
+  "6a0e1431ce75a53df33052d1 Description": "3M™ Peltor™ ARC Adapters, Left & Right Side Attachment Kit, conversion Kit to fit the ARC / FAST (Ops Core) Helmet Rail Connection system. \"Click out/click in\" design allows for a stowed position and active position on helmet",
+
+  "a01000000000000000000001 Name": "Ops-Core AMP Communication Headset (Black)",
+  "a01000000000000000000001 ShortName": "AMP Blk",
+  "a01000000000000000000001 Description": "The Ops-Core AMP (Audio Mounting Platform) is a purpose-built communication headset designed from the ground up for helmet integration. Unlike headsets adapted from civilian designs, the AMP uses a behind-the-neck suspension system and connects directly to ARC rail-mounted arms, eliminating the headband entirely. Features dual-comm capability, an adaptive boom microphone, and SENS (Sound Environment Navigation System) active hearing protection that amplifies low-level ambient sounds while suppressing harmful impulse noise. Used extensively by USSOCOM units. Black colorway.",
+
+  "a01000000000000000000002 Name": "Ops-Core AMP Communication Headset (Foliage Green)",
+  "a01000000000000000000002 ShortName": "AMP FG",
+  "a01000000000000000000002 Description": "The Ops-Core AMP (Audio Mounting Platform) is a purpose-built communication headset designed from the ground up for helmet integration. Unlike headsets adapted from civilian designs, the AMP uses a behind-the-neck suspension system and connects directly to ARC rail-mounted arms, eliminating the headband entirely. Features dual-comm capability, an adaptive boom microphone, and SENS active hearing protection. Foliage Green colorway.",
+
+  "a01000000000000000000003 Name": "Ops-Core AMP Communication Headset (Ranger Green)",
+  "a01000000000000000000003 ShortName": "AMP RG",
+  "a01000000000000000000003 Description": "The Ops-Core AMP (Audio Mounting Platform) is a purpose-built communication headset designed from the ground up for helmet integration. Unlike headsets adapted from civilian designs, the AMP uses a behind-the-neck suspension system and connects directly to ARC rail-mounted arms, eliminating the headband entirely. Features dual-comm capability, an adaptive boom microphone, and SENS active hearing protection. Ranger Green colorway.",
+
+  "a01000000000000000000004 Name": "Ops-Core AMP Communication Headset (Tan 499)",
+  "a01000000000000000000004 ShortName": "AMP Tan",
+  "a01000000000000000000004 Description": "The Ops-Core AMP (Audio Mounting Platform) is a purpose-built communication headset designed from the ground up for helmet integration. Unlike headsets adapted from civilian designs, the AMP uses a behind-the-neck suspension system and connects directly to ARC rail-mounted arms, eliminating the headband entirely. Features dual-comm capability, an adaptive boom microphone, and SENS active hearing protection. Tan 499 colorway.",
+
+  "c06000000000000000000001 Name": "3M PELTOR ComTac VI NIB Headset (DNC)",
+  "c06000000000000000000001 ShortName": "ComTac VI DNC",
+  "c06000000000000000000001 Description": "The 3M PELTOR ComTac VI NIB (Neckband) is the sixth generation of the iconic ComTac series and represents a significant leap in military communication technology. Its headline feature is NFMI (Near Field Magnetic Induction), a wireless link between the two ear cups that eliminates the overhead wire entirely, allowing for unobstructed NVG and helmet use. Provides dual-channel communication, 82dB impulse noise suppression, and active listening amplification. The NIB configuration is specifically designed for helmet mounting via ARC adapters. Desert Night Camouflage finish.",
+
+  "c06000000000000000000002 Name": "3M PELTOR ComTac VI NIB Headset (DNC Black)",
+  "c06000000000000000000002 ShortName": "ComTac VI DNCBlk",
+  "c06000000000000000000002 Description": "The 3M PELTOR ComTac VI NIB (Neckband) is the sixth generation of the iconic ComTac series. Its headline feature is NFMI (Near Field Magnetic Induction), a wireless link between the two ear cups that eliminates the overhead wire, allowing for unobstructed NVG and helmet use. Provides dual-channel communication, 82dB impulse noise suppression, and active listening amplification. The NIB configuration is specifically designed for helmet mounting via ARC adapters. All-black Desert Night Camouflage finish.",
+
+  "c06000000000000000000003 Name": "3M PELTOR ComTac VI NIB Headset (MultiCam Black)",
+  "c06000000000000000000003 ShortName": "ComTac VI MCB",
+  "c06000000000000000000003 Description": "The 3M PELTOR ComTac VI NIB (Neckband) is the sixth generation of the iconic ComTac series. Its headline feature is NFMI (Near Field Magnetic Induction), a wireless link between the two ear cups that eliminates the overhead wire, allowing for unobstructed NVG and helmet use. Provides dual-channel communication, 82dB impulse noise suppression, and active listening amplification. The NIB configuration is specifically designed for helmet mounting via ARC adapters. MultiCam Black finish.",
+
+  "c06000000000000000000004 Name": "3M PELTOR ComTac VI NIB Headset (UCP)",
+  "c06000000000000000000004 ShortName": "ComTac VI UCP",
+  "c06000000000000000000004 Description": "The 3M PELTOR ComTac VI NIB (Neckband) is the sixth generation of the iconic ComTac series. Its headline feature is NFMI (Near Field Magnetic Induction), a wireless link between the two ear cups that eliminates the overhead wire, allowing for unobstructed NVG and helmet use. Provides dual-channel communication, 82dB impulse noise suppression, and active listening amplification. The NIB configuration is specifically designed for helmet mounting via ARC adapters. Universal Camouflage Pattern finish.",
+
+  "c04000000000000000000001 Name": "3M PELTOR ComTac IV Headset (Tan)",
+  "c04000000000000000000001 ShortName": "ComTac IV Tan",
+  "c04000000000000000000001 Description": "The 3M PELTOR ComTac IV is a dual-channel, behind-the-neck communication headset and a direct predecessor to the ComTac VI. A staple of special operations forces worldwide for over a decade, it provides active hearing protection with ambient sound amplification and dual PTT capability for running two radios simultaneously. The NIB design omits the traditional headband, relying on ARC rail adapters for a low-profile helmet mount. Tan finish.",
+
+  "c04000000000000000000002 Name": "3M PELTOR ComTac IV Headset (DNC)",
+  "c04000000000000000000002 ShortName": "ComTac IV DNC",
+  "c04000000000000000000002 Description": "The 3M PELTOR ComTac IV is a dual-channel, behind-the-neck communication headset and a direct predecessor to the ComTac VI. A staple of special operations forces worldwide for over a decade, it provides active hearing protection with ambient sound amplification and dual PTT capability for running two radios simultaneously. The NIB design omits the traditional headband, relying on ARC rail adapters for a low-profile helmet mount. Desert Night Camouflage finish.",
+
+  "c04000000000000000000003 Name": "3M PELTOR ComTac IV Headset (DNC Black)",
+  "c04000000000000000000003 ShortName": "ComTac IV DNCBlk",
+  "c04000000000000000000003 Description": "The 3M PELTOR ComTac IV is a dual-channel, behind-the-neck communication headset and a direct predecessor to the ComTac VI. A staple of special operations forces worldwide for over a decade, it provides active hearing protection with ambient sound amplification and dual PTT capability for running two radios simultaneously. The NIB design omits the traditional headband, relying on ARC rail adapters for a low-profile helmet mount. All-black Desert Night Camouflage finish.",
+
+  "c04000000000000000000004 Name": "3M PELTOR ComTac IV Headset (MultiCam Black)",
+  "c04000000000000000000004 ShortName": "ComTac IV MCB",
+  "c04000000000000000000004 Description": "The 3M PELTOR ComTac IV is a dual-channel, behind-the-neck communication headset and a direct predecessor to the ComTac VI. A staple of special operations forces worldwide for over a decade, it provides active hearing protection with ambient sound amplification and dual PTT capability for running two radios simultaneously. The NIB design omits the traditional headband, relying on ARC rail adapters for a low-profile helmet mount. MultiCam Black finish.",
+
+  "e01000000000000000000001 Name": "MSA Sordin Supreme PRO-X/L Headset (Forest Green)",
+  "e01000000000000000000001 ShortName": "Sordin FG",
+  "e01000000000000000000001 Description": "The MSA Sordin Supreme PRO-X/L is a flagship professional electronic hearing protector widely used by military, law enforcement, and serious shooters. Its defining feature is the ultra-slim gel ear seals, which provide a superior acoustic seal and comfort during extended operations, and remain compatible with most tactical eyewear. Features dual audio inputs, 4.1dB ambient sound amplification, and automatic noise suppression that kicks in above 82dB. The 'L' designation refers to the leather headband upgrade. Forest Green finish.",
+
+  "e01000000000000000000002 Name": "MSA Sordin Supreme PRO-X/L Headset (DNC)",
+  "e01000000000000000000002 ShortName": "Sordin DNC",
+  "e01000000000000000000002 Description": "The MSA Sordin Supreme PRO-X/L is a flagship professional electronic hearing protector widely used by military, law enforcement, and serious shooters. Its defining feature is the ultra-slim gel ear seals, which provide a superior acoustic seal and remain compatible with most tactical eyewear. Features dual audio inputs, 4.1dB ambient sound amplification, and automatic noise suppression above 82dB. The 'L' designation refers to the leather headband upgrade. Desert Night Camouflage finish.",
+
+  "e01000000000000000000003 Name": "MSA Sordin Supreme PRO-X/L Headset (DNC Black)",
+  "e01000000000000000000003 ShortName": "Sordin DNCBlk",
+  "e01000000000000000000003 Description": "The MSA Sordin Supreme PRO-X/L is a flagship professional electronic hearing protector widely used by military, law enforcement, and serious shooters. Its defining feature is the ultra-slim gel ear seals, which provide a superior acoustic seal and remain compatible with most tactical eyewear. Features dual audio inputs, 4.1dB ambient sound amplification, and automatic noise suppression above 82dB. The 'L' designation refers to the leather headband upgrade. All-black Desert Night Camouflage finish.",
+
+  "e01000000000000000000004 Name": "MSA Sordin Supreme PRO-X/L Headset (MultiCam Black)",
+  "e01000000000000000000004 ShortName": "Sordin MCB",
+  "e01000000000000000000004 Description": "The MSA Sordin Supreme PRO-X/L is a flagship professional electronic hearing protector widely used by military, law enforcement, and serious shooters. Its defining feature is the ultra-slim gel ear seals, which provide a superior acoustic seal and remain compatible with most tactical eyewear. Features dual audio inputs, 4.1dB ambient sound amplification, and automatic noise suppression above 82dB. The 'L' designation refers to the leather headband upgrade. MultiCam Black finish.",
+
+  "cad000000000000000000000 Name": "Ops-Core FAST SF Super High Cut Helmet (CADPAT TW)",
+  "cad000000000000000000000 ShortName": "FAST SF CADPAT TW",
+  "cad000000000000000000000 Description": "The Ops-Core FAST SF (Special Forces) Super High Cut is a ballistic helmet constructed from a hybrid para-aramid and UHMWPE composite shell, providing NIJ Level IIIA protection while minimizing weight. The high-cut design maximizes compatibility with communication headsets and ear protection. Equipped with ARC side rails, a NVG shroud, and BOA retention dial. This example is finished in CADPAT Temperate Woodland (TW), the primary camouflage pattern of the Canadian Armed Forces, suggesting a connection to JTF2 or Canadian SOF elements operating in the region.",
+
+  "d11c00000000000000000000 Name": "Ops-Core FAST SF Super High Cut Helmet (DNC)",
+  "d11c00000000000000000000 ShortName": "FAST SF DNC",
+  "d11c00000000000000000000 Description": "The Ops-Core FAST SF (Special Forces) Super High Cut is a ballistic helmet constructed from a hybrid para-aramid and UHMWPE composite shell, providing NIJ Level IIIA protection while minimizing weight. The high-cut design maximizes compatibility with communication headsets and ear protection. Equipped with ARC side rails, a NVG shroud, and BOA retention dial. Finished in Desert Night Camouflage (DNC), a pattern designed for low-signature movement in arid environments under both day and night vision conditions.",
+
+  "d11b00000000000000000000 Name": "Ops-Core FAST SF Super High Cut Helmet (DNC Black)",
+  "d11b00000000000000000000 ShortName": "FAST SF DNC Blk",
+  "d11b00000000000000000000 Description": "The Ops-Core FAST SF (Special Forces) Super High Cut is a ballistic helmet constructed from a hybrid para-aramid and UHMWPE composite shell, providing NIJ Level IIIA protection while minimizing weight. The high-cut design maximizes compatibility with communication headsets and ear protection. Equipped with ARC side rails, a NVG shroud, and BOA retention dial. Finished in an all-black Desert Night Camouflage (DNC Black) variant, popular with maritime and direct action units operating in urban or low-light environments.",
+
+  "a11e00000000000000000000 Name": "Ops-Core FAST SF Super High Cut Helmet (MultiCam Alpine)",
+  "a11e00000000000000000000 ShortName": "FAST SF MC Alp",
+  "a11e00000000000000000000 Description": "The Ops-Core FAST SF (Special Forces) Super High Cut is a ballistic helmet constructed from a hybrid para-aramid and UHMWPE composite shell, providing NIJ Level IIIA protection while minimizing weight. The high-cut design maximizes compatibility with communication headsets and ear protection. Equipped with ARC side rails, a NVG shroud, and BOA retention dial. Finished in MultiCam Alpine, Crye Precision's high-contrast white and grey pattern designed for winter, snowfield, and high-altitude mountain operations.",
+
+  "bac100000000000000000000 Name": "Ops-Core FAST SF Super High Cut Helmet (MultiCam Black)",
+  "bac100000000000000000000 ShortName": "FAST SF MCB",
+  "bac100000000000000000000 Description": "The Ops-Core FAST SF (Special Forces) Super High Cut is a ballistic helmet constructed from a hybrid para-aramid and UHMWPE composite shell, providing NIJ Level IIIA protection while minimizing weight. The high-cut design maximizes compatibility with communication headsets and ear protection. Equipped with ARC side rails, a NVG shroud, and BOA retention dial. Finished in MultiCam Black, Crye Precision's low-visibility pattern favored by law enforcement units, private security contractors, and direct action elements operating in urban environments.",
+
+  "6a0e1a85c4ea8350b73052e3 Name": "Ops-Core FAST SF Carbon Helmet (Carbon Grey)",
+  "6a0e1a85c4ea8350b73052e3 ShortName": "FAST SF Carbon Grey",
+  "6a0e1a85c4ea8350b73052e3 Description": "A variant of the Ops-Core FAST SF constructed with a high-modulus carbon fiber composite shell rather than the standard para-aramid layup. The carbon construction offers a marginal weight reduction and a distinctive woven aesthetic. This example is finished in a matte Carbon Grey Cerakote, making it a recognizable and sought-after piece of kit. While it offers Level IIIA ballistic protection, in Tarkov its main value is as a status symbol for PMCs with deep pockets and a taste for the finer things in tactical equipment.",
+
+  "6a0e1ba65108fede933052f4 Name": "Ops-Core FAST SF Carbon Helmet (MultiCam)",
+  "6a0e1ba65108fede933052f4 ShortName": "FAST SF Carbon MC",
+  "6a0e1ba65108fede933052f4 Description": "A variant of the Ops-Core FAST SF constructed with a high-modulus carbon fiber composite shell. The carbon construction offers a marginal weight reduction over the standard para-aramid layup and a distinctive woven texture. This example has been finished with a MultiCam hydrographic dip, combining the prestige of the carbon shell with one of the most effective camouflage patterns available. A rare and expensive piece of kit that signals serious investment in personal protection.",
+
+
+  "6a0e17dc7ac877c8423052d4 Name": "C11 Blackbeard Patch (LF-DH)",
+  "6a0e17dc7ac877c8423052d4 ShortName": "C11 BB LF-DH",
+  "6a0e17dc7ac877c8423052d4 Description": "A custom embroidered morale patch depicting the C11 Blackbeard insignia, made by yours truly. Low-format, dual hook-and-loop (LF-DH) backing for secure mounting to Velcro panels on helmets or plate carriers. Fly your colors.",
+
+  "6a0e17dc8fa4decb3b3052d5 Name": "C11 No Kings Patch (MultiCam Black)",
+  "6a0e17dc8fa4decb3b3052d5 ShortName": "C11 NK MCB",
+  "6a0e17dc8fa4decb3b3052d5 Description": "A custom embroidered morale patch depicting the C11 'No Kings' skull insignia in MultiCam Black colorway. Hook-and-loop backing for mounting to Velcro panels on helmets or gear. We bow to no king.",
+
+  "6a0e17dd4a9dfc67713052d6 Name": "C11 Vegvisir Patch (MultiCam Black)",
+  "6a0e17dd4a9dfc67713052d6 ShortName": "C11 Veg MCB",
+  "6a0e17dd4a9dfc67713052d6 Description": "A custom embroidered morale patch depicting the Vegvisir, an Icelandic runic compass symbol meaning 'wayfinder' or 'that which shows the way.' In Norse tradition it was believed to help the bearer navigate through rough weather and difficult paths. Hook-and-loop backing. MultiCam Black colorway.",
+
+  "6a0e18877bfae9bdea3052db Name": "VLite Gen-II Squeeze Light (Red)",
+  "6a0e18877bfae9bdea3052db ShortName": "VLite Red",
+  "6a0e18877bfae9bdea3052db Description": "The VLite Gen-II is a lightweight, submersible personal marker light used extensively by military and special operations forces for IFF (Identification Friend or Foe) and personnel tracking. Activated by squeezing the flexible housing, it can be set to steady or strobe mode. Weighing only a few grams, it is typically attached to a helmet or shoulder strap via its integral bungee loop. The red visible spectrum version is used for ground-to-ground signalling and marking where IR security is not required.",
+
+  "6a0e18b0fb8c38f6153052dd Name": "VLite Gen-II Squeeze Light (IR)",
+  "6a0e18b0fb8c38f6153052dd ShortName": "VLite IR",
+  "6a0e18b0fb8c38f6153052dd Description": "The VLite Gen-II IR is the infrared variant of the standard VLite personal marker light, invisible to the naked eye but clearly visible to anyone wearing night vision equipment. Indispensable for IFF during night operations, allowing elements to identify friendly personnel in total darkness without compromising their position to a threat without NVGs. A piece of kit so small and cheap it should be on every operator's helmet.",
+
+  "6a0e18be267347aaf13052de Name": "VLite Gen-II Squeeze Light (Blue)",
+  "6a0e18be267347aaf13052de ShortName": "VLite Blue",
+  "6a0e18be267347aaf13052de Description": "The VLite Gen-II is a lightweight, submersible personal marker light used extensively by military and special operations forces for IFF and personnel tracking. Activated by squeezing the flexible housing, it can be set to steady or strobe mode. The blue visible spectrum version is commonly used as a command-and-control marker or for distinguishing between multiple elements during complex operations.",
+
+  "6a0e18d6ee4e733d743052e1 Name": "VLite Gen-II Squeeze Light (Green)",
+  "6a0e18d6ee4e733d743052e1 ShortName": "VLite Green",
+  "6a0e18d6ee4e733d743052e1 Description": "The VLite Gen-II is a lightweight, submersible personal marker light used extensively by military and special operations forces for IFF and personnel tracking. Activated by squeezing the flexible housing, it can be set to steady or strobe mode. The green visible spectrum version is often used for marking landing zones, rally points, or as a general-purpose personnel marker during low-light conditions.",
+
+  "6a0e253fd13347b5a6305306 name": "3M PELTOR ComTac Headband",
+  "6a0e253fd13347b5a6305306 shortName": "3M Headband ",
+  "6a0e253fd13347b5a6305306 description": "Replacement headband for the 3M Peltor ComTac VII, VIII, IX series headsets. A complete redesign helps improve comfort when worn under a ballistic helmet. Simplified cable removal and resetting. Redesigned arm guides that snap on/off (no tools required) for easy transition between Accessory Rail Connectors (ARC) and headband. ",
+
+  "6a0e25e7c4fe58df2d30530a name": "3M PELTOR Rubber Headband Cover",
+  "6a0e25e7c4fe58df2d30530a shortName": "HB Rubber",
+  "6a0e25e7c4fe58df2d30530a description": "The most basic rubber cover for the 3M PELTOR Headband, to stop the operator from getting a boo-boo on their little head. ",
+
+  "6a0e26261115cb8e9d30530c name": "MSA Sordin Headband Cover (M81)",
+  "6a0e26261115cb8e9d30530c shortName": "HB M81",
+  "6a0e26261115cb8e9d30530c description": "MSA Sordin headband cover in M81 camo that has been modified to fit the PELTOR  Headband, to provide a comfortable fit. ",
+
+  "6a0e4358d460e95167305310 name": "MSA Sordin Headband Cover (Flecktarn)",
+  "6a0e4358d460e95167305310 shortName": "HB Flecktarn",
+  "6a0e4358d460e95167305310 description": "MSA Sordin headband cover in Flecktarn camo that has been modified to fit the PELTOR  Headband, to provide a comfortable fit. ",
+  "6a0e43430b6f88f8d230530e name": "MSA Sordin Headband Cover (ABU Blue)",
+  "6a0e43430b6f88f8d230530e shortName": "HB ABU",
+  "6a0e43430b6f88f8d230530e description": "MSA Sordin headband cover in prototype ABU Tigerstripe Blue camo that has been modified to fit the PELTOR  Headband, to provide a comfortable fit. ",
+
+  "6a10d9833b4d6ac10952f56a Name": "Ferro Concepts FCPC V5 Plate Carrier (Multicam Black/Wolf Grey)",
+  "6a10d9833b4d6ac10952f56a ShortName": "FCPCV5 MCB/WG",
+  "6a10d9833b4d6ac10952f56a Description": "The Ferro Concepts Plate Carrier V5 is a lightweight and modular armor system. This 'Lite' variant features Multicam Black/Wolf Grey patterns, typically favored by ISB units. Designed for mission adaptability, it balances protection with distinct visual profile.",
+  "6a1087fe49f3a17012a302ef name": "Shadow Systems CR920P 9x19mm pistol",
+  "6a1087fe49f3a17012a302ef shortName": "CR920P",
+  "6a1087fe49f3a17012a302ef description": "The CR920P is a subcompact, compensator-equipped 9x19mm pistol manufactured by Shadow Systems. Designed to fit into standard G43X MOS holsters, it features an aggressively textured frame, an optics-cut slide, and delivers the concealability of a subcompact with the shootability of a full-size pistol.",
+
+  "6a10b66c1ad901f6b852f55a name": "Shadow Systems CR920P 9x19mm threaded barrel",
+  "6a10b66c1ad901f6b852f55a shortName": "CR920P Barrel",
+  "6a10b66c1ad901f6b852f55a description": "A match-grade, spiral-fluted 9x19mm barrel designed specifically for the Shadow Systems CR920P. It features a proprietary attachment system for the Shadow Systems compensator, providing exceptional accuracy and reliability in a subcompact profile.",
+
+  "6a10b6fac0c2827bb252f55e name": "Shadow Systems CR920P 9x19mm slide",
+  "6a10b6fac0c2827bb252f55e shortName": "CR920P Slide",
+  "6a10b6fac0c2827bb252f55e description": "A custom-machined 17-4 stainless steel slide for the CR920P. Features directional serrations for easy manipulation and the patented Shadow Systems multi-footprint optic cut, allowing direct mounting of most micro red dot sights without adapter plates.",
+
+  "6a10b78858b039730552f561 name": "Shadow Systems CR920 9x19mm 13-round magazine",
+  "6a10b78858b039730552f561 shortName": "CR920 13-round",
+  "6a10b78858b039730552f561 description": "An extended 13-round proprietary magazine for the Shadow Systems CR920 and CR920P. Features a specialized basepad that extends the grip for better control while maintaining a highly concealable footprint.",
+
+  "6a10b82392962a745e52f564 name": "Shadow Systems CR920P 9mm compensator",
+  "6a10b82392962a745e52f564 shortName": "CR920P Comp",
+  "6a10b82392962a745e52f564 description": "A patented quick-detach compensator specifically designed for the CR920P. It seamlessly integrates with the slide to dramatically reduce felt recoil and muzzle rise, making the subcompact frame shoot like a much larger firearm.",
+
+  "6a10b867bc3d46c41552f566 name": "Shadow Systems rear iron sight",
+  "6a10b867bc3d46c41552f566 shortName": "SS Rear Sight",
+  "6a10b867bc3d46c41552f566 description": "A blackout serrated rear iron sight by Shadow Systems. Designed to provide a crisp sight picture and co-witness with most slide-mounted micro red dots.",
+
+  "6a2b0cc78dcf9203554cd53d name": "Streamlight TLR-7 Compact Flashlight",
+  "6a2b0cc78dcf9203554cd53d shortName": "TLR-7",
+  "6a2b0cc78dcf9203554cd53d description": "The TLR-7® series is going rechargeable! The TLR-7® X multi-fuel rail-mounted light accepts either Streamlight’s SL-B9® USB rechargeable protected lithium-ion battery pack or a CR123A lithium battery. Interchangeable rear paddle switches accommodate your shooting style."
 }
 
 

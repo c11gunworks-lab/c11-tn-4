@@ -1,0 +1,540 @@
+﻿{
+
+
+  "6917c4906c6dac68cc13588a": {
+    "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
+    "parentId": "57bef4c42459772e8d35a53b",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "ConflictingItems": ["6917c69f14af1f6aff139dbd",
+        "6917c6de1d18ca02f4868839",
+        "6917c633200042156b8bdb52"
+      ],
+
+      "Prefab": { "path": "coveraor2.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 1, "Height": 1, "Weight": 0.15,
+
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+
+        "Name": "Ops-Core helmet cover (AOR2)",
+        "shortName": "AOR2 Cover",
+        "description": "A tactical helmet cover designed for Ops-Core high-cut ballistic helmets. Made from durable nylon with reinforced stitching and attachment points for cables, counterweights, and accessories. Features the AOR2 digital camouflage pattern optimized for temperate and coastal environments."
+      }
+    },
+    "fleaPriceRoubles": 9500,
+    "handbookPriceRoubles": 11500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6917c5389f28860a6d972ec8": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+
+
+  "6998e5bd183a239134f7a065": {
+    "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
+    "parentId": "57bef4c42459772e8d35a53b",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": false,
+      "CanRequireOnRagfair": false,
+      "Prefab": { "path": "coveraor1.bundle", "rcid": "" },
+      "BackgroundColor": "violet",
+      "ConflictingItems": ["6917c69f14af1f6aff139dbd",
+        "6917c6de1d18ca02f4868839",
+        "6917c633200042156b8bdb52"
+      ],
+      "Width": 1, "Height": 1, "Weight": 0.15,
+
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+
+        "Name": "Ops-Core helmet cover (AOR1)",
+        "shortName": "AOR2 Cover",
+        "Description": "A tactical helmet cover designed for Ops-Core high-cut ballistic helmets. Made from durable nylon with reinforced stitching and attachment points for cables, counterweights, and accessories. Features the AOR2 digital camouflage pattern optimized for temperate and coastal environments."
+      }
+    },
+    "fleaPriceRoubles": 9500,
+    "handbookPriceRoubles": 11500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6998e5d183f6e7e2c5f7a066": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "6998e5d477ac37a27df7a067": {
+    "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
+    "parentId": "57bef4c42459772e8d35a53b",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": ["6917c69f14af1f6aff139dbd",
+        "6917c6de1d18ca02f4868839",
+        "6917c633200042156b8bdb52"
+      ],
+      "Prefab": { "path": "covercadpat.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 1, "Height": 1, "Weight": 0.15,
+
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+
+        "Name": "Ops-Core helmet cover (cadpat)",
+        "shortName": "AOR2 Cover",
+        "Description": "A tactical helmet cover designed for Ops-Core high-cut ballistic helmets. Made from durable nylon with reinforced stitching and attachment points for cables, counterweights, and accessories. Features the AOR2 digital camouflage pattern optimized for temperate and coastal environments."
+      }
+    },
+    "fleaPriceRoubles": 9500,
+    "handbookPriceRoubles": 11500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "TRUDY": {
+        "6998e5e54ae7484370f7a068": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 55,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+
+  "6998e5f7e34886d9bdf7a069": {
+    "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
+    "parentId": "57bef4c42459772e8d35a53b",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "ConflictingItems": ["6917c69f14af1f6aff139dbd",
+        "6917c6de1d18ca02f4868839",
+        "6917c633200042156b8bdb52"
+      ],
+      "Prefab": { "path": "covermcalp.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 1, "Height": 1, "Weight": 0.15,
+
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+
+        "Name": "Ops-Core helmet cover (mcalp",
+        "shortName": "AOR2 Cover",
+        "Description": "A tactical helmet cover designed for Ops-Core high-cut ballistic helmets. Made from durable nylon with reinforced stitching and attachment points for cables, counterweights, and accessories. Features the AOR2 digital camouflage pattern optimized for temperate and coastal environments."
+      }
+    },
+    "fleaPriceRoubles": 9500,
+    "handbookPriceRoubles": 11500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6998e603c5909901b2f7a06a": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "6998e60c71292bd226f7a06b": {
+    "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
+    "parentId": "57bef4c42459772e8d35a53b",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "ConflictingItems": ["6917c69f14af1f6aff139dbd",
+        "6917c6de1d18ca02f4868839",
+        "6917c633200042156b8bdb52"
+      ],
+      "Prefab": { "path": "covermiami.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 1, "Height": 1, "Weight": 0.15,
+
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+
+        "Name": "Ops-Core helmet cover (AOR2)",
+        "shortName": "AOR2 Cover",
+        "Description": "A tactical helmet cover designed for Ops-Core high-cut ballistic helmets. Made from durable nylon with reinforced stitching and attachment points for cables, counterweights, and accessories. Features the AOR2 digital camouflage pattern optimized for temperate and coastal environments."
+      }
+    },
+    "fleaPriceRoubles": 9500,
+    "handbookPriceRoubles": 11500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6998e616d3bccd0772f7a06c": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+
+
+  "6917c54d98d815c7861d1c59": {
+    "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
+    "parentId": "57bef4c42459772e8d35a53b",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "ConflictingItems": ["6917c69f14af1f6aff139dbd",
+        "6917c6de1d18ca02f4868839",
+        "6917c633200042156b8bdb52"
+      ],
+      "Prefab": { "path": "coverdts.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 1, "Height": 1, "Weight": 0.15,
+
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "Name": "Ops-Core helmet cover (Desert Tiger Stripe)",
+        "ShortName": "DTS Cover",
+        "Description": "A helmet cover made for Ops-Core high-cut ballistic helmets, constructed from rugged, abrasion-resistant fabric. Finished in the Desert Tiger Stripe pattern, providing effective concealment in arid, sandy terrain and broken scrub environments."
+      }
+    },
+
+    "fleaPriceRoubles": 9500,
+    "handbookPriceRoubles": 11500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6917c5e8583302698b943ad1": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6917c5f64ae12687885bf18d": {
+    "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
+    "parentId": "57bef4c42459772e8d35a53b",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "covermcb.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "ConflictingItems": ["6917c69f14af1f6aff139dbd",
+        "6917c6de1d18ca02f4868839",
+        "6917c633200042156b8bdb52"
+      ],
+      "Width": 1, "Height": 1, "Weight": 0.15,
+
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "Name": "Ops-Core helmet cover (Multicam Black)",
+        "ShortName": "MCB Cover",
+        "Description": "A high-durability helmet cover built for Ops-Core high-cut ballistic helmets. Produced from tear-resistant nylon with integrated cable management and hook-and-loop panels. Coated in the Multicam Black pattern, intended for law-enforcement and urban low-visibility operations."
+      }
+
+    },
+
+    "fleaPriceRoubles": 9500,
+    "handbookPriceRoubles": 11500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6917c609316f0a61ce2078a0": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6917c61265268ecbc220f1f2": {
+    "itemTplToClone": "5d6d3943a4b9360dbc46d0cc",
+    "parentId": "57bef4c42459772e8d35a53b",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "ConflictingItems": ["6917c69f14af1f6aff139dbd",
+        "6917c6de1d18ca02f4868839",
+        "6917c633200042156b8bdb52"
+      ],
+      "Prefab": { "path": "covermct.bundle", "rcid": "" },
+      "BackgroundColor": "default",
+      "Width": 1, "Height": 1, "Weight": 0.15,
+
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "Name": "Ops-Core helmet cover (Multicam Tropic)",
+        "ShortName": "MCT Cover",
+        "Description": "A rugged nylon helmet cover designed for Ops-Core high-cut ballistic helmets. Includes reinforced seams, accessory mounting points, and Velcro paneling. Uses the Multicam Tropic camouflage pattern for improved concealment in lush, dense jungle and green woodland environments."
+      }
+
+
+    },
+
+    "fleaPriceRoubles": 9500,
+    "handbookPriceRoubles": 11500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "addtoStaticLootContainers": true,
+
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_PMC_BODY",
+        "Probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
+      }
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": true,
+
+    "traders": {
+      "RAGMAN": {
+        "6917c621189545d7c328fe7b": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

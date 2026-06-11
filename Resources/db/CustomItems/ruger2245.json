@@ -314,7 +314,6 @@
               {
                 "Filter": [
                   "5649a2464bdc2d91118b45a8",
-                  "5a32aa8bc4a2826c6e06d737",
                   "57ac965c24597706be5f975c",
                   "57aca93d2459771f2c7e26db",
                   "544a3f024bdc2d1d388b4568",
@@ -424,7 +423,7 @@
         "rcid": ""
       },
       "ExaminedByDefault": true,
-
+      "CanSellOnRagfair":true,
       "AnimationVariantsNumber": 0,
       "BackgroundColor": "blue",
       "CanPutIntoDuringTheRaid": true,

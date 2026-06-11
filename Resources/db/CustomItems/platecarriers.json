@@ -274,7 +274,7 @@
     "parentId": "5448e5284bdc2dcb718b4567",
     "handbookParentId": "5b5f6f8786f77447ed563642",
     "overrideProperties": {
-      "Weight": 4.85,
+      "Weight": 3.85,
       "Height": 3,
       "Width": 4,
       "SpeedPenaltyPercent": -2,
@@ -436,10 +436,9 @@
           "_proto": "64479fdf9731c8fadc0642c1"
         }
       ],
-      "Grids":
-      [
+      "Grids": [
         {
-          "_id": "4da643c811023b43f446f35f",
+          "_id": "cede647d94d8e8c855e2568d",
           "_name": "GridView (1)",
           "_parent": "FCPC-RIGLAYOUT",
           "_props": {
@@ -463,7 +462,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "86e54643916dc06e802beb1f",
+          "_id": "78f65323f5b796d76d13477c",
           "_name": "GridView (2)",
           "_parent": "FCPC-RIGLAYOUT",
           "_props": {
@@ -487,7 +486,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "00cce1d3c8809018baebec29",
+          "_id": "ae49cbb8b3018ae8eb79d0a8",
           "_name": "GridView (3)",
           "_parent": "FCPC-RIGLAYOUT",
           "_props": {
@@ -511,7 +510,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "4b5f1d7b5f71ead64e01e0e1",
+          "_id": "3d3d5b82463b1357296cf1c8",
           "_name": "GridView (4)",
           "_parent": "FCPC-RIGLAYOUT",
           "_props": {
@@ -535,7 +534,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "3f4a962e93a075bcbd841be3",
+          "_id": "3fcda987019bc37d9ed0d46f",
           "_name": "GridView (5)",
           "_parent": "FCPC-RIGLAYOUT",
           "_props": {
@@ -559,7 +558,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "6743580d976c07253700b284",
+          "_id": "17ea749bae69ee310332a49a",
           "_name": "GridView (6)",
           "_parent": "FCPC-RIGLAYOUT",
           "_props": {
@@ -583,7 +582,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "fc9f18fc1af7ac549c42f16a",
+          "_id": "32443432819407fa4bace63b",
           "_name": "GridView (7)",
           "_parent": "FCPC-RIGLAYOUT",
           "_props": {
@@ -607,7 +606,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "0704c3dbc40e0e519b0b3609",
+          "_id": "0f3873822423360bc7d159e9",
           "_name": "GridView (8)",
           "_parent": "FCPC-RIGLAYOUT",
           "_props": {
@@ -631,7 +630,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "b0a1dbcb8092dcdc90607426",
+          "_id": "b80b2f5a29ca28c6321a02f8",
           "_name": "GridView (9)",
           "_parent": "FCPC-RIGLAYOUT",
           "_props": {
@@ -655,7 +654,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "17e8cb3701b1baa4a1989361",
+          "_id": "a9064c6fe87a49c1dc2fbffa",
           "_name": "GridView (10)",
           "_parent": "FCPC-RIGLAYOUT",
           "_props": {
@@ -679,7 +678,7 @@
           "_proto": "55d329c24bdc2d892f8b4567"
         },
         {
-          "_id": "bbaa5866db55998f438494c9",
+          "_id": "b7217ae2399bbeafc0388761",
           "_name": "GridView (11)",
           "_parent": "FCPC-RIGLAYOUT",
           "_props": {
@@ -692,7 +691,31 @@
                 ],
                 "Filter": [
                   "5448f3ac4bdc2dce718b4569"
-
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "d0e389dcfb942c2a9d360261",
+          "_name": "GridView (12)",
+          "_parent": "FCPC-RIGLAYOUT",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 1,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "60098af40accd37ef2175f27",
+                  "5e831507ea0a7c419c2f9bd9"
                 ]
               }
             ],
@@ -1160,6 +1183,430 @@
           "barters": [
             {
               "count": 77500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+
+  "6a10d9833b4d6ac10952f56a": {
+    "itemTplToClone": "5e4ac41886f77406a511c9a8",
+    "parentId": "5448e5284bdc2dcb718b4567",
+    "handbookParentId": "5b5f6f8786f77447ed563642",
+    "overrideProperties": {
+      "Weight": 2.85,
+      "Height": 3,
+      "Width": 4,
+      "SpeedPenaltyPercent": -1,
+      "MousePenalty": 0,
+      "WeaponErgonomicPenalty": 0,
+      "armorClass": 0,
+      "ArmorMaterial": "Aramid",
+      "ArmorType": "Light",
+      "BlocksArmorVest":true,
+      "BluntThroughput": 0.10,
+      "CanPutIntoDuringTheRaid":true,
+      "CanSellOnRagfair":false,
+      "ConflictingItems":[
+
+      ],
+      "ArmorZone": [],
+      "RigLayoutName": "FCPC-LITE-RIGLAYOUT",
+      "Prefab": {
+        "path": "fcpc-lite.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "Front_plate",
+          "_id": "6a10d9e02dab7ffe4f52f56b",
+          "_parent": "6a10d9833b4d6ac10952f56a",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "64afdcb83efdfea28601d041",
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa76500d62bcd2e024080",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "65573fa5655447403702a816",
+                  "64afc71497cf3a403c01ff38",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_chest"
+                ],
+                "bluntDamageReduceFromSoftArmor": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Back_plate",
+          "_id": "6a10d9e5dc9769281352f56c",
+          "_parent": "6a10d9833b4d6ac10952f56a",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "64afdcb83efdfea28601d041",
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa76500d62bcd2e024080",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "65573fa5655447403702a816",
+                  "64afc71497cf3a403c01ff38",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_back"
+                ],
+                "bluntDamageReduceFromSoftArmor": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Left_side_plate",
+          "_id": "6a10d9e9554464104752f56d",
+          "_parent": "6a10d9833b4d6ac10952f56a",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "64afdb577bb3bfe8fe03fd1d",
+                "Filter": [
+                  "6557458f83942d705f0c4962",
+                  "64afdb577bb3bfe8fe03fd1d",
+                  "64afd81707e2cf40e903a316"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SSAPI_side_left_high"
+                ],
+                "bluntDamageReduceFromSoftArmor": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Right_side_plate",
+          "_id": "6a10d9ec6c46c2115652f56e",
+          "_parent": "6a10d9833b4d6ac10952f56a",
+          "_props": {
+            "filters": [
+              {
+                "locked": false,
+                "Plate": "64afdb577bb3bfe8fe03fd1d",
+                "Filter": [
+                  "6557458f83942d705f0c4962",
+                  "64afdb577bb3bfe8fe03fd1d",
+                  "64afd81707e2cf40e903a316"
+                ],
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SSAPI_side_right_high"
+                ],
+                "bluntDamageReduceFromSoftArmor": true
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ],
+      "Grids": [
+        {
+          "_id": "10944c3454eac6eb689899dd",
+          "_name": "GridView (1)",
+          "_parent": "FCPC-LITE-RIGLAYOUT",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "1f065e5c223b6e1783c798b1",
+          "_name": "GridView (2)",
+          "_parent": "FCPC-LITE-RIGLAYOUT",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "6c4b48faf51d28f033e878e3",
+          "_name": "GridView (3)",
+          "_parent": "FCPC-LITE-RIGLAYOUT",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "26f19fe2f364c388aee6ebb8",
+          "_name": "GridView (4)",
+          "_parent": "FCPC-LITE-RIGLAYOUT",
+          "_props": {
+            "cellsH": 2,
+            "cellsV": 1,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "5448f3ac4bdc2dce718b4569"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "c381e77fdf3b8bc42b326109",
+          "_name": "GridView (5)",
+          "_parent": "FCPC-LITE-RIGLAYOUT",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 1,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "60098af40accd37ef2175f27",
+                  "5e831507ea0a7c419c2f9bd9"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "039c9185bbcfad0a35e219ca",
+          "_name": "GridView (6)",
+          "_parent": "FCPC-LITE-RIGLAYOUT",
+          "_props": {
+            "cellsH": 3,
+            "cellsV": 1,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "c1604672516f0d65fe8ad275",
+          "_name": "GridView (7)",
+          "_parent": "FCPC-LITE-RIGLAYOUT",
+          "_props": {
+            "cellsH": 2,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "e962ed5fcbd94a195998af2b",
+          "_name": "GridView (8)",
+          "_parent": "FCPC-LITE-RIGLAYOUT",
+          "_props": {
+            "cellsH": 2,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+        {
+          "_id": "dd73b3a5500732067bd57c65",
+          "_name": "GridView (9)",
+          "_parent": "FCPC-LITE-RIGLAYOUT",
+          "_props": {
+            "cellsH": 2,
+            "cellsV": 1,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+      ],
+      "LayoutName": "FCPC-LITE-RIGLAYOUT"
+
+    },
+    "locales": {
+      "en": {
+        "name": "Ferro Concepts FCPC V5 (Multicam Black/Wolf Grey)",
+        "shortName": "FCPCV5 MCB/WG",
+        "description": "Loyal to the Mission "
+      }
+    },
+    "fleaPriceRoubles": 144400,
+    "handbookPriceRoubles": 144400,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "StaticLootContainers": [],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "6a10dabf31df611dd352f56f": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 157500,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
