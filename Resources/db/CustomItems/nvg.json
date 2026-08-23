@@ -39,7 +39,7 @@
       "mod_nvg"
     ],
     "addtoStaticLootContainers": false,
-    "StaticLootContainers": [
+    "staticLootContainers": [
 
     ],
     "addtoSecureFilters": false,
@@ -107,7 +107,7 @@
       "mod_nvg"
     ],
     "addtoStaticLootContainers": false,
-    "StaticLootContainers": [
+    "staticLootContainers": [
 
     ],
     "addtoSecureFilters": false,
@@ -174,7 +174,7 @@
       "mod_nvg"
     ],
     "addtoStaticLootContainers": false,
-    "StaticLootContainers": [
+    "staticLootContainers": [
 
     ],
     "addtoSecureFilters": false,
@@ -262,7 +262,7 @@
       "mod_nvg"
     ],
     "addtoStaticLootContainers": false,
-    "StaticLootContainers": [
+    "staticLootContainers": [
 
     ],
     "addtoSecureFilters": false,
@@ -330,7 +330,7 @@
       "mod_nvg"
     ],
     "addtoStaticLootContainers": false,
-    "StaticLootContainers": [
+    "staticLootContainers": [
 
     ],
     "addtoSecureFilters": false,

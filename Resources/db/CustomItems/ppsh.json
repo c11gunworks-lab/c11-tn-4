@@ -130,10 +130,10 @@
       "mod_reciever"
     ],
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -385,10 +385,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -581,10 +581,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -727,10 +727,10 @@
       "mod_barrel"
     ],
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -896,10 +896,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -1084,10 +1084,10 @@
       "mod_stock"
     ],
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",

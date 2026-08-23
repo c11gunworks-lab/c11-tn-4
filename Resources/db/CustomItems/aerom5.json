@@ -302,7 +302,8 @@
               {
                 "Filter":[
                   "69e23553ebf64594eaff184a",
-                  "69e2596c1fad487eefff1872"
+                  "69e2596c1fad487eefff1872",
+                  "6698d07a9c0503243e3753b4"
                 ],
                 "Shift": 0
               }
@@ -323,7 +324,8 @@
                   "5df8e085bb49d91fb446d6a8",
                   "5df8e053bb49d91fb446d6a6",
                   "69e2578f9e2f3658f4ff1863",
-                  "69e258159d49bea7aaff1867"
+                  "69e258159d49bea7aaff1867",
+                  "e64912750c88040771d66ffb"
                 ],
                 "Shift": 0
               }
@@ -496,19 +498,117 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers":[
+    "staticLootContainers":[
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
-        "Probability": 150
+        "probability": 150
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
-        "Probability": 250
+        "probability": 250
       }
     ],
     "addtoSecureFilters": true,
-    "addWeaponPreset": false,
-    "weaponPresets": [],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+
+      {
+        "_id": "6a3ebd52b7646595bcf50faf",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "aero black",
+        "_parent": "6a3ebd52b7646595bcf50fb0",
+        "_items": [
+          {
+            "_id": "6a3ebd52b7646595bcf50fb0",
+            "_tpl": "6a1b2c3d4e5f6a7b8c9d0e20",
+            "upd": {
+              "StackObjectsCount": 99,
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              }
+            }
+          },
+          {
+            "_id": "6a3ebccdb7646595bcf4e5e3",
+            "_tpl": "55802f5d4bdc2dac148b458f",
+            "parentId": "6a3ebd52b7646595bcf50fb0",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "6a3ebccdb7646595bcf4e5e4",
+            "_tpl": "5a3501acc4a282000d72293a",
+            "parentId": "6a3ebd52b7646595bcf50fb0",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "6a3ebccdb7646595bcf4e5e5",
+            "_tpl": "5649be884bdc2d79388b4577",
+            "parentId": "6a3ebd52b7646595bcf50fb0",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "6a3ebccdb7646595bcf4e5e6",
+            "_tpl": "69e23553ebf64594eaff184a",
+            "parentId": "6a3ebd52b7646595bcf50fb0",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "6a3ebccdb7646595bcf4e5e7",
+            "_tpl": "69e2578f9e2f3658f4ff1863",
+            "parentId": "6a3ebd52b7646595bcf50fb0",
+            "slotId": "mod_charge"
+          },
+          {
+            "_id": "6a3ebccdb7646595bcf4e5e8",
+            "_tpl": "5d44069ca4b9361ebd26fc37",
+            "parentId": "6a3ebccdb7646595bcf4e5e5",
+            "slotId": "mod_stock_000"
+          },
+          {
+            "_id": "6a3ebccdb7646595bcf4e5e9",
+            "_tpl": "3f0cfc550b6aae26f59f7e25",
+            "parentId": "6a3ebccdb7646595bcf4e5e6",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "6a3ebccdb7646595bcf4e5ea",
+            "_tpl": "69e2392804c7ff61f2ff1854",
+            "parentId": "6a3ebccdb7646595bcf4e5e6",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "6a3ebccdb7646595bcf4e5eb",
+            "_tpl": "5cf78496d7f00c065703d6ca",
+            "parentId": "6a3ebccdb7646595bcf4e5e9",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "6a3ebccdb7646595bcf4e5ec",
+            "_tpl": "5dfa3d45dfc58d14537c20b0",
+            "parentId": "6a3ebccdb7646595bcf4e5e9",
+            "slotId": "mod_gas_block"
+          },
+          {
+            "_id": "6a3ebccdb7646595bcf4e5ed",
+            "_tpl": "5c878e9d2e2216000f201903",
+            "parentId": "6a3ebccdb7646595bcf4e5eb",
+            "slotId": "mod_muzzle_000"
+          },
+          {
+            "_id": "6a3ebccdb7646595bcf4e5ee",
+            "_tpl": "5cf78720d7f00c06595bc93e",
+            "parentId": "6a3ebccdb7646595bcf4e5eb",
+            "slotId": "mod_muzzle_001"
+          }
+        ],
+        "_encyclopedia": "6a1b2c3d4e5f6a7b8c9d0e20"
+      }
+    ],
     "masterySections":[
       {
         "Level2": 150,
@@ -519,7 +619,7 @@
         ]
       }
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "6a1b2c3d4e5f6a7b8c9d0e27": {
@@ -842,7 +942,8 @@
               {
                 "Filter":[
                   "69e23553ebf64594eaff184a",
-                  "69e2596c1fad487eefff1872"
+                  "69e2596c1fad487eefff1872",
+                  "6698d07a9c0503243e3753b4"
                 ],
                 "Shift": 0
               }
@@ -863,7 +964,8 @@
                   "5df8e085bb49d91fb446d6a8",
                   "5df8e053bb49d91fb446d6a6",
                   "69e2578f9e2f3658f4ff1863",
-                  "69e258159d49bea7aaff1867"
+                  "69e258159d49bea7aaff1867",
+                  "e64912750c88040771d66ffb"
                 ],
                 "Shift": 0
               }
@@ -1036,19 +1138,132 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers":[
+    "staticLootContainers":[
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
-        "Probability": 150
+        "probability": 150
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
-        "Probability": 250
+        "probability": 250
       }
     ],
     "addtoSecureFilters": true,
-    "addWeaponPreset": false,
-    "weaponPresets": [],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "69e28e6d83327e62d4d2fdbe",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "M5 Camo",
+        "_parent": "69e28e6d83327e62d4d2fdbf",
+        "_items": [
+          {
+            "_id": "69e28e6d83327e62d4d2fdbf",
+            "_tpl": "69e25b7dda6365b5b8ff187b",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              }
+            }
+          },
+          {
+            "_id": "69e28e3183327e62d4d2fd91",
+            "_tpl": "69e240e5d1701dbc14ff185d",
+            "parentId": "69e28e6d83327e62d4d2fdbf",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "69e28e3183327e62d4d2fd92",
+            "_tpl": "69e24048770bbffb64ff185a",
+            "parentId": "69e28e6d83327e62d4d2fdbf",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "69e28e3183327e62d4d2fd93",
+            "_tpl": "5649be884bdc2d79388b4577",
+            "parentId": "69e28e6d83327e62d4d2fdbf",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "69e28e3183327e62d4d2fd94",
+            "_tpl": "69e2596c1fad487eefff1872",
+            "parentId": "69e28e6d83327e62d4d2fdbf",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "69e28e3183327e62d4d2fd95",
+            "_tpl": "69e258159d49bea7aaff1867",
+            "parentId": "69e28e6d83327e62d4d2fdbf",
+            "slotId": "mod_charge"
+          },
+          {
+            "_id": "69e28e3183327e62d4d2fd96",
+            "_tpl": "5e023e88277cce2b522ff2b1",
+            "parentId": "69e28e3183327e62d4d2fd92",
+            "slotId": "cartridges",
+            "upd": {
+              "StackObjectsCount": 20
+            }
+          },
+          {
+            "_id": "69e28e3183327e62d4d2fd97",
+            "_tpl": "69e2592cde11021fc0ff1871",
+            "parentId": "69e28e3183327e62d4d2fd93",
+            "slotId": "mod_stock_000"
+          },
+          {
+            "_id": "69e28e3183327e62d4d2fd98",
+            "_tpl": "57aca93d2459771f2c7e26db",
+            "parentId": "69e28e3183327e62d4d2fd94",
+            "slotId": "mod_scope_000",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0,
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0,
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "69e28e3183327e62d4d2fd99",
+            "_tpl": "69e25b190ec5b5b2e3ff1878",
+            "parentId": "69e28e3183327e62d4d2fd94",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "69e28e3183327e62d4d2fd9a",
+            "_tpl": "69e258a0c588f36f04ff1869",
+            "parentId": "69e28e3183327e62d4d2fd94",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "69e28e3183327e62d4d2fd9b",
+            "_tpl": "69e257c4b83e29afacff1864",
+            "parentId": "69e28e3183327e62d4d2fd99",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "69e28e3183327e62d4d2fd9c",
+            "_tpl": "5dfa3d45dfc58d14537c20b0",
+            "parentId": "69e28e3183327e62d4d2fd99",
+            "slotId": "mod_gas_block"
+          }
+        ],
+        "_encyclopedia": "69e25b7dda6365b5b8ff187b"
+      }
+    ],
     "masterySections":[
       {
         "Level2": 150,
@@ -1059,7 +1274,7 @@
         ]
       }
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "69e25bdced7dc94d36ff1881": {
@@ -1235,14 +1450,14 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers":[
+    "staticLootContainers":[
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 250
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "69e237ced0093a2914ff184f": {
@@ -1411,14 +1626,14 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers":[
+    "staticLootContainers":[
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 250
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "69e259cfd0093a2914ff187a": {
@@ -1535,7 +1750,7 @@
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers":[
+    "staticLootContainers":[
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
         "probability": 250
@@ -1663,7 +1878,7 @@
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers":[
+    "staticLootContainers":[
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
         "probability": 250
@@ -1674,7 +1889,7 @@
     "modSlot":[
       "mod_barrel"
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "69e25afafdbd770f6cff1877": {
@@ -1853,7 +2068,7 @@
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers":[
+    "staticLootContainers":[
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 250
@@ -2043,7 +2258,7 @@
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers":[
+    "staticLootContainers":[
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 250
@@ -2054,7 +2269,7 @@
     "modSlot":[
       "mod_handguard"
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "69e258df78e6271ebdff1870": {
@@ -2125,7 +2340,7 @@
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers":[
+    "staticLootContainers":[
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 250
@@ -2207,7 +2422,7 @@
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers":[
+    "staticLootContainers":[
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 250
@@ -2218,7 +2433,7 @@
     "modSlot":[
       "mod_magazine"
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "69e2406b3d22880fbdff185c": {
@@ -2254,7 +2469,7 @@
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers":[
+    "staticLootContainers":[
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 250
@@ -2265,7 +2480,7 @@
     "modSlot": [
       "mod_pistol_grip"
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "69e24179d87c27bb6fff185e": {
@@ -2297,7 +2512,7 @@
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers":[
+    "staticLootContainers":[
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 250
@@ -2343,7 +2558,7 @@
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers":[
+    "staticLootContainers":[
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 250
@@ -2354,7 +2569,7 @@
     "modSlot": [
       "mod_charge"
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "69e2581326cce849b0ff1866": {
@@ -2394,7 +2609,7 @@
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers":[
+    "staticLootContainers":[
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 250
@@ -2406,7 +2621,7 @@
       "mod_stock",
       "mod_stock_000"
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "69e2558572f0c9a149ff1860": {
@@ -2446,7 +2661,7 @@
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers":[
+    "staticLootContainers":[
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 250
@@ -2498,7 +2713,7 @@
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers":[
+    "staticLootContainers":[
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 250
@@ -2509,7 +2724,7 @@
     "modSlot": [
       "mod_muzzle"
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "69e257c6c239661684ff1865": {

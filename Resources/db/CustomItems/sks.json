@@ -461,10 +461,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
-        "Probability": 250
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 250
       }
     ],
     "addtoSecureFilters": false,

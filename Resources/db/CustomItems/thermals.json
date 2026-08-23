@@ -1,0 +1,207 @@
+{
+
+    "6a2dcd5334084428376db563": {
+        "itemTplToClone": "5d1b5e94d7ad1a2b865a96b0",
+        "parentId": "55818aeb4bdc2ddc698b456a",
+        "handbookParentId": "5b5f749986f774094242f199",
+        "overrideProperties": {
+          "ExaminedByDefault": true,
+          "Prefab": {
+            "path": "holosundnv.bundle",
+            "rcid": ""
+          },
+          "ModesCount": [
+            4
+          ],
+          "Zooms":[
+            [
+              1,
+              1,
+              1,
+              1
+              
+
+            ]
+          ]
+        },
+        "locales": {
+          "en": {
+            "name": "Holosun Test ",
+            "shortName": "HS",
+            "description": "Testing"
+          }
+        },
+        "fleaPriceRoubles": 45000,
+        "handbookPriceRoubles": 42500,
+        "addtoBots": false,
+        "addtoSpecialSlots": false,
+        "addtoModSlots": true,
+        "modSlot": [
+          "mod_scope",
+          "mod_scope_000"
+        ],
+        "addtoStaticLootContainers": true,
+        "staticLootContainers": [
+               {
+            "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+            "probability": 150
+          },
+          {
+          "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+          "probability": 250
+          }
+        ],
+        "addtoSecureFilters": false,
+        "addtoTraders": true,
+        "traders": {
+          "MECHANIC": {
+            "6a2dcdb5f30948fb7d8e35c4": {
+              "barterSettings": {
+                "loyalLevel": 2,
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+              },
+              "barters": [
+                {
+                  "count": 150,
+                  "_tpl": "MONEY_EUROS"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "6a2dfcceac851f23d0b121c2": {
+        "itemTplToClone": "5b3b6e495acfc4330140bd88",
+        "parentId": "55818aeb4bdc2ddc698b456a",
+        "handbookParentId": "5b5f749986f774094242f199",
+        "overrideProperties": {
+          "ExaminedByDefault": true,
+          "Prefab": {
+            "path": "pvs22.bundle",
+            "rcid": ""
+          },
+          "ModesCount": [
+            2
+          ],
+         
+          "Zooms":[
+            [
+              1,
+              1
+              
+
+            ]
+          ]
+        },
+        "locales": {
+          "en": {
+            "name": "PVS-22 ",
+            "shortName": "PVS-22",
+            "description": "Testing"
+          }
+        },
+        "fleaPriceRoubles": 45000,
+        "handbookPriceRoubles": 42500,
+        "addtoBots": false,
+        "addtoSpecialSlots": false,
+        "addtoModSlots": true,
+        "modSlot": [
+          "mod_scope",
+          "mod_scope_000",
+          "mod_mount"
+        ],
+        "addtoStaticLootContainers": true,
+        "staticLootContainers": [
+               {
+            "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+            "probability": 150
+          },
+          {
+          "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+          "probability": 250
+          }
+        ],
+        "addtoSecureFilters": false,
+        "addtoTraders": true,
+        "traders": {
+          "MECHANIC": {
+            "6a2e1edb912cac85f6af5565": {
+              "barterSettings": {
+                "loyalLevel": 2,
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+              },
+              "barters": [
+                {
+                  "count": 150,
+                  "_tpl": "MONEY_EUROS"
+                }
+              ]
+            }
+          }
+        }
+      },
+    "6a2dcf2e11cf8134015c0563": {
+        "itemTplToClone": "5c110624d174af029e69734c",
+        "parentId": "5d21f59b6dbe99052b54ef83",
+        "handbookParentId": "5b5f749986f774094242f199",
+        "overrideProperties": {
+          "ExaminedByDefault": true,
+          "Prefab": {
+            "path": "nvg_fusion.bundle",
+            "rcid": ""
+          }
+         
+          
+        },
+        "locales": {
+          "en": {
+            "name": "nvg fusion test",
+            "shortName": "nvg test",
+            "description": "Testing"
+          }
+        },
+        "fleaPriceRoubles": 45000,
+        "handbookPriceRoubles": 42500,
+        "addtoBots": false,
+        "addtoSpecialSlots": false,
+        "addtoModSlots": true,
+        "modSlot": [
+          "mod_nvg"
+
+        ],
+        "addtoStaticLootContainers": true,
+        "staticLootContainers": [
+               {
+            "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+            "probability": 150
+          },
+          {
+          "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+          "probability": 250
+          }
+        ],
+        "addtoSecureFilters": false,
+        "addtoTraders": true,
+        "traders": {
+          "MECHANIC": {
+            "6a2dceaaba50a8f7782983b4": {
+              "barterSettings": {
+                "loyalLevel": 2,
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+              },
+              "barters": [
+                {
+                  "count": 150,
+                  "_tpl": "MONEY_EUROS"
+                }
+              ]
+            }
+          }
+        }
+      }
+
+
+}

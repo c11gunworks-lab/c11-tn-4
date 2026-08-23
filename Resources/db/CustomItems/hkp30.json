@@ -227,10 +227,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
     {
-        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -444,10 +444,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
     {
-        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -572,10 +572,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
     {
-        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -733,10 +733,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
     {
-        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -886,10 +886,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
     {
-        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -1010,10 +1010,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
     {
-        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -1110,10 +1110,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
     {
-        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",

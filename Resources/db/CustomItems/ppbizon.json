@@ -1,0 +1,723 @@
+﻿{
+
+  "6a3fd390c90e2ddc932ee1c6": {
+    "itemTplToClone": "59984ab886f7743e98271174",
+    "parentId": "5447b5e04bdc2d62278b4567",
+    "handbookParentId": "5b5f796a86f774093f2ed3c0",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "ppbizon_weapon.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Durability":100,
+      "Height": 1,
+      "Weight": 1.75,
+      "RecoilForceUp": 45,
+      "RecoilForceBack": 260,
+      "RecoilCamera": 0.02,
+      "Grids": [],
+      "ammoCaliber": "Caliber9x18PM",
+      "isFastReload": true,
+      "weapFireType": [
+        "single",
+        "fullauto"
+      ],
+      "SingleFireRate": 450,
+      "ReloadMode": "ExternalMagazine",
+      "Foldable": true,
+      "FoldedSlot":"mod_stock",
+      "Retractable": false,
+      "CompactHandling": true,
+      "CanQueueSecondShot": true,
+      "bFirerate": 680,
+      "Ergonomics": 32,
+      "Velocity": -16,
+      "SightingRange":100,
+      "bEffDist": 175,
+      "bHearDist": 80,
+      "isChamberLoad": true,
+      "chamberAmmoCount": 1,
+      "isBoltCatch": false,
+      "defMagType": "6a3fd799319444a8a12ee1d6",
+      "defAmmo": "573719762459775a626ccbc1",
+      "Slots": [
+        {
+          "_name": "mod_gas_block",
+          "_id": "6a3fd3d351b19589b72ee1c7",
+          "_parent": "6a3fd390c90e2ddc932ee1c6",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "6a3fd66af0f63c5a472ee1d2"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_magazine",
+          "_id": "6a3fd3e7a800d96bd32ee1c8",
+          "_parent": "6a3fd390c90e2ddc932ee1c6",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex":-1,
+                "Shift": 0,
+                "Filter": [
+                  "6a3fd799319444a8a12ee1d6"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_id": "6a3fd3f308a1772a7c2ee1c9",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "6a3fd390c90e2ddc932ee1c6",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a3fd91f0f16d9ab882ee1dc"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_name": "mod_reciever",
+          "_id": "6a3fd3fbecd0a663182ee1ca",
+          "_parent": "6a3fd390c90e2ddc932ee1c6",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "6a3fd623ab897b4ad92ee1d0"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_scope",
+          "_id": "6a3fd9b6e73bcec6dd2ee1dd",
+          "_parent": "6a3fd390c90e2ddc932ee1c6",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5947db3f86f77447880cf76f",
+                  "6113d6c3290d254f5e6b27db",
+                  "57486e672459770abd687134",
+                  "618a5d5852ecee1505530b2a",
+                  "5c82342f2e221644f31c060e",
+                  "576fd4ec2459777f0b518431",
+                  "5c82343a2e221644f31c0611",
+                  "5cf638cbd7f00c06595bc936",
+                  "5a7c74b3e899ef0014332c29",
+                  "591ee00d86f774592f7b841e",
+                  "5d0a29ead7ad1a0026013f27",
+                  "618a75c9a3884f56c957ca1b",
+                  "57acb6222459771ec34b5cb0",
+                  "5c61a40d2e2216001403158d",
+                  "5c90c3622e221601da359851",
+                  "638db77630c4240f9e06f8b6",
+                  "63d114019e35b334d82302f7",
+                  "6544d4187c5457729210d277",
+                  "65f1b1176dbd6c5ba2082eed"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_rear",
+          "_id": "6a3fd9d203083c0f7b2ee1de",
+          "_parent": "6a3fd390c90e2ddc932ee1c6",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5ac733a45acfc400192630e2",
+                  "5649b0544bdc2d1b2b8b458a",
+                  "5ac72e475acfc400180ae6fe",
+                  "5649d9a14bdc2d79388b4580",
+                  "628a7b23b0f75035732dd565",
+                  "649ec2cec93611967b03495e",
+                  "5bf3f59f0db834001a6fa060"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_stock",
+          "_id": "6a3fd407ef174c392e2ee1cb",
+          "_parent": "6a3fd390c90e2ddc932ee1c6",
+          "_props": {
+            "filters": [
+              {
+                "shift": 0,
+                "Filter": [
+                  "59ecc28286f7746d7a68aa8c",
+                  "5ab626e4d8ce87272e4c6e43",
+                  "57dc347d245977596754e7a1",
+                  "66ac9d9740e27931602042d4"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_id": "6a3fd46f732faee1712ee1cc",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_pistol_grip",
+          "_parent": "6a3fd390c90e2ddc932ee1c6",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5f6341043ada5942720e2dc5",
+                  "6087e663132d4d12c81fd96b",
+                  "5beec8ea0db834001a6f9dbf",
+                  "5649ad3f4bdc2df8348b4585",
+                  "5649ade84bdc2d1b2b8b4587",
+                  "59e62cc886f77440d40b52a1",
+                  "5a0071d486f77404e23a12b2",
+                  "57e3dba62459770f0c32322b",
+                  "5cf54404d7f00c108840b2ef",
+                  "5e2192a498a36665e8337386",
+                  "5b30ac585acfc433000eb79c",
+                  "59e6318286f77444dd62c4cc",
+                  "5cf50850d7f00c056e24104c",
+                  "5cf508bfd7f00c056e24104e",
+                  "5947f92f86f77427344a76b1",
+                  "5947fa2486f77425b47c1a9b",
+                  "5c6bf4aa2e2216001219b0ae",
+                  "5649ae4a4bdc2d1b2b8b4588",
+                  "5998517986f7746017232f7e",
+                  "623c3be0484b5003161840dc",
+                  "628c9ab845c59e5b80768a81",
+                  "628a664bccaab13006640e47",
+                  "63f4da90f31d4a33b87bd054",
+                  "648ae3e356c6310a830fc291",
+                  "651580dc71a4f10aec4b6056"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        }
+      ],
+
+      "Chambers": [
+        {
+          "_name": "patron_in_weapon",
+          "_id": "6a3fd4b85995bf86d92ee1cd",
+          "_parent": "6a3fd390c90e2ddc932ee1c6",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "573718ba2459775a75491131",
+                  "573719df2459775a626ccbc2",
+                  "57371b192459775a9f58a5e0",
+                  "57371e4124597760ff7b25f1",
+                  "57371eb62459776125652ac1",
+                  "57371f8d24597761006c6a81",
+                  "5737201124597760fc4431f1",
+                  "5737207f24597760ff7b25f2",
+                  "57371f2b24597761224311f1",
+                  "573719762459775a626ccbc1",
+                  "573720e02459776143012541",
+                  "57372140245977611f70ee91",
+                  "5737218f245977612125ba51"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d4af244bdc2d962f8b4571"
+        }
+      ]
+     
+    },
+    "locales": {
+      "en": {
+        "name": "PP Bizon 9x18",
+        "shortName": "pp Bizon",
+        "description": "A drum mag pp 19"
+      }
+    },
+    "fleaPriceRoubles": 75000,
+    "handbookPriceRoubles": 68000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [
+    
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "6a3fd4dec0eb138ac52ee1ce": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 48500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a3fd623ab897b4ad92ee1d0": {
+    "itemTplToClone": "59985a8086f77414ec448d1a",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "ppbizon_dust.bundle",
+        "rcid": ""
+      },
+      "MergesWithChildren": true,
+
+      "Slots": [
+       
+      ],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "name": "pp bizon dust cover",
+        "shortName": "Bizon Dust",
+        "description": "A dust cover capable of keeping dust out."
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability":250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "6a3fd5ddcc7c8f42302ee1cf": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 16500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a3fd66af0f63c5a472ee1d2": {
+    "itemTplToClone": "5648b1504bdc2d9d488b4584",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "ppbizon_forend.bundle",
+        "rcid": ""
+      },
+      "MergesWithChildren": true,
+      "Weight":0.45,
+      "HeatFactor":0.99,
+      "CoolFactor":0.99,
+      "Slots": [
+        {
+          "_id": "6a3fd6daf47efd32072ee1d3",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "6a3fd66af0f63c5a472ee1d2",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [ 
+"6a3fd895dfdb558c2b2ee1d9"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6a3fd6dd4c5f0ed4902ee1d4",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_001",
+          "_parent": "6a3fd66af0f63c5a472ee1d2",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+"6a3fd895dfdb558c2b2ee1d9"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "name": "pp bizon forend",
+        "shortName": "Bizon fore",
+        "description": "A forend  capable of keeping dust out."
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability":250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "6a3fd66735feec6d412ee1d1": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 16500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a3fd799319444a8a12ee1d6": {
+    "itemTplToClone": "6749c40822a2740bb408d066",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "Weight": 0.76,
+      "Width": 2,
+      "Height": 1,
+      "Ergonomics": -5,
+      "ExtraSizeDown":1,
+      "Recoil":-3,
+      "ReloadMagType":"ExternalMagazine",
+      "LoadUnloadModifier": -40,
+      "Prefab": { "path": "ppbizon_mag.bundle", "rcid": "" },
+      "VisibleAmmoRangesString":"1-3",
+      "Cartridges":[
+        {
+          "_id": "6a3fd7a06e0ebe4bee2ee1d7",
+          "_max_count": 64,
+          "_name": "cartridges",
+          "_parent": "6a3fd799319444a8a12ee1d6",
+          "_props": {
+            "filters": [
+              {
+                "Filter":[
+                  "573718ba2459775a75491131",
+                  "573719df2459775a626ccbc2",
+                  "57371b192459775a9f58a5e0",
+                  "57371e4124597760ff7b25f1",
+                  "57371eb62459776125652ac1",
+                  "57371f8d24597761006c6a81",
+                  "5737201124597760fc4431f1",
+                  "5737207f24597760ff7b25f2",
+                  "57371f2b24597761224311f1",
+                  "573719762459775a626ccbc1",
+                  "573720e02459776143012541",
+                  "57372140245977611f70ee91",
+                  "5737218f245977612125ba51"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "PP Bizon 64-round magazine",
+        "shortName": "Bizon 64rd",
+        "description": "A heavy drum"
+      }
+    },
+    "fleaPriceRoubles": 150000,
+    "handbookPriceRoubles": 125000,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers":[
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoModSlots": false,
+    "modSlot": [
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "6a3fd76b9af81f8d9b2ee1d5": {
+          "barterSettings":
+          {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters":
+          [
+            {
+              "count": 45000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a3fd895dfdb558c2b2ee1d9": {
+    "itemTplToClone": "5b7be47f5acfc400170e2dd2",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "ppbizon_mount.bundle",
+        "rcid": ""
+      },
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.04,
+
+      "Slots": [
+
+        {
+          "_id": "6a3fd8c08454509b3b2ee1da",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical",
+          "_parent": "6a3fd895dfdb558c2b2ee1d9",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a800961159bd4315e3a1657",
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5c06595c0db834001a66af6c",
+                  "5cc9c20cd7f00c001336c65d",
+                  "5d2369418abbc306c62e0c80",
+                  "5b07dd285acfc4001754240d",
+                  "56def37dd2720bec348b456a",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5a5f1ce64f39f90b401987bc",
+                  "560d657b4bdc2da74d8b4572",
+                  "5b3a337e5acfc4704b4a19a0",
+                  "5c5952732e2216398b5abda2",
+                  "57d17e212459775a1179a0f5",
+                  "6267c6396b642f77f56f5c1c",
+                  "6272370ee4013c5d7e31f418",
+                  "6272379924e29f06af4d5ecb",
+                  "626becf9582c3e319310b837",
+                  "644a3df63b0b6f03e101e065",
+                  "646f6322f43d0c5d62063715"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "Grids": []
+
+    },
+    "locales": {
+      "en": { "Name": "bizon side",
+        "ShortName": "bizon side",
+        "Description": "side" }
+    },
+    "fleaPriceRoubles": 8500,
+    "handbookPriceRoubles": 7500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 5
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+
+    "traders": {
+      "PRAPOR": {
+        "6a3fd8865cd8fd0bc92ee1d8": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a3fd91f0f16d9ab882ee1dc": {
+    "itemTplToClone": "544a38634bdc2d58388b4568",
+    "parentId": "550aa4bf4bdc2dd6348b456b",
+    "handbookParentId": "5b5f724c86f774093f2ecf15",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "ppbizon_flash.bundle",
+        "rcid": ""
+      },
+      "MergesWithChildren": true,
+
+      "Slots": [
+
+      ],
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "name": "pp bizon muzzle",
+        "shortName": "Bizon muzzle",
+        "description": "A muzzlebreak"
+      }
+    },
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 12000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability":250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "6a3fd900ba93c5e6af2ee1db": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 16500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

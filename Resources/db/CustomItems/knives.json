@@ -38,11 +38,11 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": false,
-    "StaticLootContainers":[],
+    "staticLootContainers":[],
     "addtoSecureFilters": false,
     "addWeaponPreset": false,
     "weaponPresets":[],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69f3df0c5e6de895afe34f72": {
@@ -100,11 +100,11 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": false,
-    "StaticLootContainers":[],
+    "staticLootContainers":[],
     "addtoSecureFilters": false,
     "addWeaponPreset": false,
     "weaponPresets":[],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69f3e17a5f56a71c53e34f74": {
@@ -162,11 +162,11 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": false,
-    "StaticLootContainers":[],
+    "staticLootContainers":[],
     "addtoSecureFilters": false,
     "addWeaponPreset": false,
     "weaponPresets":[],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69f3e186321b1e382ae34f76": {
@@ -224,11 +224,11 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": false,
-    "StaticLootContainers":[],
+    "staticLootContainers":[],
     "addtoSecureFilters": false,
     "addWeaponPreset": false,
     "weaponPresets":[],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69f3e19854d9797fe1e34f78": {
@@ -286,11 +286,11 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": false,
-    "StaticLootContainers":[],
+    "staticLootContainers":[],
     "addtoSecureFilters": false,
     "addWeaponPreset": false,
     "weaponPresets":[],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69f3e1a923db7c0e41e34f7a": {
@@ -348,11 +348,11 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": false,
-    "StaticLootContainers":[],
+    "staticLootContainers":[],
     "addtoSecureFilters": false,
     "addWeaponPreset": false,
     "weaponPresets":[],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69f4b0096d199ce258e34f7c": {

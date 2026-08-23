@@ -63,14 +63,14 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
         "probability": 250
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "SKIER": {
         "69e90cb6e474ff4c53ff188e": {
@@ -99,8 +99,7 @@
         "path": "assets/content/weapons/m4a1/weapon_colt_m4a1_556x45_container.bundle",
         "rcid": ""
       },
-      "BackgroundColor": "blue",
-      "Width": 2,
+      "Width": 1,
       "Height": 1,
       "DeviationCurve": 2.8,
       "DeviationMax": 45,
@@ -341,7 +340,7 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
         "probability": 250
@@ -484,7 +483,7 @@
       "mod_barrel"
     ],
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
         "probability": 250

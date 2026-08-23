@@ -94,10 +94,10 @@
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
            {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -105,7 +105,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {
@@ -200,10 +200,10 @@
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
            {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -211,7 +211,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {
@@ -284,10 +284,10 @@
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
            {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -295,7 +295,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {
@@ -377,10 +377,10 @@
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
            {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -388,7 +388,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "PRAPOR": {

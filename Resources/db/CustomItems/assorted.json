@@ -33,10 +33,10 @@
     "addtoModSlots": true,
     "modSlot": ["mod_foregrip"],
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -98,10 +98,10 @@
     "addtoModSlots": true,
     "modSlot": ["mod_stock"],
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -203,10 +203,10 @@
       "mod_magazine"
     ],
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",

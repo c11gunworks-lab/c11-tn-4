@@ -31,10 +31,10 @@
 
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 250
       },
       {
         "containerName": "LOOTCONTAINER_WOODEN_CRATE",
@@ -94,10 +94,10 @@
 
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 250
       },
       {
         "containerName": "LOOTCONTAINER_WOODEN_CRATE",
@@ -157,10 +157,10 @@
 
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 250
       },
       {
         "containerName": "LOOTCONTAINER_WOODEN_CRATE",
@@ -221,10 +221,10 @@
 
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 250
       },
       {
         "containerName": "LOOTCONTAINER_WOODEN_CRATE",
@@ -284,10 +284,10 @@
 
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 250
       },
       {
         "containerName": "LOOTCONTAINER_WOODEN_CRATE",
@@ -347,10 +347,10 @@
 
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 250
       },
       {
         "containerName": "LOOTCONTAINER_WOODEN_CRATE",
@@ -411,10 +411,10 @@
 
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 250
       },
       {
         "containerName": "LOOTCONTAINER_WOODEN_CRATE",
@@ -474,10 +474,10 @@
 
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 250
       },
       {
         "containerName": "LOOTCONTAINER_WOODEN_CRATE",
@@ -537,10 +537,10 @@
 
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 250
       },
       {
         "containerName": "LOOTCONTAINER_WOODEN_CRATE",
@@ -600,10 +600,10 @@
 
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 250
       },
       {
         "containerName": "LOOTCONTAINER_WOODEN_CRATE",

@@ -8,7 +8,8 @@
       "ExaminedByDefault": true,
       "Prefab": { "path": "amparms.bundle", "rcid": "" },
       "BackgroundColor": "blue",
-      "Width": 2, "Height": 1, "Weight": 0.15,
+      "Width": 1, "Height": 1, "Weight": 0.15,
+      "BlocksEarpiece": true,
       "ConflictingItems": ["66b5f6a28ca68c6461709ed8"],
       "Grids": [],
       "Slots": [
@@ -52,10 +53,10 @@
 
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 250
       },
       {
         "containerName": "LOOTCONTAINER_WOODEN_CRATE",
@@ -92,7 +93,9 @@
       "ExaminedByDefault": true,
       "Prefab": { "path": "amparms-tan.bundle", "rcid": "" },
       "BackgroundColor": "blue",
-      "Width": 2, "Height": 1, "Weight": 0.15,
+      "BlocksEarpiece": true,
+
+      "Width": 1, "Height": 1, "Weight": 0.15,
       "ConflictingItems": ["66b5f6a28ca68c6461709ed8"],
       "Grids": [],
       "Slots": [
@@ -136,10 +139,10 @@
 
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 250
       },
       {
         "containerName": "LOOTCONTAINER_WOODEN_CRATE",
@@ -176,7 +179,9 @@
       "ExaminedByDefault": true,
       "Prefab": { "path": "amparms-fg.bundle", "rcid": "" },
       "BackgroundColor": "blue",
-      "Width": 2, "Height": 1, "Weight": 0.15,
+      "BlocksEarpiece": true,
+
+      "Width": 1, "Height": 1, "Weight": 0.15,
       "ConflictingItems": ["66b5f6a28ca68c6461709ed8"],
       "Grids": [],
       "Slots": [
@@ -220,10 +225,10 @@
 
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 250
       },
       {
         "containerName": "LOOTCONTAINER_WOODEN_CRATE",
@@ -260,7 +265,9 @@
       "ExaminedByDefault": true,
       "Prefab": { "path": "amparms-rg.bundle", "rcid": "" },
       "BackgroundColor": "blue",
-      "Width": 2, "Height": 1, "Weight": 0.15,
+      "BlocksEarpiece": true,
+
+      "Width": 1, "Height": 1, "Weight": 0.15,
       "ConflictingItems": ["66b5f6a28ca68c6461709ed8"],
       "Grids": [],
       "Slots": [
@@ -304,10 +311,10 @@
 
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 250
       },
       {
         "containerName": "LOOTCONTAINER_WOODEN_CRATE",
@@ -386,10 +393,10 @@
 
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 250
       },
       {
         "containerName": "LOOTCONTAINER_WOODEN_CRATE",
@@ -479,10 +486,10 @@
 
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 250
       },
       {
         "containerName": "LOOTCONTAINER_WOODEN_CRATE",
@@ -519,6 +526,8 @@
       "ExaminedByDefault": true,
       "Prefab": { "path": "headset-pic-adapter.bundle", "rcid": "" },
       "BackgroundColor": "blue",
+      "BlocksEarpiece": true,
+
       "Width": 1, "Height": 1, "Weight": 0.05,
 
       "Grids": [],
@@ -574,10 +583,10 @@
 
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 250
       },
       {
         "containerName": "LOOTCONTAINER_WOODEN_CRATE",
@@ -691,7 +700,7 @@
     },
     "fleaPriceRoubles": 25000,
     "handbookPriceRoubles": 35000,
-    "addtoBots": false,
+    "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoInventorySlots": [
 "Earpiece"
@@ -701,10 +710,10 @@
 
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 250
       },
       {
         "containerName": "LOOTCONTAINER_WOODEN_CRATE",
@@ -712,7 +721,37 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "6a889c158e249c16fc974e2a",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Peltor Comtac V",
+        "_parent": "6a889c2f7ec503d8b7974e2b",
+        "_items": [
+          {
+            "_id": "6a889c2f7ec503d8b7974e2b",
+            "_tpl": "6a0e253fd13347b5a6305306"
+          },
+          {
+            "_id": "6a889c42d0fcb4e84a974e2d",
+            "_tpl": "6917c23f71eb4b42ea95584b",
+            "parentId": "6a889c2f7ec503d8b7974e2b",
+            "slotId": "mod_headset_000"
+          },
+          {
+            "_id": "6a889c40c21da0f3a9974e2c",
+            "_tpl": "6a0e25e7c4fe58df2d30530a",
+            "parentId": "6a889c2f7ec503d8b7974e2b",
+            "slotId": "mod_band"
+          }
+
+        ],
+        "_encyclopedia": "6a0e253fd13347b5a6305306"
+      }
+    ],
+    "addtoTraders": false,
 
     "traders": {
       "RAGMAN": {
@@ -763,10 +802,10 @@
 
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 250
       },
       {
         "containerName": "LOOTCONTAINER_WOODEN_CRATE",
@@ -825,10 +864,10 @@
 
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 250
       },
       {
         "containerName": "LOOTCONTAINER_WOODEN_CRATE",
@@ -887,10 +926,10 @@
 
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 250
       },
       {
         "containerName": "LOOTCONTAINER_WOODEN_CRATE",
@@ -949,10 +988,10 @@
 
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 250
       },
       {
         "containerName": "LOOTCONTAINER_WOODEN_CRATE",

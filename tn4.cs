@@ -13,7 +13,7 @@ public record ModMetadata : AbstractModMetadata
 public override string ModGuid { get; init; } = "com.c11.truenorth4";
 public override string Name { get; init; } = "True North";
 public override string Author { get; init; } = "C11";
-public override SemanticVersioning.Version Version { get; init; } = new("3.1.5");
+public override SemanticVersioning.Version Version { get; init; } = new("3.2.0");
 public override Range SptVersion { get; init; } = new("~4.0.13");
 
 public override string License { get; init; } = "MIT";
@@ -21,8 +21,8 @@ public override bool? IsBundleMod { get; init; } = true;
 
 public override Dictionary<string, Range>? ModDependencies { get; init; } = new()
 {
-    { "com.wtt.commonlib", new Range("~2.0.20") },
-    { "com.c11.spt22lr", new Range("~1.5.0") } 
+    { "com.wtt.commonlib", new Range("^2.0.23") },
+    { "com.c11.spt22lr", new Range("~1.5.0") }
 };
 
 public override string? Url { get; init; }
@@ -60,6 +60,7 @@ var assembly = Assembly.GetExecutingAssembly();
     wttCommon.CustomSlotImageService.CreateSlotImages(assembly);
     await wttCommon.CustomQuestService.CreateCustomQuests(assembly);
     await wttCommon.CustomLootspawnService.CreateCustomLootSpawns(assembly);
+    await wttCommon.CustomClothingService.CreateCustomClothing(assembly);
 
 
     // DEBUG: list what the server actually registered

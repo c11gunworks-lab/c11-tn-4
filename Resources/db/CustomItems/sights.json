@@ -62,10 +62,10 @@
       "mod_sight_rear"
     ],
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
            {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -186,10 +186,10 @@
     
     ],
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
            {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -256,10 +256,10 @@
       
     ],
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
            {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -267,7 +267,7 @@
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "696000d4a94ad7037a446f69": {

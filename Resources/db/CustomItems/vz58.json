@@ -1,4 +1,4 @@
-﻿{
+{
 
 
   "69a9bd241c35419872eee854": {
@@ -298,10 +298,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
-        "Probability": 250
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 250
       }
     ],
     "addtoSecureFilters": false,
@@ -321,7 +321,7 @@
         ]
       }
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69a9d72a3112ac9f7aeee85d": {
@@ -620,10 +620,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 150
       }
     ],
     "addtoSecureFilters": false,
@@ -643,7 +643,7 @@
         ]
       }
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69aa0d283a6231e055eee88a": {
@@ -696,10 +696,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -707,7 +707,7 @@
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69a9d76413fed5d523eee85f": {
@@ -779,10 +779,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -790,7 +790,7 @@
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69a9d7fed8d76fc71feee862": {
@@ -910,10 +910,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -921,7 +921,7 @@
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69bae7d093b061eefbfa1bc8": {
@@ -992,10 +992,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -1003,7 +1003,7 @@
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69aa0ec8d9e911070beee898": {
@@ -1054,10 +1054,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -1065,7 +1065,7 @@
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69a9d85cbb95901fc3eee864": {
@@ -1116,10 +1116,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -1127,7 +1127,7 @@
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69aa0f53a9ab959e3ceee89b": {
@@ -1182,10 +1182,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -1193,7 +1193,7 @@
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "6920fccdc11b220255a5bd32": {
@@ -1245,10 +1245,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -1256,7 +1256,7 @@
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69aa0e254fbe2a16d5eee896": {
@@ -1307,10 +1307,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -1318,7 +1318,7 @@
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69a9dabdb483862e02eee86f": {
@@ -1372,10 +1372,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -1383,7 +1383,7 @@
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69a9d97be10e91dc07eee868": {
@@ -1464,10 +1464,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -1475,7 +1475,7 @@
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69a9d9ceb278f7816deee86b": {
@@ -1557,10 +1557,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -1568,7 +1568,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69a9ec05879fb6a25eeee886": {
@@ -1653,10 +1653,10 @@
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -1664,7 +1664,7 @@
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {
@@ -1779,10 +1779,10 @@
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -1790,7 +1790,7 @@
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {
@@ -1918,10 +1918,10 @@
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -1929,7 +1929,7 @@
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {
@@ -2066,10 +2066,10 @@
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -2077,7 +2077,7 @@
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {
@@ -2133,7 +2133,7 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 250
@@ -2141,7 +2141,7 @@
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69aa0c3a0ada5b7116eee888": {
@@ -2459,10 +2459,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
-        "Probability": 250
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 250
       }
     ],
     "addtoSecureFilters": false,
@@ -2482,7 +2482,7 @@
         ]
       }
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69b56875f95e01a35a28ae50": {
@@ -2568,10 +2568,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -2579,7 +2579,7 @@
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69b56a0e2e9edbc4f628ae5f": {
@@ -2665,10 +2665,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -2676,7 +2676,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69b56a895dfb75d04f28ae62": {
@@ -2765,10 +2765,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -2776,7 +2776,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69bc28f89f01141778fa1bcd": {
@@ -2854,10 +2854,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -2865,7 +2865,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69bc3396f9a84b4624fa1bdd": {
@@ -2937,10 +2937,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -2948,7 +2948,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69bc2972ce8d8dc98dfa1bd0": {
@@ -3062,10 +3062,10 @@
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -3073,7 +3073,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {

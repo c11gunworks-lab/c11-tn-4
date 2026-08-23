@@ -131,9 +131,9 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": false,
-    "StaticLootContainers": [],
+    "staticLootContainers": [],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "RAGMAN": {
         "6a063d4837fc5908aba07e03": {
@@ -283,9 +283,9 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": false,
-    "StaticLootContainers": [],
+    "staticLootContainers": [],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "RAGMAN": {
         "6a063e150f08c779c6a07e10": {
@@ -435,9 +435,9 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": false,
-    "StaticLootContainers": [],
+    "staticLootContainers": [],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "RAGMAN": {
         "6a063df40ffea0a0dba07e0c": {
@@ -587,9 +587,9 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": false,
-    "StaticLootContainers": [],
+    "staticLootContainers": [],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "RAGMAN": {
         "6a063dd62a4d396528a07e08": {

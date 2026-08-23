@@ -9,8 +9,59 @@
       "key": "c11supershader.bundle",
       "dependencyKeys": []
     },
+
+    {
+      "key": "nvg_fusion.bundle",
+      "dependencyKeys": [
+
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders"
+      ]
+    },
+    {
+      "key": "pvs22.bundle",
+      "dependencyKeys": [
+
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "c11_shaders.bundle",
+
+        "assets/systems/effects/opticsight/opticsightsmasks.bundle"
+
+      ]
+    },
+
+    {
+      "key": "holosundnv.bundle",
+      "dependencyKeys": [
+
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "assets/systems/effects/nightvision.bundle",
+        "assets/systems/effects/nightvision/mask_nv_textures",
+        "cubemaps"
+      ]
+    },
     {
       "key": "textures/chimera_tex.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "textures/sups-textures.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "textures/ppbizon-textures.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "textures/ar7-textures.bundle",
       "dependencyKeys": [
         "c11_shaders.bundle"
       ]
@@ -1961,6 +2012,8 @@
       "key": "mfmdblk.bundle",
       "dependencyKeys": [
         "assets/systems/effects/smoke.bundle",
+        "textures/sups-textures.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle",
         "c11_shaders.bundle",
         "shaders"
       ]
@@ -1969,6 +2022,8 @@
       "key": "mfmdfde.bundle",
       "dependencyKeys": [
         "assets/systems/effects/smoke.bundle",
+        "textures/sups-textures.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle",
         "c11_shaders.bundle",
         "shaders"
       ]
@@ -2813,6 +2868,274 @@
         "shaders",
         "textures/cr920p-textures.bundle"
       ]
+    },
+    {
+      "key": "ar7_8rd_mag.bundle",
+      "dependencyKeys": [
+        "textures/ar7-textures.bundle",
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "ar7_15rd_mag.bundle",
+      "dependencyKeys": [
+        "textures/ar7-textures.bundle",
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "ar7_default_barrel.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "shaders",
+        "textures/ar7-textures.bundle",
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "ar7_default_charging.bundle",
+      "dependencyKeys": [
+        "textures/ar7-textures.bundle",
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "ar7_default_stock.bundle",
+      "dependencyKeys": [
+        "textures/ar7-textures.bundle",
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "ar7_haga_buffer.bundle",
+      "dependencyKeys": [
+        "textures/ar7-textures.bundle",
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "ar7_haga_pic.bundle",
+      "dependencyKeys": [
+        "textures/ar7-textures.bundle",
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "ar7_lite_barrel.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "shaders",
+        "textures/ar7-textures.bundle",
+        "c11_shaders.bundle"
+      ]
+    },
+    
+    {
+      "key": "ar7_mid_barrel.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "shaders",
+        "textures/ar7-textures.bundle",
+        "c11_shaders.bundle"
+      ]
+    },
+    
+    {
+      "key": "ar7_short_barrel.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "shaders",
+        "textures/ar7-textures.bundle",
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "ar7_supp_barrel.bundle",
+      "dependencyKeys": [
+        "textures/ar7-textures.bundle",
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "ar7_weapon.bundle",
+      "dependencyKeys": [
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/systems/effects/smoke.bundle",
+        "shaders",
+        "textures/ar7-textures.bundle",
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "ppbizon_dust.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/ppbizon-textures.bundle"
+
+      ]
+    },
+    
+    {
+      "key": "ppbizon_flash.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "shaders",
+        "c11_shaders.bundle",
+        "textures/ppbizon-textures.bundle"
+
+      ]
+    },
+    
+    {
+      "key": "ppbizon_forend.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/ppbizon-textures.bundle"
+
+      ]
+    },
+   
+    {
+      "key": "ppbizon_mag.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/ppbizon-textures.bundle"
+
+      ]
+    },
+    
+    {
+      "key": "ppbizon_mount.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/ppbizon-textures.bundle"
+
+      ]
+    },
+    
+    {
+      "key": "ppbizon_weapon.bundle",
+      "dependencyKeys": [
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/systems/effects/smoke.bundle",
+        "shaders",
+        "c11_shaders.bundle",
+        "textures/ppbizon-textures.bundle"
+      ]
+    },
+    {
+      "key": "textures/gorka-textures.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "textures/crye-pants-textures.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
+      "key": "gorka_arms_nwu.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/gorka-textures.bundle"
+      ]
+    },
+    {
+      "key": "gorka_bottom_reg.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/gorka-textures.bundle"
+      ]
+    },
+    {
+      "key": "gorka_bottom_strick.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/gorka-textures.bundle"
+      ]
+    },
+    {
+      "key": "gorka_hands_reg.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/gorka-textures.bundle"
+      ]
+    },
+    {
+      "key": "gorka_top_nwu.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/gorka-textures.bundle"
+      ]
+    },
+    {
+      "key": "gorka_top_reg.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/gorka-textures.bundle"
+      ]
+    },
+    {
+      "key": "crye_pants_sar.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/crye-pants-textures.bundle"
+      ]
+    },
+    {
+      "key": "crye_pants_cadpat.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/crye-pants-textures.bundle"
+      ]
+    },
+    {
+      "key": "mfmd-50cal.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/sups-textures.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "mfmd-338.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/sups-textures.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "mfmd-308.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/sups-textures.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "mfmd-556-sd.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/sups-textures.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "mfmd-556-sdx.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle",
+        "textures/sups-textures.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
     }
+    
+    
   ]
 }

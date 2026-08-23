@@ -1,74 +1,4 @@
 ﻿{
-  "69a9dfa0e55d527115eee872": {
-    "itemTplToClone": "5d3ef698a4b9361182109872",
-    "parentId": "550aa4cd4bdc2dd8348b456c",
-    "handbookParentId": "5b5f731a86f774093e6cb4f9",
-    "overrideProperties": {
-      "ExaminedByDefault": true,
-      "Prefab": {
-        "path": "dam22.bundle",
-        "rcid": ""
-      },
-      "BackgroundColor": "blue",
-      "Accuracy":3,
-      "ExtraSizeForceAdd":true,
-      "ExtraSizeLeft":1,
-      "HeatFactor":1.15,
-
-      "Width": 1,
-      "Height": 1,
-      "Weight": 0.187,
-      "Ergonomics": -2,
-      "Recoil": -1,
-      "Loudness":-25,
-      "Velocity":1.75,
-      "muzzleModType":"silencer",
-      "Grids": [],
-      "Slots": []
-    },
-    "locales": {
-      "en": {
-        "name": "DAM22",
-        "shortName": "DAM22",
-        "description": "DAM22"
-      }
-    },
-    "fleaPriceRoubles": 12000,
-    "handbookPriceRoubles": 5000,
-    "addtoBots": false,
-    "addtoSpecialSlots": false,
-    "addtoModSlots": true,
-    "modSlot": [
-      "mod_muzzle"
-    ],
-    "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
-      {
-        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
-        "probability": 250
-
-      }
-    ],
-    "addtoSecureFilters": false,
-    "addtoTraders": true,
-    "traders": {
-      "TRUDY": {
-        "69a9e050d8cdee7456eee873": {
-          "barterSettings": {
-            "loyalLevel": 1,
-            "unlimitedCount": true,
-            "stackObjectsCount": 99
-          },
-          "barters": [
-            {
-              "count": 62,
-              "_tpl": "MONEY_EUROS"
-            }
-          ]
-        }
-      }
-    }
-  },
   "69a9e0fb79fe0b0af4eee874": {
     "itemTplToClone": "5a9fbb84a2750c00137fa685",
     "parentId": "550aa4cd4bdc2dd8348b456c",
@@ -80,28 +10,47 @@
         "rcid": ""
       },
       "BackgroundColor": "violet",
-      "Accuracy":3,
-      "ExtraSizeForceAdd":true,
-      "ExtraSizeLeft":0,
-      "HeatFactor":0.97,
-      "DurabilityBurnModificator":0.95,
-
+      "Accuracy": 3,
+      "ExtraSizeForceAdd": true,
+      "ExtraSizeLeft": 0,
+      "HeatFactor": 0.97,
+      "DurabilityBurnModificator": 0.95,
       "Width": 2,
       "Height": 1,
       "Weight": 0.187,
       "Ergonomics": -5,
       "Recoil": -45,
-      "Loudness":-35,
-      "Velocity":2.00,
-      "muzzleModType":"silencer",
+      "Loudness": -35,
+      "Velocity": 2.0,
+      "muzzleModType": "silencer",
       "Grids": [],
-      "Slots": []
+      "Slots": [
+        {
+          "_id": "5bac648b0c9045c6da09b1f3",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle_000",
+          "_parent": "69a9e0fb79fe0b0af4eee874",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "cd7948f6e0e8b48b2c4451c9",
+                  "6a064937080ae01368ef9523"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
     },
     "locales": {
       "en": {
-        "name": "mfmdblk",
-        "shortName": "mfmdblk",
-        "description": "mfmdblk"
+        "name": "Strategic Science MFMD 5.56x45 Sound Suppressor",
+        "shortName": "MFMD 5.56",
+        "description": "The Multi-Flow Modular Design (MFMD) is Strategic Science's take on a fully modular direct-thread suppressor. The 5.56 core can run alone as a compact can or accept SD and SDX front extensions to trade length and weight for deeper sound and flash suppression, letting the shooter tune the signature to the mission."
       }
     },
     "fleaPriceRoubles": 82000,
@@ -113,11 +62,10 @@
       "mod_muzzle"
     ],
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 250
-
       }
     ],
     "addtoSecureFilters": false,
@@ -140,43 +88,42 @@
       }
     }
   },
-  "69a9e1a0170829d138eee876": {
-    "itemTplToClone": "5a9fbb84a2750c00137fa685",
+  "6a5a6eafd20314811c0da23e": {
+    "itemTplToClone": "5a34fd2bc4a282329a73b4c5",
     "parentId": "550aa4cd4bdc2dd8348b456c",
     "handbookParentId": "5b5f731a86f774093e6cb4f9",
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "mfmdfde.bundle",
+        "path": "mfmd-308.bundle",
         "rcid": ""
       },
       "BackgroundColor": "violet",
-      "Accuracy":3,
-      "ExtraSizeForceAdd":true,
-      "ExtraSizeLeft":0,
-      "HeatFactor":0.97,
-      "DurabilityBurnModificator":0.95,
-
+      "Accuracy": 3,
+      "ExtraSizeForceAdd": true,
+      "ExtraSizeLeft": 0,
+      "HeatFactor": 0.97,
+      "DurabilityBurnModificator": 0.95,
       "Width": 2,
       "Height": 1,
-      "Weight": 0.187,
-      "Ergonomics": -5,
-      "Recoil": -45,
-      "Loudness":-35,
-      "Velocity":2.00,
-      "muzzleModType":"silencer",
+      "Weight": 0.42,
+      "Ergonomics": -8,
+      "Recoil": -46,
+      "Loudness": -34,
+      "Velocity": 2.0,
+      "muzzleModType": "silencer",
       "Grids": [],
       "Slots": []
     },
     "locales": {
       "en": {
-        "name": "mfmdfde",
-        "shortName": "mfmdfde",
-        "description": "mfmdfde"
+        "name": "Strategic Science MFMD 7.62x51 Sound Suppressor",
+        "shortName": "MFMD 7.62",
+        "description": "The 7.62 build of the MFMD modular platform. A stainless and titanium core rated for full-power .308, it tames the sharper impulse of the cartridge while holding point of impact through long strings, at the cost of the added length and mass a magnum-capable can demands."
       }
     },
-    "fleaPriceRoubles": 87000,
-    "handbookPriceRoubles": 75000,
+    "fleaPriceRoubles": 112000,
+    "handbookPriceRoubles": 100000,
     "addtoBots": false,
     "addtoSpecialSlots": false,
     "addtoModSlots": true,
@@ -184,18 +131,17 @@
       "mod_muzzle"
     ],
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
-        "probability": 250
-
+        "probability": 220
       }
     ],
     "addtoSecureFilters": false,
     "addtoTraders": true,
     "traders": {
       "TRUDY": {
-        "69a9e1b58f9ad4f62aeee877": {
+        "6a5a9f380a4d521d7f1108a7": {
           "barterSettings": {
             "loyalLevel": 3,
             "unlimitedCount": true,
@@ -203,7 +149,283 @@
           },
           "barters": [
             {
-              "count": 200,
+              "count": 240,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "8bbbdd8ad2415f06b74d7ffd": {
+    "itemTplToClone": "5fc23636016cce60e8341b05",
+    "parentId": "550aa4cd4bdc2dd8348b456c",
+    "handbookParentId": "5b5f731a86f774093e6cb4f9",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mfmd-338.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "violet",
+      "Accuracy": 3,
+      "ExtraSizeForceAdd": true,
+      "ExtraSizeLeft": 0,
+      "HeatFactor": 0.98,
+      "DurabilityBurnModificator": 0.95,
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.62,
+      "Ergonomics": -11,
+      "Recoil": -47,
+      "Loudness": -32,
+      "Velocity": 3.0,
+      "muzzleModType": "silencer",
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "Strategic Science MFMD .338 Sound Suppressor",
+        "shortName": "MFMD .338",
+        "description": "A magnum-rated MFMD core built for .338 Lapua Magnum. Heavier baffles and a longer body absorb the tremendous muzzle energy of the round, cutting flash and blast that would otherwise be blinding — essential for staying concealed behind a big-bore precision rifle."
+      }
+    },
+    "fleaPriceRoubles": 160000,
+    "handbookPriceRoubles": 145000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 160
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "6a5a9f366f3f8a7ff71108a6": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 340,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "e67fa97e8834c920a925f90f": {
+    "itemTplToClone": "67d41883f378a36c4706eeb7",
+    "parentId": "550aa4cd4bdc2dd8348b456c",
+    "handbookParentId": "5b5f731a86f774093e6cb4f9",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mfmd-50cal.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "violet",
+      "Accuracy": 2,
+      "ExtraSizeForceAdd": true,
+      "ConflictingItems":[
+        "67d0576f29f580ebc10efd08"
+        
+      ],
+      "ExtraSizeLeft": 0,
+      "HeatFactor": 0.99,
+      "DurabilityBurnModificator": 0.95,
+      "Width": 3,
+      "Height": 1,
+      "Weight": 1.15,
+      "Ergonomics": -16,
+      "Recoil": -48,
+      "Loudness": -30,
+      "Velocity": 3.0,
+      "muzzleModType": "silencer",
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "Strategic Science MFMD .50 Sound Suppressor",
+        "shortName": "MFMD .50",
+        "description": "The largest MFMD, a heavyweight can rated for .50-caliber rifles. It will never make a .50 quiet, but it meaningfully reduces the concussive blast, flash and recoil impulse of the platform — at a weight and length penalty that only a bipod-fed anti-materiel rifle can carry comfortably."
+      }
+    },
+    "fleaPriceRoubles": 230000,
+    "handbookPriceRoubles": 210000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 110
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "6a5a9f3468fa89c6df1108a5": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 500,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "cd7948f6e0e8b48b2c4451c9": {
+    "itemTplToClone": "5a9fbb84a2750c00137fa685",
+    "parentId": "550aa4cd4bdc2dd8348b456c",
+    "handbookParentId": "5b5f731a86f774093e6cb4f9",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mfmd-556-sd.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "violet",
+      "Accuracy": 1,
+      "ExtraSizeForceAdd": true,
+      "ExtraSizeLeft": 0,
+      "HeatFactor": 0.99,
+      "DurabilityBurnModificator": 0.97,
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.1,
+      "Ergonomics": -3,
+      "Recoil": -3,
+      "Loudness": -8,
+      "Velocity": 1.0,
+      "muzzleModType": "silencer",
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "Strategic Science MFMD-SD 5.56 Extension",
+        "shortName": "MFMD-SD",
+        "description": "The SD front extension threads onto the MFMD 5.56 core, adding a short expansion section that noticeably deepens sound suppression and softens recoil in exchange for a modest gain in length and weight. The mid-length option when a shooter wants more signature reduction without going full-size."
+      }
+    },
+    "fleaPriceRoubles": 55000,
+    "handbookPriceRoubles": 50000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 200
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "6a5a9f32d891b70f951108a4": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 120,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a064937080ae01368ef9523": {
+    "itemTplToClone": "5a9fbb84a2750c00137fa685",
+    "parentId": "550aa4cd4bdc2dd8348b456c",
+    "handbookParentId": "5b5f731a86f774093e6cb4f9",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mfmd-556-sdx.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "violet",
+      "Accuracy": 2,
+      "ExtraSizeForceAdd": true,
+      "ExtraSizeLeft": 0,
+      "HeatFactor": 0.99,
+      "DurabilityBurnModificator": 0.97,
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.15,
+      "Ergonomics": -5,
+      "Recoil": -5,
+      "Loudness": -12,
+      "Velocity": 1.0,
+      "muzzleModType": "silencer",
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "Strategic Science MFMD-SDX 5.56 Extension",
+        "shortName": "MFMD-SDX",
+        "description": "The SDX is the long front extension for the MFMD 5.56 core, maximizing baffle volume for the quietest, flattest-shooting configuration the system offers. It carries the heaviest length and ergonomics penalty of the extensions, best suited to deliberate, low-signature work rather than fast handling."
+      }
+    },
+    "fleaPriceRoubles": 85000,
+    "handbookPriceRoubles": 78000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 200
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "TRUDY": {
+        "6a5a9f2eed5fb3d1981108a3": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 180,
               "_tpl": "MONEY_EUROS"
             }
           ]

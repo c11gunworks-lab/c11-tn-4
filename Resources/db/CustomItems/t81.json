@@ -208,10 +208,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
            {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
@@ -478,10 +478,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
            {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -489,7 +489,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69df99702d1cb78426f0dbf1": {
@@ -563,10 +563,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
            {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -574,7 +574,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "6920fad142c29716ee18da74": {
@@ -649,10 +649,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
             {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -660,7 +660,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "6930d1447434bf89d06d3d0e": {
@@ -712,10 +712,10 @@
     "addtoBots": false,
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
             {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -723,7 +723,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "6920fc2561e98f72d568b7b3": {
@@ -775,10 +775,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
             {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -786,7 +786,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "6930d2cd864ccbfdfa6d3d13": {
@@ -837,10 +837,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
             {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -902,10 +902,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
             {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -913,7 +913,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "6930d34583f4012bc96d3d15": {
@@ -994,10 +994,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
             {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -1005,7 +1005,7 @@
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "6930d44474028b03656d3d18": {
@@ -1087,10 +1087,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
             {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -1143,10 +1143,10 @@
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
            {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -1154,7 +1154,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {
@@ -1225,10 +1225,10 @@
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
            {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -1236,7 +1236,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {
@@ -1317,10 +1317,10 @@
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
            {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -1412,10 +1412,10 @@
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
            {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -1582,10 +1582,10 @@
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
            {
-        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
       },
       {
       "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -1593,7 +1593,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {

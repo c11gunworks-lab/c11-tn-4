@@ -303,7 +303,7 @@
     "addtoModSlots": false,
         "addtoStaticLootContainers": false,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
      
     ],
     "addtoSecureFilters": false,
@@ -518,11 +518,11 @@
     "addtoModSlots": false,
         "addtoStaticLootContainers": false,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
      
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {
@@ -588,11 +588,11 @@
     "addtoModSlots": false,
         "addtoStaticLootContainers": false,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
      
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {
@@ -639,11 +639,11 @@
     "addtoModSlots": false,
         "addtoStaticLootContainers": false,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
      
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {
@@ -696,11 +696,11 @@
     "addtoSpecialSlots": false,
         "addtoStaticLootContainers": false,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
      
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {
@@ -791,14 +791,14 @@
     "modSlot": ["mod_magazine"],
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 15
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 15
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {
@@ -1006,11 +1006,11 @@
     "addtoModSlots": false,
         "addtoStaticLootContainers": false,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
      
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {
@@ -1065,14 +1065,14 @@
     "modSlot": ["mod_pistol_grip"],
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 5
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 5
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {

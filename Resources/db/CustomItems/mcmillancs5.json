@@ -4,7 +4,7 @@
     "parentId": "5447b6254bdc2dc3278b4568",
     "handbookParentId": "5b5f798886f77447ed5636b5",
     "overrideProperties": {
-      "ExaminedByDefault": true,
+      "ExaminedByDefault": false,
       "Prefab": {
         "path": "cs5_308_container.bundle",
         "rcid": ""
@@ -284,7 +284,7 @@
     "addtoModSlots": false,
     "addtoStaticLootContainers": false,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
 
     ],
     "addtoSecureFilters": false,
@@ -303,7 +303,7 @@
         ]
       }
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {
@@ -383,11 +383,11 @@
     "addtoModSlots": false,
     "addtoStaticLootContainers": false,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
 
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {
@@ -443,11 +443,11 @@
     "addtoModSlots": false,
     "addtoStaticLootContainers": false,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
 
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {
@@ -502,11 +502,11 @@
     "addtoModSlots": true,
     "modSlot": ["mod_muzzle"],
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
 
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {
@@ -555,11 +555,11 @@
 
     "addtoModSlots": true,
     "modSlot": ["mod_muzzle"],
-    "StaticLootContainers": [
+    "staticLootContainers": [
 
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {
@@ -685,11 +685,11 @@
     "addtoModSlots": false,
     "addtoStaticLootContainers": false,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
 
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {
@@ -781,14 +781,14 @@
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 5
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 5
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {
@@ -917,15 +917,106 @@
 
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-
-    "StaticLootContainers": [
+    "addWeaponPreset": true,
+    "weaponPresets": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 5
+        "_id": "6a3ebd52b7646595bcf50fa5",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Maccy",
+        "_parent": "6a3ebd52b7646595bcf50fa6",
+        "_items": [
+          {
+            "_id": "6a3ebd52b7646595bcf50fa6",
+            "_tpl": "69ea94d9735c0ab5f2bbee67",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              }
+            }
+          },
+          {
+            "_id": "6a3ebbabb7646595bcf477ff",
+            "_tpl": "55d4b9964bdc2d1d4e8b456e",
+            "parentId": "6a3ebd52b7646595bcf50fa6",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "6a3ebbabb7646595bcf47800",
+            "_tpl": "5df8f541c41b2312ea3335e3",
+            "parentId": "6a3ebd52b7646595bcf50fa6",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "6a3ebbabb7646595bcf47801",
+            "_tpl": "69ea9958a845fd3a7fbbee74",
+            "parentId": "6a3ebd52b7646595bcf50fa6",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "6a3ebbabb7646595bcf47802",
+            "_tpl": "69ea98ca3f62027f4ebbee71",
+            "parentId": "6a3ebd52b7646595bcf50fa6",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "6a3ebbabb7646595bcf47803",
+            "_tpl": "69ea9a6931d841a2aebbee7a",
+            "parentId": "6a3ebd52b7646595bcf50fa6",
+            "slotId": "mod_tactical"
+          },
+          {
+            "_id": "6a3ebbabb7646595bcf47804",
+            "_tpl": "69ea99e36159e1102bbbee77",
+            "parentId": "6a3ebbabb7646595bcf47802",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "6a3ebbabb7646595bcf47805",
+            "_tpl": "69ea9bd9b47fecf009bbee83",
+            "parentId": "6a3ebbabb7646595bcf47803",
+            "slotId": "mod_mount_000"
+          },
+          {
+            "_id": "6a3ebbabb7646595bcf47806",
+            "_tpl": "69ea9b26c8905e2268bbee80",
+            "parentId": "6a3ebbabb7646595bcf47803",
+            "slotId": "mod_mount_001"
+          },
+          {
+            "_id": "6a3ebbabb7646595bcf47807",
+            "_tpl": "69ea9b26c8905e2268bbee80",
+            "parentId": "6a3ebbabb7646595bcf47803",
+            "slotId": "mod_mount_002"
+          },
+          {
+            "_id": "6a3ebbabb7646595bcf47808",
+            "_tpl": "69ea9c643d4f056cd6bbee86",
+            "parentId": "6a3ebbabb7646595bcf47803",
+            "slotId": "mod_mount_003"
+          },
+          {
+            "_id": "6a3ebbabb7646595bcf47809",
+            "_tpl": "6644920d49817dc7d505ca71",
+            "parentId": "6a3ebbabb7646595bcf47805",
+            "slotId": "mod_mount_000"
+          }
+        ],
+        "_encyclopedia": "69ea94d9735c0ab5f2bbee67"
+      }
+    ],
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 5
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {
@@ -1041,14 +1132,14 @@
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 5
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 5
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {

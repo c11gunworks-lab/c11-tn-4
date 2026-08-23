@@ -32,38 +32,38 @@
     "addtoModSlots": false,
 
     "addtoStaticLootContainers": true,
-            "StaticLootContainers": [
+            "staticLootContainers": [
             {
-                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-                "Probability": 48
+                "containerName": "LOOTCONTAINER_DEAD_SCAV",
+                "probability": 48
             },
             {
-                "ContainerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
-                "Probability": 48
+                "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
+                "probability": 48
             },
             {
-                "ContainerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
-                "Probability": 68
+                "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
+                "probability": 68
             },
             {
-                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
-                "Probability": 30
+                "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "probability": 30
             },
             {
-                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
-                "Probability": 42
+                "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "probability": 42
             },
             {
-                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
-                "Probability": 49
+                "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "probability": 49
             },
             {
-                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
-                "Probability": 38
+                "containerName": "LOOTCONTAINER_GROUND_CACHE",
+                "probability": 38
             },
             {
-                "ContainerName": "LOOTCONTAINER_SAFE",
-                "Probability": 30
+                "containerName": "LOOTCONTAINER_SAFE",
+                "probability": 30
             }
         ],
     "addtoSecureFilters": false, 
@@ -124,38 +124,38 @@
     "addtoModSlots": false,
 
     "addtoStaticLootContainers": true,
-            "StaticLootContainers": [
+            "staticLootContainers": [
             {
-                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-                "Probability": 48
+                "containerName": "LOOTCONTAINER_DEAD_SCAV",
+                "probability": 48
             },
             {
-                "ContainerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
-                "Probability": 48
+                "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
+                "probability": 48
             },
             {
-                "ContainerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
-                "Probability": 68
+                "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
+                "probability": 68
             },
             {
-                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
-                "Probability": 30
+                "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "probability": 30
             },
             {
-                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
-                "Probability": 42
+                "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "probability": 42
             },
             {
-                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
-                "Probability": 49
+                "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "probability": 49
             },
             {
-                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
-                "Probability": 38
+                "containerName": "LOOTCONTAINER_GROUND_CACHE",
+                "probability": 38
             },
             {
-                "ContainerName": "LOOTCONTAINER_SAFE",
-                "Probability": 30
+                "containerName": "LOOTCONTAINER_SAFE",
+                "probability": 30
             }
         ],
     "addtoSecureFilters": false, 
@@ -216,38 +216,38 @@
     "addtoModSlots": false,
 
     "addtoStaticLootContainers": true,
-            "StaticLootContainers": [
+            "staticLootContainers": [
             {
-                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-                "Probability": 48
+                "containerName": "LOOTCONTAINER_DEAD_SCAV",
+                "probability": 48
             },
             {
-                "ContainerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
-                "Probability": 48
+                "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
+                "probability": 48
             },
             {
-                "ContainerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
-                "Probability": 68
+                "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
+                "probability": 68
             },
             {
-                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
-                "Probability": 30
+                "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "probability": 30
             },
             {
-                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
-                "Probability": 42
+                "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "probability": 42
             },
             {
-                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
-                "Probability": 49
+                "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "probability": 49
             },
             {
-                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
-                "Probability": 38
+                "containerName": "LOOTCONTAINER_GROUND_CACHE",
+                "probability": 38
             },
             {
-                "ContainerName": "LOOTCONTAINER_SAFE",
-                "Probability": 30
+                "containerName": "LOOTCONTAINER_SAFE",
+                "probability": 30
             }
         ],
     "addtoSecureFilters": false, 
@@ -308,38 +308,38 @@
     "addtoModSlots": false,
 
     "addtoStaticLootContainers": true,
-            "StaticLootContainers": [
+            "staticLootContainers": [
             {
-                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-                "Probability": 48
+                "containerName": "LOOTCONTAINER_DEAD_SCAV",
+                "probability": 48
             },
             {
-                "ContainerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
-                "Probability": 48
+                "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
+                "probability": 48
             },
             {
-                "ContainerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
-                "Probability": 68
+                "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
+                "probability": 68
             },
             {
-                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
-                "Probability": 30
+                "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "probability": 30
             },
             {
-                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
-                "Probability": 42
+                "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "probability": 42
             },
             {
-                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
-                "Probability": 49
+                "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "probability": 49
             },
             {
-                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
-                "Probability": 38
+                "containerName": "LOOTCONTAINER_GROUND_CACHE",
+                "probability": 38
             },
             {
-                "ContainerName": "LOOTCONTAINER_SAFE",
-                "Probability": 30
+                "containerName": "LOOTCONTAINER_SAFE",
+                "probability": 30
             }
         ],
     "addtoSecureFilters": false, 
@@ -400,38 +400,38 @@
     "addtoModSlots": false,
 
     "addtoStaticLootContainers": true,
-            "StaticLootContainers": [
+            "staticLootContainers": [
             {
-                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-                "Probability": 48
+                "containerName": "LOOTCONTAINER_DEAD_SCAV",
+                "probability": 48
             },
             {
-                "ContainerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
-                "Probability": 48
+                "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
+                "probability": 48
             },
             {
-                "ContainerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
-                "Probability": 68
+                "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
+                "probability": 68
             },
             {
-                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
-                "Probability": 30
+                "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "probability": 30
             },
             {
-                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
-                "Probability": 42
+                "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "probability": 42
             },
             {
-                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
-                "Probability": 49
+                "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "probability": 49
             },
             {
-                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
-                "Probability": 38
+                "containerName": "LOOTCONTAINER_GROUND_CACHE",
+                "probability": 38
             },
             {
-                "ContainerName": "LOOTCONTAINER_SAFE",
-                "Probability": 30
+                "containerName": "LOOTCONTAINER_SAFE",
+                "probability": 30
             }
         ],
     "addtoSecureFilters": false,
@@ -492,38 +492,38 @@
     "addtoModSlots": false,
 
     "addtoStaticLootContainers": true,
-            "StaticLootContainers": [
+            "staticLootContainers": [
             {
-                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-                "Probability": 48
+                "containerName": "LOOTCONTAINER_DEAD_SCAV",
+                "probability": 48
             },
             {
-                "ContainerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
-                "Probability": 48
+                "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
+                "probability": 48
             },
             {
-                "ContainerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
-                "Probability": 68
+                "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
+                "probability": 68
             },
             {
-                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
-                "Probability": 30
+                "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "probability": 30
             },
             {
-                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
-                "Probability": 42
+                "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "probability": 42
             },
             {
-                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
-                "Probability": 49
+                "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "probability": 49
             },
             {
-                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
-                "Probability": 38
+                "containerName": "LOOTCONTAINER_GROUND_CACHE",
+                "probability": 38
             },
             {
-                "ContainerName": "LOOTCONTAINER_SAFE",
-                "Probability": 30
+                "containerName": "LOOTCONTAINER_SAFE",
+                "probability": 30
             }
         ],
     "addtoSecureFilters": false, 
@@ -584,38 +584,38 @@
     "addtoModSlots": false,
 
     "addtoStaticLootContainers": true,
-            "StaticLootContainers": [
+            "staticLootContainers": [
             {
-                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-                "Probability": 48
+                "containerName": "LOOTCONTAINER_DEAD_SCAV",
+                "probability": 48
             },
             {
-                "ContainerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
-                "Probability": 48
+                "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
+                "probability": 48
             },
             {
-                "ContainerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
-                "Probability": 68
+                "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
+                "probability": 68
             },
             {
-                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
-                "Probability": 30
+                "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "probability": 30
             },
             {
-                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
-                "Probability": 42
+                "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "probability": 42
             },
             {
-                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
-                "Probability": 49
+                "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "probability": 49
             },
             {
-                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
-                "Probability": 38
+                "containerName": "LOOTCONTAINER_GROUND_CACHE",
+                "probability": 38
             },
             {
-                "ContainerName": "LOOTCONTAINER_SAFE",
-                "Probability": 30
+                "containerName": "LOOTCONTAINER_SAFE",
+                "probability": 30
             }
         ],
     "addtoSecureFilters": false,
@@ -677,38 +677,38 @@
   "addtoModSlots": false,
 
   "addtoStaticLootContainers": true,
-  "StaticLootContainers": [
+  "staticLootContainers": [
     {
-      "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-      "Probability": 48
+      "containerName": "LOOTCONTAINER_DEAD_SCAV",
+      "probability": 48
     },
     {
-      "ContainerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
-      "Probability": 48
+      "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
+      "probability": 48
     },
     {
-      "ContainerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
-      "Probability": 68
+      "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
+      "probability": 68
     },
     {
-      "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
-      "Probability": 30
+      "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+      "probability": 30
     },
     {
-      "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
-      "Probability": 42
+      "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+      "probability": 42
     },
     {
-      "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
-      "Probability": 49
+      "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+      "probability": 49
     },
     {
-      "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
-      "Probability": 38
+      "containerName": "LOOTCONTAINER_GROUND_CACHE",
+      "probability": 38
     },
     {
-      "ContainerName": "LOOTCONTAINER_SAFE",
-      "Probability": 30
+      "containerName": "LOOTCONTAINER_SAFE",
+      "probability": 30
     }
   ],
   "addtoSecureFilters": false,

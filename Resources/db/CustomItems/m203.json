@@ -334,15 +334,94 @@
       "FirstPrimaryWeapon",
       "SecondPrimaryWeapon"
     ],
+    "addWeaponPreset": true,
+    "weaponPresets":[
+
+      {
+        "_id": "6a3ebd52b7646595bcf50faa",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "magpul thumpy",
+        "_parent": "6a3ebd52b7646595bcf50fab",
+        "_items": [
+          {
+            "_id": "6a3ebd52b7646595bcf50fab",
+            "_tpl": "69fe6849e4e15282c54fccf7",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              },
+              "Foldable": {
+                "Folded": false
+              }
+            }
+          },
+          {
+            "_id": "6a3ebbe8b7646595bcf4882e",
+            "_tpl": "55802f5d4bdc2dac148b458f",
+            "parentId": "6a3ebd52b7646595bcf50fab",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "6a3ebbe8b7646595bcf4882f",
+            "_tpl": "5ae30c9a5acfc408fb139a03",
+            "parentId": "6a3ebd52b7646595bcf50fab",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "6a3ebbe8b7646595bcf48830",
+            "_tpl": "5bc09a30d4351e00367fb7c8",
+            "parentId": "6a3ebd52b7646595bcf50fab",
+            "slotId": "mod_sight_front",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "6a3ebbe8b7646595bcf48831",
+            "_tpl": "5bc09a18d4351e003562b68e",
+            "parentId": "6a3ebd52b7646595bcf50fab",
+            "slotId": "mod_sight_rear",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          }
+        ],
+        "_encyclopedia": "69fe6849e4e15282c54fccf7"
+      }
+      
+    ],
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
         "probability": 250
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69fe67daab8f94e9aa4fccf4": {

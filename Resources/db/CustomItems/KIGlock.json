@@ -690,10 +690,10 @@
       "mod_sight_front_000"
     ],
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 15
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 15
       }
     ],
     "addtoSecureFilters": true,
@@ -750,10 +750,10 @@
       "mod_sight_rear_000"
     ],
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 15
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 15
       }
     ],
     "addtoSecureFilters": true,
@@ -833,10 +833,10 @@
     "modSlot": [
     ],
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 15
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 15
       }
     ],
     "addtoSecureFilters": true,

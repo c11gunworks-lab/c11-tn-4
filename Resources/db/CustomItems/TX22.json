@@ -207,10 +207,10 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 150
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -218,7 +218,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "SKIER": {
         "6a07acb75623da543ea07e24": {
@@ -272,7 +272,7 @@
     "modSlot": [],
     "fleaPriceRoubles": 8260,
     "handbookPriceRoubles": 7660,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
@@ -369,7 +369,7 @@
     "modSlot": [],
     "fleaPriceRoubles": 18500,
     "handbookPriceRoubles": 15000,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "traders": {
@@ -423,14 +423,14 @@
     "addtoModSlots": false,
     "modSlot": [],
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 15
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 15
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "SKIER": {
         "6a087c1d58a07a4dcca07e38": {
@@ -483,14 +483,14 @@
     "addtoModSlots": false,
     "modSlot": [],
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 15
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 15
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "SKIER": {
         "6b1000000000000000000042": {
@@ -565,7 +565,7 @@
     "modSlot": [],
     "fleaPriceRoubles": 2500,
     "handbookPriceRoubles": 2250,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": true,
     "addtoStaticLootContainers": false,
     "traders": {
@@ -645,7 +645,7 @@
     "modSlot": [],
     "fleaPriceRoubles": 5500,
     "handbookPriceRoubles": 4500,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": true,
     "addtoStaticLootContainers": false,
     "traders": {

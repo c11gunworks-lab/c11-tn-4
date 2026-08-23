@@ -248,7 +248,7 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": false,
-    "StaticLootContainers": [],
+    "staticLootContainers": [],
     "addtoSecureFilters": true,
     "addtoTraders": true,
     "traders": {
@@ -743,7 +743,7 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": false,
-    "StaticLootContainers": [],
+    "staticLootContainers": [],
     "addtoSecureFilters": false,
     "addtoTraders": true,
     "traders": {
@@ -895,7 +895,7 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": false,
-    "StaticLootContainers": [],
+    "staticLootContainers": [],
     "addtoSecureFilters": false,
     "addtoTraders": true,
     "traders": {
@@ -1169,7 +1169,7 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": false,
-    "StaticLootContainers": [],
+    "staticLootContainers": [],
     "addtoSecureFilters": false,
     "addtoTraders": true,
     "traders": {
@@ -1593,7 +1593,7 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": false,
-    "StaticLootContainers": [],
+    "staticLootContainers": [],
     "addtoSecureFilters": false,
     "addtoTraders": true,
     "traders": {

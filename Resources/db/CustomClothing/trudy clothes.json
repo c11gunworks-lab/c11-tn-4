@@ -1,0 +1,133 @@
+﻿[
+  {
+    "type": "top",
+    "suiteId": "6a4004ef2e89a4d01f2ee1df",
+    "outfitId": "6a4004ef2e89a4d01f2ee1df",
+    "topId": "6a4005094e6709e7212ee1e0",
+    "handsId": "6a40050c1cf48d40e12ee1e1",
+    "locales": {
+      "en": {
+        "name": "Gorka Top Regular",
+        "description": "Gorka"
+      }
+      },
+      "topBundlePath": "gorka_top_reg.bundle",
+      "handsBundlePath": "gorka_hands_reg.bundle",
+      "traderId": "TRUDY",
+      "loyaltyLevel": 1,
+      "profileLevel": 1,
+      "standing": 0,
+      "currencyId": "MONEY_EUROS",
+      "price": 150,
+      "achievementRequirements": [],
+      "questRequirements": []
+    },
+  {
+    "type": "top",
+    "suiteId": "6a400540b4df02407d2ee1e2",
+    "outfitId": "6a400540b4df02407d2ee1e2",
+    "topId": "6a4005435517a9c9412ee1e3",
+    "handsId": "6a40054534baa926af2ee1e4",
+    "locales": {
+      "en": {
+        "name": "Gorka Top NWU",
+        "description": "Gorka"
+      }
+    },
+    "topBundlePath": "gorka_top_nwu.bundle",
+    "handsBundlePath": "gorka_arms_nwu.bundle",
+    "traderId": "TRUDY",
+    "loyaltyLevel": 4,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_EUROS",
+    "price": 2500,
+    "achievementRequirements": [],
+    "questRequirements": []
+  },
+ 
+  {
+    "type": "bottom",
+    "suiteId": "6a400ccbecee156ee12ee1e5",
+    "outfitId": "6a400ccbecee156ee12ee1e5",
+    "bottomId": "6a40124eef5e70e4ad2ee1e9",
+    "locales": {
+      "en": {
+        "name": "Gorka Bottom Reg",
+        "description": "Gorka"
+      }
+    },
+    "bottomBundlePath": "gorka_bottom_reg.bundle",
+    "traderId": "TRUDY",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_EUROS",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "suiteId": "6a400d0968f5b0d5ac2ee1e7",
+    "outfitId": "6a400d0968f5b0d5ac2ee1e7",
+    "bottomId": "6a401257ce9726068a2ee1ea",
+    "locales": {
+      "en": {
+        "name": "Gorka Strichtarn",
+        "description": "Tactical pants"
+      }
+    },
+    "bottomBundlePath": "gorka_bottom_strick.bundle",
+    "traderId": "TRUDY",
+    "loyaltyLevel": 3,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_EUROS",
+    "price": 1000,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "suiteId": "6a405af6e9bcb304d1e59623",
+    "outfitId": "6a405af6e9bcb304d1e59623",
+    "bottomId": "6a405afb649c945c31e59624",
+    "locales": {
+      "en": {
+        "name": "Crye SAR",
+        "description": "Tactical pants"
+      }
+    },
+    "bottomBundlePath": "crye_pants_sar.bundle",
+    "traderId": "TRUDY",
+    "loyaltyLevel": 1,
+    "profileLevel": 5,
+    "standing": 0,
+    "currencyId": "MONEY_EUROS",
+    "price": 500,
+    "questRequirements": ["6a88c8730008b95d625fdd54"],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "suiteId": "6a4670dd36aad3e07be59625",
+    "outfitId": "6a4670dd36aad3e07be59625",
+    "bottomId": "6a4670df94e62eb21de59626",
+    "locales": {
+      "en": {
+        "name": "Crye CADPAT",
+        "description": "Tactical pants"
+      }
+    },
+    "bottomBundlePath": "crye_pants_cadpat.bundle",
+    "traderId": "TRUDY",
+    "loyaltyLevel": 4,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_EUROS",
+    "price": 1500,
+    "questRequirements": ["6a88c8730008b95d625fdd54"],
+    "achievementRequirements": []
+  }
+]

@@ -508,6 +508,7 @@
       "Weight": 0.035,
       "Recoil": -18,
       "Height": 1,
+      "ExtraSizeLeft":1,
       "Ergonomics": -3,
       "HeatFactor": 1.1,
       "Width": 1,
@@ -578,10 +579,10 @@
     "addtoModSlots": false,
     "modSlot": [],
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-        "Probability": 15
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 15
       }
     ],
     "addtoSecureFilters": true,
@@ -639,10 +640,10 @@
     ],
     "addtoStaticLootContainers": true,
 
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
-        "ContainerName": "LOOTCONTAINER_PMC_BODY",
-        "Probability": 250
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 250
       },
       {
         "containerName": "LOOTCONTAINER_WOODEN_CRATE",

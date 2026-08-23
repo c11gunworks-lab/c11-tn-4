@@ -260,21 +260,103 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
-        "Probability": 150
+        "probability": 150
       },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
-        "Probability": 250
+        "probability": 250
       }
     ],
     "addtoSecureFilters": true,
-    "addWeaponPreset": false,
+    "addWeaponPreset": true,
     "weaponPresets": [
 
-
+      {
+        "_id": "6a3ebd52b7646595bcf50f9f",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Ace 32",
+        "_parent": "6a3ebd52b7646595bcf50fa0",
+        "_items": [
+          {
+            "_id": "6a3ebd52b7646595bcf50fa0",
+            "_tpl": "69712e4ce8805e854fe7e8e1",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              }
+            }
+          },
+          {
+            "_id": "6a3ebaebb7646595bcf435f0",
+            "_tpl": "59d6272486f77466146386ff",
+            "parentId": "6a3ebd52b7646595bcf50fa0",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "6a3ebaebb7646595bcf435f1",
+            "_tpl": "697238de1644c6baa9c3932a",
+            "parentId": "6a3ebd52b7646595bcf50fa0",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "6a3ebaebb7646595bcf435f2",
+            "_tpl": "6920f942d3ac2f0d40e5acda",
+            "parentId": "6a3ebd52b7646595bcf50fa0",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "6a3ebaebb7646595bcf435f3",
+            "_tpl": "69613556415ec190d1446f8b",
+            "parentId": "6a3ebd52b7646595bcf50fa0",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "6a3ebaebb7646595bcf435f4",
+            "_tpl": "69723adba548ea7d12c39330",
+            "parentId": "6a3ebaebb7646595bcf435f2",
+            "slotId": "mod_mount_001"
+          },
+          {
+            "_id": "6a3ebaebb7646595bcf435f5",
+            "_tpl": "5649be884bdc2d79388b4577",
+            "parentId": "6a3ebaebb7646595bcf435f3",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "6a3ebaebb7646595bcf435f6",
+            "_tpl": "6920fc2ed6d85697b6c81987",
+            "parentId": "6a3ebaebb7646595bcf435f4",
+            "slotId": "mod_rear_sight",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "6a3ebaebb7646595bcf435f7",
+            "_tpl": "56eabf3bd2720b75698b4569",
+            "parentId": "6a3ebaebb7646595bcf435f5",
+            "slotId": "mod_stock_000"
+          }
+        ],
+        "_encyclopedia": "69712e4ce8805e854fe7e8e1"
+      }
 
     ],
     "masterySections": [
@@ -444,7 +526,7 @@
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
          "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 250
@@ -608,7 +690,7 @@
     "addtoBots": false,
     "addtoSpecialSlots": false,
     "addtoStaticLootContainers": true,
-    "StaticLootContainers": [
+    "staticLootContainers": [
       {
          "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 250
@@ -616,7 +698,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "69723af4c78a2dd577c39331": {

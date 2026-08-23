@@ -1227,55 +1227,130 @@
   "6a0e18d6ee4e733d743052e1 ShortName": "VLite Green",
   "6a0e18d6ee4e733d743052e1 Description": "The VLite Gen-II is a lightweight, submersible personal marker light used extensively by military and special operations forces for IFF and personnel tracking. Activated by squeezing the flexible housing, it can be set to steady or strobe mode. The green visible spectrum version is often used for marking landing zones, rally points, or as a general-purpose personnel marker during low-light conditions.",
 
-  "6a0e253fd13347b5a6305306 name": "3M PELTOR ComTac Headband",
-  "6a0e253fd13347b5a6305306 shortName": "3M Headband ",
-  "6a0e253fd13347b5a6305306 description": "Replacement headband for the 3M Peltor ComTac VII, VIII, IX series headsets. A complete redesign helps improve comfort when worn under a ballistic helmet. Simplified cable removal and resetting. Redesigned arm guides that snap on/off (no tools required) for easy transition between Accessory Rail Connectors (ARC) and headband. ",
+  "6a0e253fd13347b5a6305306 Name": "3M PELTOR ComTac Headband",
+  "6a0e253fd13347b5a6305306 ShortName": "3M Headband ",
+  "6a0e253fd13347b5a6305306 Description": "Replacement headband for the 3M Peltor ComTac VII, VIII, IX series headsets. A complete redesign helps improve comfort when worn under a ballistic helmet. Simplified cable removal and resetting. Redesigned arm guides that snap on/off (no tools required) for easy transition between Accessory Rail Connectors (ARC) and headband. ",
 
-  "6a0e25e7c4fe58df2d30530a name": "3M PELTOR Rubber Headband Cover",
-  "6a0e25e7c4fe58df2d30530a shortName": "HB Rubber",
-  "6a0e25e7c4fe58df2d30530a description": "The most basic rubber cover for the 3M PELTOR Headband, to stop the operator from getting a boo-boo on their little head. ",
+  "6a0e25e7c4fe58df2d30530a Name": "3M PELTOR Rubber Headband Cover",
+  "6a0e25e7c4fe58df2d30530a ShortName": "HB Rubber",
+  "6a0e25e7c4fe58df2d30530a Description": "The most basic rubber cover for the 3M PELTOR Headband, to stop the operator from getting a boo-boo on their little head. ",
 
-  "6a0e26261115cb8e9d30530c name": "MSA Sordin Headband Cover (M81)",
-  "6a0e26261115cb8e9d30530c shortName": "HB M81",
-  "6a0e26261115cb8e9d30530c description": "MSA Sordin headband cover in M81 camo that has been modified to fit the PELTOR  Headband, to provide a comfortable fit. ",
+  "6a0e26261115cb8e9d30530c Name": "MSA Sordin Headband Cover (M81)",
+  "6a0e26261115cb8e9d30530c ShortName": "HB M81",
+  "6a0e26261115cb8e9d30530c Description": "MSA Sordin headband cover in M81 camo that has been modified to fit the PELTOR  Headband, to provide a comfortable fit. ",
 
-  "6a0e4358d460e95167305310 name": "MSA Sordin Headband Cover (Flecktarn)",
-  "6a0e4358d460e95167305310 shortName": "HB Flecktarn",
-  "6a0e4358d460e95167305310 description": "MSA Sordin headband cover in Flecktarn camo that has been modified to fit the PELTOR  Headband, to provide a comfortable fit. ",
-  "6a0e43430b6f88f8d230530e name": "MSA Sordin Headband Cover (ABU Blue)",
-  "6a0e43430b6f88f8d230530e shortName": "HB ABU",
-  "6a0e43430b6f88f8d230530e description": "MSA Sordin headband cover in prototype ABU Tigerstripe Blue camo that has been modified to fit the PELTOR  Headband, to provide a comfortable fit. ",
+  "6a0e4358d460e95167305310 Name": "MSA Sordin Headband Cover (Flecktarn)",
+  "6a0e4358d460e95167305310 ShortName": "HB Flecktarn",
+  "6a0e4358d460e95167305310 Description": "MSA Sordin headband cover in Flecktarn camo that has been modified to fit the PELTOR  Headband, to provide a comfortable fit. ",
+  "6a0e43430b6f88f8d230530e Name": "MSA Sordin Headband Cover (ABU Blue)",
+  "6a0e43430b6f88f8d230530e ShortName": "HB ABU",
+  "6a0e43430b6f88f8d230530e Description": "MSA Sordin headband cover in prototype ABU Tigerstripe Blue camo that has been modified to fit the PELTOR  Headband, to provide a comfortable fit. ",
 
   "6a10d9833b4d6ac10952f56a Name": "Ferro Concepts FCPC V5 Plate Carrier (Multicam Black/Wolf Grey)",
   "6a10d9833b4d6ac10952f56a ShortName": "FCPCV5 MCB/WG",
   "6a10d9833b4d6ac10952f56a Description": "The Ferro Concepts Plate Carrier V5 is a lightweight and modular armor system. This 'Lite' variant features Multicam Black/Wolf Grey patterns, typically favored by ISB units. Designed for mission adaptability, it balances protection with distinct visual profile.",
-  "6a1087fe49f3a17012a302ef name": "Shadow Systems CR920P 9x19mm pistol",
-  "6a1087fe49f3a17012a302ef shortName": "CR920P",
-  "6a1087fe49f3a17012a302ef description": "The CR920P is a subcompact, compensator-equipped 9x19mm pistol manufactured by Shadow Systems. Designed to fit into standard G43X MOS holsters, it features an aggressively textured frame, an optics-cut slide, and delivers the concealability of a subcompact with the shootability of a full-size pistol.",
+  "6a1087fe49f3a17012a302ef Name": "Shadow Systems CR920P 9x19mm pistol",
+  "6a1087fe49f3a17012a302ef ShortName": "CR920P",
+  "6a1087fe49f3a17012a302ef Description": "The CR920P is a subcompact, compensator-equipped 9x19mm pistol manufactured by Shadow Systems. Designed to fit into standard G43X MOS holsters, it features an aggressively textured frame, an optics-cut slide, and delivers the concealability of a subcompact with the shootability of a full-size pistol.",
 
-  "6a10b66c1ad901f6b852f55a name": "Shadow Systems CR920P 9x19mm threaded barrel",
-  "6a10b66c1ad901f6b852f55a shortName": "CR920P Barrel",
-  "6a10b66c1ad901f6b852f55a description": "A match-grade, spiral-fluted 9x19mm barrel designed specifically for the Shadow Systems CR920P. It features a proprietary attachment system for the Shadow Systems compensator, providing exceptional accuracy and reliability in a subcompact profile.",
+  "6a10b66c1ad901f6b852f55a Name": "Shadow Systems CR920P 9x19mm threaded barrel",
+  "6a10b66c1ad901f6b852f55a ShortName": "CR920P Barrel",
+  "6a10b66c1ad901f6b852f55a Description": "A match-grade, spiral-fluted 9x19mm barrel designed specifically for the Shadow Systems CR920P. It features a proprietary attachment system for the Shadow Systems compensator, providing exceptional accuracy and reliability in a subcompact profile.",
 
-  "6a10b6fac0c2827bb252f55e name": "Shadow Systems CR920P 9x19mm slide",
-  "6a10b6fac0c2827bb252f55e shortName": "CR920P Slide",
-  "6a10b6fac0c2827bb252f55e description": "A custom-machined 17-4 stainless steel slide for the CR920P. Features directional serrations for easy manipulation and the patented Shadow Systems multi-footprint optic cut, allowing direct mounting of most micro red dot sights without adapter plates.",
+  "6a10b6fac0c2827bb252f55e Name": "Shadow Systems CR920P 9x19mm slide",
+  "6a10b6fac0c2827bb252f55e ShortName": "CR920P Slide",
+  "6a10b6fac0c2827bb252f55e Description": "A custom-machined 17-4 stainless steel slide for the CR920P. Features directional serrations for easy manipulation and the patented Shadow Systems multi-footprint optic cut, allowing direct mounting of most micro red dot sights without adapter plates.",
 
-  "6a10b78858b039730552f561 name": "Shadow Systems CR920 9x19mm 13-round magazine",
-  "6a10b78858b039730552f561 shortName": "CR920 13-round",
-  "6a10b78858b039730552f561 description": "An extended 13-round proprietary magazine for the Shadow Systems CR920 and CR920P. Features a specialized basepad that extends the grip for better control while maintaining a highly concealable footprint.",
+  "6a10b78858b039730552f561 Name": "Shadow Systems CR920 9x19mm 13-round magazine",
+  "6a10b78858b039730552f561 ShortName": "CR920 13-round",
+  "6a10b78858b039730552f561 Description": "An extended 13-round proprietary magazine for the Shadow Systems CR920 and CR920P. Features a specialized basepad that extends the grip for better control while maintaining a highly concealable footprint.",
 
-  "6a10b82392962a745e52f564 name": "Shadow Systems CR920P 9mm compensator",
-  "6a10b82392962a745e52f564 shortName": "CR920P Comp",
-  "6a10b82392962a745e52f564 description": "A patented quick-detach compensator specifically designed for the CR920P. It seamlessly integrates with the slide to dramatically reduce felt recoil and muzzle rise, making the subcompact frame shoot like a much larger firearm.",
+  "6a10b82392962a745e52f564 Name": "Shadow Systems CR920P 9mm compensator",
+  "6a10b82392962a745e52f564 ShortName": "CR920P Comp",
+  "6a10b82392962a745e52f564 Description": "A patented quick-detach compensator specifically designed for the CR920P. It seamlessly integrates with the slide to dramatically reduce felt recoil and muzzle rise, making the subcompact frame shoot like a much larger firearm.",
 
-  "6a10b867bc3d46c41552f566 name": "Shadow Systems rear iron sight",
-  "6a10b867bc3d46c41552f566 shortName": "SS Rear Sight",
-  "6a10b867bc3d46c41552f566 description": "A blackout serrated rear iron sight by Shadow Systems. Designed to provide a crisp sight picture and co-witness with most slide-mounted micro red dots.",
+  "6a10b867bc3d46c41552f566 Name": "Shadow Systems rear iron sight",
+  "6a10b867bc3d46c41552f566 ShortName": "SS Rear Sight",
+  "6a10b867bc3d46c41552f566 Description": "A blackout serrated rear iron sight by Shadow Systems. Designed to provide a crisp sight picture and co-witness with most slide-mounted micro red dots.",
 
-  "6a2b0cc78dcf9203554cd53d name": "Streamlight TLR-7 Compact Flashlight",
-  "6a2b0cc78dcf9203554cd53d shortName": "TLR-7",
-  "6a2b0cc78dcf9203554cd53d description": "The TLR-7® series is going rechargeable! The TLR-7® X multi-fuel rail-mounted light accepts either Streamlight’s SL-B9® USB rechargeable protected lithium-ion battery pack or a CR123A lithium battery. Interchangeable rear paddle switches accommodate your shooting style."
+  "6a2b0cc78dcf9203554cd53d Name": "Streamlight TLR-7 Compact Flashlight",
+  "6a2b0cc78dcf9203554cd53d ShortName": "TLR-7",
+  "6a2b0cc78dcf9203554cd53d Description": "The TLR-7® series is going rechargeable! The TLR-7® X multi-fuel rail-mounted light accepts either Streamlight’s SL-B9® USB rechargeable protected lithium-ion battery pack or a CR123A lithium battery. Interchangeable rear paddle switches accommodate your shooting style.",
+
+  "6a3fd390c90e2ddc932ee1c6 Name": "PP-19 Bizon-2 9x18mm",
+  "6a3fd390c90e2ddc932ee1c6 ShortName": "PP-19 Bizon",
+  "6a3fd390c90e2ddc932ee1c6 Description": "A Russian 9x18mm submachine gun developed in the early 1990s by Viktor Kalashnikov and Alexei Dragunov. Features a distinctive helical magazine housed below the barrel, giving the weapon its compact profile. Widely issued to Russian police and security forces. Blowback-operated with a folding stock and moderate rate of fire.",
+
+  "6a3fd623ab897b4ad92ee1d0 Name": "PP-19 Bizon dust cover",
+  "6a3fd623ab897b4ad92ee1d0 ShortName": "Bizon dust cover",
+  "6a3fd623ab897b4ad92ee1d0 Description": "The stamped steel dust cover for the PP-19 Bizon receiver. Protects the internal components from debris and assists in ejection reliability. Standard issue component.",
+
+
+  "6a3fd799319444a8a12ee1d6 Name": "PP-19 Bizon 64-round 9x18mm helical magazine",
+  "6a3fd799319444a8a12ee1d6 ShortName": "Bizon 64rd",
+  "6a3fd799319444a8a12ee1d6 Description": "The signature 64-round helical drum magazine for the PP-19 Bizon. Coaxially mounted beneath the barrel, the helical feed system provides an exceptionally high round count in a compact form factor. The unusual geometry makes loading slow and awkward, and the magazine adds significant weight when full.",
+
+  "6a3fd895dfdb558c2b2ee1d9 Name": "PP-19 Bizon side rail mount",
+  "6a3fd895dfdb558c2b2ee1d9 ShortName": "Bizon rail",
+  "6a3fd895dfdb558c2b2ee1d9 Description": "An aftermarket side-mounted Picatinny rail section for the PP-19 Bizon handguard. Attaches to the integrated mounting points on the handguard polymer, providing a stable platform for lights, lasers, or forward grips.",
+
+  "6a3fd91f0f16d9ab882ee1dc Name": "PP-19 Bizon muzzle brake",
+  "6a3fd91f0f16d9ab882ee1dc ShortName": "Bizon muzzle brake",
+  "6a3fd91f0f16d9ab882ee1dc Description": "A compact muzzle brake threaded for the PP-19 Bizon barrel. Redirects propellant gases to reduce felt recoil and muzzle climb. The 9x18mm cartridge produces limited gas volume, so the effect is modest but measurable in sustained fire.",
+
+  "6a3ee252eb4c98ce392ee1b4 Name": "Henry Repeating Arms AR-7 .22 LR",
+  "6a3ee252eb4c98ce392ee1b4 ShortName": "AR-7",
+  "6a3ee252eb4c98ce392ee1b4 Description": "A semi-automatic .22 LR survival rifle originally designed by Eugene Stoner in 1959 for the US Air Force as a pilot bailout weapon. Henry Repeating Arms acquired the design and has produced it since 1980. The entire rifle disassembles and stores in its own hollow ABS stock, floating in water. Lightweight, quiet, and low-recoil — not a combat weapon by any measure, but an exceptionally capable small game and survival tool.",
+
+ 
+  "6a3ee36d7f4f2267b52ee1bd Name": "Henry AR-7 factory 16-inch .22 LR barrel",
+  "6a3ee36d7f4f2267b52ee1bd ShortName": "AR-7 bbl 16\"",
+  "6a3ee36d7f4f2267b52ee1bd Description": "The standard 16.5-inch stainless steel barrel shipped with the Henry AR-7. Threaded muzzle on current production models. Designed to break down and stow inside the receiver tube, which in turn stows in the stock. Nothing remarkable, but reliable and accurate enough for .22 LR work out to 75 meters.",
+
+  "6a3ee3a1f2b7441c862ee1c3 Name": "Henry AR-7 charging handle",
+  "6a3ee3a1f2b7441c862ee1c3 ShortName": "AR-7 CH",
+  "6a3ee3a1f2b7441c862ee1c3 Description": "The factory rear-mounted charging handle for the Henry AR-7. A small serrated tab that reciprocates with the bolt carrier. Does not stay open on the last round — manual function only. Compact and lightweight by design.",
+
+  "6a3ee3c2f2b7441c862ee1c5 Name": "Henry AR-7 factory folding stock",
+  "6a3ee3c2f2b7441c862ee1c5 ShortName": "AR-7 stock",
+  "6a3ee3c2f2b7441c862ee1c5 Description": "The signature hollow ABS thermoplastic stock of the Henry AR-7. The receiver and barrel nest inside the stock for transport, and the whole package floats in water. Folds forward over the receiver for a more compact carry profile. Not particularly rigid, but the point is that you barely notice you're carrying a rifle.",
+
+  "6a3ee3e2f2b7441c862ee1c7 Name": "AR-7 lightweight fluted barrel with heat shroud",
+  "6a3ee3e2f2b7441c862ee1c7 ShortName": "AR-7 fluted bbl",
+  "6a3ee3e2f2b7441c862ee1c7 Description": "A lightweight aftermarket 16-inch .22 LR barrel for the AR-7 platform. Fluted stainless steel construction with an aluminum heat shroud over the muzzle half. Sheds heat more efficiently than the factory barrel and marginally improves balance. A popular upgrade among dedicated AR-7 enthusiasts.",
+
+  "6a3ee4a2f2b7441c862ee1c9 Name": "AR-7 integrally suppressed barrel",
+  "6a3ee4a2f2b7441c862ee1c9 ShortName": "AR-7 integ. bbl",
+  "6a3ee4a2f2b7441c862ee1c9 Description": "A custom integrally suppressed 16-inch barrel assembly for the AR-7 receiver. The baffle stack is machined into an oversized aluminum sleeve — no external suppressor required. With subsonic .22 LR ammunition, report is reduced to little more than the mechanical action noise. Heavier and longer than the factory barrel. Requires a tax stamp in most jurisdictions.",
+
+  "6a3ee4c2f2b7441c862ee1cb Name": "Charter Arms Explorer II 8-inch .22 LR barrel",
+  "6a3ee4c2f2b7441c862ee1cb ShortName": "Explorer II 8\"",
+  "6a3ee4c2f2b7441c862ee1cb Description": "An 8-inch barrel assembly from the Charter Arms Explorer II semi-automatic pistol. The Explorer II used the same Armalite-licensed receiver as the AR-7, making barrels cross-compatible. At half the length of the factory AR-7 barrel, muzzle velocity drops considerably and the blowback action becomes noticeably snappier, but the overall package is extremely compact.",
+
+  "6a3ee4e2f2b7441c862ee1cd Name": "Charter Arms Explorer II 6-inch .22 LR barrel",
+  "6a3ee4e2f2b7441c862ee1cd ShortName": "Explorer II 6\"",
+  "6a3ee4e2f2b7441c862ee1cd Description": "A 6-inch barrel assembly from the Charter Arms Explorer II semi-automatic pistol. The shortest practical barrel for the AR-7 receiver family. Muzzle velocity is substantially degraded and cycling reliability with standard velocity ammunition becomes marginal — high-velocity loads are recommended. Handling is exceptional for the platform. More of a collector's curiosity than a field tool.",
+
+  "6a3fd66af0f63c5a472ee1d2 Name": "PP-19 Bizon handguard",
+  "6a3fd66af0f63c5a472ee1d2 ShortName": "Bizon handguard",
+  "6a3fd66af0f63c5a472ee1d2 Description": "The factory stamped steel handguard for the PP-19 Bizon. Wraps around the helical magazine housing and provides a forward grip surface. Features integrated side accessory mounting points for lights and lasers.",
+
+  "6a3ee211ef62af0e542ee1b1 Name": "Henry AR-7 8-round .22 LR magazine",
+  "6a3ee211ef62af0e542ee1b1 ShortName": "AR-7 8rd",
+  "6a3ee211ef62af0e542ee1b1 Description": "The standard 8-round stamped steel magazine for the Henry AR-7. Single-stack feed, lightweight, and designed to stow in the hollow pistol grip of the factory stock. Reliable with standard velocity ammunition.",
+
+  "6a3f06a77a40b3f0972ee1c0 Name": "Henry AR-7 15-round .22 LR magazine",
+  "6a3f06a77a40b3f0972ee1c0 ShortName": "AR-7 15rd",
+  "6a3f06a77a40b3f0972ee1c0 Description": "An extended 15-round stamped steel aftermarket magazine for the Henry AR-7. Protrudes below the receiver and prevents stowage in the factory stock, but nearly doubles ammunition capacity. Compatible with all AR-7 receiver variants.",
+
+  "6a3ee502f2b7441c862ee1cf Name": "Haga Defense AR-7 buffer tube and pistol grip adapter",
+  "6a3ee502f2b7441c862ee1cf ShortName": "Haga BT adapter",
+  "6a3ee502f2b7441c862ee1cf Description": "A glass-filled polymer adapter from Haga Defense that replaces the factory AR-7 stock attachment point with an AR-15 pistol grip socket and a steel-reinforced mil-spec carbine buffer tube receiver. The grip socket and body are polymer for weight savings, while the buffer tube interface is machined steel to handle the stress of stock and brace installations. Accepts any standard AR-15 pistol grip directly. A popular modernization for users who don't need the survival storage feature.",
+
+  "6a3ee512f2b7441c862ee1d1 Name": "Haga Defense AR-7 Picatinny rail and pistol grip adapter",
+  "6a3ee512f2b7441c862ee1d1 ShortName": "Haga pic adapter",
+  "6a3ee512f2b7441c862ee1d1 Description": "A glass-filled polymer adapter from Haga Defense that replaces the factory AR-7 rear stock assembly with a full-length top Picatinny rail section and an AR-15 pattern pistol grip socket. The body and rail section are polymer construction, with a steel-reinforced buffer tube socket at the rear for installations requiring a brace or stock attachment. Less ergonomically neutral than the buffer tube variant but preferred by users prioritizing optic co-witness and rear-mounted accessories."
+  
 }
 
 

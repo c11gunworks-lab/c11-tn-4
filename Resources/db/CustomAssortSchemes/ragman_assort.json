@@ -1,0 +1,44 @@
+﻿{
+  "ragman": {
+    "items": [
+      {
+        "_id": "6a889ddb1bb8d30b2b974e2e",
+        "_tpl": "6a0e253fd13347b5a6305306",
+        "upd": {
+          
+
+          "UnlimitedCount": true,
+          "StackObjectsCount": 999999,
+          "BuyRestrictionMax": 2
+        },
+        "parentId": "hideout",
+        "slotId": "hideout"
+      },
+      {
+        "_id": "6a889e06ca7522ad47974e2f",
+        "_tpl": "6917c23f71eb4b42ea95584b",
+        "slotId": "mod_headset_000",
+        "parentId": "6a889ddb1bb8d30b2b974e2e"
+      },
+      {
+        "_id": "6a889e08a88663b50d974e30",
+        "_tpl": "6a0e25e7c4fe58df2d30530a",
+        "slotId": "mod_band",
+        "parentId": "6a889ddb1bb8d30b2b974e2e"
+      }
+    ],
+    "barter_scheme": {
+      "6a889ddb1bb8d30b2b974e2e": [
+        [
+          {
+            "count": 29500,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ]
+    },
+    "loyal_level_items": {
+      "6a889ddb1bb8d30b2b974e2e": 1
+    }
+  }
+}
