@@ -13,6 +13,8 @@
       "BackgroundColor": "violet",
       "Width": 2,
       "Height": 1,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
       "Weight": 0.35,
       "Color":{
         "a": 254,
@@ -48,7 +50,7 @@
 
     "hallOfFameSlots": [
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69e29dd9a4fde7e582ff1883": {
@@ -73,7 +75,7 @@
     "parentId": "5a2c3a9486f774688b05e574",
     "handbookParentId": "5b5f749986f774094242f199",
     "overrideProperties": {
-      "ExaminedByDefault": true,
+      "ExaminedByDefault": false,
       "Prefab": {
         "path": "chimera_mc.bundle",
         "rcid": ""
@@ -82,6 +84,8 @@
       "Width": 2,
       "Height": 1,
       "Weight": 0.35,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
       "Color":{
         "a": 254,
         "b": 243,
@@ -116,7 +120,7 @@
 
     "hallOfFameSlots": [
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69e3d59004efea109dff1886": {
@@ -140,7 +144,7 @@
     "parentId": "5a2c3a9486f774688b05e574",
     "handbookParentId": "5b5f749986f774094242f199",
     "overrideProperties": {
-      "ExaminedByDefault": true,
+      "ExaminedByDefault": false,
       "Prefab": {
         "path": "chimera_mca.bundle",
         "rcid": ""
@@ -148,6 +152,8 @@
       "BackgroundColor": "violet",
       "Width": 2,
       "Height": 1,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
       "Weight": 0.35,
       "Color":{
         "a": 254,
@@ -183,7 +189,7 @@
 
     "hallOfFameSlots": [
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69e3d5a21bfa564599ff1888": {
@@ -271,7 +277,7 @@
 
     "hallOfFameSlots": [
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69e3d5ade4ba816993ff188b": {
@@ -339,7 +345,7 @@
 
     "hallOfFameSlots": [
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69e3d5b26dbd46625eff188c": {

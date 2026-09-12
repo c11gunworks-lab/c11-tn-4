@@ -383,7 +383,7 @@
     ],
     "fleaPriceRoubles": 14260,
     "handbookPriceRoubles": 11660,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
@@ -491,7 +491,7 @@
     ],
     "fleaPriceRoubles": 43790,
     "handbookPriceRoubles": 42000,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "traders": {
@@ -571,7 +571,7 @@
     ],
     "fleaPriceRoubles": 23215,
     "handbookPriceRoubles": 21650,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": true,
     "addtoStaticLootContainers": false,
     "traders": {
@@ -634,7 +634,7 @@
     ],
     "fleaPriceRoubles": 22900,
     "handbookPriceRoubles": 27280,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": true,
     "addtoStaticLootContainers": false,
     "traders": {
@@ -697,7 +697,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "6973e3345316c84b20c39353": {
@@ -757,7 +757,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "6973e350bcb9c89a68c39354": {
@@ -840,7 +840,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "6973e388071822cf79c39355": {

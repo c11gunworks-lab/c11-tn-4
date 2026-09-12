@@ -534,7 +534,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "69723a018f1e334c45c3932e": {

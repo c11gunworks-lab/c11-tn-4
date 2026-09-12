@@ -12,6 +12,8 @@
       "Width": 2,
       "Height": 1,
       "Weight": 0.15,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
       "Durability": 70,
       "MaxDurability": 70,
       "knifeDurab": 70,
@@ -66,12 +68,14 @@
     "parentId": "5447e1d04bdc2dff2f8b4567",
     "handbookParentId": "5b5f7a0886f77409407a7f96",
     "overrideProperties": {
-      "ExaminedByDefault": true,
+      "ExaminedByDefault": false,
       "Prefab": {
         "path": "karambit_mcb.bundle",
         "rcid": ""
       },
       "Width": 2,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
       "Height": 1,
       "Weight": 0.15,
       "Durability": 70,
@@ -128,12 +132,14 @@
     "parentId": "5447e1d04bdc2dff2f8b4567",
     "handbookParentId": "5b5f7a0886f77409407a7f96",
     "overrideProperties": {
-      "ExaminedByDefault": true,
+      "ExaminedByDefault": false,
       "Prefab": {
         "path": "gbrs_g10.bundle",
         "rcid": ""
       },
       "Width": 1,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
       "Height": 1,
       "Weight": 0.05,
       "Durability": 25,
@@ -190,12 +196,14 @@
     "parentId": "5447e1d04bdc2dff2f8b4567",
     "handbookParentId": "5b5f7a0886f77409407a7f96",
     "overrideProperties": {
-      "ExaminedByDefault": true,
+      "ExaminedByDefault": false,
       "Prefab": {
         "path": "short_knife.bundle",
         "rcid": ""
       },
       "Width": 2,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
       "Height": 1,
       "Weight": 0.2,
       "Durability": 70,
@@ -252,12 +260,14 @@
     "parentId": "5447e1d04bdc2dff2f8b4567",
     "handbookParentId": "5b5f7a0886f77409407a7f96",
     "overrideProperties": {
-      "ExaminedByDefault": true,
+      "ExaminedByDefault": false,
       "Prefab": {
         "path": "fixed_cod.bundle",
         "rcid": ""
       },
       "Width": 2,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
       "Height": 1,
       "Weight": 0.4,
       "Durability": 70,
@@ -314,12 +324,14 @@
     "parentId": "5447e1d04bdc2dff2f8b4567",
     "handbookParentId": "5b5f7a0886f77409407a7f96",
     "overrideProperties": {
-      "ExaminedByDefault": true,
+      "ExaminedByDefault": false,
       "Prefab": {
         "path": "skeleton_knife.bundle",
         "rcid": ""
       },
       "Width": 2,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
       "Height": 1,
       "Weight": 0.12,
       "Durability": 70,

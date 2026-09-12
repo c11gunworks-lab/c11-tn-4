@@ -1,0 +1,15 @@
+{
+    "70ef7614a752b895a6519b15": "Survive and extract from Woods",
+    "bfaddd7dbd6377e1abbbdf36": "Find 2 Iskra ration packs in raid",
+    "eb8426d8ac8bdb51c977a17e": "Find 2 bottles of water in raid",
+    "fb4f380e672669dda55551b0 acceptPlayerMessage": "I'll take it.",
+    "fb4f380e672669dda55551b0 changeQuestMessageText": "Change of plans.",
+    "fb4f380e672669dda55551b0 completePlayerMessage": "Done.",
+    "fb4f380e672669dda55551b0 declinePlayerMessage": "Not right now.",
+    "fb4f380e672669dda55551b0 description": "A hunter does not carry thirty kilograms of steel to survive the wilderness. True discipline lies in packability and patience. The Henry AR-7 breaks down completely inside its own water-resistant stock. It was made for downed pilots and woodsmen who respect weight limits. Bring me sustenance from the forest and show me you can walk out alive, and this survival tool is yours.",
+    "fb4f380e672669dda55551b0 failMessageText": "That's a shame.",
+    "fb4f380e672669dda55551b0 name": "Pocket Survivalist",
+    "fb4f380e672669dda55551b0 note": "",
+    "fb4f380e672669dda55551b0 startedMessageText": "Walk out of the forest alive. That is all I ask.",
+    "fb4f380e672669dda55551b0 successMessageText": "You walked out. That is the whole lesson. Take the rifle - it weighs nothing, and one day that will matter."
+}

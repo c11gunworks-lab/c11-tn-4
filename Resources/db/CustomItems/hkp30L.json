@@ -374,7 +374,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "PEACEKEEPER": {
         "6984eb81ce81f1b657de0b7f": {
@@ -480,7 +480,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "PEACEKEEPER": {
         "6984ebdc27e7502d26de0b83": {
@@ -579,7 +579,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "PEACEKEEPER": {
         "6984ed5b2358a46843de0b86": {
@@ -687,7 +687,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "PEACEKEEPER": {
         "68e025fd1111111111111111": {
@@ -778,7 +778,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "PEACEKEEPER": {
         "68e028ee1111111111111111": {
@@ -861,7 +861,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "PEACEKEEPER": {
         "6984eeb8a626d68e1dde0b8c": {
@@ -930,7 +930,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "PEACEKEEPER": {
         "68e029fe1111111111111111": {
@@ -1025,7 +1025,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "PEACEKEEPER": {
         "6984edbdddd761b000de0b89": {

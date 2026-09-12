@@ -347,7 +347,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "SKIER": {
         "69e91141f9e4e7d517ff1893": {
@@ -490,7 +490,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "SKIER": {
         "69e91ac9fb7d59511fff189f": {

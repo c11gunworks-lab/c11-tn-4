@@ -47,7 +47,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "RAGMAN": {
@@ -92,8 +92,8 @@
       "en": {
 
         "Name": "Ops-Core helmet cover (AOR1)",
-        "shortName": "AOR2 Cover",
-        "Description": "A tactical helmet cover designed for Ops-Core high-cut ballistic helmets. Made from durable nylon with reinforced stitching and attachment points for cables, counterweights, and accessories. Features the AOR2 digital camouflage pattern optimized for temperate and coastal environments."
+        "shortName": "AOR1 Cover",
+        "Description": "A tactical helmet cover designed for Ops-Core high-cut ballistic helmets. Made from durable nylon with reinforced stitching and attachment points for cables, counterweights, and accessories. Features the AOR1 digital camouflage pattern optimized for temperate and coastal environments."
       }
     },
     "fleaPriceRoubles": 9500,
@@ -116,7 +116,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "RAGMAN": {
@@ -159,8 +159,8 @@
       "en": {
 
         "Name": "Ops-Core helmet cover (cadpat)",
-        "shortName": "AOR2 Cover",
-        "Description": "A tactical helmet cover designed for Ops-Core high-cut ballistic helmets. Made from durable nylon with reinforced stitching and attachment points for cables, counterweights, and accessories. Features the AOR2 digital camouflage pattern optimized for temperate and coastal environments."
+        "shortName": "CADPAT Cover",
+        "Description": "A tactical helmet cover designed for Ops-Core high-cut ballistic helmets. Made from durable nylon with reinforced stitching and attachment points for cables, counterweights, and accessories. Features the CADPAT digital camouflage pattern optimized for temperate and coastal environments."
       }
     },
     "fleaPriceRoubles": 9500,
@@ -183,7 +183,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {
@@ -225,9 +225,9 @@
     "locales": {
       "en": {
 
-        "Name": "Ops-Core helmet cover (mcalp",
-        "shortName": "AOR2 Cover",
-        "Description": "A tactical helmet cover designed for Ops-Core high-cut ballistic helmets. Made from durable nylon with reinforced stitching and attachment points for cables, counterweights, and accessories. Features the AOR2 digital camouflage pattern optimized for temperate and coastal environments."
+        "Name": "Ops-Core helmet cover (mcalp)",
+        "shortName": "MCALP Cover",
+        "Description": "A tactical helmet cover designed for Ops-Core high-cut ballistic helmets. Made from durable nylon with reinforced stitching and attachment points for cables, counterweights, and accessories. Features the Multicam Alpine camouflage pattern optimized for temperate and coastal environments."
       }
     },
     "fleaPriceRoubles": 9500,
@@ -250,7 +250,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "RAGMAN": {
@@ -291,9 +291,9 @@
     "locales": {
       "en": {
 
-        "Name": "Ops-Core helmet cover (AOR2)",
-        "shortName": "AOR2 Cover",
-        "Description": "A tactical helmet cover designed for Ops-Core high-cut ballistic helmets. Made from durable nylon with reinforced stitching and attachment points for cables, counterweights, and accessories. Features the AOR2 digital camouflage pattern optimized for temperate and coastal environments."
+        "Name": "Ops-Core helmet cover (Miami Tigerstripe)",
+        "shortName": "Miami Cover",
+        "Description": "A tactical helmet cover designed for Ops-Core high-cut ballistic helmets. Made from durable nylon with reinforced stitching and attachment points for cables, counterweights, and accessories. Features the Miami Tigerstripe digital camouflage pattern optimized for temperate and coastal environments."
       }
     },
     "fleaPriceRoubles": 9500,
@@ -316,7 +316,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "RAGMAN": {
@@ -384,7 +384,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "RAGMAN": {
@@ -450,7 +450,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "RAGMAN": {
@@ -517,7 +517,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "RAGMAN": {

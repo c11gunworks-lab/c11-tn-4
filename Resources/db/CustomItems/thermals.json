@@ -71,80 +71,9 @@
           }
         }
       },
-      "6a2dfcceac851f23d0b121c2": {
-        "itemTplToClone": "5b3b6e495acfc4330140bd88",
-        "parentId": "55818aeb4bdc2ddc698b456a",
-        "handbookParentId": "5b5f749986f774094242f199",
-        "overrideProperties": {
-          "ExaminedByDefault": true,
-          "Prefab": {
-            "path": "pvs22.bundle",
-            "rcid": ""
-          },
-          "ModesCount": [
-            2
-          ],
-         
-          "Zooms":[
-            [
-              1,
-              1
-              
-
-            ]
-          ]
-        },
-        "locales": {
-          "en": {
-            "name": "PVS-22 ",
-            "shortName": "PVS-22",
-            "description": "Testing"
-          }
-        },
-        "fleaPriceRoubles": 45000,
-        "handbookPriceRoubles": 42500,
-        "addtoBots": false,
-        "addtoSpecialSlots": false,
-        "addtoModSlots": true,
-        "modSlot": [
-          "mod_scope",
-          "mod_scope_000",
-          "mod_mount"
-        ],
-        "addtoStaticLootContainers": true,
-        "staticLootContainers": [
-               {
-            "containerName": "LOOTCONTAINER_WOODEN_CRATE",
-            "probability": 150
-          },
-          {
-          "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
-          "probability": 250
-          }
-        ],
-        "addtoSecureFilters": false,
-        "addtoTraders": true,
-        "traders": {
-          "MECHANIC": {
-            "6a2e1edb912cac85f6af5565": {
-              "barterSettings": {
-                "loyalLevel": 2,
-                "unlimitedCount": true,
-                "stackObjectsCount": 99
-              },
-              "barters": [
-                {
-                  "count": 150,
-                  "_tpl": "MONEY_EUROS"
-                }
-              ]
-            }
-          }
-        }
-      },
     "6a2dcf2e11cf8134015c0563": {
-        "itemTplToClone": "5c110624d174af029e69734c",
-        "parentId": "5d21f59b6dbe99052b54ef83",
+        "itemTplToClone": "5c066e3a0db834001b7353f0",
+        "parentId": "5a2c3a9486f774688b05e574",
         "handbookParentId": "5b5f749986f774094242f199",
         "overrideProperties": {
           "ExaminedByDefault": true,
@@ -157,8 +86,8 @@
         },
         "locales": {
           "en": {
-            "name": "nvg fusion test",
-            "shortName": "nvg test",
+            "name": "BNVG fusion test",
+            "shortName": "BNVG test",
             "description": "Testing"
           }
         },
@@ -201,7 +130,198 @@
             }
           }
         }
+      },
+  "6aa58d6c394c0807cb0af580": {
+    "itemTplToClone": "5c066e3a0db834001b7353f0",
+    "parentId": "5a2c3a9486f774688b05e574",
+    "handbookParentId": "5b5f749986f774094242f199",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "nvg_fusion.bundle",
+        "rcid": ""
+      },
+      "Color":{
+        "a": 254,
+        "b": 243,
+        "g": 255,
+        "r": 0
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "ECOTI fusion test",
+        "shortName": "ECOTI test",
+        "description": "Testing"
+      }
+    },
+    "fleaPriceRoubles": 45000,
+    "handbookPriceRoubles": 42500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_nvg"
+
+    ],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "6aa58d815af645a2a50af581": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 150,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6aa58e21003ae80c900af582": {
+    "itemTplToClone": "5c0558060db834001b735271",
+    "parentId": "5a2c3a9486f774688b05e574",
+    "handbookParentId": "5b5f749986f774094242f199",
+    "overrideProperties": {
+      "ExaminedByDefault": false,
+      "Prefab": {
+        "path": "chimera_mca.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "violet",
+      "Width": 2,
+      "Height": 1,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "Weight": 0.35,
+      "Color":{
+        "a": 254,
+        "b": 243,
+        "g": 255,
+        "r": 0
+      },
+      "Grids": [],
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "F-PANOS",
+        "shortName": "F-PANOS",
+        "description": "nvg"
+      }
+    },
+    "fleaPriceRoubles": 200000,
+    "handbookPriceRoubles": 211000,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_nvg"
+    ],
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+
+    ],
+    "addtoSecureFilters": false,
+    "addtoHallOfFame": false,
+
+
+    "hallOfFameSlots": [
+    ],
+    "addtoTraders": false,
+    "traders": {
+      "MECHANIC": {
+        "6aa591fdfec420cee10af587": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 250,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6aa58e595da66037460af585": {
+    "itemTplToClone": "5c066e3a0db834001b7353f0",
+    "parentId": "5a2c3a9486f774688b05e574",
+    "handbookParentId": "5b5f749986f774094242f199",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "nvg_fusion.bundle",
+        "rcid": ""
       }
 
 
+    },
+    "locales": {
+      "en": {
+        "name": "Dual Flir Breach fusion test",
+        "shortName": "DUAL FLIR test",
+        "description": "Testing"
+      }
+    },
+    "fleaPriceRoubles": 45000,
+    "handbookPriceRoubles": 42500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_nvg"
+
+    ],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "6aa58e6cf97eae35590af586": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 150,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  }
 }

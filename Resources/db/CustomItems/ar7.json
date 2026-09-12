@@ -207,7 +207,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "6a3ee347570c266d572ee1bb": {
@@ -296,7 +296,7 @@
       { "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4", "probability": 250 }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "6a3ee24af5bf21de422ee1b3": {
@@ -438,7 +438,7 @@
       { "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2", "probability": 250 }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "6a3ee38d99f94790bc2ee1be": {
@@ -489,7 +489,7 @@
       { "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2", "probability": 250 }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "6a3ee3b1000c2267b52ee1c4": {
@@ -542,7 +542,7 @@
       { "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2", "probability": 250 }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "6a3ee3d1000c2267b52ee1c6": {
@@ -1046,7 +1046,7 @@
       { "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2", "probability": 80 }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "6a3ee522000c2267b52ee1d3": {

@@ -396,7 +396,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "6920fa076fbf92f2428e4d96": {
@@ -525,7 +525,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "6920fad142c29716ee18da74": {
@@ -587,7 +587,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "6920fb2a7a92b32b5d097bf6": {
@@ -781,7 +781,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "6961352249e45f8cb9446f8a": {
@@ -946,7 +946,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "6920fc2561e98f72d568b7b3": {
@@ -1008,7 +1008,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "6920fc91f05cac0762e5be58": {
@@ -1070,7 +1070,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "6920fccdc11b220255a5bd32": {
@@ -1167,7 +1167,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "696135f83c8ac58095446f8d": {
@@ -1253,7 +1253,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "69613662f75288a980446f90": {

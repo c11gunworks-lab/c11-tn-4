@@ -848,7 +848,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "6932efc8e78eb21bc6b155ce": {
@@ -1098,7 +1098,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "6933234168d8a859ddb155d4": {
@@ -1328,7 +1328,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {
@@ -1423,7 +1423,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "TRUDY": {

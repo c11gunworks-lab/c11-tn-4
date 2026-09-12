@@ -227,7 +227,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "PEACEKEEPER": {
         "6a04fe575e83b7c687fa7714": {
@@ -337,7 +337,7 @@
     "addtoStaticLootContainers": false,
     "staticLootContainers":[],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "PEACEKEEPER": {
         "6a05009737122bb02dfa771d": {
@@ -391,7 +391,7 @@
     "addtoStaticLootContainers": false,
     "staticLootContainers":[],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "PEACEKEEPER": {
         "69ea99df29514906ebbbee76": {
@@ -445,7 +445,7 @@
     "addtoStaticLootContainers": false,
     "staticLootContainers":[],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "PEACEKEEPER": {
         "6a050241234970bd15fa7724": {
@@ -497,7 +497,7 @@
     "modSlot": ["mod_muzzle"],
     "staticLootContainers":[],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "PEACEKEEPER": {
         "69ea9f0c8b0d97e781bbee89": {
@@ -638,7 +638,7 @@
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "PEACEKEEPER": {
         "6a050220a62783466ffa7722": {
@@ -732,7 +732,7 @@
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "PEACEKEEPER": {
         "6a0502e79069ef4008fa7728": {
@@ -827,7 +827,7 @@
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "PEACEKEEPER": {
         "6a050336bd3c20bfa4fa772b": {
@@ -921,7 +921,7 @@
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "PEACEKEEPER": {
         "6a050352af28cd329efa772c": {

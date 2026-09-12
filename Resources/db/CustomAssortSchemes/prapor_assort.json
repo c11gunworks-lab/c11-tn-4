@@ -1,7 +1,6 @@
 {
   "prapor": {
     "items": [
-     
       {
         "_id": "693b0bac9ced2ab5fcda59a9",
         "_tpl": "5ea03f7400685063ec28bfa8",
@@ -133,10 +132,97 @@
             "SelectedMode": 0
           }
         }
+      },
+      {
+        "_id": "94a472d24edaee935457ea12",
+        "_tpl": "690a1f37bb772fac86a41ca9",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 99,
+          "UnlimitedCount": true,
+          "BuyRestrictionMax": 1
+        }
+      },
+      {
+        "_id": "59fa75e682c8080a26b32fc6",
+        "_tpl": "690a205f953b984ffa348661",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 99,
+          "UnlimitedCount": true,
+          "BuyRestrictionMax": 1
+        }
+      },
+      {
+        "_id": "92da54e2c13bf7313844c81e",
+        "_tpl": "690a2214b583a83165ecac90",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 99,
+          "UnlimitedCount": true,
+          "BuyRestrictionMax": 1
+        }
+      },
+      {
+        "_id": "d159a30f2f156227c0589181",
+        "_tpl": "690a228693b29bcfa1c3b919",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 99,
+          "UnlimitedCount": true,
+          "BuyRestrictionMax": 1
+        }
+      },
+      {
+        "_id": "785cea19a244fc668a3da84c",
+        "_tpl": "690a22f8b12972947a6a4723",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 99,
+          "UnlimitedCount": true,
+          "BuyRestrictionMax": 1
+        }
+      },
+      {
+        "_id": "0f97a6468b411c0213a006d1",
+        "_tpl": "690a23ad14158912787e4659",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 99,
+          "UnlimitedCount": true,
+          "BuyRestrictionMax": 1
+        }
+      },
+      {
+        "_id": "6446853122142c95a89a55eb",
+        "_tpl": "695ffdaedd28a71ea5446f66",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 99,
+          "UnlimitedCount": true,
+          "BuyRestrictionMax": 1
+        }
+      },
+      {
+        "_id": "0bdb5ebdd8eccf55c314bffd",
+        "_tpl": "696000ef0493e34c01446f6a",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 99,
+          "UnlimitedCount": true,
+          "BuyRestrictionMax": 1
+        }
       }
     ],
     "barter_scheme": {
-     
       "693b0bac9ced2ab5fcda59a9": [
         [
           {
@@ -144,11 +230,82 @@
             "_tpl": "5449016a4bdc2d6f028b456f"
           }
         ]
+      ],
+      "94a472d24edaee935457ea12": [
+        [
+          {
+            "count": 51500,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "59fa75e682c8080a26b32fc6": [
+        [
+          {
+            "count": 32500,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "92da54e2c13bf7313844c81e": [
+        [
+          {
+            "count": 17500,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "d159a30f2f156227c0589181": [
+        [
+          {
+            "count": 45000,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "785cea19a244fc668a3da84c": [
+        [
+          {
+            "count": 18700,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "0f97a6468b411c0213a006d1": [
+        [
+          {
+            "count": 25000,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "6446853122142c95a89a55eb": [
+        [
+          {
+            "count": 350,
+            "_tpl": "569668774bdc2da2298b4568"
+          }
+        ]
+      ],
+      "0bdb5ebdd8eccf55c314bffd": [
+        [
+          {
+            "count": 50,
+            "_tpl": "569668774bdc2da2298b4568"
+          }
+        ]
       ]
     },
     "loyal_level_items": {
-
-      "693b0bac9ced2ab5fcda59a9": 1
+      "693b0bac9ced2ab5fcda59a9": 1,
+      "94a472d24edaee935457ea12": 1,
+      "59fa75e682c8080a26b32fc6": 1,
+      "92da54e2c13bf7313844c81e": 1,
+      "d159a30f2f156227c0589181": 1,
+      "785cea19a244fc668a3da84c": 1,
+      "0f97a6468b411c0213a006d1": 1,
+      "6446853122142c95a89a55eb": 3,
+      "0bdb5ebdd8eccf55c314bffd": 3
     }
   }
 }

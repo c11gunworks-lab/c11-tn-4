@@ -484,7 +484,7 @@
         ]
       }
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69b5ccba3cfc026a03960450": {

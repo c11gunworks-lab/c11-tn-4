@@ -209,7 +209,7 @@
         ]
       }
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "6958407b89737f086221a1e7": {
@@ -341,7 +341,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "6958435dd27927862d21a1eb": {
@@ -405,7 +405,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "695843f246be11728921a1ed": {
@@ -592,7 +592,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "695844d3cf86c4b93721a1f0": {
@@ -828,7 +828,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69584742299802e00321a1f6": {
@@ -1066,7 +1066,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "TRUDY": {
         "69584b00bee7dda29a21a202": {

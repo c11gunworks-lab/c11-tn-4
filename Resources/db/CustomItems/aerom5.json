@@ -1761,7 +1761,7 @@
     "modSlot": [
       "mod_barrel"
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "69e238fe79b681e12aff1853": {
@@ -2079,7 +2079,7 @@
     "modSlot":[
       "mod_handguard"
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "69e239ec4fd6fe87c2ff1855": {
@@ -2351,7 +2351,7 @@
     "modSlot": [
       "mod_magazine"
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "69e23a8d9663fcc8a9ff1857": {
@@ -2523,7 +2523,7 @@
     "modSlot": [
       "mod_charge"
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "69e254b2f63a06ce43ff185f": {
@@ -2672,7 +2672,7 @@
     "modSlot":[
       "mod_muzzle"
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "69e25719a4212435f9ff1862": {

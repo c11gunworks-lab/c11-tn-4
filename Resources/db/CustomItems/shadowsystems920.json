@@ -227,7 +227,7 @@
         "_encyclopedia": "6a1087fe49f3a17012a302ef"
       }
     ],
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "6a108b0ebb43e70d4fa302fc": {
@@ -301,7 +301,7 @@
     "modSlot": [],
     "fleaPriceRoubles": 14260,
     "handbookPriceRoubles": 11660,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
@@ -397,7 +397,7 @@
     "modSlot": [],
     "fleaPriceRoubles": 43790,
     "handbookPriceRoubles": 42000,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "traders": {
@@ -471,7 +471,7 @@
     "modSlot": [],
     "fleaPriceRoubles": 23215,
     "handbookPriceRoubles": 21650,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": true,
     "addtoStaticLootContainers": false,
     "traders": {
@@ -528,7 +528,7 @@
     "modSlot": [],
     "fleaPriceRoubles": 22900,
     "handbookPriceRoubles": 27280,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": true,
     "addtoStaticLootContainers": false,
     "traders": {
@@ -586,7 +586,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "MECHANIC": {
         "6a10b895c12922e00652f567": {
@@ -651,7 +651,7 @@
       }
     ],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
 
     "traders": {
       "MECHANIC": {

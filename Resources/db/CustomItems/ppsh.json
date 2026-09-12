@@ -143,7 +143,7 @@
 
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "PRAPOR": {
         "690d058254b5d28fe31f9742": {
@@ -398,7 +398,7 @@
 
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "PRAPOR": {
         "690d0569f297976999ff74b7": {
@@ -594,7 +594,7 @@
 
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "PRAPOR": {
         "690d055a744ad59f8ded01be": {
@@ -740,7 +740,7 @@
 
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "PRAPOR": {
         "690d054d1c9f120ac404106d": {
@@ -909,7 +909,7 @@
 
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "PRAPOR": {
         "690d052ef0ca915b17e01fa7": {
@@ -1097,7 +1097,7 @@
 
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "PRAPOR": {
         "690d0522b488c6379a47e96f": {

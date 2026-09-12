@@ -237,8 +237,8 @@
     },
     "locales": {
       "en": {
-        "name": "LV119 Covert Multicam Tropic",
-        "shortName": "LV119 MCT",
+        "name": "LV119 Covert Ranger Green",
+        "shortName": "LV119 RG",
         "description": "The Spiritus Systems LV119 Covert is perfect for operators looking for a high speed, low vis and scalable plate carrier. Comes with a Spiritus Systems MK V Placard. "
       }
     },
@@ -250,7 +250,7 @@
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "RAGMAN": {
         "690d041864dddd13f901707b": {
@@ -745,7 +745,7 @@
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "RAGMAN": {
         "6946e7b32d8af65b38a266fa": {
@@ -897,7 +897,7 @@
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "RAGMAN": {
         "694705d53f139bcab6a266fe": {
@@ -1171,7 +1171,7 @@
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "RAGMAN": {
         "694707bf2b119da0a3a26703": {
@@ -1595,7 +1595,7 @@
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
     "addtoSecureFilters": false,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "RAGMAN": {
         "6a10dabf31df611dd352f56f": {

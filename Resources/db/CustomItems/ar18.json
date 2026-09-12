@@ -681,7 +681,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "SKIER": {
         "690cdbaeff28ed6c76c0c4ff": {
@@ -818,7 +818,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "SKIER": {
         "690cf747f3862cbfaebe5af7": {
@@ -1076,7 +1076,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "SKIER": {
         "690cef90d9c6c98679825d7c": {
@@ -1172,7 +1172,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "SKIER": {
         "690cefbb88a935e6cd6e7d97": {
@@ -1616,7 +1616,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "SKIER": {
         "690cf76600691a667d6977e5": {
@@ -1676,7 +1676,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "SKIER": {
         "690cf770b8e651955ab5e5e7": {
@@ -1735,7 +1735,7 @@
       }
     ],
     "addtoSecureFilters": true,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "traders": {
       "SKIER": {
         "690cf77ba4633fc416ca4ac2": {
