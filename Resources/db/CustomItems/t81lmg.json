@@ -459,8 +459,9 @@
     "parentId": "55818a304bdc2db5418b457d",
     "handbookParentId": "5b5f764186f77447ec5d7714",
     "overrideProperties": {
-      "ExaminedByDefault": false, "CanRequireOnRagfair":false,
-
+      "ExaminedByDefault": false,
+      "CanRequireOnRagfair":false,
+      "CanSellOnRagfair": false,
       "Prefab": {
         "path": "dustcamo.bundle",
         "rcid": ""

@@ -1,0 +1,2757 @@
+{
+  "6aa94e5390fd25fc05e77be1": {
+
+    "itemTplToClone": "5c488a752e221602b412af63",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+
+    "overrideProperties": {
+      "Weight": 2.4,
+      "RecoilForceBack": 265,
+      "RecoilForceUp": 85,
+      "Ergonomics": 70,
+      "bFirerate": 500,
+      "Prefab": {
+        "path": "weapon_t97_gen3.bundle",
+        "rcid": ""
+      },
+      "weapFireType": [
+        "single"
+      ],
+      "Chambers": [
+        {
+          "_id": "18cae8293c97bb1d05ba9b53",
+          "_mergeSlotWithChildren": false,
+          "_name": "patron_in_weapon",
+          "_parent": "6aa94e5390fd25fc05e77be1",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59e6920f86f77411d82aa167",
+                  "59e6927d86f77411da468256",
+                  "54527a984bdc2d4e668b4567",
+                  "54527ac44bdc2d36668b4567",
+                  "59e68f6f86f7746c9f75e846",
+                  "59e6906286f7746c9f75e847",
+                  "59e690b686f7746c9f75e848",
+                  "59e6918f86f7746c9f75e849",
+                  "60194943740c5d77f6705eea",
+                  "601949593ae8f707c4608daa",
+                  "5c0d5ae286f7741e46554302"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d4af244bdc2d962f8b4571",
+          "_required": false
+        }
+      ],
+      "Slots": [
+        {
+          "_name": "mod_pistol_grip",
+          "_id": "e343a87f21a66f0d3a13e745",
+          "_parent": "6aa94e5390fd25fc05e77be1",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "6aa94eb475e7df6d6274ab02",
+                  "6aa94eb4b619885bf1fdec6e",
+                  "6aa94eb479f6c9692d91ae29",
+                  "6aa94eb4d2ba0ce4dccf6f02",
+                  "6aa94eb45f7ceb3b9aef1387"
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_magazine",
+          "_id": "e243a6ecbfdde8beb5068505",
+          "_parent": "6aa94e5390fd25fc05e77be1",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "55d4887d4bdc2d962f8b4570",
+                  "61840bedd92c473c77021635",
+                  "61840d85568c120fdd2962a5",
+                  "5c05413a0db834001c390617",
+                  "5c6d450c2e221600114c997d",
+                  "5c6d42cb2e2216000e69d7d1",
+                  "59c1383d86f774290a37e0ca",
+                  "5aaa5e60e5b5b000140293d6",
+                  "5448c1d04bdc2dff2f8b4569",
+                  "5aaa5dfee5b5b000140293d3",
+                  "5d1340b3d7ad1a0b52682ed7",
+                  "544a378f4bdc2d30388b4567",
+                  "5d1340bdd7ad1a0e8d245aab",
+                  "55802d5f4bdc2dac148b458e",
+                  "5d1340cad7ad1a0b0b249869",
+                  "6241c2c2117ad530666a5108",
+                  "5c6592372e221600133e47d7",
+                  "544a37c44bdc2d25388b4567",
+                  "5c6d46132e221601da357d56",
+                  "697be91ca234f290026eba5b",
+                  "6928cdf53823872ef9ed2d00",
+                  "69711e3616b5615a8c08a9c9",
+                  "69711e3616b5615a8c08a9cb",
+                  "6a1310af85361c813922b58b",
+                  "9065d7003f6f4f62ca099bbf",
+                  "8ec622c17502df08341f14a2",
+                  "6a160d6847cc29671d000001",
+                  "5c827a7866c78dab05eb7637",
+                  "685c83e3b9ee925a05b52461",
+                  "685ea2d7d361ce968d776a61",
+                  "685ea424ae29ce869f15365a",
+                  "685ea5774f566619e928fd4c",
+                  "685ea58fd46519c32d440109",
+                  "6931f77384aafd27e716b95c",
+                  "6931f849d43e8360a516b95e",
+                  "6931f87427c59f8c0c16b95f",
+                  "6931f8f4d23c52639416b961",
+                  "84a633fcc42239235bfb340c",
+                  "ad7245bcfdc5700043152e5a",
+                  "26c1ddd1ea5e8444cd018780",
+                  "2e58ee1b472eb400278ae8e4",
+                  "49b49d0966aeb80df60d8199",
+                  "0e8061ac6b8d9f03f881ca0d",
+                  "ad87162a5e8f73e0e3d47898",
+                  "8db5ebb849d1d005baf290f1",
+                  "0f77f600088489f6f04c2b53",
+                  "83ab92127b26ceb7bc16c71e",
+                  "682b861888721c164979159f",
+                  "682b88530f05e7746693f920",
+                  "682b90a1bb914d953d95c7fd",
+                  "682b90d74ce95cc49a6e369b",
+                  "6828b1226ef8b54f3f63a678",
+                  "696fea0fcf7469bf38051e30",
+                  "696fea0fcf7469bf38051e32",
+                  "696feac2cf7469bf38051e34",
+                  "6a16f3a28873771c3704a132",
+                  "6a1579bfb507e45a68038d7f",
+                  "6a1579afcbb8d0c82606c541",
+                  "68a63b73c92ee33ffa01bf57",
+                  "cb84ac6a1eb17a4edb33a609",
+                  "5a28d47ee749c0e439c33f63",
+                  "30198c968739be924b3b3b16",
+                  "ac2df0d8fda26fd2f823f5c9",
+                  "2cc04e2e60743eb7f1fecb26",
+                  "10d54b4891a6e369e5df16a4",
+                  "f6a7f4b908129bcd6e844517",
+                  "a6479b0773f1cb42109786f4",
+                  "8ad0b000ff90dbb632aede52",
+                  "ab19ce32499e440804ecbc2a",
+                  "22dcb3846b62e3a5d481070f",
+                  "74528dc4af5ce6b024211f18",
+                  "41ae48727410a7a87dea7924",
+                  "e5608f9c2580bd6162ea9733",
+                  "6372a96eefbde76617f0fb0b",
+                  "d1bd44359512206c5c9465fa",
+                  "13c7d1025357080141dea9b0",
+                  "ecf4851b3e8b953c9de8be64",
+                  "4c961eb055f76254f0ebd203",
+                  "bd3a5159ec1162cebd60208c",
+                  "f1d3b0e708a0016dce7b2fe7",
+                  "6310a3c65c3773ee72fb8a8f",
+                  "945968789d2ce83c229d3e77",
+                  "72371f898a9d7c8aa64def1b",
+                  "d6051a31f285484879b2f7d0",
+                  "f2c56bb509b804160ec9c4de",
+                  "273c7e5c6e5f2a90f200a9a1",
+                  "73b65e40b67a12930347b470",
+                  "308096cf4dae1487027970ab",
+                  "e10efe1bf7d5c2ee4ba9ed4e",
+                  "a56f2b10633f8fe40bc1be0b",
+                  "8294daa7876d2070f98e0258",
+                  "8d289199904743b15359baa1",
+                  "a34949db0611fe44983fcbe2",
+                  "9c285a8b9be4ae4f70b5725a",
+                  "4734471ad9b52237780daceb",
+                  "d2d65c79307f8aabe7f055a0",
+                  "f5084bbed0a9009cd1dd52b6",
+                  "66a90c701f8d1397aa564bd0",
+                  "a2b46a91589499bb5fa307d0",
+                  "f242c171cd19cb7d9dee591d",
+                  "cc29e4b69a3cff6215799bd2"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c394bdc2dae468b4577"
+        },
+        {
+          "_name": "mod_handguard",
+          "_id": "e543aba55e15626f2ff922c5",
+          "_parent": "6aa94e5390fd25fc05e77be1",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "6aa94e9bbfb7b3c1c4b598d2",
+                  "6aa94e9bf3c63591113cd4dc",
+                  "6aa94e9bb8bf61e04acd1034",
+                  "6aa94e9b393576b7d25bccca",
+                  "6aa94e9bef06677f0b5f53b1"
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_barrel",
+          "_id": "e443aa12fc4cdc20aaebc085",
+          "_parent": "6aa94e5390fd25fc05e77be1",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "6aa94e8c2c9a33fca9451c3b",
+                  "6aa94e8cb98c8e4da63f61ec"
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+
+        {
+          "_name": "mod_sight_rear",
+          "_id": "de43a0a038bbcf82c93c0e05",
+          "_parent": "6aa94e5390fd25fc05e77be1",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "6aa9ce63bb414f28e50af589",
+                  "6aa9ce51b6440969b80af588"
+                  
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Norinco Type 97 NSR Gen 3 (5.56x45mm)",
+        "shortName": "T97 G3",
+        "description": "The Type 97 is a semi-automatic, magazine fed, gas operated bullpup. It is the civilian version of the QBZ-95, the standard issue rifle for the Peoples Liberation Army. The bullpup design allows it to retain an 18.6″ barrel length in a relatively compact package, allowing for better maneuverability in tight spaces and less fatigue to the shooter without sacrificing velocity and reach.\n\nThe NSR G3 version features an M-Lok front handguard, flip up sights and full top rail. The NSR G3 also has an ambidextrous magazine release, non reciprocating side charging handle that is reversible."
+      }
+    },
+    "fleaPriceRoubles": 59560,
+    "handbookPriceRoubles": 25500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "addtoSecureFilters": false,
+    "addtoHallOfFame": false,
+    "addtoItemBlacklist": false,
+    "masteries": false,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "3044e889c8af16bbd3537cbb",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Norinco Type 97 NSR Gen 3 (5.56x45mm)",
+        "_parent": "286ea1467f453f6ab07d2eab",
+        "_items": [
+          {
+            "_id": "286ea1467f453f6ab07d2eab",
+            "_tpl": "6aa94e5390fd25fc05e77be1",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          },
+          {
+            "_id": "296ea2d91d7cb91b9c47a5ab",
+            "_tpl": "6aa94eb45f7ceb3b9aef1387",
+            "parentId": "286ea1467f453f6ab07d2eab",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "266e9e20bbb432ccd8e840ab",
+            "_tpl": "55d4887d4bdc2d962f8b4570",
+            "parentId": "286ea1467f453f6ab07d2eab",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "276e9fb359ebac7dc4b2b7ab",
+            "_tpl": "59e6920f86f77411d82aa167",
+            "parentId": "266e9e20bbb432ccd8e840ab",
+            "slotId": "cartridges",
+            "upd": {
+              "StackObjectsCount": 30
+            }
+          },
+          {
+            "_id": "2c6ea792f823262e015352ab",
+            "_tpl": "6aa94e9bef06677f0b5f53b1",
+            "parentId": "286ea1467f453f6ab07d2eab",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "2d6ea925965a9fdfed1dc9ab",
+            "_tpl": "5bc09a30d4351e00367fb7c8",
+            "parentId": "2c6ea792f823262e015352ab",
+            "slotId": "mod_sight_front"
+          },
+          {
+            "_id": "2a6ea46c3492199029be64ab",
+            "_tpl": "5bc09a18d4351e003562b68e",
+            "parentId": "2c6ea792f823262e015352ab",
+            "slotId": "mod_sight_rear"
+          },
+          {
+            "_id": "2b6ea5ffd2c993411588dbab",
+            "_tpl": "6aa94e8c2c9a33fca9451c3b",
+            "parentId": "286ea1467f453f6ab07d2eab",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "306eadde71010cf20ed0e6ab",
+            "_tpl": "6aa94e91fe7f6e1b02044a94",
+            "parentId": "2b6ea5ffd2c993411588dbab",
+            "slotId": "mod_gasblock"
+          }
+        ],
+        "_encyclopedia": "6aa94e5390fd25fc05e77be1"
+      }
+    ],
+    "addtoTraders": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 40
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
+        "probability": 40
+      }
+    ]
+  },
+  "6aa94e8c2c9a33fca9451c3b": {
+
+    "itemTplToClone": "5c48a2852e221602b21d5923",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "locales": {
+      "en": {
+        "name": "Norinco Type 97 5.56x45 18.7 inch barrel",
+        "shortName": "T97 18.7",
+        "description": "An 18.6 inch barrel, which meets non-restricted requirements in Canada. Has a twist rate of 1:7 and can fire 5.56x45mm NATO as well as .223 Remington. This one has had the muzzle device removed by a local gunsmith."
+      }
+    },
+    "fleaPriceRoubles": 31855,
+    "handbookPriceRoubles": 8824,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": false,
+    "addtoHallOfFame": false,
+    "addtoItemBlacklist": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "addtoTraders": false,
+    "overrideProperties": {
+      "Velocity": 3.16,
+      "Weight": 1.07,
+      "CenterOfImpact": 0.07,
+      "CoolFactor": 0.98,
+      "HeatFactor": 0.98,
+      "Ergonomics": -6.5,
+      "DurabilityBurnModificator": 1.01,
+      "Recoil": -8,
+      "Prefab": {
+        "path": "barrel_t97_18.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "9b9866767888ec66a956dc85",
+          "_parent": "6aa94e8c2c9a33fca9451c3b",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5b3a16655acfc40016387a2a",
+                  "5c7e5f112e221600106f4ede",
+                  "5c0fafb6d174af02a96260ba",
+                  "612e0cfc8004cc50514c2d9e",
+                  "5cf6937cd7f00c056c53fb39",
+                  "544a38634bdc2d58388b4568",
+                  "5cff9e5ed7ad1a09407397d4",
+                  "5c48a2a42e221602b66d1e07",
+                  "5f6372e2865db925d54f3869",
+                  "615d8e2f1cb55961fa0fd9a4",
+                  "56ea8180d2720bf2698b456a",
+                  "5d02676dd7ad1a049e54f6dc",
+                  "56ea6fafd2720b844b8b4593",
+                  "5943ee5a86f77413872d25ec",
+                  "609269c3b0e443224b421cc1",
+                  "5c7fb51d2e2216001219ce11",
+                  "5ea172e498dacb342978818e",
+                  "5c6d710d2e22165df16b81e7",
+                  "612e0e55a112697a4b3a66e7",
+                  "5d440625a4b9361eec4ae6c5",
+                  "5cc9b815d7f00c000e2579d6",
+                  "5a7c147ce899ef00150bd8b8",
+                  "5c7954d52e221600106f4cc7",
+                  "59bffc1f86f77435b128b872",
+                  "5a9fbb84a2750c00137fa685",
+                  "626667e87379c44d557b7550",
+                  "62669bccdb9ebb4daa44cd14",
+                  "626a74340be03179a165e30c",
+                  "6386120cd6baa055ad1e201c",
+                  "63ac5c9658d0485fc039f0b8",
+                  "6405ff6bd4578826ec3e377a",
+                  "64943b74e9998d641b0412ed",
+                  "6621455e3aceea9e2b0b01e7",
+                  "664301213dd83ddae20dda18",
+                  "68caac500bfe742288085e1e",
+                  "68c294b9eb59c46bf6070536",
+                  "68a63b03e1fb670852024656",
+                  "68b59df2df773e94eca1167d",
+                  "694d576f3a480ae8db40f8d0",
+                  "6a0501926af3548d25fa771f",
+                  "69a9e0fb79fe0b0af4eee874",
+                  "69fcb5389d6fca325ed5194b",
+                  "6952ddf2065baefc31060c6f",
+                  "68c3305a5cb3ac684f078d1d",
+                  "699a4f707e8c1c7424070282",
+                  "ad483d8373c8ff078103aaa1",
+                  "80cbe6559756b8811d5542e5",
+                  "7fe5839a2d1e2eb9c6045f11",
+                  "9a4179548257f7a1f63f30b1",
+                  "d55014a6621462a7463f15aa",
+                  "bf822c61ce39580e026b6801",
+                  "b2e11e2c2b506ea42e29566f",
+                  "2775bf11211bb12aec490f56",
+                  "7df07162a928f5e9ab26404a",
+                  "101e593cde9a1f6fb8476d1e",
+                  "32ae89929c7e53b5e412acb3",
+                  "8d28d2b0bc17dad17f09676d",
+                  "34811b81bb2bf7d6ecc8685d",
+                  "9911241c521cf272e28138ab",
+                  "79b662be6504a4c5c58b662e",
+                  "07e6732878542a85411811df",
+                  "67a198d04e36e7c17ead7f55",
+                  "81cae3ac1c35a1f46157c891",
+                  "6a2af4a615eb6538834cd535",
+                  "66ba2659b5b76e8fa30000c0",
+                  "69694eed0d2309811a0fd1d1",
+                  "69694eed0d2309811a0fd1d3",
+                  "696e452a1a038d893a04a42b",
+                  "696fc5ed64572d85f30aac10",
+                  "6761b213607f9a6f79017d44",
+                  "676b52d48148b7479845358a",
+                  "676c3d512d4ab6764b8d793c",
+                  "6a3cea96194a2625b40c863d",
+                  "6a158e63060f61ca2c03e096"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_gasblock",
+          "_id": "9c98680916c066172e643ec5",
+          "_parent": "6aa94e8c2c9a33fca9451c3b",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "6aa94e91fe7f6e1b02044a94",
+                  "6aa94e91444ac822d132c938"
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    }
+  },
+  "6aa94e8cb98c8e4da63f61ec": {
+
+    "itemTplToClone": "5c0e2f94d174af029f650d56",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "locales": {
+      "en": {
+        "name": "Jianshe Industries QBZ-97 5.56x45 11.5 inch barrel",
+        "shortName": "QBZ-97B 11.5",
+        "description": "A QBZ-97B carbine length barrel manufactured by Norinco but sold by Jianshe Industries Corporation internationally under the name \"Type NQZ03B (97)\""
+      }
+    },
+    "fleaPriceRoubles": 31855,
+    "handbookPriceRoubles": 8824,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": false,
+    "addtoHallOfFame": false,
+    "addtoItemBlacklist": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "addtoTraders": false,
+    "overrideProperties": {
+      "Velocity": -3.43,
+      "Ergonomics": -6.81,
+      "Recoil": -3.88,
+      "CenterOfImpact": 0.17,
+      "Weight": 0.75,
+      "CoolFactor": 0.97,
+      "Prefab": {
+        "path": "barrel_t97_carbine.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "16850fad9eae0bc339d7d545",
+          "_parent": "6aa94e8cb98c8e4da63f61ec",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5b3a16655acfc40016387a2a",
+                  "5c7e5f112e221600106f4ede",
+                  "5c0fafb6d174af02a96260ba",
+                  "612e0cfc8004cc50514c2d9e",
+                  "5cf6937cd7f00c056c53fb39",
+                  "544a38634bdc2d58388b4568",
+                  "5cff9e5ed7ad1a09407397d4",
+                  "5c48a2a42e221602b66d1e07",
+                  "5f6372e2865db925d54f3869",
+                  "615d8e2f1cb55961fa0fd9a4",
+                  "56ea8180d2720bf2698b456a",
+                  "5d02676dd7ad1a049e54f6dc",
+                  "56ea6fafd2720b844b8b4593",
+                  "5943ee5a86f77413872d25ec",
+                  "609269c3b0e443224b421cc1",
+                  "5c7fb51d2e2216001219ce11",
+                  "5ea172e498dacb342978818e",
+                  "5c6d710d2e22165df16b81e7",
+                  "612e0e55a112697a4b3a66e7",
+                  "5d440625a4b9361eec4ae6c5",
+                  "5cc9b815d7f00c000e2579d6",
+                  "5a7c147ce899ef00150bd8b8",
+                  "5c7954d52e221600106f4cc7",
+                  "59bffc1f86f77435b128b872",
+                  "5a9fbb84a2750c00137fa685",
+                  "626667e87379c44d557b7550",
+                  "62669bccdb9ebb4daa44cd14",
+                  "626a74340be03179a165e30c",
+                  "6386120cd6baa055ad1e201c",
+                  "63ac5c9658d0485fc039f0b8",
+                  "6405ff6bd4578826ec3e377a",
+                  "64943b74e9998d641b0412ed",
+                  "6621455e3aceea9e2b0b01e7",
+                  "664301213dd83ddae20dda18",
+                  "68c294b9eb59c46bf6070536",
+                  "68a63b03e1fb670852024656",
+                  "68caac500bfe742288085e1e",
+                  "68b59df2df773e94eca1167d",
+                  "694d576f3a480ae8db40f8d0",
+                  "6a0501926af3548d25fa771f",
+                  "69a9e0fb79fe0b0af4eee874",
+                  "69fcb5389d6fca325ed5194b",
+                  "6952ddf2065baefc31060c6f",
+                  "68c3305a5cb3ac684f078d1d",
+                  "699a4f707e8c1c7424070282",
+                  "ad483d8373c8ff078103aaa1",
+                  "80cbe6559756b8811d5542e5",
+                  "7fe5839a2d1e2eb9c6045f11",
+                  "9a4179548257f7a1f63f30b1",
+                  "d55014a6621462a7463f15aa",
+                  "bf822c61ce39580e026b6801",
+                  "b2e11e2c2b506ea42e29566f",
+                  "2775bf11211bb12aec490f56",
+                  "7df07162a928f5e9ab26404a",
+                  "101e593cde9a1f6fb8476d1e",
+                  "32ae89929c7e53b5e412acb3",
+                  "8d28d2b0bc17dad17f09676d",
+                  "34811b81bb2bf7d6ecc8685d",
+                  "9911241c521cf272e28138ab",
+                  "79b662be6504a4c5c58b662e",
+                  "07e6732878542a85411811df",
+                  "67a198d04e36e7c17ead7f55",
+                  "81cae3ac1c35a1f46157c891",
+                  "6a2af4a615eb6538834cd535",
+                  "66ba2659b5b76e8fa30000c0",
+                  "69694eed0d2309811a0fd1d1",
+                  "69694eed0d2309811a0fd1d3",
+                  "696e452a1a038d893a04a42b",
+                  "696fc5ed64572d85f30aac10",
+                  "6761b213607f9a6f79017d44",
+                  "676b52d48148b7479845358a",
+                  "676c3d512d4ab6764b8d793c",
+                  "6a3cea96194a2625b40c863d",
+                  "6a158e63060f61ca2c03e096"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+
+        {
+          "_name": "mod_gasblock",
+          "_id": "14850c87db1cff252fbd10c5",
+          "_parent": "6aa94e8cb98c8e4da63f61ec",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "6aa94e91fe7f6e1b02044a94",
+                  "6aa94e91444ac822d132c938"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    }
+  },
+  "6aa94e9bbfb7b3c1c4b598d2": {
+
+    "itemTplToClone": "5c48a14f2e2216152006edd7",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "locales": {
+      "en": {
+        "name": "Norinco QBZ-95-1 Upper Receiver",
+        "shortName": "QBZ-95-1",
+        "description": "The QBZ-95-1, also called the QBZ-95 \"Gai\" (\"改\"; literally: 'modified'), addresses several reliability and ease-of-use issues, and has improved ergonomics. The carry handle has retained the Chinese quick release mount rail."
+      }
+    },
+    "fleaPriceRoubles": 18500,
+    "handbookPriceRoubles": 7500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": false,
+    "addtoHallOfFame": false,
+    "addtoItemBlacklist": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "addtoTraders": false,
+    "overrideProperties": {
+      "Weight": 0.32,
+      "HeatFactor": 0.984,
+      "CoolFactor": 1.017,
+      "Ergonomics": 6,
+      "Prefab": {
+        "path": "upper_qbz95.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_scope_000",
+          "_id": "740d4888ee08a9a80e8de7c5",
+          "_parent": "6aa94e9bbfb7b3c1c4b598d2",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": []
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    }
+  },
+  "6aa94e9bf3c63591113cd4dc": {
+
+    "itemTplToClone": "5c48a14f2e2216152006edd7",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "locales": {
+      "en": {
+        "name": "QBZ-95-1 Assaulter Upper",
+        "shortName": "QBZ-95-1 Tac",
+        "description": "The QBZ-95-1 \"Assaulter\" (突击者) upgrade kit is extremely rare and is worth many times the price of the base rifle. Using machined aluminum, this allows for the attachment of sights and light/lasers"
+      }
+    },
+    "fleaPriceRoubles": 87500,
+    "handbookPriceRoubles": 16500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": false,
+    "addtoHallOfFame": false,
+    "addtoItemBlacklist": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "addtoTraders": false,
+    "overrideProperties": {
+      "Weight": 0.375,
+      "HeatFactor": 1.01,
+      "CoolFactor": 0.99,
+      "Ergonomics": 11,
+      "ExaminedByDefault": true,
+      "CanRequireOnRagfair":true,
+      "CanSellOnRagfair": false,
+      "Recoil": -1,
+      "Prefab": {
+        "path": "upper_qbz95_tac.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_tactical",
+          "_id": "208107ccc4079eb0a192f5c5",
+          "_parent": "6aa94e9bf3c63591113cd4dc",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5c06595c0db834001a66af6c",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065",
+                  "68bedc0365e7dcf94f0cb0fc",
+                  "6a2b0cc78dcf9203554cd53d",
+                  "68d7db2929420f94ff04cb16",
+                  "68d7db2929420f94ff04cb15",
+                  "6989305de267989d260aeef0",
+                  "6989305de267989d260aeef2",
+                  "6989c980c4751ad87805e091",
+                  "698a751e1bb1f79e210fe920",
+                  "698a7eaa1bb1f79e210fe928",
+                  "8fb322f5202cf87746ec83b4",
+                  "d62cced77df83a0683e38fbc",
+                  "d4f59f06b5099086743e3b62",
+                  "b1c1a92264b2e9c5dc64506e",
+                  "bb4bb5d7e4f3ad7a1f19571e",
+                  "e727709694036c1f49f234e6",
+                  "c0e0bac29a8c50eff201f00e",
+                  "51ef8504f4a2e4d2029ff682",
+                  "1de63dfb52c91ccb9dd2c83a",
+                  "253279f21f3222961c5dfa8d",
+                  "c569fa63e462980552ecdc77",
+                  "a681a1c93529b1fb2118488a",
+                  "673dee1aa998f18003f111f5",
+                  "694f146cd178947eaf000001",
+                  "6925b6a0cb2dcc1e9f6081fd",
+                  "687fb046277685d469cbe15e",
+                  "687fb0bc8c147c752b1e8329",
+                  "6a186ccfbe0d66d438005e4e"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_scope_000",
+          "_id": "2181095f623f18611c859385",
+          "_parent": "6aa94e9bf3c63591113cd4dc",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5dfe6104585a0c3e995c7b82",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e",
+                  "615d8d878004cc50514c3233",
+                  "5b2389515acfc4771e1be0c0",
+                  "577d128124597739d65d0e56",
+                  "618b9643526131765025ab35",
+                  "618bab21526131765025ab3f",
+                  "5c86592b2e2216000e69e77c",
+                  "5a37ca54c4a282000d72296a",
+                  "5d0a29fed7ad1a002769ad08",
+                  "5c064c400db834001d23f468",
+                  "58d2664f86f7747fec5834f6",
+                  "57c69dd424597774c03b7bbc",
+                  "5b3b99265acfc4704b4a1afb",
+                  "5aa66a9be5b5b0214e506e89",
+                  "5aa66c72e5b5b00016327c93",
+                  "5c1cdd302e221602b3137250",
+                  "61714b2467085e45ef140b2c",
+                  "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "59db7eed86f77461f8380365",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "5dff77c759400025ea5150cf",
+                  "626bb8532c923541184624b4",
+                  "62811f461d5df4475f46a332",
+                  "63fc449f5bd61c6cf3784a88",
+                  "6477772ea8a38bb2050ed4db",
+                  "6478641c19d732620e045e17",
+                  "64785e7c19d732620e045e15",
+                  "65392f611406374f82152ba5",
+                  "653931da5db71d30ab1d6296",
+                  "655f13e0a246670fb0373245",
+                  "67641a851b2899700609901a",
+                  "6761759e7ee06333f108bf86",
+                  "695ffdaedd28a71ea5446f66",
+                  "6a2dcd5334084428376db563",
+                  "695d6236499f37e727446f60",
+                  "69e2677480c49d0049326afc",
+                  "68bd7b4d8ce7029b6409b4a2",
+                  "68bd7b4d8ce7029b6409b4a3",
+                  "69bdb41d2e4518999108ae92",
+                  "696395af1b7e04938307a124",
+                  "41e97223a2ad6374a096ae14",
+                  "7ca248803b89788492384ba2",
+                  "8d9e9ff3020f92eb5fc46680",
+                  "2e31bdb165e6f6f7ac19b0d8",
+                  "a5c171496c1870f205a3c972",
+                  "22345a1c542354f86796efda",
+                  "81fb194d053a4ccedce3782d",
+                  "0377e32842c4024a423c472e",
+                  "08940f5c853aa6acf4049bc2",
+                  "877f002b7dadc7ae31d1fda1",
+                  "c26f2af872656829feb27c08",
+                  "de53b0fd978f0eaad71c5528",
+                  "d3e07e32dc01693c226878dc",
+                  "befd7a2bbc07793f73133f2c",
+                  "b2d57758abe9bb9345c58e4a",
+                  "67ea8b32e0d7701fc6bfc5bf",
+                  "6655df2d0169bf45a18535c8",
+                  "794a8aea9ca78d01fc24a4f8",
+                  "4330375080cfa3b0acf681c0",
+                  "dc443bf6ab32570c69096e37",
+                  "66079d40016c0de3509a31e7",
+                  "ca9b71e00031160119ab1e58",
+                  "58c3819c7e3f0593dbb9851a",
+                  "f849f458cb4ad62c5d8b96e1",
+                  "86f1db244188717106a25806",
+                  "2e681ada9836f6e030080191",
+                  "e1543def58291668bac8e2c8",
+                  "7af1b735539670b26a3fe68b",
+                  "e3dcf75199f821636a95cb9b",
+                  "93efffa7844876067d81dca5",
+                  "55dccd6302404bfc237a814e",
+                  "1c852a7fd73bcde9d3ff968b",
+                  "71e6bc96b1a4cce0b4340b20",
+                  "986150a30f2c89c4555dead5",
+                  "35adebfd2014a2861056138b",
+                  "69d2e9660487eee221000002",
+                  "20c6ee849ac15cb4e31472c9",
+                  "013a6d4ff28f8e4331898d68",
+                  "797e1ab4422217d7cfe3d299",
+                  "12f2d58f76f9629580851b6f",
+                  "685760329044ae9bac9012c3",
+                  "6857624d565daea78886d0c2",
+                  "68599b6ad4d99d0c051b5964",
+                  "68599c5272359bd6b568656c",
+                  "68599c64f0a918bcd731198f",
+                  "685ac95d7bde7c5e19ba8d89",
+                  "685acb7cdabf1c595fd9b3b7",
+                  "685e519eacaed4c4e66980a7",
+                  "685e52a030452e0aa23b53b6",
+                  "685e52e7038ea03a82a7a2c1",
+                  "685e5326a119194a7cbaa34e",
+                  "685e5339826695a4b438120c",
+                  "68611c8d57834d1471676982",
+                  "68611d271b5181217dee6c31",
+                  "68611d79d2f8c2caf35ddd39",
+                  "686a950f332bd39442d996c7",
+                  "686a959fea53389283823a5e",
+                  "686a990e217f312ed3fe65bf",
+                  "686a99b24e95c2b6c57ef026",
+                  "6858fa27c104e3493576fd53",
+                  "692deffb1966298e696fcd8f",
+                  "695fca555fc8a1adfb51a4a3",
+                  "6859411da7ac91f2e4088de4",
+                  "685d43c384852051ef64e4e8",
+                  "68642e0200397ba2b9e4ea9a",
+                  "686b15f7cf5ae78dbd7b950b",
+                  "687e09aa7e70e1e285c59d4e",
+                  "6960bc9172fcb3eb9da96b7c",
+                  "68922e39bacf39d24ca68ddf",
+                  "6897de1182f827c8f199f355",
+                  "6966c6385619e69dde5149ad",
+                  "696c2c39eaf80d744d6f5b36",
+                  "7617e4c90ae38c485a828da4",
+                  "fba779feb5b6ecc68ae3cb90",
+                  "6b0bd0b92f10e4349da624ef",
+                  "6f9baada578cf27c77556ba5",
+                  "507ac32e9e171bc222ee23b4",
+                  "827bfd52c2e5c3864468d94b",
+                  "44e2382e3e3bfbe620c549f3",
+                  "d8f4e7343f56989420671b5c",
+                  "6504f5cb4ac4d310ee94371e",
+                  "95b745132cccd8b22aee3719",
+                  "fbbb730ffe3edefc39ee35a9",
+                  "49463c018ed72e8d5f4548ef",
+                  "6a668154ed607881737e22c4",
+                  "03f6c86c56945862820e1006",
+                  "2322ee962f6c77a1284abc1e",
+                  "5ae3d18efa17cbd51e898ced",
+                  "696958420d2309811a0fd1d5",
+                  "68a5ab09c44fa287ba0a97b5",
+                  "6a18508bae175e037a0be420",
+                  "6a3ceaf01ac10a22850e295a",
+                  "6a16dc0b82cfbdc3ab09f58a",
+                  "6a16dc17b7b9778bee072c65",
+                  "69f9ec80aae020b0db02f670",
+                  "68caacc7933990601c07f479",
+                  "688a0bf28cdd409ce60911ce",
+                  "6985beb1812f88c79b0eed39",
+                  "6985bed26be2752c150e6898"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    }
+  },
+  "6aa9674337368ae3894983f5": {
+
+    "itemTplToClone": "5c48a14f2e2216152006edd7",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "locales": {
+      "en": {
+        "name": "QBZ-95-1 Assaulter Upper (PLA Camo)",
+        "shortName": "QBZ-95-1 Tac",
+        "description": "The QBZ-95-1 \"Assaulter\" (突击者) upgrade kit is extremely rare and is worth many times the price of the base rifle. Using machined aluminum, this allows for the attachment of sights and light/lasers. This one is even more rare, with a cerakoted PLA camo pattern."
+      }
+    },
+    "fleaPriceRoubles": 250000,
+    "handbookPriceRoubles": 20000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": false,
+    "addtoHallOfFame": false,
+    "addtoItemBlacklist": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "addtoTraders": false,
+    "overrideProperties": {
+      "Weight": 0.375,
+      "HeatFactor": 1.01,
+      "CoolFactor": 0.99,
+      "Ergonomics": 11,
+      "Recoil": -1,
+      "ExaminedByDefault": false,
+      "CanRequireOnRagfair":false,
+      "CanSellOnRagfair": false,
+      "Prefab": {
+        "path": "upper_qbz95_tac_camo.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_tactical",
+          "_id": "edb7e33e729825d2e2d4cda5",
+          "_parent": "6aa9674337368ae3894983f5",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5c06595c0db834001a66af6c",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065",
+                  "68bedc0365e7dcf94f0cb0fc",
+                  "6a2b0cc78dcf9203554cd53d",
+                  "68d7db2929420f94ff04cb16",
+                  "68d7db2929420f94ff04cb15",
+                  "6989305de267989d260aeef0",
+                  "6989305de267989d260aeef2",
+                  "6989c980c4751ad87805e091",
+                  "698a751e1bb1f79e210fe920",
+                  "698a7eaa1bb1f79e210fe928",
+                  "8fb322f5202cf87746ec83b4",
+                  "d62cced77df83a0683e38fbc",
+                  "d4f59f06b5099086743e3b62",
+                  "b1c1a92264b2e9c5dc64506e",
+                  "bb4bb5d7e4f3ad7a1f19571e",
+                  "e727709694036c1f49f234e6",
+                  "c0e0bac29a8c50eff201f00e",
+                  "51ef8504f4a2e4d2029ff682",
+                  "1de63dfb52c91ccb9dd2c83a",
+                  "253279f21f3222961c5dfa8d",
+                  "c569fa63e462980552ecdc77",
+                  "a681a1c93529b1fb2118488a",
+                  "673dee1aa998f18003f111f5",
+                  "694f146cd178947eaf000001",
+                  "6925b6a0cb2dcc1e9f6081fd",
+                  "687fb046277685d469cbe15e",
+                  "687fb0bc8c147c752b1e8329",
+                  "6a186ccfbe0d66d438005e4e"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_scope_000",
+          "_id": "eeb7e4d110cf9f8367e22fe5",
+          "_parent": "6aa9674337368ae3894983f5",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5dfe6104585a0c3e995c7b82",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e",
+                  "615d8d878004cc50514c3233",
+                  "5b2389515acfc4771e1be0c0",
+                  "577d128124597739d65d0e56",
+                  "618b9643526131765025ab35",
+                  "618bab21526131765025ab3f",
+                  "5c86592b2e2216000e69e77c",
+                  "5a37ca54c4a282000d72296a",
+                  "5d0a29fed7ad1a002769ad08",
+                  "5c064c400db834001d23f468",
+                  "58d2664f86f7747fec5834f6",
+                  "57c69dd424597774c03b7bbc",
+                  "5b3b99265acfc4704b4a1afb",
+                  "5aa66a9be5b5b0214e506e89",
+                  "5aa66c72e5b5b00016327c93",
+                  "5c1cdd302e221602b3137250",
+                  "61714b2467085e45ef140b2c",
+                  "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "59db7eed86f77461f8380365",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "5dff77c759400025ea5150cf",
+                  "626bb8532c923541184624b4",
+                  "62811f461d5df4475f46a332",
+                  "63fc449f5bd61c6cf3784a88",
+                  "6477772ea8a38bb2050ed4db",
+                  "6478641c19d732620e045e17",
+                  "64785e7c19d732620e045e15",
+                  "65392f611406374f82152ba5",
+                  "653931da5db71d30ab1d6296",
+                  "655f13e0a246670fb0373245",
+                  "67641a851b2899700609901a",
+                  "6761759e7ee06333f108bf86",
+                  "695ffdaedd28a71ea5446f66",
+                  "6a2dcd5334084428376db563",
+                  "695d6236499f37e727446f60",
+                  "69e2677480c49d0049326afc",
+                  "68bd7b4d8ce7029b6409b4a2",
+                  "68bd7b4d8ce7029b6409b4a3",
+                  "69bdb41d2e4518999108ae92",
+                  "696395af1b7e04938307a124",
+                  "41e97223a2ad6374a096ae14",
+                  "7ca248803b89788492384ba2",
+                  "8d9e9ff3020f92eb5fc46680",
+                  "2e31bdb165e6f6f7ac19b0d8",
+                  "a5c171496c1870f205a3c972",
+                  "22345a1c542354f86796efda",
+                  "81fb194d053a4ccedce3782d",
+                  "0377e32842c4024a423c472e",
+                  "08940f5c853aa6acf4049bc2",
+                  "877f002b7dadc7ae31d1fda1",
+                  "c26f2af872656829feb27c08",
+                  "de53b0fd978f0eaad71c5528",
+                  "d3e07e32dc01693c226878dc",
+                  "befd7a2bbc07793f73133f2c",
+                  "b2d57758abe9bb9345c58e4a",
+                  "67ea8b32e0d7701fc6bfc5bf",
+                  "6655df2d0169bf45a18535c8",
+                  "794a8aea9ca78d01fc24a4f8",
+                  "4330375080cfa3b0acf681c0",
+                  "dc443bf6ab32570c69096e37",
+                  "66079d40016c0de3509a31e7",
+                  "ca9b71e00031160119ab1e58",
+                  "58c3819c7e3f0593dbb9851a",
+                  "f849f458cb4ad62c5d8b96e1",
+                  "86f1db244188717106a25806",
+                  "2e681ada9836f6e030080191",
+                  "e1543def58291668bac8e2c8",
+                  "7af1b735539670b26a3fe68b",
+                  "e3dcf75199f821636a95cb9b",
+                  "93efffa7844876067d81dca5",
+                  "55dccd6302404bfc237a814e",
+                  "1c852a7fd73bcde9d3ff968b",
+                  "71e6bc96b1a4cce0b4340b20",
+                  "986150a30f2c89c4555dead5",
+                  "35adebfd2014a2861056138b",
+                  "69d2e9660487eee221000002",
+                  "20c6ee849ac15cb4e31472c9",
+                  "013a6d4ff28f8e4331898d68",
+                  "797e1ab4422217d7cfe3d299",
+                  "12f2d58f76f9629580851b6f",
+                  "685760329044ae9bac9012c3",
+                  "6857624d565daea78886d0c2",
+                  "68599b6ad4d99d0c051b5964",
+                  "68599c5272359bd6b568656c",
+                  "68599c64f0a918bcd731198f",
+                  "685ac95d7bde7c5e19ba8d89",
+                  "685acb7cdabf1c595fd9b3b7",
+                  "685e519eacaed4c4e66980a7",
+                  "685e52a030452e0aa23b53b6",
+                  "685e52e7038ea03a82a7a2c1",
+                  "685e5326a119194a7cbaa34e",
+                  "685e5339826695a4b438120c",
+                  "68611c8d57834d1471676982",
+                  "68611d271b5181217dee6c31",
+                  "68611d79d2f8c2caf35ddd39",
+                  "686a950f332bd39442d996c7",
+                  "686a959fea53389283823a5e",
+                  "686a990e217f312ed3fe65bf",
+                  "686a99b24e95c2b6c57ef026",
+                  "6858fa27c104e3493576fd53",
+                  "692deffb1966298e696fcd8f",
+                  "695fca555fc8a1adfb51a4a3",
+                  "6859411da7ac91f2e4088de4",
+                  "685d43c384852051ef64e4e8",
+                  "68642e0200397ba2b9e4ea9a",
+                  "686b15f7cf5ae78dbd7b950b",
+                  "687e09aa7e70e1e285c59d4e",
+                  "6960bc9172fcb3eb9da96b7c",
+                  "68922e39bacf39d24ca68ddf",
+                  "6897de1182f827c8f199f355",
+                  "6966c6385619e69dde5149ad",
+                  "696c2c39eaf80d744d6f5b36",
+                  "7617e4c90ae38c485a828da4",
+                  "fba779feb5b6ecc68ae3cb90",
+                  "6b0bd0b92f10e4349da624ef",
+                  "6f9baada578cf27c77556ba5",
+                  "507ac32e9e171bc222ee23b4",
+                  "827bfd52c2e5c3864468d94b",
+                  "44e2382e3e3bfbe620c549f3",
+                  "d8f4e7343f56989420671b5c",
+                  "6504f5cb4ac4d310ee94371e",
+                  "95b745132cccd8b22aee3719",
+                  "fbbb730ffe3edefc39ee35a9",
+                  "49463c018ed72e8d5f4548ef",
+                  "6a668154ed607881737e22c4",
+                  "03f6c86c56945862820e1006",
+                  "2322ee962f6c77a1284abc1e",
+                  "5ae3d18efa17cbd51e898ced",
+                  "696958420d2309811a0fd1d5",
+                  "68a5ab09c44fa287ba0a97b5",
+                  "6a18508bae175e037a0be420",
+                  "6a3ceaf01ac10a22850e295a",
+                  "6a16dc0b82cfbdc3ab09f58a",
+                  "6a16dc17b7b9778bee072c65",
+                  "69f9ec80aae020b0db02f670",
+                  "68caacc7933990601c07f479",
+                  "688a0bf28cdd409ce60911ce",
+                  "6985beb1812f88c79b0eed39",
+                  "6985bed26be2752c150e6898"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    }
+  },
+  "6aa94e9b393576b7d25bccca": {
+
+    "itemTplToClone": "5c48a14f2e2216152006edd7",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "locales": {
+      "en": {
+        "name": "T97.ca Type 97 Flat Top Upper Receiver",
+        "shortName": "T97.ca FTU",
+        "description": "     The new T97NSR FTU™ (Flat Top Upper) is a CNC machined, 6061 alloy, 1913 Picatinny optics rail, firearms accessories mounting platform and protective hand guard. It was produced by the product developers at M14.ca, the OEM of the M14.ca Blackfeather \"RS\" rifle stock and the M14.ca CASM™ scope mount series, under the new web site: www.T97.ca. The T97.ca FTU™ is the first in a series of planned upgrades for the Norinco T97NSR bullpup rifle. The FTU™ replaces the T97NSR's factory iron sights, original plastic hand guard as well as adding the option to mount sights and tactical accessories, changing the operational dynamics of the original rifle. "
+      }
+    },
+    "fleaPriceRoubles": 35750,
+    "handbookPriceRoubles": 9350,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": false,
+    "addtoHallOfFame": false,
+    "addtoItemBlacklist": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "addtoTraders": false,
+    "overrideProperties": {
+      "Weight": 0.335,
+      "HeatFactor": 0.984,
+      "CoolFactor": 0.99,
+      "ConflictingItems": [
+        "6aa94e91444ac822d132c938"
+      ],
+      "Ergonomics": 11,
+      "Prefab": {
+        "path": "upper_t97_ca.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_mount_000",
+          "_id": "271e98d9532f5979fe914485",
+          "_parent": "6aa94e9b393576b7d25bccca",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb",
+                  "69075ee9f4b1abd5ba0a1bb2",
+                  "67f1a2000000000000000103",
+                  "689c8b454b91399db3085f2a"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_front",
+          "_id": "261e9746f166d32a839ea6c5",
+          "_parent": "6aa94e9b393576b7d25bccca",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5ba26b01d4351e0085325a51",
+                  "5dfa3d950dee1b22f862eae0",
+                  "5c17804b2e2216152006c02f",
+                  "5fb6567747ce63734e3fa1dc",
+                  "5bc09a30d4351e00367fb7c8",
+                  "5c18b90d2e2216152142466b",
+                  "5fc0fa362770a0045c59c677",
+                  "5894a73486f77426d259076c",
+                  "55d4af3a4bdc2d972f8b456f",
+                  "68b4b24e27658b8b0d024399",
+                  "68b4b24e27658b8b0d02439b",
+                  "68c6e7ae55918f7c4f044d55",
+                  "68c72885cac1ff3d420fceb0",
+                  "68c72885cac1ff3d420fceaf",
+                  "68c6e7ae55918f7c4f044d56",
+                  "68c734bdcac1ff3d420fceb3",
+                  "68c734bdcac1ff3d420fceb6",
+                  "6953fb73a080184e990e0532",
+                  "6953fce4a080184e990e0536",
+                  "695d4ad6cfc7cb0dce06be13",
+                  "48dd8b7edd39c0ab164435ad",
+                  "68a20792edff1e1b1eefb026",
+                  "68aa3b4f0602ac717cea85c5",
+                  "5485b2419854d122298ef0a1",
+                  "aaeeaf7b054119901161401f",
+                  "66ba2a6be18ed84221edd72d",
+                  "66ba2a7583204e25695233c0",
+                  "687fb51f2756d21d3145a094",
+                  "6968029b5966cfdf3708c748",
+                  "696808315966cfdf3708c74c",
+                  "664a600b58753b43b7fea3af",
+                  "6a3ceadb6280cb85bc03f99a",
+                  "6a15785370efdef7be017253"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_rear",
+          "_id": "251e95b38f9e4cdb08ac0905",
+          "_parent": "6aa94e9b393576b7d25bccca",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5bb20e49d4351e3bac1212de",
+                  "5ba26b17d4351e00367f9bdd",
+                  "5dfa3d7ac41b2312ea33362a",
+                  "5c1780312e221602b66cc189",
+                  "5fb6564947ce63734e3fa1da",
+                  "5bc09a18d4351e003562b68e",
+                  "5c18b9192e2216398b5a8104",
+                  "5fc0fa957283c4046c58147e",
+                  "5894a81786f77427140b8347",
+                  "55d5f46a4bdc2d1b198b4567",
+                  "5ae30bad5acfc400185c2dc4",
+                  "68b4b24e27658b8b0d02439a",
+                  "68b4b24e27658b8b0d0243a1",
+                  "68c6e7ae55918f7c4f044d53",
+                  "68c6e7ae55918f7c4f044d54",
+                  "68c72885cac1ff3d420fceb1",
+                  "68c72885cac1ff3d420fceb2",
+                  "68c734bdcac1ff3d420fceb4",
+                  "68c734bdcac1ff3d420fceb5",
+                  "6953fb73a080184e990e0530",
+                  "6953fce4a080184e990e0534",
+                  "6952ddf2065baefc31060c6d",
+                  "695d3348cfc7cb0dce06be03",
+                  "275def25d1abe9b101511271",
+                  "e8d92f66b5cf4553048c5f5b",
+                  "5eb8a73e2c5eae1c5118afcb",
+                  "a87b4ff0e4df1af49c4d48b7",
+                  "68a364f20e549c7ff68cafdb",
+                  "68aa3a5f787df691308656c6",
+                  "66ba297b859e57cf91e38a5d",
+                  "66ba29d44744d98a4df0073b",
+                  "687fb5224b7bf5a5702898ee",
+                  "664a5ff61c4610dc01e84917",
+                  "6683957f2e516f6146af483d",
+                  "68a63d3c8e977b40b2032286",
+                  "68caad70269e10396503ad00",
+                  "6a3ceacd8ce058e3a2059b28",
+                  "6a1578658d059ca69c0a7853"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical",
+          "_id": "241e94202dd5c68c8db96b45",
+          "_parent": "6aa94e9b393576b7d25bccca",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065",
+                  "68d7db2929420f94ff04cb16",
+                  "68d7db2929420f94ff04cb15",
+                  "6989305de267989d260aeef0",
+                  "6989305de267989d260aeef2",
+                  "6989c980c4751ad87805e091",
+                  "698a751e1bb1f79e210fe920",
+                  "698a7eaa1bb1f79e210fe928",
+                  "8fb322f5202cf87746ec83b4",
+                  "d62cced77df83a0683e38fbc",
+                  "d4f59f06b5099086743e3b62",
+                  "b1c1a92264b2e9c5dc64506e",
+                  "bb4bb5d7e4f3ad7a1f19571e",
+                  "e727709694036c1f49f234e6",
+                  "0257250579c25ee07a7fd721",
+                  "e99dbf09963efebab19a118b",
+                  "0ce051265bcb619558b2ef9a",
+                  "77f31a56076dc8e398797a7c",
+                  "c0e0bac29a8c50eff201f00e",
+                  "51ef8504f4a2e4d2029ff682",
+                  "1de63dfb52c91ccb9dd2c83a",
+                  "253279f21f3222961c5dfa8d",
+                  "c569fa63e462980552ecdc77",
+                  "a681a1c93529b1fb2118488a",
+                  "673dee1aa998f18003f111f5",
+                  "694f146cd178947eaf000001",
+                  "6925b6a0cb2dcc1e9f6081fd",
+                  "687fb046277685d469cbe15e",
+                  "687fb0bc8c147c752b1e8329",
+                  "6a186ccfbe0d66d438005e4e",
+                  "68bedc0365e7dcf94f0cb0fc"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "2b1e9f25cc0d403d12c6cd85",
+          "_parent": "6aa94e9b393576b7d25bccca",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb",
+                  "69075ee9f4b1abd5ba0a1bb2",
+                  "67f1a2000000000000000103",
+                  "6a66719ab6082a0c757e22ba",
+                  "689c8b454b91399db3085f2a"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    }
+  },
+  "6aa94e9bef06677f0b5f53b1": {
+
+    "itemTplToClone": "5c48a14f2e2216152006edd7",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "locales": {
+      "en": {
+        "name": "Norinco Type 97 Gen 3 Flat Upper Receiver",
+        "shortName": "T97 G3",
+        "description": "The Gen 3 upper introduced a flat picatinny rail for optics and accessories, as well as 3 o'clock and 9 o'clock M-LOK slots for additional accessories."
+      }
+    },
+    "fleaPriceRoubles": 22378,
+    "handbookPriceRoubles": 8350,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": false,
+    "addtoHallOfFame": false,
+    "addtoItemBlacklist": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "addtoTraders": false,
+    "overrideProperties": {
+      "Weight": 0.345,
+      "ConflictingItems": [
+        "6aa94e91444ac822d132c938"
+      ],
+      "HeatFactor": 0.99,
+      "CoolFactor": 0.99,
+      "Ergonomics": 9,
+      "Prefab": {
+        "path": "upper_t97_gen3.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_mount_001",
+          "_id": "408988bb4fd12ff7f1c5da85",
+          "_parent": "6aa94e9bef06677f0b5f53b1",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "669a6a4a525be1d2d004b8eb",
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "69075ee9f4b1abd5ba0a1bb2",
+                  "67f1a2000000000000000103",
+                  "6a66719ab6082a0c757e22ba",
+                  "689c8b454b91399db3085f2a"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_002",
+          "_id": "3f898728ee08a9a876d33cc5",
+          "_parent": "6aa94e9bef06677f0b5f53b1",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb",
+                  "69075ee9f4b1abd5ba0a1bb2",
+                  "67f1a2000000000000000103",
+                  "6a66719ab6082a0c757e22ba",
+                  "689c8b454b91399db3085f2a"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_scope",
+          "_id": "42898be18c402359fbe09f05",
+          "_parent": "6aa94e9bef06677f0b5f53b1",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5dfe6104585a0c3e995c7b82",
+                  "544a3d0a4bdc2d1b388b4567",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e",
+                  "615d8d878004cc50514c3233",
+                  "5b2389515acfc4771e1be0c0",
+                  "577d128124597739d65d0e56",
+                  "618b9643526131765025ab35",
+                  "618bab21526131765025ab3f",
+                  "5c86592b2e2216000e69e77c",
+                  "5a37ca54c4a282000d72296a",
+                  "5d0a29fed7ad1a002769ad08",
+                  "5c064c400db834001d23f468",
+                  "58d2664f86f7747fec5834f6",
+                  "57c69dd424597774c03b7bbc",
+                  "5b3b99265acfc4704b4a1afb",
+                  "5aa66a9be5b5b0214e506e89",
+                  "5aa66c72e5b5b00016327c93",
+                  "5c1cdd302e221602b3137250",
+                  "61714b2467085e45ef140b2c",
+                  "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "59db7eed86f77461f8380365",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "5dff77c759400025ea5150cf",
+                  "626bb8532c923541184624b4",
+                  "62811f461d5df4475f46a332",
+                  "63fc449f5bd61c6cf3784a88",
+                  "6477772ea8a38bb2050ed4db",
+                  "6478641c19d732620e045e17",
+                  "64785e7c19d732620e045e15",
+                  "65392f611406374f82152ba5",
+                  "653931da5db71d30ab1d6296",
+                  "655f13e0a246670fb0373245",
+                  "6567e751a715f85433025998",
+                  "6761759e7ee06333f108bf86",
+                  "67641a851b2899700609901a",
+                  "695ffdaedd28a71ea5446f66",
+                  "6a2dcd5334084428376db563",
+                  "695d6236499f37e727446f60",
+                  "69e2677480c49d0049326afc",
+                  "68bd7b4d8ce7029b6409b4a2",
+                  "68bd7b4d8ce7029b6409b4a3",
+                  "69bdb41d2e4518999108ae92",
+                  "696395af1b7e04938307a124",
+                  "41e97223a2ad6374a096ae14",
+                  "7ca248803b89788492384ba2",
+                  "8d9e9ff3020f92eb5fc46680",
+                  "2e31bdb165e6f6f7ac19b0d8",
+                  "a5c171496c1870f205a3c972",
+                  "22345a1c542354f86796efda",
+                  "81fb194d053a4ccedce3782d",
+                  "0377e32842c4024a423c472e",
+                  "08940f5c853aa6acf4049bc2",
+                  "877f002b7dadc7ae31d1fda1",
+                  "c26f2af872656829feb27c08",
+                  "de53b0fd978f0eaad71c5528",
+                  "d3e07e32dc01693c226878dc",
+                  "befd7a2bbc07793f73133f2c",
+                  "b2d57758abe9bb9345c58e4a",
+                  "67ea8b32e0d7701fc6bfc5bf",
+                  "6655df2d0169bf45a18535c8",
+                  "794a8aea9ca78d01fc24a4f8",
+                  "4330375080cfa3b0acf681c0",
+                  "dc443bf6ab32570c69096e37",
+                  "66079d40016c0de3509a31e7",
+                  "ca9b71e00031160119ab1e58",
+                  "58c3819c7e3f0593dbb9851a",
+                  "f849f458cb4ad62c5d8b96e1",
+                  "86f1db244188717106a25806",
+                  "2e681ada9836f6e030080191",
+                  "e1543def58291668bac8e2c8",
+                  "7af1b735539670b26a3fe68b",
+                  "e3dcf75199f821636a95cb9b",
+                  "93efffa7844876067d81dca5",
+                  "55dccd6302404bfc237a814e",
+                  "1c852a7fd73bcde9d3ff968b",
+                  "71e6bc96b1a4cce0b4340b20",
+                  "986150a30f2c89c4555dead5",
+                  "35adebfd2014a2861056138b",
+                  "69d2e9660487eee221000002",
+                  "20c6ee849ac15cb4e31472c9",
+                  "013a6d4ff28f8e4331898d68",
+                  "797e1ab4422217d7cfe3d299",
+                  "12f2d58f76f9629580851b6f",
+                  "685760329044ae9bac9012c3",
+                  "6857624d565daea78886d0c2",
+                  "68599b6ad4d99d0c051b5964",
+                  "68599c5272359bd6b568656c",
+                  "68599c64f0a918bcd731198f",
+                  "685ac95d7bde7c5e19ba8d89",
+                  "685acb7cdabf1c595fd9b3b7",
+                  "685e519eacaed4c4e66980a7",
+                  "685e52a030452e0aa23b53b6",
+                  "685e52e7038ea03a82a7a2c1",
+                  "685e5326a119194a7cbaa34e",
+                  "685e5339826695a4b438120c",
+                  "68611c8d57834d1471676982",
+                  "68611d271b5181217dee6c31",
+                  "68611d79d2f8c2caf35ddd39",
+                  "686a950f332bd39442d996c7",
+                  "686a959fea53389283823a5e",
+                  "686a990e217f312ed3fe65bf",
+                  "686a99b24e95c2b6c57ef026",
+                  "6858fa27c104e3493576fd53",
+                  "692deffb1966298e696fcd8f",
+                  "695fca555fc8a1adfb51a4a3",
+                  "6859411da7ac91f2e4088de4",
+                  "685d43c384852051ef64e4e8",
+                  "68642e0200397ba2b9e4ea9a",
+                  "686b15f7cf5ae78dbd7b950b",
+                  "687e09aa7e70e1e285c59d4e",
+                  "6960bc9172fcb3eb9da96b7c",
+                  "68922e39bacf39d24ca68ddf",
+                  "6897de1182f827c8f199f355",
+                  "6966c6385619e69dde5149ad",
+                  "696c2c39eaf80d744d6f5b36",
+                  "ce11abb453614f2f2c056901",
+                  "1de8414cc73fda479ce0631e",
+                  "7617e4c90ae38c485a828da4",
+                  "fba779feb5b6ecc68ae3cb90",
+                  "6b0bd0b92f10e4349da624ef",
+                  "6f9baada578cf27c77556ba5",
+                  "507ac32e9e171bc222ee23b4",
+                  "827bfd52c2e5c3864468d94b",
+                  "44e2382e3e3bfbe620c549f3",
+                  "d8f4e7343f56989420671b5c",
+                  "6504f5cb4ac4d310ee94371e",
+                  "95b745132cccd8b22aee3719",
+                  "fbbb730ffe3edefc39ee35a9",
+                  "49463c018ed72e8d5f4548ef",
+                  "6a668154ed607881737e22c4",
+                  "03f6c86c56945862820e1006",
+                  "2322ee962f6c77a1284abc1e",
+                  "5ae3d18efa17cbd51e898ced",
+                  "696958420d2309811a0fd1d5",
+                  "68a5ab09c44fa287ba0a97b5",
+                  "6a18508bae175e037a0be420",
+                  "6a3ceaf01ac10a22850e295a",
+                  "6a16dc0b82cfbdc3ab09f58a",
+                  "6a16dc17b7b9778bee072c65",
+                  "69f9ec80aae020b0db02f670",
+                  "68caacc7933990601c07f479",
+                  "688a0bf28cdd409ce60911ce",
+                  "6985beb1812f88c79b0eed39",
+                  "6985bed26be2752c150e6898"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_front",
+          "_id": "41898a4e2a779d0a80ee0145",
+          "_parent": "6aa94e9bef06677f0b5f53b1",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5ba26b01d4351e0085325a51",
+                  "5dfa3d950dee1b22f862eae0",
+                  "5c17804b2e2216152006c02f",
+                  "5fb6567747ce63734e3fa1dc",
+                  "5bc09a30d4351e00367fb7c8",
+                  "5c18b90d2e2216152142466b",
+                  "5fc0fa362770a0045c59c677",
+                  "5894a73486f77426d259076c",
+                  "55d4af3a4bdc2d972f8b456f",
+                  "68b4b24e27658b8b0d024399",
+                  "68b4b24e27658b8b0d02439b",
+                  "68c6e7ae55918f7c4f044d55",
+                  "68c72885cac1ff3d420fceb0",
+                  "68c72885cac1ff3d420fceaf",
+                  "68c6e7ae55918f7c4f044d56",
+                  "68c734bdcac1ff3d420fceb3",
+                  "68c734bdcac1ff3d420fceb6",
+                  "6953fb73a080184e990e0532",
+                  "6953fce4a080184e990e0536",
+                  "695d4ad6cfc7cb0dce06be13",
+                  "48dd8b7edd39c0ab164435ad",
+                  "68a20792edff1e1b1eefb026",
+                  "68aa3b4f0602ac717cea85c5",
+                  "5485b2419854d122298ef0a1",
+                  "aaeeaf7b054119901161401f",
+                  "66ba2a6be18ed84221edd72d",
+                  "66ba2a7583204e25695233c0",
+                  "687fb51f2756d21d3145a094",
+                  "6968029b5966cfdf3708c748",
+                  "696808315966cfdf3708c74c",
+                  "664a600b58753b43b7fea3af",
+                  "6a3ceadb6280cb85bc03f99a",
+                  "6a15785370efdef7be017253"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_rear",
+          "_id": "44898f07c8af16bb05fb6385",
+          "_parent": "6aa94e9bef06677f0b5f53b1",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5bb20e49d4351e3bac1212de",
+                  "5ba26b17d4351e00367f9bdd",
+                  "5dfa3d7ac41b2312ea33362a",
+                  "5c1780312e221602b66cc189",
+                  "5fb6564947ce63734e3fa1da",
+                  "5bc09a18d4351e003562b68e",
+                  "5c18b9192e2216398b5a8104",
+                  "5fc0fa957283c4046c58147e",
+                  "5894a81786f77427140b8347",
+                  "55d5f46a4bdc2d1b198b4567",
+                  "5ae30bad5acfc400185c2dc4",
+                  "68b4b24e27658b8b0d02439a",
+                  "68b4b24e27658b8b0d0243a1",
+                  "68c6e7ae55918f7c4f044d53",
+                  "68c6e7ae55918f7c4f044d54",
+                  "68c72885cac1ff3d420fceb1",
+                  "68c72885cac1ff3d420fceb2",
+                  "68c734bdcac1ff3d420fceb4",
+                  "68c734bdcac1ff3d420fceb5",
+                  "6953fb73a080184e990e0530",
+                  "6953fce4a080184e990e0534",
+                  "6952ddf2065baefc31060c6d",
+                  "695d3348cfc7cb0dce06be03",
+                  "275def25d1abe9b101511271",
+                  "e8d92f66b5cf4553048c5f5b",
+                  "5eb8a73e2c5eae1c5118afcb",
+                  "a87b4ff0e4df1af49c4d48b7",
+                  "68a364f20e549c7ff68cafdb",
+                  "68aa3a5f787df691308656c6",
+                  "66ba297b859e57cf91e38a5d",
+                  "66ba29d44744d98a4df0073b",
+                  "687fb5224b7bf5a5702898ee",
+                  "664a5ff61c4610dc01e84917",
+                  "6683957f2e516f6146af483d",
+                  "68a63d3c8e977b40b2032286",
+                  "68caad70269e10396503ad00",
+                  "6a3ceacd8ce058e3a2059b28",
+                  "6a1578658d059ca69c0a7853"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical",
+          "_id": "43898d7466e6906c8b08c5c5",
+          "_parent": "6aa94e9bef06677f0b5f53b1",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065",
+                  "68d7db2929420f94ff04cb16",
+                  "68d7db2929420f94ff04cb15",
+                  "6989305de267989d260aeef0",
+                  "6989305de267989d260aeef2",
+                  "6989c980c4751ad87805e091",
+                  "698a751e1bb1f79e210fe920",
+                  "698a7eaa1bb1f79e210fe928",
+                  "8fb322f5202cf87746ec83b4",
+                  "d62cced77df83a0683e38fbc",
+                  "d4f59f06b5099086743e3b62",
+                  "b1c1a92264b2e9c5dc64506e",
+                  "bb4bb5d7e4f3ad7a1f19571e",
+                  "e727709694036c1f49f234e6",
+                  "0257250579c25ee07a7fd721",
+                  "e99dbf09963efebab19a118b",
+                  "0ce051265bcb619558b2ef9a",
+                  "77f31a56076dc8e398797a7c",
+                  "c0e0bac29a8c50eff201f00e",
+                  "51ef8504f4a2e4d2029ff682",
+                  "1de63dfb52c91ccb9dd2c83a",
+                  "253279f21f3222961c5dfa8d",
+                  "c569fa63e462980552ecdc77",
+                  "a681a1c93529b1fb2118488a",
+                  "673dee1aa998f18003f111f5",
+                  "694f146cd178947eaf000001",
+                  "6925b6a0cb2dcc1e9f6081fd",
+                  "687fb046277685d469cbe15e",
+                  "687fb0bc8c147c752b1e8329",
+                  "6a186ccfbe0d66d438005e4e",
+                  "68bedc0365e7dcf94f0cb0fc"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    }
+  },
+  "6aa94eb475e7df6d6274ab02": {
+
+    "itemTplToClone": "5c9a07572e221644f31c4b32",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "locales": {
+      "en": {
+        "name": "Norinco QBZ-95-1 Handguard/Grip",
+        "shortName": "QBZ-95-1",
+        "description": "The QBZ-95-1, also called the QBZ-95 \"Gai\" (\"改\"; literally: 'modified'), addresses several reliability and ease-of-use issues, and has improved ergonomics. The \"1\" variant has an altered butt stock, trigger guard, and a repositioned thumb fire selector switch above the pistol grip."
+      }
+    },
+    "fleaPriceRoubles": 25000,
+    "handbookPriceRoubles": 5500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": false,
+    "addtoHallOfFame": false,
+    "addtoItemBlacklist": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "addtoTraders": false,
+    "overrideProperties": {
+      "Weight": 0.3,
+      "Ergonomics": 7,
+      "Prefab": {
+        "path": "lower_qbz95.bundle",
+        "rcid": ""
+      }
+    }
+  },
+  "6aa94eb4b619885bf1fdec6e": {
+
+    "itemTplToClone": "5c9a07572e221644f31c4b32",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "locales": {
+      "en": {
+        "name": "Far East Tactical QBZ-95-1 Longbow Handguard/Grip",
+        "shortName": "QBZ-95-1 Tac",
+        "description": "Launched in 2007, the Real Sword Type-97 was produced to bring in a new and exotic design to the airsoft community. The RS Type-97 is based off the QBZ-97, an export version of the PLA QBZ-95. In the decade plus since the initial launch, the QBZ platform has undergone several changes – including rail upgrades, the Canadian FTU project, as well as the QBZ-95-1 iteration in the Chinese military. Meanwhile, aftermarket support for the Type-97 remains non-existent. To fill in this gap in the airsoft community, Far East Tactical has teamed up with Serika Arms to create PROJECT: LONG BOW."
+      }
+    },
+    "fleaPriceRoubles": 156000,
+    "handbookPriceRoubles": 19200,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": false,
+    "addtoHallOfFame": false,
+    "addtoItemBlacklist": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "addtoTraders": false,
+    "overrideProperties": {
+      "Weight": 0.55,
+      "CoolFactor": 1.03,
+      "HeatFactor": 0.986,
+      "Ergonomics": 10,
+      "ExaminedByDefault": true,
+      "CanRequireOnRagfair":true,
+      "CanSellOnRagfair": false,
+      "Width": 3,
+      "ExtraSizeLeft": 1,
+      "Prefab": {
+        "path": "lower_qbz95_tac.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_foregrip",
+          "_id": "49b7029a9c9930caddcdd745",
+          "_parent": "6aa94eb4b619885bf1fdec6e",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "57cffb66245977632f391a99",
+                  "57cffcd624597763133760c5",
+                  "57cffcdd24597763f5110006",
+                  "57cffce524597763b31685d8",
+                  "5b7be4895acfc400170e2dd5",
+                  "651a8bf3a8520e48047bf708",
+                  "651a8e529829226ceb67c319",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a",
+                  "68c48eb7c91390fb930e8d94",
+                  "68c48eb7c91390fb930e8d95",
+                  "69127fcffb534981300b1d7d",
+                  "69127fcffb534981300b1d7f",
+                  "69127fcffb534981300b1d81",
+                  "6913ab40fb5aa3b32501fa63",
+                  "6913ab40fb5aa3b32501fa65",
+                  "6913ab40fb5aa3b32501fa67",
+                  "69075ee9f4b1abd5ba0a1bb3",
+                  "6893d1e2483f058199f2e199",
+                  "6893d31fca58c9d45599e903",
+                  "6893d333cb3f8611941742d3",
+                  "6893d360fa62405a6249629b",
+                  "6893d3810e4a42c4c08b3eb4",
+                  "6893d391a029e7f8210fa511",
+                  "bd4abaa7ccaeafc1272e4332",
+                  "efbe0387de423cdd96f5a190",
+                  "18461a852694f529a8324cb4",
+                  "bfc0eea60d043a3314535292",
+                  "7ee5ac6f98cee552a8d13fbe",
+                  "6aeadd9b31bcbe00e38efc85",
+                  "9df9bd6495854fb4f6b61c5f",
+                  "429d8624f40c1f9a629be627",
+                  "7a023d306720b131a8822963",
+                  "5a336645fecfee82efbcd5f1",
+                  "6e71eb6c5a62cdc0ca07a1d8",
+                  "5ca97a41e6de0c431b977aad",
+                  "696fc803cf7469bf38051731",
+                  "696fe281cf7469bf3805173c"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "4ab7042d3ad0aa7b58c07505",
+          "_parent": "6aa94eb4b619885bf1fdec6e",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "669a6a4a525be1d2d004b8eb",
+                  "69075ee9f4b1abd5ba0a1bb2",
+                  "67f1a2000000000000000103",
+                  "689c8b454b91399db3085f2a"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "47b6ff74d908242cd3b312c5",
+          "_parent": "6aa94eb4b619885bf1fdec6e",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "669a6a4a525be1d2d004b8eb",
+                  "69075ee9f4b1abd5ba0a1bb2",
+                  "67f1a2000000000000000103",
+                  "689c8b454b91399db3085f2a"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_001",
+          "_id": "48b70107773f9ddd4ea5b085",
+          "_parent": "6aa94eb4b619885bf1fdec6e",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065",
+                  "d62cced77df83a0683e38fbc",
+                  "d4f59f06b5099086743e3b62",
+                  "8fb322f5202cf87746ec83b4",
+                  "bb4bb5d7e4f3ad7a1f19571e",
+                  "e727709694036c1f49f234e6",
+                  "0257250579c25ee07a7fd721",
+                  "e99dbf09963efebab19a118b",
+                  "0ce051265bcb619558b2ef9a",
+                  "77f31a56076dc8e398797a7c",
+                  "c0e0bac29a8c50eff201f00e",
+                  "51ef8504f4a2e4d2029ff682",
+                  "1de63dfb52c91ccb9dd2c83a",
+                  "253279f21f3222961c5dfa8d",
+                  "c569fa63e462980552ecdc77",
+                  "a681a1c93529b1fb2118488a",
+                  "673dee1aa998f18003f111f5",
+                  "68d7db2929420f94ff04cb16",
+                  "68d7db2929420f94ff04cb15",
+                  "6989305de267989d260aeef0",
+                  "6989305de267989d260aeef2",
+                  "6989c980c4751ad87805e091",
+                  "698a751e1bb1f79e210fe920",
+                  "698a7eaa1bb1f79e210fe928",
+                  "b1c1a92264b2e9c5dc64506e",
+                  "694f146cd178947eaf000001",
+                  "6925b6a0cb2dcc1e9f6081fd",
+                  "687fb046277685d469cbe15e",
+                  "687fb0bc8c147c752b1e8329",
+                  "6a186ccfbe0d66d438005e4e",
+                  "68bedc0365e7dcf94f0cb0fc"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    }
+  },
+  "6aa973cef02ebc121ed8f639": {
+
+    "itemTplToClone": "5c9a07572e221644f31c4b32",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "locales": {
+      "en": {
+        "name": "Far East Tactical QBZ-95-1 Longbow Handguard/Grip (PLA Camo)",
+        "shortName": "QBZ-95-1 Tac",
+        "description": "Launched in 2007, the Real Sword Type-97 was produced to bring in a new and exotic design to the airsoft community. The RS Type-97 is based off the QBZ-97, an export version of the PLA QBZ-95. In the decade plus since the initial launch, the QBZ platform has undergone several changes – including rail upgrades, the Canadian FTU project, as well as the QBZ-95-1 iteration in the Chinese military. Meanwhile, aftermarket support for the Type-97 remains non-existent. To fill in this gap in the airsoft community, Far East Tactical has teamed up with Serika Arms to create PROJECT: LONG BOW. This one is camo"
+      }
+    },
+    "fleaPriceRoubles": 556000,
+    "handbookPriceRoubles": 39200,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": false,
+    "addtoHallOfFame": false,
+    "addtoItemBlacklist": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "addtoTraders": false,
+    "overrideProperties": {
+      "Weight": 0.55,
+      "CoolFactor": 1.03,
+      "HeatFactor": 0.986,
+      "Ergonomics": 10,
+      "ExaminedByDefault": false,
+      "CanRequireOnRagfair":false,
+      "CanSellOnRagfair": false,
+      "Width": 3,
+      "ExtraSizeLeft": 1,
+      "Prefab": {
+        "path": "lower_qbz95_tac_camo.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_foregrip",
+          "_id": "6e3c3fb193c802cd37411175",
+          "_parent": "6aa973cef02ebc121ed8f639",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "57cffb66245977632f391a99",
+                  "57cffcd624597763133760c5",
+                  "57cffcdd24597763f5110006",
+                  "57cffce524597763b31685d8",
+                  "5b7be4895acfc400170e2dd5",
+                  "651a8bf3a8520e48047bf708",
+                  "651a8e529829226ceb67c319",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a",
+                  "68c48eb7c91390fb930e8d94",
+                  "68c48eb7c91390fb930e8d95",
+                  "69127fcffb534981300b1d7d",
+                  "69127fcffb534981300b1d7f",
+                  "69127fcffb534981300b1d81",
+                  "6913ab40fb5aa3b32501fa63",
+                  "6913ab40fb5aa3b32501fa65",
+                  "6913ab40fb5aa3b32501fa67",
+                  "69075ee9f4b1abd5ba0a1bb3",
+                  "6893d1e2483f058199f2e199",
+                  "6893d31fca58c9d45599e903",
+                  "6893d333cb3f8611941742d3",
+                  "6893d360fa62405a6249629b",
+                  "6893d3810e4a42c4c08b3eb4",
+                  "6893d391a029e7f8210fa511",
+                  "bd4abaa7ccaeafc1272e4332",
+                  "efbe0387de423cdd96f5a190",
+                  "18461a852694f529a8324cb4",
+                  "bfc0eea60d043a3314535292",
+                  "7ee5ac6f98cee552a8d13fbe",
+                  "6aeadd9b31bcbe00e38efc85",
+                  "9df9bd6495854fb4f6b61c5f",
+                  "429d8624f40c1f9a629be627",
+                  "7a023d306720b131a8822963",
+                  "5a336645fecfee82efbcd5f1",
+                  "6e71eb6c5a62cdc0ca07a1d8",
+                  "5ca97a41e6de0c431b977aad",
+                  "696fc803cf7469bf38051731",
+                  "696fe281cf7469bf3805173c"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "6d3c3e1e31ff7c7ebc4e73b5",
+          "_parent": "6aa973cef02ebc121ed8f639",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "669a6a4a525be1d2d004b8eb",
+                  "69075ee9f4b1abd5ba0a1bb2",
+                  "67f1a2000000000000000103",
+                  "689c8b454b91399db3085f2a"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "6c3c3c8bd036f62f2d264cf5",
+          "_parent": "6aa973cef02ebc121ed8f639",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "669a6a4a525be1d2d004b8eb",
+                  "69075ee9f4b1abd5ba0a1bb2",
+                  "67f1a2000000000000000103",
+                  "689c8b454b91399db3085f2a"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_001",
+          "_id": "6b3c3af86e6e6fe0b233af35",
+          "_parent": "6aa973cef02ebc121ed8f639",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065",
+                  "d62cced77df83a0683e38fbc",
+                  "d4f59f06b5099086743e3b62",
+                  "8fb322f5202cf87746ec83b4",
+                  "bb4bb5d7e4f3ad7a1f19571e",
+                  "e727709694036c1f49f234e6",
+                  "0257250579c25ee07a7fd721",
+                  "e99dbf09963efebab19a118b",
+                  "0ce051265bcb619558b2ef9a",
+                  "77f31a56076dc8e398797a7c",
+                  "c0e0bac29a8c50eff201f00e",
+                  "51ef8504f4a2e4d2029ff682",
+                  "1de63dfb52c91ccb9dd2c83a",
+                  "253279f21f3222961c5dfa8d",
+                  "c569fa63e462980552ecdc77",
+                  "a681a1c93529b1fb2118488a",
+                  "673dee1aa998f18003f111f5",
+                  "68d7db2929420f94ff04cb16",
+                  "68d7db2929420f94ff04cb15",
+                  "6989305de267989d260aeef0",
+                  "6989305de267989d260aeef2",
+                  "6989c980c4751ad87805e091",
+                  "698a751e1bb1f79e210fe920",
+                  "698a7eaa1bb1f79e210fe928",
+                  "b1c1a92264b2e9c5dc64506e",
+                  "694f146cd178947eaf000001",
+                  "6925b6a0cb2dcc1e9f6081fd",
+                  "687fb046277685d469cbe15e",
+                  "687fb0bc8c147c752b1e8329",
+                  "6a186ccfbe0d66d438005e4e",
+                  "68bedc0365e7dcf94f0cb0fc"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    }
+  },
+  "6aa94eb4d2ba0ce4dccf6f02": {
+
+    "itemTplToClone": "5c9a07572e221644f31c4b32",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "locales": {
+      "en": {
+        "name": "T97.ca Type 97 Lower Handguard",
+        "shortName": "T97.ca LHG",
+        "description": "\n     The T97.ca Lower Hand Guard (LHG) is a 6061-T6 aluminum component replacement for the T97NSR bullpup rifle's plastic lower (compatible with GEN I, II and III T97NSRs). It was designed by the product developers at M14.ca, a retired Canadian Forces military officer, former gunsmith, and two expert CNC machinists. The LHG is a complex group of components designed to enhance the non-restricted T97NSR bullpup rifle and eliminate multiple shortcomings inherent to the original design.\n\n     The LHG is CNC machined from a solid block of aluminum and it offers the end user a light weight, tight fitting lower housing with skeletonized fore end and improved trigger area contours for enhanced ergonomics. It features new trigger group components that deliver a 50% reduction in trigger travel and a pull weight of approx. 4lbs. for smooth, fast and more precise followup shots. It ships with a new aluminum \"T-cut\" lightened trigger and an ambidextrous trigger blocking device similar to the AR15 safety (marked accordingly and useable by the support hand thumb). It adds an interchangeable/removable \"Standard Trigger Guard\" or \"STG\" and AR15 pistol grip compatiblity (pistol grip not included). Finally, it ships with an improved magazine release button. "
+      }
+    },
+    "fleaPriceRoubles": 56000,
+    "handbookPriceRoubles": 19200,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": false,
+    "addtoHallOfFame": false,
+    "addtoItemBlacklist": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "addtoTraders": false,
+    "overrideProperties": {
+      "Weight": 0.459,
+      "CoolFactor": 1.03,
+      "HeatFactor": 0.986,
+      "Ergonomics": 12,
+      "Prefab": {
+        "path": "lower_t97_ca.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_pistol_grip",
+          "_id": "a996ad0e75f64f54a7448985",
+          "_parent": "6aa94eb4d2ba0ce4dccf6f02",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5c0e2ff6d174af02a1659d4a",
+                  "5a33e75ac4a2826c6e06d759",
+                  "55d4b9964bdc2d1d4e8b456e",
+                  "571659bb2459771fb2755a12",
+                  "602e71bd53a60014f9705bfa",
+                  "6113c3586c780c1e710c90bc",
+                  "6113cc78d3a39d50044c065a",
+                  "6113cce3d92c473c770200c7",
+                  "5cc9bcaed7f00c011c04e179",
+                  "5bb20e18d4351e00320205d5",
+                  "5bb20e0ed4351e3bac1212dc",
+                  "6193dcd0f8ee7e52e4210a28",
+                  "5d025cc1d7ad1a53845279ef",
+                  "5c6d7b3d2e221600114c9b7d",
+                  "57c55efc2459772d2c6271e7",
+                  "57af48872459771f0b2ebf11",
+                  "57c55f092459772d291a8463",
+                  "57c55f112459772d28133310",
+                  "57c55f172459772d27602381",
+                  "5a339805c4a2826c6e06d73d",
+                  "55802f5d4bdc2dac148b458f",
+                  "5d15cf3bd7ad1a67e71518b2",
+                  "59db3a1d86f77429e05b4e92",
+                  "5fbcbd6c187fea44d52eda14",
+                  "59db3acc86f7742a2c4ab912",
+                  "59db3b0886f77429d72fb895",
+                  "615d8faecabb9b7ad90f4d5d",
+                  "5b07db875acfc40dc528a5f6",
+                  "63f5feead259b42f0b4d6d0f",
+                  "652911675ae2ae97b80fdf3c",
+                  "69e240e5d1701dbc14ff185d",
+                  "6928d412401cd7f6a6ed2d0c",
+                  "6952bed3065baefc31060c5b",
+                  "6952f4c9065baefc31060c83",
+                  "6952f764065baefc31060c8f",
+                  "68c5613ff19e7d06d6029a41",
+                  "68c5613ff19e7d06d6029a42",
+                  "68c5613ff19e7d06d6029a43",
+                  "68c5613ff19e7d06d6029a44",
+                  "68c5613ff19e7d06d6029a45",
+                  "68c5613ff19e7d06d6029a46",
+                  "68c5613ff19e7d06d6029a47",
+                  "68c57d3bf19e7d06d6029a48",
+                  "68c58ca0bab700bb310485c0",
+                  "68c58ca0bab700bb310485c1",
+                  "6a130f5585361c813922b58a",
+                  "695d3348cfc7cb0dce06be01",
+                  "3b690b1d6ab6940d0e231895",
+                  "e81ca38571e29b3f1f98ebb9",
+                  "5b99a88f9f815fdacb53e988",
+                  "4de0d40a43a9c998bf67b5ba",
+                  "2d155520c360cd846fdde152",
+                  "602d21ba485acbec2665bb9f",
+                  "56d6c24af06f25113f43a435",
+                  "b153f5e0bc943eeb4acd66f9",
+                  "434af4aec8fa2e4790f0f45b",
+                  "46a173acb55a8e6eb3599227",
+                  "eba1117597f0ae1297470872",
+                  "5876ae6ee0d1feabe0da00d1",
+                  "aae72b942199c6bbc2b17ffe",
+                  "68ba43080599dad8b1000001",
+                  "68ba455b662d67cc18000001",
+                  "6a2ddd631e7427aae2000001",
+                  "6a2ddd631e7427aae2000003",
+                  "695b202bcf7ba69ed46887b8",
+                  "695b224c474010bd136887ba",
+                  "687a105600afa7b3f5ed2808",
+                  "687a0bb2e07f1f44f2bdbd76",
+                  "687a0d1ebac013983d36b8a0",
+                  "687a0da9424d2f739168a049",
+                  "687a0e4ce7b3fde175e51b83",
+                  "687a0e88dbda3d3865f5ed12",
+                  "687a0ec7bd9afa55c3497f6f",
+                  "687a0f1220f27767f0a693d4",
+                  "695fa382efa7c99a961f9f37",
+                  "713b7142503dc1e87edc27b9",
+                  "30cc56c604e122ab928d3aa0",
+                  "72039cf8b45b5be67a1867c8",
+                  "f686ba033105d8db3b9fccd5",
+                  "3a8e68e95ad79fd528a83304",
+                  "cc49d1d94013e757b854038d",
+                  "8fac94d2f58e7cf59341fa44",
+                  "afac1aca9b053a5ad91a2102",
+                  "6248fd78650a6bb564c5a4dc",
+                  "6a49911178ded31d0232d383",
+                  "6a49911b2b6058feb932d384",
+                  "6a4aa043613607d28f32d396",
+                  "66ba253030ea88abba95c7ed",
+                  "66ba25755bd539b9238365b0",
+                  "ebd108b0a8c45420f7624a3f",
+                  "68fd5abc5c7f36f8d8c208c3",
+                  "696e46a11a038d893a04a42d",
+                  "696fe221cf7469bf38051738",
+                  "6761b213607f9a6f79017d46",
+                  "676b5258816c8784c7495dc5",
+                  "676c3d67d69e478b3d69cd21",
+                  "6a3cea0d277d1c54b5008e27",
+                  "6a1577a0bf497aade1002754",
+                  "6a1577b09bbb889992032c14",
+                  "68a63d4f22b1e0bd360afe6a",
+                  "68c16fcffc90c174e50de1ae",
+                  "68caac14f42a4476cf0be2aa",
+                  "68c16fe183e2d814b0093f7c",
+                  "6984b7d56be2752c150e6895",
+                  "698dac21772d6f3dc00e4284",
+                  "6985eb089edef67ade080b72"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    }
+  },
+  "6aa94eb45f7ceb3b9aef1387": {
+
+    "itemTplToClone": "5c9a07572e221644f31c4b32",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "locales": {
+      "en": {
+        "name": "Norinco Type 97 Gen 3 Lower Handguard/Grip",
+        "shortName": "T97 G3",
+        "description": "The Gen 3 lower handguard introduced a thumb select-able safety as well as a 6 o'clock M-LOK slot for foregrips"
+      }
+    },
+    "fleaPriceRoubles": 35000,
+    "handbookPriceRoubles": 12500,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": false,
+    "addtoHallOfFame": false,
+    "addtoItemBlacklist": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "addtoTraders": false,
+    "overrideProperties": {
+      "Weight": 0.335,
+      "CoolFactor": 1.03,
+      "HeatFactor": 0.986,
+      "Ergonomics": 6,
+      "Prefab": {
+        "path": "lower_t97_gen3.bundle",
+        "rcid": ""
+      }
+    }
+  },
+  "6aa94e91fe7f6e1b02044a94": {
+
+    "itemTplToClone": "56eabcd4d2720b66698b4574",
+    "parentId": "56ea9461d2720b67698b456f",
+    "handbookParentId": "5b5f760586f774093e6cb509",
+    "locales": {
+      "en": {
+        "name": "Norinco Type 97 Gen 3 Gas Block",
+        "shortName": "T97 G3",
+        "description": "This gas block is identical to previous gas blocks but with the addition (removal) of no front sight post"
+      }
+    },
+    "fleaPriceRoubles": 12000,
+    "handbookPriceRoubles": 4756,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": false,
+    "addtoHallOfFame": false,
+    "addtoItemBlacklist": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "addtoTraders": false,
+    "overrideProperties": {
+      "Weight": 0.08,
+      "Ergonomics": 0,
+      "Prefab": {
+        "path": "gasblock_t97_chop.bundle",
+        "rcid": ""
+      }
+    }
+  },
+  "6aa94e91444ac822d132c938": {
+
+    "itemTplToClone": "5ae30e795acfc408fb139a0b",
+    "parentId": "56ea9461d2720b67698b456f",
+    "handbookParentId": "5b5f760586f774093e6cb509",
+    "locales": {
+      "en": {
+        "name": "Norinco QBZ-95-1 Gas Block",
+        "shortName": " QBZ-95-1",
+        "description": "The  QBZ-95-1 gas block, with fixed front sight, modified to fit the Type 97 Gen 3"
+      }
+    },
+    "fleaPriceRoubles": 7940,
+    "handbookPriceRoubles": 2570,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoSecureFilters": false,
+    "addtoHallOfFame": false,
+    "addtoItemBlacklist": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "addtoTraders": false,
+    "overrideProperties": {
+      "Weight": 0.145,
+      "Ergonomics": 0,
+      "Prefab": {
+        "path": "gasblock_t97_fixed.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_align_front",
+          "_id": "9dde98af3ad0aa7b886cf705",
+          "_parent": "6aa94e91444ac822d132c938",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": []
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    }
+  },
+  "6aa9ce63bb414f28e50af589": {
+    "itemTplToClone": "618167441cb55961fa0fdc71",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": { "path": "cheek_qbz95_tac.bundle", "rcid": "" },
+      "Width": 2, "Height": 1, "Weight": 0.15,
+      "Ergonomics": 9, "Recoil": -10,
+      "MergesWithChildren":true,
+      "Grids": [], "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "Far East Tactical QBZ-95-1 Cheek Riser",
+        "shortName": "QBZ-95-1",
+        "description": "Come, weary traveler, and rest your little head" }
+    },
+    "fleaPriceRoubles": 10000,
+    "handbookPriceRoubles": 11000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+
+    "staticLootContainers": [
+
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": false,
+
+    "traders": {
+
+    }
+  },
+  "6aa9ce51b6440969b80af588": {
+    "itemTplToClone": "618167441cb55961fa0fdc71",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "Prefab": { "path": "cheek_qbz95_tac_camo.bundle", "rcid": "" },
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.15,
+      "Ergonomics": 9, 
+      "Recoil": -10,
+      "ExaminedByDefault": false,
+      "CanRequireOnRagfair":false,
+      "CanSellOnRagfair": false,
+      "MergesWithChildren":true,
+      "Grids": [], "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "Far East Tactical QBZ-95-1 Cheek Riser (PLA Camo)",
+        "shortName": "QBZ-95-1",
+        "description": "Come, weary traveler, and rest your little head" }
+    },
+    "fleaPriceRoubles": 10000,
+    "handbookPriceRoubles": 11000,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+
+    "staticLootContainers": [
+
+    ],
+    "addtoSecureFilters": true,
+    "addtoTraders": false,
+
+    "traders": {
+
+    }
+  }
+}

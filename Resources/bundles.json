@@ -49,6 +49,12 @@
       ]
     },
     {
+      "key": "textures/t97_textures.bundle",
+      "dependencyKeys": [
+        "c11_shaders.bundle"
+      ]
+    },
+    {
       "key": "textures/sups-textures.bundle",
       "dependencyKeys": [
         "c11_shaders.bundle"
@@ -126,7 +132,7 @@
         "c11_shaders.bundle"
       ]
     },
-    
+
     {
       "key": "textures/knive_tex.bundle",
       "dependencyKeys": [
@@ -177,7 +183,7 @@
         "c11_shaders.bundle"
       ]
     },
-    
+
     {
       "key": "textures/t81parts1tex.bundle",
       "dependencyKeys": [
@@ -196,7 +202,7 @@
         "c11_shaders.bundle"
       ]
     },
-   
+
     {
       "key": "textures/ar18magstex.bundle",
       "dependencyKeys": [
@@ -283,7 +289,7 @@
         "c11_shaders.bundle"
       ]
     },
-   
+
     {
       "key": "ruger2245.bundle",
       "dependencyKeys": [
@@ -325,7 +331,7 @@
         "c11_shaders.bundle"
       ]
     },
-   
+
     {
       "key": "177magfixed.bundle",
       "dependencyKeys": [
@@ -630,7 +636,7 @@
       ]
     },
 
-    
+
 
     {
       "key": "ace32.bundle",
@@ -854,8 +860,8 @@
         "c11_shaders.bundle"
       ]
     },
-    
-    
+
+
     {
       "key": "amp-headset-fg.bundle",
       "dependencyKeys": [
@@ -1669,7 +1675,7 @@
       "dependencyKeys": [
         "c11_shaders.bundle",
         "textures/t81lmgwoodtex.bundle"
-      
+
       ]
     },
     {
@@ -2070,7 +2076,7 @@
         "c11_shaders.bundle"
       ]
     },
- 
+
     {
       "key": "shorthandguardlower.bundle",
       "dependencyKeys": [
@@ -2495,7 +2501,7 @@
         "textures/mcmillan_textures.bundle"
       ]
     },
-  
+
     {
       "key": "karambit.bundle",
       "dependencyKeys": [
@@ -2578,7 +2584,7 @@
         "textures/bt-usw-textures.bundle"
       ]
     },
-    
+
     {
       "key": "usw-barrel.bundle",
       "dependencyKeys": [
@@ -2588,7 +2594,7 @@
         "textures/bt-usw-textures.bundle"
       ]
     },
-    
+
     {
       "key": "usw-mag.bundle",
       "dependencyKeys": [
@@ -2596,7 +2602,7 @@
         "textures/bt-usw-textures.bundle"
       ]
     },
-    
+
     {
       "key": "usw-rds.bundle",
       "dependencyKeys": [
@@ -2604,7 +2610,7 @@
         "textures/bt-usw-textures.bundle"
       ]
     },
-    
+
     {
       "key": "usw-sightmount.bundle",
       "dependencyKeys": [
@@ -2612,7 +2618,7 @@
         "textures/bt-usw-textures.bundle"
       ]
     },
-    
+
     {
       "key": "usw-slide.bundle",
       "dependencyKeys": [
@@ -2813,7 +2819,7 @@
         "textures/cr920p-textures.bundle"
       ]
     },
- 
+
     {
       "key": "cr920p-mag.bundle",
       "dependencyKeys": [
@@ -2839,7 +2845,7 @@
         "textures/cr920p-textures.bundle"
       ]
     },
-    
+
     {
       "key": "cr920p-slide.bundle",
       "dependencyKeys": [
@@ -2859,7 +2865,7 @@
         "textures/cr920p-textures.bundle"
       ]
     },
-    
+
     {
       "key": "streamlight-tlr7.bundle",
       "dependencyKeys": [
@@ -2929,7 +2935,7 @@
         "c11_shaders.bundle"
       ]
     },
-    
+
     {
       "key": "ar7_mid_barrel.bundle",
       "dependencyKeys": [
@@ -2939,7 +2945,7 @@
         "c11_shaders.bundle"
       ]
     },
-    
+
     {
       "key": "ar7_short_barrel.bundle",
       "dependencyKeys": [
@@ -2976,7 +2982,7 @@
 
       ]
     },
-    
+
     {
       "key": "ppbizon_flash.bundle",
       "dependencyKeys": [
@@ -2987,7 +2993,7 @@
 
       ]
     },
-    
+
     {
       "key": "ppbizon_forend.bundle",
       "dependencyKeys": [
@@ -2996,7 +3002,7 @@
 
       ]
     },
-   
+
     {
       "key": "ppbizon_mag.bundle",
       "dependencyKeys": [
@@ -3005,7 +3011,7 @@
 
       ]
     },
-    
+
     {
       "key": "ppbizon_mount.bundle",
       "dependencyKeys": [
@@ -3014,7 +3020,7 @@
 
       ]
     },
-    
+
     {
       "key": "ppbizon_weapon.bundle",
       "dependencyKeys": [
@@ -3134,8 +3140,160 @@
         "textures/sups-textures.bundle",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
+    },
+
+    {
+      "key": "barrel_t97_18.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/systems/effects/smoke.bundle",
+        "c11_shaders.bundle",
+        "shaders",
+        "textures/t97_textures.bundle"
+      ]
+    },
+    {
+      "key": "barrel_t97_carbine.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/systems/effects/smoke.bundle",
+        "c11_shaders.bundle",
+        "shaders",
+        "textures/t97_textures.bundle"
+      ]
+    },
+    {
+      "key": "cheek_qbz95_tac.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "c11_shaders.bundle",
+        "textures/t97_textures.bundle"
+      ]
+    },
+    {
+      "key": "cheek_qbz95_tac_camo.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "c11_shaders.bundle",
+        "textures/t97_textures.bundle"
+      ]
+    },
+    {
+      "key": "gasblock_t97_chop.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "c11_shaders.bundle",
+        "textures/t97_textures.bundle"
+      ]
+    },
+    {
+      "key": "gasblock_t97_fixed.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "c11_shaders.bundle",
+        "textures/t97_textures.bundle"
+      ]
+    },
+    {
+      "key": "lower_qbz95.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "c11_shaders.bundle",
+        "textures/t97_textures.bundle"
+      ]
+    },
+    {
+      "key": "lower_qbz95_tac.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "c11_shaders.bundle",
+        "textures/t97_textures.bundle"
+      ]
+    },
+    {
+      "key": "lower_qbz95_tac_camo.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "c11_shaders.bundle",
+        "textures/t97_textures.bundle"
+      ]
+    },
+    {
+      "key": "lower_t97_ca.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "c11_shaders.bundle",
+        "textures/t97_textures.bundle"
+      ]
+    },
+    {
+      "key": "lower_t97_gen3.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "c11_shaders.bundle",
+        "textures/t97_textures.bundle"
+      ]
+    },
+    {
+      "key": "mount_t97_ca.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "c11_shaders.bundle",
+        "textures/t97_textures.bundle"
+      ]
+    },
+    {
+      "key": "upper_qbz95.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "c11_shaders.bundle",
+        "textures/t97_textures.bundle"
+      ]
+    },
+    {
+      "key": "upper_qbz95_tac.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "c11_shaders.bundle",
+        "textures/t97_textures.bundle"
+      ]
+    },
+    {
+      "key": "upper_qbz95_tac_camo.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "c11_shaders.bundle",
+        "textures/t97_textures.bundle"
+      ]
+    },
+    {
+      "key": "upper_t97_ca.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "c11_shaders.bundle",
+        "textures/t97_textures.bundle"
+      ]
+    },
+    {
+      "key": "upper_t97_gen3.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "c11_shaders.bundle",
+        "textures/t97_textures.bundle"
+      ]
+    },
+    {
+      "key": "weapon_t97_gen3.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/systems/effects/smoke.bundle",
+        "c11_shaders.bundle",
+        "shaders",
+        "textures/t97_textures.bundle"
+      ]
     }
-    
-    
   ]
 }

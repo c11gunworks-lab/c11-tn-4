@@ -1,5 +1,4 @@
 ﻿{
- 
   "69a9e29372c1dad0b5eee878": {
     "itemTplToClone": "655c652d60d0ac437100fed7",
     "parentId": "57864a3d24597754843f8721",
@@ -14,7 +13,6 @@
       "Width": 2,
       "Height": 1,
       "Weight": 0.2,
-
       "Grids": [],
       "Slots": []
     },
@@ -25,51 +23,48 @@
         "description": "avro"
       }
     },
-    "fleaPriceRoubles": 10000,
-    "handbookPriceRoubles": 11000,
+    "fleaPriceRoubles": 99000,
+    "handbookPriceRoubles": 90000,
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
-
     "addtoStaticLootContainers": true,
-            "staticLootContainers": [
-            {
-                "containerName": "LOOTCONTAINER_DEAD_SCAV",
-                "probability": 48
-            },
-            {
-                "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
-                "probability": 48
-            },
-            {
-                "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
-                "probability": 68
-            },
-            {
-                "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
-                "probability": 30
-            },
-            {
-                "containerName": "LOOTCONTAINER_DUFFLE_BAG",
-                "probability": 42
-            },
-            {
-                "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
-                "probability": 49
-            },
-            {
-                "containerName": "LOOTCONTAINER_GROUND_CACHE",
-                "probability": 38
-            },
-            {
-                "containerName": "LOOTCONTAINER_SAFE",
-                "probability": 30
-            }
-        ],
-    "addtoSecureFilters": false, 
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 48
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
+        "probability": 48
+      },
+      {
+        "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
+        "probability": 68
+      },
+      {
+        "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+        "probability": 30
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 42
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+        "probability": 49
+      },
+      {
+        "containerName": "LOOTCONTAINER_GROUND_CACHE",
+        "probability": 38
+      },
+      {
+        "containerName": "LOOTCONTAINER_SAFE",
+        "probability": 30
+      }
+    ],
+    "addtoSecureFilters": false,
     "addtoHallOfFame": true,
-
-    
     "hallOfFameSlots": [
       "bigTrophies"
     ],
@@ -84,7 +79,7 @@
           },
           "barters": [
             {
-              "count": 3200,
+              "count": 90000,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -106,7 +101,6 @@
       "Width": 1,
       "Height": 1,
       "Weight": 0.01,
-
       "Grids": [],
       "Slots": []
     },
@@ -117,53 +111,50 @@
         "description": "bill"
       }
     },
-    "fleaPriceRoubles": 10000,
-    "handbookPriceRoubles": 11000,
+    "fleaPriceRoubles": 2200,
+    "handbookPriceRoubles": 1900,
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
-
     "addtoStaticLootContainers": true,
-            "staticLootContainers": [
-            {
-                "containerName": "LOOTCONTAINER_DEAD_SCAV",
-                "probability": 48
-            },
-            {
-                "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
-                "probability": 48
-            },
-            {
-                "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
-                "probability": 68
-            },
-            {
-                "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
-                "probability": 30
-            },
-            {
-                "containerName": "LOOTCONTAINER_DUFFLE_BAG",
-                "probability": 42
-            },
-            {
-                "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
-                "probability": 49
-            },
-            {
-                "containerName": "LOOTCONTAINER_GROUND_CACHE",
-                "probability": 38
-            },
-            {
-                "containerName": "LOOTCONTAINER_SAFE",
-                "probability": 30
-            }
-        ],
-    "addtoSecureFilters": false, 
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 48
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
+        "probability": 48
+      },
+      {
+        "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
+        "probability": 68
+      },
+      {
+        "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+        "probability": 30
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 42
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+        "probability": 49
+      },
+      {
+        "containerName": "LOOTCONTAINER_GROUND_CACHE",
+        "probability": 38
+      },
+      {
+        "containerName": "LOOTCONTAINER_SAFE",
+        "probability": 30
+      }
+    ],
+    "addtoSecureFilters": false,
     "addtoHallOfFame": true,
-
-    
     "hallOfFameSlots": [
-"smallTrophies"
+      "smallTrophies"
     ],
     "addtoTraders": false,
     "traders": {
@@ -176,7 +167,7 @@
           },
           "barters": [
             {
-              "count": 3200,
+              "count": 1900,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -198,7 +189,6 @@
       "Width": 2,
       "Height": 1,
       "Weight": 0.35,
-
       "Grids": [],
       "Slots": []
     },
@@ -209,51 +199,48 @@
         "description": "bison"
       }
     },
-    "fleaPriceRoubles": 10000,
-    "handbookPriceRoubles": 11000,
+    "fleaPriceRoubles": 49500,
+    "handbookPriceRoubles": 45000,
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
-
     "addtoStaticLootContainers": true,
-            "staticLootContainers": [
-            {
-                "containerName": "LOOTCONTAINER_DEAD_SCAV",
-                "probability": 48
-            },
-            {
-                "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
-                "probability": 48
-            },
-            {
-                "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
-                "probability": 68
-            },
-            {
-                "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
-                "probability": 30
-            },
-            {
-                "containerName": "LOOTCONTAINER_DUFFLE_BAG",
-                "probability": 42
-            },
-            {
-                "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
-                "probability": 49
-            },
-            {
-                "containerName": "LOOTCONTAINER_GROUND_CACHE",
-                "probability": 38
-            },
-            {
-                "containerName": "LOOTCONTAINER_SAFE",
-                "probability": 30
-            }
-        ],
-    "addtoSecureFilters": false, 
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 48
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
+        "probability": 48
+      },
+      {
+        "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
+        "probability": 68
+      },
+      {
+        "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+        "probability": 30
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 42
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+        "probability": 49
+      },
+      {
+        "containerName": "LOOTCONTAINER_GROUND_CACHE",
+        "probability": 38
+      },
+      {
+        "containerName": "LOOTCONTAINER_SAFE",
+        "probability": 30
+      }
+    ],
+    "addtoSecureFilters": false,
     "addtoHallOfFame": true,
-
-    
     "hallOfFameSlots": [
       "bigTrophies"
     ],
@@ -268,7 +255,7 @@
           },
           "barters": [
             {
-              "count": 3200,
+              "count": 45000,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -290,7 +277,6 @@
       "Width": 2,
       "Height": 1,
       "Weight": 0.35,
-
       "Grids": [],
       "Slots": []
     },
@@ -301,51 +287,48 @@
         "description": "cobrachicken"
       }
     },
-    "fleaPriceRoubles": 10000,
-    "handbookPriceRoubles": 11000,
+    "fleaPriceRoubles": 38500,
+    "handbookPriceRoubles": 35000,
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
-
     "addtoStaticLootContainers": true,
-            "staticLootContainers": [
-            {
-                "containerName": "LOOTCONTAINER_DEAD_SCAV",
-                "probability": 48
-            },
-            {
-                "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
-                "probability": 48
-            },
-            {
-                "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
-                "probability": 68
-            },
-            {
-                "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
-                "probability": 30
-            },
-            {
-                "containerName": "LOOTCONTAINER_DUFFLE_BAG",
-                "probability": 42
-            },
-            {
-                "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
-                "probability": 49
-            },
-            {
-                "containerName": "LOOTCONTAINER_GROUND_CACHE",
-                "probability": 38
-            },
-            {
-                "containerName": "LOOTCONTAINER_SAFE",
-                "probability": 30
-            }
-        ],
-    "addtoSecureFilters": false, 
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 48
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
+        "probability": 48
+      },
+      {
+        "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
+        "probability": 68
+      },
+      {
+        "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+        "probability": 30
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 42
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+        "probability": 49
+      },
+      {
+        "containerName": "LOOTCONTAINER_GROUND_CACHE",
+        "probability": 38
+      },
+      {
+        "containerName": "LOOTCONTAINER_SAFE",
+        "probability": 30
+      }
+    ],
+    "addtoSecureFilters": false,
     "addtoHallOfFame": true,
-
-    
     "hallOfFameSlots": [
       "bigTrophies"
     ],
@@ -360,7 +343,7 @@
           },
           "barters": [
             {
-              "count": 3200,
+              "count": 35000,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -382,7 +365,6 @@
       "Width": 1,
       "Height": 2,
       "Weight": 0.35,
-
       "Grids": [],
       "Slots": []
     },
@@ -393,51 +375,48 @@
         "description": "greatone"
       }
     },
-    "fleaPriceRoubles": 10000,
-    "handbookPriceRoubles": 11000,
+    "fleaPriceRoubles": 154000,
+    "handbookPriceRoubles": 140000,
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
-
     "addtoStaticLootContainers": true,
-            "staticLootContainers": [
-            {
-                "containerName": "LOOTCONTAINER_DEAD_SCAV",
-                "probability": 48
-            },
-            {
-                "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
-                "probability": 48
-            },
-            {
-                "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
-                "probability": 68
-            },
-            {
-                "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
-                "probability": 30
-            },
-            {
-                "containerName": "LOOTCONTAINER_DUFFLE_BAG",
-                "probability": 42
-            },
-            {
-                "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
-                "probability": 49
-            },
-            {
-                "containerName": "LOOTCONTAINER_GROUND_CACHE",
-                "probability": 38
-            },
-            {
-                "containerName": "LOOTCONTAINER_SAFE",
-                "probability": 30
-            }
-        ],
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 48
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
+        "probability": 48
+      },
+      {
+        "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
+        "probability": 68
+      },
+      {
+        "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+        "probability": 30
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 42
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+        "probability": 49
+      },
+      {
+        "containerName": "LOOTCONTAINER_GROUND_CACHE",
+        "probability": 38
+      },
+      {
+        "containerName": "LOOTCONTAINER_SAFE",
+        "probability": 30
+      }
+    ],
     "addtoSecureFilters": false,
     "addtoHallOfFame": true,
-
-    
     "hallOfFameSlots": [
       "bigTrophies"
     ],
@@ -452,7 +431,7 @@
           },
           "barters": [
             {
-              "count": 3200,
+              "count": 140000,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -474,7 +453,6 @@
       "Width": 2,
       "Height": 1,
       "Weight": 0.25,
-
       "Grids": [],
       "Slots": []
     },
@@ -485,51 +463,48 @@
         "description": "rcmpcar"
       }
     },
-    "fleaPriceRoubles": 10000,
-    "handbookPriceRoubles": 11000,
+    "fleaPriceRoubles": 60500,
+    "handbookPriceRoubles": 55000,
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
-
     "addtoStaticLootContainers": true,
-            "staticLootContainers": [
-            {
-                "containerName": "LOOTCONTAINER_DEAD_SCAV",
-                "probability": 48
-            },
-            {
-                "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
-                "probability": 48
-            },
-            {
-                "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
-                "probability": 68
-            },
-            {
-                "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
-                "probability": 30
-            },
-            {
-                "containerName": "LOOTCONTAINER_DUFFLE_BAG",
-                "probability": 42
-            },
-            {
-                "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
-                "probability": 49
-            },
-            {
-                "containerName": "LOOTCONTAINER_GROUND_CACHE",
-                "probability": 38
-            },
-            {
-                "containerName": "LOOTCONTAINER_SAFE",
-                "probability": 30
-            }
-        ],
-    "addtoSecureFilters": false, 
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 48
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
+        "probability": 48
+      },
+      {
+        "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
+        "probability": 68
+      },
+      {
+        "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+        "probability": 30
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 42
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+        "probability": 49
+      },
+      {
+        "containerName": "LOOTCONTAINER_GROUND_CACHE",
+        "probability": 38
+      },
+      {
+        "containerName": "LOOTCONTAINER_SAFE",
+        "probability": 30
+      }
+    ],
+    "addtoSecureFilters": false,
     "addtoHallOfFame": true,
-
-    
     "hallOfFameSlots": [
       "bigTrophies"
     ],
@@ -544,7 +519,7 @@
           },
           "barters": [
             {
-              "count": 3200,
+              "count": 55000,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -566,62 +541,58 @@
       "Width": 2,
       "Height": 1,
       "Weight": 0.25,
-
       "Grids": [],
       "Slots": []
     },
     "locales": {
       "en": {
-        "Name": "hockeyskate",
         "shortName": "hockeyskate",
-        "Description": "hockeyskate"
+        "name": "hockeyskate",
+        "description": "hockeyskate"
       }
     },
-    "fleaPriceRoubles": 10000,
-    "handbookPriceRoubles": 11000,
+    "fleaPriceRoubles": 30800,
+    "handbookPriceRoubles": 28000,
     "addtoBots": true,
     "addtoSpecialSlots": false,
     "addtoModSlots": false,
-
     "addtoStaticLootContainers": true,
-            "staticLootContainers": [
-            {
-                "containerName": "LOOTCONTAINER_DEAD_SCAV",
-                "probability": 48
-            },
-            {
-                "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
-                "probability": 48
-            },
-            {
-                "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
-                "probability": 68
-            },
-            {
-                "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
-                "probability": 30
-            },
-            {
-                "containerName": "LOOTCONTAINER_DUFFLE_BAG",
-                "probability": 42
-            },
-            {
-                "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
-                "probability": 49
-            },
-            {
-                "containerName": "LOOTCONTAINER_GROUND_CACHE",
-                "probability": 38
-            },
-            {
-                "containerName": "LOOTCONTAINER_SAFE",
-                "probability": 30
-            }
-        ],
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 48
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
+        "probability": 48
+      },
+      {
+        "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
+        "probability": 68
+      },
+      {
+        "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+        "probability": 30
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 42
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+        "probability": 49
+      },
+      {
+        "containerName": "LOOTCONTAINER_GROUND_CACHE",
+        "probability": 38
+      },
+      {
+        "containerName": "LOOTCONTAINER_SAFE",
+        "probability": 30
+      }
+    ],
     "addtoSecureFilters": false,
     "addtoHallOfFame": true,
-
-    
     "hallOfFameSlots": [
       "bigTrophies"
     ],
@@ -636,7 +607,7 @@
           },
           "barters": [
             {
-              "count": 3200,
+              "count": 28000,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -644,97 +615,92 @@
       }
     }
   },
-  
   "69b31cd348ff54eac228ae49": {
-  "itemTplToClone": "655c652d60d0ac437100fed7",
-  "parentId": "57864a3d24597754843f8721",
-  "handbookParentId": "5b47574386f77428ca22b2f1",
-  "overrideProperties": {
-    "ExaminedByDefault": true,
-    "Prefab": {
-      "path": "tims.bundle",
-      "rcid": ""
+    "itemTplToClone": "655c652d60d0ac437100fed7",
+    "parentId": "57864a3d24597754843f8721",
+    "handbookParentId": "5b47574386f77428ca22b2f1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "tims.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "violet",
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.05,
+      "Grids": [],
+      "Slots": []
     },
-    "BackgroundColor": "violet",
-    "Width": 2,
-    "Height": 1,
-    "Weight": 0.05,
-
-    "Grids": [],
-    "Slots": []
-  },
-  "locales": {
-    "en": {
-      "Name": "tims",
-      "ShortName": "tims",
-      "Description": "tims"
-    }
-  },
-  "fleaPriceRoubles": 10000,
-  "handbookPriceRoubles": 11000,
-  "addtoBots": true,
-  "addtoSpecialSlots": false,
-  "addtoModSlots": false,
-
-  "addtoStaticLootContainers": true,
-  "staticLootContainers": [
-    {
-      "containerName": "LOOTCONTAINER_DEAD_SCAV",
-      "probability": 48
+    "locales": {
+      "en": {
+        "name": "tims",
+        "shortName": "tims",
+        "description": "tims"
+      }
     },
-    {
-      "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
-      "probability": 48
-    },
-    {
-      "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
-      "probability": 68
-    },
-    {
-      "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
-      "probability": 30
-    },
-    {
-      "containerName": "LOOTCONTAINER_DUFFLE_BAG",
-      "probability": 42
-    },
-    {
-      "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
-      "probability": 49
-    },
-    {
-      "containerName": "LOOTCONTAINER_GROUND_CACHE",
-      "probability": 38
-    },
-    {
-      "containerName": "LOOTCONTAINER_SAFE",
-      "probability": 30
-    }
-  ],
-  "addtoSecureFilters": false,
-  "addtoHallOfFame": true,
-
-
-  "hallOfFameSlots": [
-    "bigTrophies"
-  ],
-  "addtoTraders": false,
-  "traders": {
-    "TRUDY": {
-      "69b31cb4a71eac199128ae48": {
-        "barterSettings": {
-          "loyalLevel": 1,
-          "unlimitedCount": true,
-          "stackObjectsCount": 99
-        },
-        "barters": [
-          {
-            "count": 3200,
-            "_tpl": "MONEY_ROUBLES"
-          }
-        ]
+    "fleaPriceRoubles": 9900,
+    "handbookPriceRoubles": 9000,
+    "addtoBots": true,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 48
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
+        "probability": 48
+      },
+      {
+        "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
+        "probability": 68
+      },
+      {
+        "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+        "probability": 30
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 42
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+        "probability": 49
+      },
+      {
+        "containerName": "LOOTCONTAINER_GROUND_CACHE",
+        "probability": 38
+      },
+      {
+        "containerName": "LOOTCONTAINER_SAFE",
+        "probability": 30
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
+    "addtoTraders": false,
+    "traders": {
+      "TRUDY": {
+        "69b31cb4a71eac199128ae48": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 9000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
       }
     }
   }
-}
 }
